@@ -78,3 +78,23 @@ Either:
 Or:
 ![screenshot](images/ghost-random-code-2.png)
 {: .hint-content .hint-3 }
+
++ Test our your ghost again, and you should notice that it appears in a different place each time.
+
+## Save your project
+
+[[[saving-scratch]]]
+
+## Challenge: More randomness
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` {.blocklooks} block to make your ghost a random size each time it appears?
+
+## Save your project
+
+[[[saving-scratch]]]
+
+# Step 3: Catching ghosts
+
+Lets allow the player to catch ghosts!
+
+## Activity Checklist
+
