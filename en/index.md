@@ -155,3 +155,24 @@ Here are the code blocks you will need to use: ...[todo]
 
 [[[saving-scratch]]]
 
+# Step 5: Adding a timer
+
+## Activity Checklist { .check }
+
++ Can make your game more interesting, by only giving your player 10 seconds to catch as many ghosts as possible.
+
+### Hint 1
+{: .hint-heading #hint-1 }
+__When the green flag is clicked__ a time __variable__[link??] should be set to 10. It should then decrease by 1 every second __until__ it reaches 0.
+{: .hint-content .hint-1 }
+
+### Hint 2
+{: .hint-heading #hint-2 }
+Here are the code blocks you will need to use: ...[todo]
+{: .hint-content .hint-2 }
+
+### Hint 3
+{: .hint-heading #hint-3 }
+[Is this where the link to the 'scratch-timer' mini-project goes? If so, will this be specific enough for this (and all other) tasks?]
+{: .hint-content .hint-3 }
+
