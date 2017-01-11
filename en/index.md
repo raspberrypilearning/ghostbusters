@@ -64,13 +64,17 @@ You want your ghost to __go to__ a random position on the stage before appearing
 ### Hint 2
 {: .hint-heading #hint-2 }
 You could use either of these code blocks:
+Either:
 ![screenshot](images/ghost-random-blocks-1.png)
+Or:
 ![screenshot](images/ghost-random-blocks-2.png)
 {: .hint-content .hint-2 }
 
 ### Hint 3
 {: .hint-heading #hint-3 }
 Here's how your code should look:
+Either:
 ![screenshot](images/ghost-random-code-1.png)
+Or:
 ![screenshot](images/ghost-random-code-2.png)
 {: .hint-content .hint-3 }
