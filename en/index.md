@@ -98,3 +98,60 @@ Lets allow the player to catch ghosts!
 
 ## Activity Checklist
 
++ Can you make your ghost disappear when it's been caught?
+
+### Hint 1
+{: .hint-heading #hint-1 }
+__When clicked__, your ghost sprite should hide.
+{: .hint-content .hint-1 }
+
+### Hint 2
+{: .hint-heading #hint-2 }
+Here are the code blocks you should use: ...[todo]
+{: .hint-content .hint-2 }
+
+### Hint 3
+{: .hint-heading #hint-3 }
+Here's how your code should look: ...[todo]
+{: .hint-content .hint-3 }
+
++ Test out your project. Can you catch ghosts as they appear? If you find it difficult to catch the ghosts, you can play the game in fullscreen mode by clicking this button:
+
+	![screenshot](images/ghost-fullscreen.png)
+
+## Challenge: Adding a sound
+Can you make a sound each time a ghost is caught?
+
+## Save your project
+
+[[[saving-scratch]]]
+
+# Step 4: Adding a score
+
+Let's make things more interesting by keeping score.
+
+## Activity Checklist
+
+[[[keeping-score]]]
+
++ Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.
+
+### Hint 1
+{: .hint-heading #hint-1 }
+__When the green flag is clicked__ a score __variable__[link??] should be set to 0. __When the ghost sprite is clicked__, the __score__ should be changed by 1.
+{: .hint-content .hint-1 }
+
+### Hint 2
+{: .hint-heading #hint-2 }
+Here are the code blocks you will need to use: ...[todo]
+{: .hint-content .hint-2 }
+
+### Hint 3
+{: .hint-heading #hint-3 }
+[Is this where the link to the 'keeping-score' mini-project goes? If so, will this be specific enough for this (and all other) tasks?]
+{: .hint-content .hint-3 }
+
+## Save your project
+
+[[[saving-scratch]]]
+
