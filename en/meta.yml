@@ -2,4 +2,8 @@ title: ghostbusters
 hero_image: images/banner.png
 subtitle: ghostbusters subtitle
 description: ghostbusters description
-published: 'true'
+published: false
+
+steps:
+  - title: Step one
+    duration: 25
