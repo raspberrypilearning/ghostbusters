@@ -5,5 +5,19 @@ description: ghostbusters description
 published: false
 
 steps:
-  - title: Step one
+  - title: Introduction
+    duration: 10
+  - title: Animating a ghost
+    duration: 25
+  - title: Introduction
+    duration: 10
+  - title: Random ghosts
+    duration: 25
+  - title: Catching ghosts
+    duration: 10
+  - title: Adding a score
+    duration: 25
+  - title: Adding a timer
+    duration: 25
+  - title: Challenge: More objects
     duration: 25
