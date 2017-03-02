@@ -9,8 +9,6 @@ steps:
     duration: 10
   - title: Animating a ghost
     duration: 25
-  - title: Introduction
-    duration: 10
   - title: Random ghosts
     duration: 25
   - title: Catching ghosts
