@@ -1,8 +1,8 @@
-# Step 3: Catching ghosts
+## Step 3: Catching ghosts
 
 Lets allow the player to catch ghosts!
 
-## Activity Checklist
+### Activity Checklist
 
 + Can you make your ghost disappear when it's been caught?
 
@@ -25,9 +25,7 @@ Here's how your code should look: ...[todo]
 
 	![screenshot](images/ghost-fullscreen.png)
 
-## Challenge: Adding a sound
+### Challenge: Adding a sound
 Can you make a sound each time a ghost is caught?
 
-## Save your project
-
-[[[saving-scratch]]]
+### Save your project

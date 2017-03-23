@@ -4,8 +4,6 @@ Let's make things more interesting by keeping score.
 
 ## Activity Checklist
 
-[[[keeping-score]]]
-
 + Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.
 
 ### Hint 1
@@ -24,5 +22,3 @@ Here are the code blocks you will need to use: ...[todo]
 {: .hint-content .hint-3 }
 
 ## Save your project
-
-[[[saving-scratch]]]

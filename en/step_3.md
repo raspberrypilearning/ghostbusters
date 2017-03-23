@@ -1,8 +1,8 @@
-# Step 2: Random ghosts
+## Step 2: Random ghosts
 
 Your ghost is really easy to catch, because it doesn't move!
 
-## Activity Checklist
+### Activity Checklist
 
 + Instead of staying in the same position, can you code your ghost to appear in random positions on the screen?
 
@@ -31,13 +31,11 @@ Or:
 
 + Test our your ghost again, and you should notice that it appears in a different place each time.
 
-## Save your project
+### Save your project
 
 [[[saving-scratch]]]
 
-## Challenge: More randomness
+### Challenge: More randomness
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` {.blocklooks} block to make your ghost a random size each time it appears?
 
-## Save your project
-
-[[[saving-scratch]]]
+### Save your project

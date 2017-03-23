@@ -12,6 +12,4 @@ You'll need to think about the objects you're adding. Think about:
 
 If you need help adding another object, you can reuse the steps above!
 
-## Save your project
-
-[[[saving-scratch]]]
+### Save your project

@@ -1,6 +1,6 @@
-# Step 5: Adding a timer
+## Step 5: Adding a timer
 
-## Activity Checklist { .check }
+### Activity Checklist
 
 + Can make your game more interesting, by only giving your player 10 seconds to catch as many ghosts as possible?
 
@@ -33,6 +33,4 @@ Here are the code blocks you will need to use: ...[todo]
 
 	Test your game a few times until you're happy that it's the right level of difficulty.
 
-## Save your project
-
-[[[saving-scratch]]]
+### Save your project

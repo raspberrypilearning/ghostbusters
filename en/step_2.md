@@ -1,6 +1,6 @@
-# Step 1: Animating a ghost
+## Step 1: Animating a ghost
 
-## Activity Checklist
+### Activity Checklist
 
 [[[new-scratch-project]]]
 
@@ -8,7 +8,6 @@
 
 	![screenshot](images/ghost-ghost.png)
 
-+ Would the following be better as hyperlinks, rather than additional inline content?
 
 [[[add-sprite-from-library]]]
 
@@ -35,6 +34,6 @@ Here's how your code should look:
 
 + Test out your ghost's code, by clicking the green flag. Should this be a mini-project, dealing with testing, debugging, etc.? Also, where should these test steps go? It seems silly to put them here, in the step _after_ the code has been written.
 
-## Save your project
+### Save your project
 
 [[[saving-scratch]]]
