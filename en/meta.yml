@@ -3,6 +3,7 @@ hero_image: images/ghostbusters.png
 subtitle: Who you gonna call?
 description: Use scratch to make a ghost-catching game!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters/
+theme: cc-prototype
 published: true
 
 steps:
