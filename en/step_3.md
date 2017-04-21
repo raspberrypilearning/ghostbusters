@@ -4,7 +4,7 @@ Your ghost is really easy to catch, because it doesn't move!
 
 ### Activity Checklist
 
-+ Instead of staying in the same position, can you code your ghost to appear in random positions on the screen?
++ Instead of staying in the same position, can you code your ghost to appear in random positions on the screen? __Test your code__ (ingredient/definition) to make sure that it does what it's supposed to do.
 
 ### Hint 1
 {: .hint-heading #hint-1 }
@@ -13,7 +13,7 @@ You want your ghost to __go to__ a random position on the stage before appearing
 
 ### Hint 2
 {: .hint-heading #hint-2 }
-You could use either of these code blocks:
+You could use either of these sets of code blocks:
 Either:
 ![screenshot](images/ghost-random-blocks-1.png)
 Or:
@@ -29,10 +29,9 @@ Or:
 ![screenshot](images/ghost-random-code-2.png)
 {: .hint-content .hint-3 }
 
-+ Test our your ghost again, and you should notice that it appears in a different place each time.
-
 ### Save your project
 
+##### 'Saving a Scratch project' ingredient (collapsable)
 [[[saving-scratch]]]
 
 ### Challenge: More randomness
