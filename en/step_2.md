@@ -2,15 +2,19 @@
 
 ### Activity Checklist
 
++ Open a new empty Scratch project.
+
+'Creating a new Scratch project' ingredient (collapsed):
 [[[new-scratch-project]]]
 
 + Add in a new ghost sprite, and a suitable stage backdrop.
 
 	![screenshot](images/ghost-ghost.png)
 
-
+'Add sprite' ingredient (collapsed):
 [[[add-sprite-from-library]]]
 
+'Add backdrop' ingredient (collapsed):
 [[[backdrop-from-library]]]
 
 + Add code to your ghost, so that it repeatedly appears and disappears.
