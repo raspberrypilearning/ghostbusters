@@ -17,7 +17,7 @@
 #### 'Add backdrop' ingredient (collapsed):
 [[[backdrop-from-library]]]
 
-+ Add code to your ghost, so that it repeatedly appears and disappears.
++ Add code to your ghost, so that it repeatedly appears and disappears. __Test your code__ (ingredient/definition) to make sure that it does what it's supposed to do.
 
 ### Hint 1
 {: .hint-heading #hint-1 }
@@ -36,8 +36,7 @@ Here's how your code should look:
 ![screenshot](images/ghost-appear-code.png)
 {: .hint-content .hint-3 }
 
-+ ~Test out your ghost's code, by clicking the green flag. Should this be a mini-project, dealing with testing, debugging, etc.? Also, where should these test steps go? It seems silly to put them here, in the step _after_ the code has been written.~
-
 ### Save your project
 
+##### 'Saving a Scratch project' ingredient (collapsable).
 [[[saving-scratch]]]
