@@ -36,7 +36,7 @@ Here's how your code should look:
 ![screenshot](images/ghost-appear-code.png)
 {: .hint-content .hint-3 }
 
-+ Test out your ghost's code, by clicking the green flag. Should this be a mini-project, dealing with testing, debugging, etc.? Also, where should these test steps go? It seems silly to put them here, in the step _after_ the code has been written.
++ ~Test out your ghost's code, by clicking the green flag. Should this be a mini-project, dealing with testing, debugging, etc.? Also, where should these test steps go? It seems silly to put them here, in the step _after_ the code has been written.~
 
 ### Save your project
 
