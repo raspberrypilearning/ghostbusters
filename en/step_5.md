@@ -22,3 +22,6 @@ Here are the code blocks you will need to use: ...[todo]
 {: .hint-content .hint-3 }
 
 ## Save your project
+
+##### 'Saving a Scratch project' ingredient (collapsable).
+[[[saving-scratch]]]
