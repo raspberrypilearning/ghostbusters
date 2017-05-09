@@ -9,6 +9,8 @@ published: true
 steps:
   - title: Introduction
     duration: 10
+  - title: What you'll need
+    duration: 10
   - title: Animating a ghost
     duration: 25
   - title: Random ghosts

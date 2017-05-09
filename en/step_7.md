@@ -1,18 +1,44 @@
-## Challenge: More objects
-Can you add in other objects to your game?
+## Step 5: Adding a timer
 
-![screenshot](images/ghost-final.png)
++ Create a new variable called 'time'.
 
-You'll need to think about the objects you're adding. Think about:
+--- collapse ---
+---
+title: Creating a new Scratch variable
+image: images/image.png
+---
+[[[scratch-add-variable]]]
+--- /collapse ---
 
-+ How big is it?
-+ Will it appear more or less often than the ghosts?
-+ What will it look/sound like when it has been caught?
-+ How many points will you score (or lose) for catching it?
++ Can you give your player 10 seconds to catch as many ghosts as possible?
 
-If you need help adding another object, you can reuse the steps above!
+	Add the timer to the __stage__. This is how the timer should work:
 
-### Save your project
+	+ The timer should start at 10 seconds;
+	+ The timer should count down every second;
+	+ The game should stop when the timer gets to 0.
 
-##### 'Saving a Scratch project' ingredient (collapsable).
-[[[saving-scratch]]]
+--- hints ---
+--- hint ---
+__When the green flag is clicked__ your time __variable__ should be set to 10. It should then __change by -1__ every second __until__ it reaches 0.
+--- /hint ---
+--- hint ---
+Here are the code blocks you will need to use:
+![screenshot](images/ghost-timer-blocks.png)
+--- /hint ---
+--- hint ---
+Here's how to add a 10 second timer to your game:
+![screenshot](images/ghost-timer-code.png)
+
+...and here's how to create the `time = 0` block:
+![screenshot](images/ghost-timer-help.png)
+--- /hint ---
+--- /hints ---
+
++ Ask a friend to test your game. How many points can they score? If your game is too easy, you can:
+
+	+ Give the player less time;
+	+ Make the ghosts appear less often;
+	+ Make the ghosts smaller.
+
+	Test your game a few times until you're happy that it's the right level of difficulty.

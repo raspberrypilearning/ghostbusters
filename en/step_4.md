@@ -1,36 +1,38 @@
-## Step 3: Catching ghosts
+## Step 2: Random ghosts
 
-Lets allow the player to catch ghosts!
+Your ghost is really easy to catch, because it doesn't move!
 
 ### Activity Checklist
 
-+ Can you make your ghost disappear when it's been caught?
-
-	You can test your project by seeing if you can click ghosts to catch them as they appear. If you find it difficult to catch the ghosts, you can play the game in fullscreen mode by clicking this button:
-
-	![screenshot](images/ghost-fullscreen.png)
++ Instead of staying in the same position, can you code your ghost to appear in random positions on the screen? __Test your code__ (ingredient/definition) to make sure that it does what it's supposed to do.
 
 ### Hint 1
 {: .hint-heading #hint-1 }
-__When clicked__, your ghost sprite should __hide__.
+You want your ghost to __go to__ a random position on the stage before appearing each time.
 {: .hint-content .hint-1 }
 
 ### Hint 2
 {: .hint-heading #hint-2 }
-Here are the code blocks you should use:
-![screenshot](images/ghost-catch-blocks.png)
+You could use either of these sets of code blocks:
+Either:
+![screenshot](images/ghost-random-blocks-1.png)
+Or:
+![screenshot](images/ghost-random-blocks-2.png)
 {: .hint-content .hint-2 }
 
 ### Hint 3
 {: .hint-heading #hint-3 }
 Here's how your code should look:
-![screenshot](images/ghost-catch-code.png)
+Either:
+![screenshot](images/ghost-random-code-1.png)
+Or:
+![screenshot](images/ghost-random-code-2.png)
 {: .hint-content .hint-3 }
 
-### Challenge: Adding a sound
-Can you make a sound each time a ghost is caught?
+### Challenge: More randomness
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` {.blocklooks} block to make your ghost a random size each time it appears?
 
 ### Save your project
 
-##### 'Saving a Scratch project' ingredient (collapsable).
+##### 'Saving a Scratch project' ingredient (collapsable)
 [[[saving-scratch]]]
