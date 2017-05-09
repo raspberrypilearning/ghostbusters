@@ -19,6 +19,6 @@ Here's how your code should look:
 --- /hints ---
 
 --- challenge ---
-### Challenge: Adding a sound
+## Challenge: Adding a sound
 Can you make a sound each time a ghost is caught?
 --- /challenge ---

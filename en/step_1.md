@@ -12,7 +12,7 @@ Click the green flag to start the game. You have ten seconds to catch as many gh
 
 #### What you'll learn
 
--- collapse ---
+--- collapse ---
 
 + You'll use variables to store the player's score.
 + You'll use repetition to make ghosts appear and disappear, and to make a game timer.

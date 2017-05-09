@@ -27,6 +27,6 @@ Or:
 --- /hints ---
 
 --- challenge ---
-### Challenge: More randomness
+## Challenge: More randomness
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` {.blocklooks} block to make your ghost a random size each time it appears?
 --- /challenge ---
