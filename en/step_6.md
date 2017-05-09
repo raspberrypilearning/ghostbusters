@@ -9,7 +9,7 @@ Let's make things more interesting by keeping score.
 title: Creating a new Scratch variable
 image: images/image.png
 ---
-[[[scratch-add-variable]]]
+[[[generic-scratch-add-variable]]]
 --- /collapse ---
 
 + Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.

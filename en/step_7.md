@@ -7,7 +7,7 @@
 title: Creating a new Scratch variable
 image: images/image.png
 ---
-[[[scratch-add-variable]]]
+[[[generic-scratch-add-variable]]]
 --- /collapse ---
 
 + Can you give your player 10 seconds to catch as many ghosts as possible?

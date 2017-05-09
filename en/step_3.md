@@ -7,7 +7,7 @@
 title: Downloading and installing the Raspberry Pi software
 image: images/scratch.png
 ---
-[[[new-scratch-project]]]
+[[[generic-scratch-new-project]]]
 --- /collapse ---
 
 + Add in a new ghost sprite, and a suitable stage backdrop.
@@ -19,7 +19,7 @@ image: images/scratch.png
 title: Adding a sprite from the Scratch library
 image: images/image.png
 ---
-[[[add-sprite-from-library]]]
+[[[generic-scratch-sprite-from-library]]]
 --- /collapse ---
 
 --- collapse ---
@@ -27,7 +27,7 @@ image: images/image.png
 title: Adding a backdrop from the Scratch library
 image: images/image.png
 ---
-[[[backdrop-from-library]]]
+[[[generic-scratch-backdrop-from-library]]]
 --- /collapse ---
 
 + Add code to your ghost, so that when you click the flag it appears and disappears forever.
@@ -39,7 +39,7 @@ image: images/image.png
 title: Saving a Scratch project
 image: images/image.png
 ---
-[[[saving-scratch]]]
+[[[generic-scratch-saving]]]
 --- /collapse ---
 
 --- hints ---
