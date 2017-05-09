@@ -14,32 +14,44 @@ image: images/scratch.png
 
 	![screenshot](images/ghost-ghost.png)
 
-##### 'Add sprite' ingredient (collapsed):
+--- collapse ---
+---
+title: Adding a sprite from the Scratch library
+image: images/image.png
+---
 [[[add-sprite-from-library]]]
+--- /collapse ---
 
-##### 'Add backdrop' ingredient (collapsed):
+--- collapse ---
+---
+title: Adding a backdrop from the Scratch library
+image: images/image.png
+---
 [[[backdrop-from-library]]]
+--- /collapse ---
 
-+ Add code to your ghost, so that it repeatedly appears and disappears. __Test your code__ (ingredient/definition) to make sure that it does what it's supposed to do.
++ Add code to your ghost, so that when you click the flag it appears and disappears forever.
 
-### Hint 1
-{: .hint-heading #hint-1 }
+	Test and save your code.
+
+--- collapse ---
+---
+title: Saving a Scratch project
+image: images/image.png
+---
+[[[saving-scratch]]]
+--- /collapse ---
+
+--- hints ---
+--- hint ---
 Once the __green flag is clicked__, you'll need to make your ghost __hide for 1 second__ and then __show for 1 second__. It will need to repeat this __forever__.
-{: .hint-content .hint-1 }
-
-### Hint 2
-{: .hint-heading #hint-2 }
+--- /hint ---
+--- hint ---
 Here are the code blocks you'll need:
 ![screenshot](images/ghost-appear-blocks.png)
-{: .hint-content .hint-2 }
-
-### Hint 3
-{: .hint-heading #hint-3 }
+--- /hint ---
+--- hint ---
 Here's how your code should look:
 ![screenshot](images/ghost-appear-code.png)
-{: .hint-content .hint-3 }
-
-### Save your project
-
-##### 'Saving a Scratch project' ingredient (collapsable).
-[[[saving-scratch]]]
+--- /hint ---
+--- /hints ---

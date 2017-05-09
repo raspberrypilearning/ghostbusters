@@ -14,4 +14,4 @@ For logged in club leaders only... display a message if not logged in:
     "If you're an educator, please log in to see the solutions."
 
 + [Ghostbusters online completed project](http://scratch.mit.edu/projects/26762091/#editor)
-+ [Ghostbusters offline completed project](resources/ChatBot-Solution.sb2){:download='ChatBot-Solution.sb2'}
++ [Ghostbusters offline completed project](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
