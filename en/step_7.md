@@ -10,9 +10,9 @@ image: images/image.png
 [[[generic-scratch-add-variable]]]
 --- /collapse ---
 
-+ Can you give your player 10 seconds to catch as many ghosts as possible?
++ Can you add a timer to your __stage__, that gives your player only 10 seconds to catch as many ghosts as possible?
 
-	Add the timer to the __stage__. This is how the timer should work:
+	 Test and save: This is how your timer should work:
 
 	+ The timer should start at 10 seconds;
 	+ The timer should count down every second;

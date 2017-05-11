@@ -20,5 +20,5 @@ Here's how your code should look:
 
 --- challenge ---
 ## Challenge: Adding a sound
-Can you make a sound each time a ghost is caught?
+Can your ghost make a sound each time it's caught?
 --- /challenge ---

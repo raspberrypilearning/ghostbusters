@@ -11,15 +11,15 @@ steps:
     duration: 10
   - title: What you'll need
     duration: 10
-  - title: Animating a ghost
+  - title: "Step 1: Animating a ghost"
     duration: 25
-  - title: Random ghosts
+  - title: "Step 2: Random ghosts"
     duration: 25
-  - title: Catching ghosts
+  - title: "Step 3: Catching ghosts"
     duration: 10
-  - title: Adding a score
+  - title: "Step 4: Adding a score"
     duration: 25
-  - title: Adding a timer
+  - title: "Step 5: Adding a timer"
     duration: 25
-  - title: 'Challenge: More objects'
+  - title: "Challenge: More objects"
     duration: 25

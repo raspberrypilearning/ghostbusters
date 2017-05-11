@@ -10,9 +10,11 @@ Click the green flag to start the game. You have ten seconds to catch as many gh
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
 </div>
 
-#### What you'll learn
-
 --- collapse ---
+---
+title: What you'll learn
+image: images/image.png
+---
 
 + You'll use variables to store the player's score.
 + You'll use repetition to make ghosts appear and disappear, and to make a game timer.

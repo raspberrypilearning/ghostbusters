@@ -14,6 +14,10 @@ image: images/image.png
 
 + Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.
 
+    Test and save: Each time you click on a ghost, the player's score should increase.
+
+    ![Increasing score](images/ghost-score-test.png)
+
 --- hints ---
 --- hint ---
 __When the green flag is clicked__ your 'score' __variable__ should be set to 0. The __Stage__ is the best place to add this code. __When the ghost sprite is clicked__, the __score__ should be changed by 1.

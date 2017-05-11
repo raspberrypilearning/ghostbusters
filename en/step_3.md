@@ -4,7 +4,7 @@
 
 --- collapse ---
 ---
-title: Downloading and installing the Raspberry Pi software
+title: Creating a new Scratch project
 image: images/scratch.png
 ---
 [[[generic-scratch-new-project]]]
@@ -32,7 +32,7 @@ image: images/image.png
 
 + Add code to your ghost, so that when you click the flag it appears and disappears forever.
 
-	Test and save your code.
+	Test and save.
 
 --- collapse ---
 ---
