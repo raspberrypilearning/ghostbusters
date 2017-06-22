@@ -1,6 +1,6 @@
 <div class="p-hero-buttons">
-  [Completed Project](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
-  [Online Completed Project](http://scratch.mit.edu/projects/60787262/#editor)
+  [Offline Completed Project](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
+  [Online Completed Project](http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
 </div>
 
 --- challenge ---
