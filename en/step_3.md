@@ -2,13 +2,7 @@
 
 + Open a new empty Scratch project.
 
---- collapse ---
----
-title: Creating a new Scratch project
-image: images/scratch.png
----
 [[[generic-scratch-new-project]]]
---- /collapse ---
 
 + Add in a new ghost sprite, and a suitable stage backdrop.
 
