@@ -5,9 +5,9 @@ original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: cc-prototype
 listed: false
 ingredient: false
-duration: 1
-interests: ""
-technology: ""
+duration: 2
+interests: "games"
+technology: "scratch"
 steps:
   - title: Introduction
   - title: What you'll need

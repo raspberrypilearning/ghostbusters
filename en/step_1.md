@@ -12,5 +12,6 @@ Click the green flag to start the game. You have ten seconds to catch as many gh
 
 ### What you will learn
 
-Programming: Creator level
-(this'll be a graphic)
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
