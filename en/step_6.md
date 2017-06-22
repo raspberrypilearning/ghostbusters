@@ -1,46 +1,33 @@
-## Step 5: Adding a timer
+## Step 4: Adding a score
 
-### Activity Checklist
+Let's make things more interesting by keeping score.
 
-+ Create a new variable called 'time'.
++ Create a new variable called 'score'.
 
-##### 'Creating a new Scratch variable' ingredient (collapsable).
-[[[scratch-add-variable]]]
+--- collapse ---
+---
+title: Creating a new Scratch variable
+image: images/image.png
+---
+[[[generic-scratch-add-variable]]]
+--- /collapse ---
 
-+ Can you give your player 10 seconds to catch as many ghosts as possible?
++ Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.
 
-	Add the timer to the __stage__. This is how the timer should work:
+    Test and save: Each time you click on a ghost, the player's score should increase.
 
-	+ The timer should start at 10 seconds;
-	+ The timer should count down every second;
-	+ The game should stop when the timer gets to 0.
+    ![Increasing score](images/ghost-score-test.png)
 
-### Hint 1
-{: .hint-heading #hint-1 }
-__When the green flag is clicked__ your time __variable__ should be set to 10. It should then __change by -1__ every second __until__ it reaches 0.
-{: .hint-content .hint-1 }
-
-### Hint 2
-{: .hint-heading #hint-2 }
+--- hints ---
+--- hint ---
+__When the green flag is clicked__ your 'score' __variable__ should be set to 0. The __Stage__ is the best place to add this code. __When the ghost sprite is clicked__, the __score__ should be changed by 1.
+--- /hint ---
+--- hint ---
 Here are the code blocks you will need to use:
-![screenshot](images/ghost-timer-blocks.png)
-{: .hint-content .hint-2 }
-
-### Hint 3
-{: .hint-heading #hint-3 }
-Here's how to add a 10 second timer to your game:
-![screenshot](images/ghost-timer-code.png)
-{: .hint-content .hint-3 }
-
-+ Ask a friend to test your game. How many points can they score? If your game is too easy, you can:
-
-	+ Give the player less time;
-	+ Make the ghosts appear less often;
-	+ Make the ghosts smaller.
-
-	Test your game a few times until you're happy that it's the right level of difficulty.
-
-### Save your project
-
-##### 'Saving a Scratch project' ingredient (collapsable).
-[[[saving-scratch]]]
+![screenshot](images/ghost-score-blocks.png)
+--- /hint ---
+--- hint ---
+Here's how to score points by clicking ghosts:
+![screenshot](images/ghost-score-code.png)
+--- /hint ---
+--- /hints ---

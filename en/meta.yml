@@ -2,22 +2,24 @@ title: Ghostbusters
 hero_image: images/ghostbusters.png
 subtitle: Who you gonna call?
 description: Use scratch to make a ghost-catching game!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters?redirect=false
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: cc-prototype
 published: false
 
 steps:
   - title: Introduction
     duration: 10
-  - title: Animating a ghost
-    duration: 25
-  - title: Random ghosts
-    duration: 25
-  - title: Catching ghosts
+  - title: What you'll need
     duration: 10
-  - title: Adding a score
+  - title: "Step 1: Animating a ghost"
     duration: 25
-  - title: Adding a timer
+  - title: "Step 2: Random ghosts"
     duration: 25
-  - title: Challenge More objects
+  - title: "Step 3: Catching ghosts"
+    duration: 10
+  - title: "Step 4: Adding a score"
+    duration: 25
+  - title: "Step 5: Adding a timer"
+    duration: 25
+  - title: "Challenge: More objects"
     duration: 25
