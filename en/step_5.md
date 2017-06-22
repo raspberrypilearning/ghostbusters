@@ -1,4 +1,4 @@
-## Step 3: Catching ghosts
+## Catching ghosts
 
 Lets allow the player to catch ghosts!
 

@@ -1,14 +1,6 @@
-## Step 5: Adding a timer
+## Adding a timer
 
 + Create a new variable called 'time'.
-
---- collapse ---
----
-title: Creating a new Scratch variable
-image: images/image.png
----
-[[[generic-scratch-add-variable]]]
---- /collapse ---
 
 + Can you add a timer to your __stage__, that gives your player only 10 seconds to catch as many ghosts as possible?
 

@@ -1,10 +1,8 @@
-## Step 2: Random ghosts
+## Random ghosts
 
 Your ghost is really easy to catch, because it doesn't move!
 
 + Instead of staying in the same position, can you code your ghost to appear in random positions on the screen?
-
-    Test and save.
 
 --- hints ---
 --- hint ---

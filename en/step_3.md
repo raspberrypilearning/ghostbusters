@@ -1,4 +1,4 @@
-## Step 1: Animating a ghost
+## Animating a ghost
 
 + Open a new empty Scratch project.
 
@@ -8,33 +8,16 @@
 
 	![screenshot](images/ghost-ghost.png)
 
---- collapse ---
----
-title: Adding a sprite from the Scratch library
-image: images/image.png
----
 [[[generic-scratch-sprite-from-library]]]
---- /collapse ---
 
---- collapse ---
----
-title: Adding a backdrop from the Scratch library
-image: images/image.png
----
 [[[generic-scratch-backdrop-from-library]]]
---- /collapse ---
 
 + Add code to your ghost, so that when you click the flag it appears and disappears forever.
 
-	Test and save.
+	Test and save your project.
 
---- collapse ---
----
-title: Saving a Scratch project
-image: images/image.png
----
 [[[generic-scratch-saving]]]
---- /collapse ---
+
 
 --- hints ---
 --- hint ---

@@ -1,9 +1,13 @@
-## What you'll need
+## What you will need
 
-#### Hardware
+### Hardware
 
     + Any computer capable of running Scratch 2
 
-#### Software
+### Software
 
     + Scratch 2
+
+### Additional resources
+
+    + None

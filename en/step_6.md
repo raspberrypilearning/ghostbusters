@@ -1,16 +1,10 @@
-## Step 4: Adding a score
+## Adding a score
 
 Let's make things more interesting by keeping score.
 
 + Create a new variable called 'score'.
 
---- collapse ---
----
-title: Creating a new Scratch variable
-image: images/image.png
----
 [[[generic-scratch-add-variable]]]
---- /collapse ---
 
 + Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.
 

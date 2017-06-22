@@ -2,7 +2,7 @@
 
 You are going to make a ghost-catching game!
 
-#### Instructions
+### What you will make
 
 Click the green flag to start the game. You have ten seconds to catch as many ghosts as you can by clicking them.
 
