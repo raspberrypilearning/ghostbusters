@@ -25,6 +25,6 @@ Or like this:
 --- /hints ---
 
 --- challenge ---
-## Challenge: More randomness
+## Challenge: more randomness
 Can you make your ghost _wait_ a random amount of time before appearing? Can you use the _set size_ block to make your ghost a random size each time it appears?
 --- /challenge ---
