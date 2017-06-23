@@ -1,20 +1,20 @@
 ## Adding a score
 
-Let's make things more interesting by keeping score.
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ Can you keep track of the player's score? Player's should score points by clicking on ghosts to catch them.
++ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-    Test and save: Each time you click on a ghost, the player's score should increase.
+     Each time a player clicks on a ghost, their score should increase.
 
     ![Increasing score](images/ghost-score-test.png)
 
 --- hints ---
 --- hint ---
-__When the green flag is clicked__ your 'score' __variable__ should be set to 0. The __Stage__ is the best place to add this code. __When the ghost sprite is clicked__, the __score__ should be changed by 1.
+__When the green flag is clicked__, your __score__ variable should be set to 0. The __stage__ is the best place to add this code. __When the ghost sprite is clicked__, the __score__ should be changed by 1.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
