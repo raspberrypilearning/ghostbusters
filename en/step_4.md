@@ -1,8 +1,8 @@
 ## Random ghosts
 
-Your ghost is really easy to catch, because it doesn't move!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
-+ Instead of staying in the same position, can you code your ghost to appear in random positions on the screen?
++ Can you add code to your ghost so tha, instead of staying in the same position, it appears at random positions on the screen?
 
 --- hints ---
 --- hint ---
@@ -10,16 +10,16 @@ You want your ghost to __go to__ a random position on the stage before appearing
 --- /hint ---
 --- hint ---
 You could use either of these sets of code blocks:
-Either:
+This one:
 ![screenshot](images/ghost-random-blocks-1.png)
-Or:
+Or this one:
 ![screenshot](images/ghost-random-blocks-2.png)
 --- /hint ---
 --- hint ---
-Here's how your code should look:
-Either:
+This is what our code should look like:
+Either like this:
 ![screenshot](images/ghost-random-code-1.png)
-Or:
+Or like this:
 ![screenshot](images/ghost-random-code-2.png)
 --- /hint ---
 --- /hints ---
