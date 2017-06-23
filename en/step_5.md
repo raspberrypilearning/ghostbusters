@@ -4,7 +4,7 @@ Let's allow the player to catch ghosts!
 
 + Can you make your ghost disappear when it's been caught?
 
-You should be able to click ghosts to catch them. If you find it difficult to catch the ghosts, you can play the game in fullscreen mode by clicking this button:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
 	![screenshot](images/ghost-fullscreen.png)
 
