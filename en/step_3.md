@@ -12,14 +12,14 @@
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Add code to your ghost so that it _appears and disappears forever_ when you _click the flag_. Test and save your project.
++ Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
 
 [[[generic-scratch-saving]]]
 
 
 --- hints ---
 --- hint ---
-Once the __green flag is clicked__, you'll need to make your ghost __hide for 1 second__ and then __show for 1 second__. It will need to do this __forever__.
+Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`.
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
