@@ -10,7 +10,7 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 
 --- hints ---
 --- hint ---
-__When clicked__, your ghost sprite should __hide__.
+`When clicked`, your ghost sprite should `hide`.
 --- /hint ---
 --- hint ---
 Your code should look like this:
