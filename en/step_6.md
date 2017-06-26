@@ -14,7 +14,7 @@ Let's make things more interesting by keeping score!
 
 --- hints ---
 --- hint ---
-__When the green flag is clicked__, your __score__ variable should be set to 0. The __stage__ is the best place to add this code. __When the ghost sprite is clicked__, the __score__ should be changed by 1.
+`When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
