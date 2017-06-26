@@ -20,10 +20,10 @@ Here are the code blocks you will need to use:
 ![screenshot](images/ghost-timer-blocks.png)
 --- /hint ---
 --- hint ---
-Here's how to add a 10 second timer to your game:
+Here's how to add the timer to your game:
 ![screenshot](images/ghost-timer-code.png)
 
-Aand this is how to create the `time = 0` block:
+And this is how to create the `time = 0` block:
 ![screenshot](images/ghost-timer-help.png)
 --- /hint ---
 --- /hints ---
