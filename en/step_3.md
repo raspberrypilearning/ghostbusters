@@ -12,7 +12,7 @@
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Add code to your ghost so that when you click the flag it appears and disappears forever. Test and save your project.
++ Add code to your ghost so that it _appears and disappears forever_ when you _click the flag_. Test and save your project.
 
 [[[generic-scratch-saving]]]
 
