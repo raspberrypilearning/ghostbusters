@@ -6,7 +6,7 @@ Let's allow the player to catch ghosts!
 
 You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-	![screenshot](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
 --- hints ---
 --- hint ---
