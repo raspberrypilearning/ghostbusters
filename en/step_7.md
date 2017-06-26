@@ -6,8 +6,8 @@
 
 	 Your timer should:
 
-	+ start at 10 seconds
-	+ count down every second
+	+ Start at 10 seconds
+	+ Count down every second
 	
 	The game should stop when the timer gets to 0.
 
@@ -32,8 +32,8 @@ And this is how to create the `time = 0` block:
 	
 	If your game is too easy, you can:
 
-	+ give the player less time
-	+ make the ghosts appear less often
-	+ make the ghosts smaller
+	+ Give the player less time
+	+ Make the ghosts appear less often
+	+ Make the ghosts smaller
 
 	Change and test your game a few times until you're happy that it's the right level of difficulty.
