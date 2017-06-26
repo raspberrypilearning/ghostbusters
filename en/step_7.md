@@ -2,7 +2,7 @@
 
 + Create a new variable called 'time'.
 
-+ Can you add a timer to your __stage__ to give your player only 10 seconds to catch as many ghosts as possible?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
 	 Your timer should:
 
@@ -13,7 +13,7 @@
 
 --- hints ---
 --- hint ---
-__When the green flag is clicked__, your time __variable__ should be set to 10. It should then __change by -1__ every second __until__ it reaches 0.
+`When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
