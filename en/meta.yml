@@ -1,6 +1,6 @@
 title: Ghostbusters
 hero_image: images/ghostbusters.png
-description: Make a ghost-catching game!
+description: Make a game about catching ghosts!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: cc-prototype
 listed: false
@@ -16,4 +16,4 @@ steps:
   - title: Catching ghosts
   - title: Adding a score
   - title: Adding a timer
-  - title: "Challenge: More objects"
+  - title: Challenge: more objects

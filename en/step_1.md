@@ -1,6 +1,6 @@
 ## Introduction
 
-You are going to make a ghost-catching game!
+You are going to make a game about catching ghosts!
 
 ### What you will make
 
