@@ -6,7 +6,7 @@ Your ghost is really easy to catch at the moment, because it doesn't move!
 
 --- hints ---
 --- hint ---
-You want your ghost to __go to__ a random position on the stage before appearing each time.
+You want your ghost to `go to` a random position on the stage before appearing each time.
 --- /hint ---
 --- hint ---
 There are two sets of code blocks you can use.
@@ -25,5 +25,5 @@ Or it can look like this:
 
 --- challenge ---
 ## Challenge: more randomness
-Can you make your ghost _wait_ a random amount of time before appearing? Can you use the _set size_ block to make your ghost a random size each time it appears?
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears?
 --- /challenge ---
