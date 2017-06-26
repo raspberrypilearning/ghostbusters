@@ -1,32 +1,29 @@
-## Step 2: Random ghosts
+## Random ghosts
 
-Your ghost is really easy to catch, because it doesn't move!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
-+ Instead of staying in the same position, can you code your ghost to appear in random positions on the screen?
-
-    Test and save.
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
 --- hints ---
 --- hint ---
-You want your ghost to __go to__ a random position on the stage before appearing each time.
+You want your ghost to `go to` a random position on the stage before appearing each time.
 --- /hint ---
 --- hint ---
-You could use either of these sets of code blocks:
-Either:
+There are two sets of code blocks you can use.
+This one:
 ![screenshot](images/ghost-random-blocks-1.png)
-Or:
+Or this one:
 ![screenshot](images/ghost-random-blocks-2.png)
 --- /hint ---
 --- hint ---
-Here's how your code should look:
-Either:
+Your code should look either like this:
 ![screenshot](images/ghost-random-code-1.png)
-Or:
+Or it can look like this:
 ![screenshot](images/ghost-random-code-2.png)
 --- /hint ---
 --- /hints ---
 
 --- challenge ---
-## Challenge: More randomness
+## Challenge: more randomness
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears?
 --- /challenge ---
