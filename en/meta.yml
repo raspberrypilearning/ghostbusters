@@ -4,10 +4,11 @@ description: Make a game about catching ghosts!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
+copyedit: true
 ingredient: false
 duration: 2
 interests: "games"
-technology: "scratch"
+technologies: "scratch"
 steps:
   - title: Introduction
   - title: What you'll need
