@@ -9,6 +9,7 @@ ingredient: false
 duration: 2
 interests: "games"
 technologies: "scratch"
+site_areas: codeclub, scratch
 steps:
   - title: Introduction
   - title: What you'll need
