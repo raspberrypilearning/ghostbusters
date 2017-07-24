@@ -1,3 +1,4 @@
+---
 title: Ghostbusters
 hero_image: images/ghostbusters.png
 description: Make a game about catching ghosts!
@@ -7,15 +8,16 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-interests: "games"
-technologies: "scratch"
+interests: games
+technologies: scratch
 site_areas: codeclub, scratch
 steps:
-  - title: Introduction
-  - title: What you'll need
-  - title: Animating a ghost
-  - title: Random ghosts
-  - title: Catching ghosts
-  - title: Adding a score
-  - title: Adding a timer
-  - title: "Challenge: more objects"
+- title: Introduction
+- title: What you'll need
+- title: Animating a ghost
+- title: Random ghosts
+- title: Catching ghosts
+- title: Adding a score
+- title: Adding a timer
+- title: 'Challenge: more objects'
+
