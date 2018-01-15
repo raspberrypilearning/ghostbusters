@@ -14,9 +14,6 @@
 
 + Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
 
-[[[generic-scratch-saving]]]
-
-
 --- hints ---
 --- hint ---
 Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`.
@@ -30,3 +27,5 @@ This is what your code should look like:
 ![screenshot](images/ghost-appear-code.png)
 --- /hint ---
 --- /hints ---
+
+[[[generic-scratch-saving]]]
