@@ -14,7 +14,7 @@ Rwyt ti'n gallu gwneud y gêm yn fwy diddorol, wrth roi 10 eiliad i dy chwareuwr
 
 	Dyma'r côd i wneud hyn, mae modd ychwanegu hwn i'r __llwyfan__:
 
-	![screenshot](ghost-time-wait.png)
+	![screenshot](images/ghost-time-wait.png)
 
 	Dyma sut rwyt ti'n ychwanegu y côd 'ail-adrodd tan'{.blockcontrol}'amser'{.blockdata}'=0'{.blockoperators}:
 
