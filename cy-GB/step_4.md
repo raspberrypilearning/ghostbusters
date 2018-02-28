@@ -6,7 +6,7 @@ Beth am adael i'r chwareuwr ddal ysbrydion!
 
 	```blocks
 		pan caiff y cymeriad ei glicio
-		cuddio
+                 cuddio
 	```
 
 + Profa dy brosiect. Alli di ddal ysbrydion os ydynt yn ymddangos? Os ydy e'n anodd i ddal ysbrydion, mae modd chwarae y gêm ar sgrin llawn trwy glicio ar y botwm yma:
