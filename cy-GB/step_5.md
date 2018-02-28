@@ -18,7 +18,7 @@ Beth am wneud pethau yn fwy diddorol trwy gadw sgôr.
 
 + Pan mae gêm newydd yn dechrau (wrth glicio'r faner), fe ddylse ti osod sgôr y chwareuwr i 0:
 
-	![screenshot](ghost-score-2.png)
+	![screenshot](images/ghost-score-2.png)
 	
 + Pryd bynnag mae ysbryd yn cael ei ddal, mae angen i ti ychwanegu 1 i sgôr y chwareuwr:
 
