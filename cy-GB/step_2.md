@@ -8,6 +8,6 @@
 
 + Ychwanega y côd yma i dy ysbryd, fel ei fod yn ail-adrodd ymddangos a diflannu;
 
-	![screenshot](ghost-first.png)
+	![screenshot](images/ghost-first.png)
 
 + Profa côd yr ysbryd, trwy glicio ar y faner werdd.
