@@ -16,7 +16,7 @@ Rwyt ti'n gallu gwneud y gêm yn fwy diddorol, wrth roi 10 eiliad i dy chwareuwr
 
 	![screenshot](images/ghost-time-wait.png)
 
-	Dyma sut rwyt ti'n ychwanegu y côd `ail-adrodd tan`{:class="blockcontrol"}`amser`{:class="blockdata"}`=0`{:class="blockoperators"}:
+	Dyma sut rwyt ti'n ychwanegu y côd `ail-adrodd tan`{:class="blockcontrol"} `amser`{:class="blockdata"} `=0`{:class="blockoperators"}:
 
 	![screenshot](images/ghost-timer-help.png)
 
