@@ -2,7 +2,7 @@
 
 Dein Gespenst kann ganz einfach gefangen werden, da es immer an der selben Stelle auftaucht!
 
-+ Damit dass das Gespenst nicht immer an der gleichen Stelle erscheint, kannst Du es bewegen. Hierfür sagst Du Scratch, dass es zufällige Positionen für die Koordinaten x und y vergeben soll. Füge Deinem Code einen `gehe zu` {.blockmotion} Block hinzu, so dass der Code so aussieht:
++ Damit dass das Gespenst nicht immer an der gleichen Stelle erscheint, kannst Du es bewegen. Hierfür sagst Du Scratch, dass es zufällige Positionen für die Koordinaten x und y vergeben soll. Füge Deinem Code einen `gehe zu`{:class="blockmotion"} Block hinzu, so dass der Code so aussieht:
 
 	```blocks
 		Wenn die grüne Flagge angeklickt
@@ -19,5 +19,5 @@ Dein Gespenst kann ganz einfach gefangen werden, da es immer an der selben Stell
 
 --- challenge ---
 ## Herausforderung: Mehr Zufälligkeit
-Kannst Du Dein Gespenst eine zufällige Zeit warten lassen, bevor es wieder auftaucht? Versuche es mit dem Befehl `warte` {.blockcontrol} und 'Zufallszahl'. Kannst Du Deinem Gespenst mit `setze Größe` {.blocklooks} jedes Mal eine zufällige Größe geben?
+Kannst Du Dein Gespenst eine zufällige Zeit warten lassen, bevor es wieder auftaucht? Versuche es mit dem Befehl `warte`{:class="blockcontrol"} und 'Zufallszahl'. Kannst Du Deinem Gespenst mit `setze Größe`{:class="blocklooks"} jedes Mal eine zufällige Größe geben?
 --- /challenge ---
