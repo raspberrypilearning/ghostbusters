@@ -4,11 +4,11 @@ Rendons les choses plus intéressantes en gardant le compte du pointage.
 
 + Pour garder le compte du pointage du joueur, il faut le stocker quelque part. Une __variable__ est un endroit pour garder des données qui peuvent changer, comme un pointage.
 
-	Pour créer une variable, cliquez sur l'onglet 'Scripts', sélectionnez `Données` {.blockdata}, puis cliquez sur 'Créer une variable'.
+	Pour créer une variable, cliquez sur l'onglet 'Scripts', sélectionnez `Données`{:class="blockdata"}, puis cliquez sur 'Créer une variable'.
 
 	![screenshot](images/ghost-score.png)
 
-	Tapez 'pointage' comme nom de variable, vérifiez que la variable est disponible pour tous les lutins et cliquez sur 'OK' pour créer la variable. Vous allez ensuite voir plusieurs blocs de code qui peuvent être utilisés avec votre variable `pointage` {.blockdata}.
+	Tapez 'pointage' comme nom de variable, vérifiez que la variable est disponible pour tous les lutins et cliquez sur 'OK' pour créer la variable. Vous allez ensuite voir plusieurs blocs de code qui peuvent être utilisés avec votre variable `pointage`{:class="blockdata"}.
 
 	![screenshot](images/ghost-variable.png)
 
