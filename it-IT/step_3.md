@@ -2,7 +2,7 @@
 
 È facilissimo acchiappare il tuo fantasma perché non si muove!
 
-+ Invece di restare nella stessa posizione, puoi fare in modo che Scratch scelga a caso le coordinate x e y. Aggiungi un blocco `vai a` {.blockmotion} al codice del tuo fantasma, in modo che appaia così:
++ Invece di restare nella stessa posizione, puoi fare in modo che Scratch scelga a caso le coordinate x e y. Aggiungi un blocco `vai a` {:class="blockmotion"} al codice del tuo fantasma, in modo che appaia così:
 
 	![screenshot](images/ghost-random.png)
 
