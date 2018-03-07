@@ -24,7 +24,7 @@ Puoi rendere il gioco più interessante, dando solo 10 secondi al tuo giocatore 
 		ferma [tutto v]
 	```
 
-	Il codice `ripeti fino a quando`{.blockcontrol}`tempo`{.blockdata}`= 0`{.blockoperators} si aggiunge così:
+	Il codice `ripeti fino a quando`{:class="blockcontrol"}`tempo`{:class="blockdata"}`= 0`{:class="blockoperators"} si aggiunge così:
 
 	![screenshot](images/ghost-timer-help.png)
 
