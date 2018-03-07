@@ -30,4 +30,4 @@ Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Di
 ## Domande frequenti
 + Se i bambini trovano difficile cliccare sui fantasmi senza trascinarli, possono giocare in modalità a schermo intero, in cui i fantasmi non sono trascinabili.
 
-[screenshot](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
