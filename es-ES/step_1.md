@@ -26,5 +26,5 @@ La versión completa de este proyecto se puede encontrar <a href="http://scratch
 ## Preguntas frecuentes
 + Si a la clase le resulta difícil hacer clic en los fantasmas sin arrastrarlos, pueden jugar al juego en modo de pantalla completa, en el cual los fantasmas no pueden ser arrastrados.
 
-![screenshot](ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
