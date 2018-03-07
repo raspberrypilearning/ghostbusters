@@ -24,7 +24,7 @@ Du kannst das Spiel noch interessanter gestalten, indem Du dem Spieler nur 10 Se
 		stoppe [alles v]
 	```
 
-	So fügst Du den Code `wiederhole bis`{.blockcontrol}`Zeit`{.blockdata}`= 0`{.blockoperators} hinzu:
+	So fügst Du den Code `wiederhole bis`{:class="blockcontrol"}`Zeit`{:class="blockdata"}`= 0`{:class="blockoperators"} hinzu:
 
 	![screenshot](images/ghost-timer-help.png)
 
