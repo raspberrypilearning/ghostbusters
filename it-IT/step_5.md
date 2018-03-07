@@ -4,11 +4,11 @@ Rendiamo il gioco più interessante tenendo il punteggio.
 
 + Per tenere il punteggio del giocatore, ti serve un posto dove collocarlo. Una __variabile__ è un posto dove conservare i dati che possono cambiare, proprio come un punteggio.
 
-	Per creare una nuova variabile, clicca sulla scheda 'Scripts', seleziona `Variabili e liste` {.blockdata} e poi clicca 'Crea una Variabile'.
+	Per creare una nuova variabile, clicca sulla scheda 'Scripts', seleziona `Variabili e liste`{:class="blockdata"} e poi clicca 'Crea una Variabile'.
 
 	![screenshot](images/ghost-score.png)
 
-	Digita 'punteggio' nel nome della variabile, assicurati che sia disponibile per tutti gli sprite e clicca 'OK' per crearla. Vedrai dunque tanti blocchi di codici che possono esere usati con la tua variabile `punteggio` {.blockdata}.
+	Digita 'punteggio' nel nome della variabile, assicurati che sia disponibile per tutti gli sprite e clicca 'OK' per crearla. Vedrai dunque tanti blocchi di codici che possono esere usati con la tua variabile `punteggio`{:class="blockdata"}.
 
 	![screenshot](images/ghost-variable.png)
 
