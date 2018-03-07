@@ -10,5 +10,5 @@
 
 --- challenge ---
 ## Sfida: Ancora casualità
-Puoi fare in modo che il tuo fantasma `attendi` {.blockcontrol} un periodo di tempo casuale prima di apparire? Puoi usare il blocco `porta dimensione` {.blocklooks} per dare al tuo fantasma una misura casuale ogni volta che appare?
+Puoi fare in modo che il tuo fantasma `attendi`{:class="blockcontrol"} un periodo di tempo casuale prima di apparire? Puoi usare il blocco `porta dimensione`{:class="blocklooks"} per dare al tuo fantasma una misura casuale ogni volta che appare?
 --- /challenge ---
