@@ -24,7 +24,7 @@ Vous pouvez rendre votre jeu encore plus intéressant en limitant chaque partie 
     	stop [tout v]
 	```
 
-	Voici comment vous pouvez ajouter le code `répéter jusqu’à`{.blockcontrol}`temps`{.blockdata}`= 0`{.blockoperators} :
+	Voici comment vous pouvez ajouter le code `répéter jusqu’à`{:class="blockcontrol"}`temps`{:class="blockdata"}`= 0`{:class="blockoperators"} :
 
 	![screenshot](images/ghost-timer-help.png)
 
