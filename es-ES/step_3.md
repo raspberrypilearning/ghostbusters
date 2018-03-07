@@ -2,7 +2,7 @@
 
 ¡Tu fantasma es muy fácil de atrapar, porque no se mueve!
 
-+ En lugar de quedarse en la misma posición, puedes hacer que Scratch elija coordinadas x e y al azar. Añade un bloque `ir a` {.blockmotion} al código de tu fantasma, para que sea como éste:
++ En lugar de quedarse en la misma posición, puedes hacer que Scratch elija coordinadas x e y al azar. Añade un bloque `ir a`{:class="blockmotion"} al código de tu fantasma, para que sea como éste:
 
 	```blocks
 		al presionar bandera verde
@@ -19,5 +19,5 @@
 
 --- challenge ---
 ## Desafío: Más aleatoriedad
-¿Puedes hacer que tu fantasma `espere` {.blockcontrol} un intervalo de tiempo al azar antes de aparecer? ¿Puedes usar el bloque `fijar tamaño ` {.blocklooks} para hacer que el tamaño de tu fantasma cambie al azar cada vez que aparezca?
+¿Puedes hacer que tu fantasma `espere`{:class="blockcontrol"} un intervalo de tiempo al azar antes de aparecer? ¿Puedes usar el bloque `fijar tamaño`{:class="blocklooks"} para hacer que el tamaño de tu fantasma cambie al azar cada vez que aparezca?
 --- /challenge ---
