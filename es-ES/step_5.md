@@ -2,8 +2,6 @@
 
 Vamos a hacer las cosas más interesantes con un contador de puntos.
 
-## Lista de tareas de la actividad { .check }
-
 + Para contar la puntuación del jugador, necesitas un sitio donde ponerla. Una __variable__ es un sitio para almacenar información que cambia, como la puntuación.
 
 	Para crear una nueva variable, haz clic en la pestaña “Programas”, selecciona `Datos` {.blockdata} y a continuación haz clic en “Crear una Variable”.
