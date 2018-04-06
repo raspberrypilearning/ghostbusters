@@ -8,11 +8,15 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: codeclub, scratch
-steps:
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2018-01-01
+steps: 
 - title: Introducción
 - title: Animar un fantasma
 - title: Fantasmas aleatorios
@@ -20,4 +24,3 @@ steps:
 - title: Añadir puntuación
 - title: Añadir un cronómetro
 - title: "Desafío: Más objetos"
-

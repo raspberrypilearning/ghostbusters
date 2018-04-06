@@ -8,11 +8,15 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: codeclub, scratch
-steps:
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2018-01-01
+steps: 
 - title: Einführung
 - title: Ein Gespenst bewegen
 - title: Zufällige Position
@@ -20,4 +24,3 @@ steps:
 - title: Einen Punktestand hinzufügen
 - title: Eine Uhr hinzufügen
 - title: "Herausforderung: Mehr Figuren"
-

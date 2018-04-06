@@ -8,16 +8,19 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: codeclub, scratch
-steps:
-- title: Cyflwyniad 
-- title: Animeiddio ysbryd 
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2018-01-01
+steps: 
+- title: Cyflwyniad
+- title: Animeiddio ysbryd
 - title: Ysbrydion ar hap
 - title: Dal ysbrydion
 - title: Ychwanegu sgôr
 - title: Ychwanegu amserydd
 - title: 'Her: Mwy o wrthrychau'
-
