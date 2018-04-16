@@ -39,12 +39,18 @@ And this is how to create the `time = 0` block:
 --- task ---
 
 Ask a friend to test your game. How many points can they score?
-	
+
+--- /task ---
+
+--- task ---
+
 If your game is too easy, you can:
 
 + Give the player less time
 + Make the ghosts appear less often
 + Make the ghosts smaller
+
+--- task ---
 
 Change and test your game a few times until you're happy that it's the right level of difficulty.
 

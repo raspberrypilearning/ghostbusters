@@ -14,9 +14,9 @@ Create a new variable called 'score'.
 
 Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-     Each time a player clicks on a ghost, their score should increase.
+Each time a player clicks on a ghost, their score should increase.
 
-    ![Increasing score](images/ghost-score-test.png)
+![Increasing score](images/ghost-score-test.png)
 
 --- hints ---
 --- hint ---
