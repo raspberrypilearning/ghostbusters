@@ -2,11 +2,17 @@
 
 Let's make things more interesting by keeping score!
 
-+ Create a new variable called 'score'.
+--- task ---
+
+Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+--- /task ---
+
+--- task ---
+
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
      Each time a player clicks on a ghost, their score should increase.
 
@@ -25,3 +31,6 @@ Here's how to score points by clicking ghosts:
 ![screenshot](images/ghost-score-code.png)
 --- /hint ---
 --- /hints ---
+
+--- /task ---
+

@@ -1,10 +1,16 @@
 ## Animating a ghost
 
-+ Open a new empty Scratch project.
+--- task ---
+
+Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
-+ Add in a new ghost sprite and a suitable stage backdrop.
+--- /task ---
+
+--- task ---
+
+Add in a new ghost sprite and a suitable stage backdrop.
 
 	![screenshot](images/ghost-ghost.png)
 
@@ -12,7 +18,11 @@
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
+--- /task ---
+
+--- task ---
+
+Add code to your ghost so that it appears and disappears forever when you click the flag. 
 
 --- hints ---
 --- hint ---
@@ -28,4 +38,13 @@ This is what your code should look like:
 --- /hint ---
 --- /hints ---
 
+--- /task ---
+
+--- task ---
+
+Test and save your project.
+
 [[[generic-scratch-saving]]]
+
+--- /task ---
+
