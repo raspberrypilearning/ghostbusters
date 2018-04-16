@@ -2,7 +2,9 @@
 
 Your ghost is really easy to catch at the moment, because it doesn't move!
 
-+ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+--- task ---
+
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
 --- hints ---
 --- hint ---
@@ -22,6 +24,8 @@ Or it can look like this:
 ![screenshot](images/ghost-random-code-2.png)
 --- /hint ---
 --- /hints ---
+
+--- /task ---
 
 --- challenge ---
 ## Challenge: more randomness

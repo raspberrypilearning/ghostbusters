@@ -1,15 +1,21 @@
 ## Adding a timer
 
-+ Create a new variable called 'time'.
+--- task ---
 
-+ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Create a new variable called 'time'.
 
-	 Your timer should:
+--- /task ---
 
-	+ Start at 10 seconds
-	+ Count down every second
-	
-	The game should stop when the timer gets to 0.
+--- task ---
+
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+
+Your timer should:
+
++ Start at 10 seconds
++ Count down every second
+
+The game should stop when the timer gets to 0.
 
 --- hints ---
 --- hint ---
@@ -28,12 +34,22 @@ And this is how to create the `time = 0` block:
 --- /hint ---
 --- /hints ---
 
-+ Ask a friend to test your game. How many points can they score?
-	
-	If your game is too easy, you can:
+--- /task ---
 
-	+ Give the player less time
-	+ Make the ghosts appear less often
-	+ Make the ghosts smaller
+--- task ---
 
-	Change and test your game a few times until you're happy that it's the right level of difficulty.
+Ask a friend to test your game. How many points can they score?
+
+--- /task ---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+--- task ---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
+
+--- /task ---
