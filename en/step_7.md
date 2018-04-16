@@ -42,8 +42,6 @@ Ask a friend to test your game. How many points can they score?
 
 --- /task ---
 
---- task ---
-
 If your game is too easy, you can:
 
 + Give the player less time
