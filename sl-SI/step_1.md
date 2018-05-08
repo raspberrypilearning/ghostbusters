@@ -1,0 +1,58 @@
+## Uvod
+
+Nastopili boste z duhovi!
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
+  <img src="images/ghost-final.png">
+</div>
+
+Če želite natisniti ta projekt, uporabite [Tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+## \--- propad \---
+
+## naslov: Opombe vodje kluba
+
+## Uvod:
+
+V tem projektu se bodo otroci naučili, kako uporabljati spremenljivke za shranjevanje podatkov v svojih programih.
+
+## Viri
+
+Za ta projekt je treba uporabiti Scratch 2. Scratch 2 lahko uporabljate v spletu na naslovu [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ali ga lahko prenesete iz [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) in uporabljate brez povezave.
+
+Dokončano različico tega projekta najdete [na spletu](http://scratch.mit.edu/projects/60787262/#editor)ali pa ga lahko prenesete s klikom na povezavo »Projektni materiali« za ta projekt, ki vsebuje:
+
+* Ghostbusters.sb2
+
+## Učni cilji
+
+* Spremenljivke;
+* Naključne številke.
+
+Ta projekt zajema elemente iz naslednjih smernic [učnega načrta za izdelavo digitalnega diska](http://rpf.io/curriculum):
+
+* [Za izdelavo preprostih programov uporabite osnovne programske konstrukte.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+## Challenges
+
+* "More randomness" - using random numbers;
+* "Adding a sound" - consolidating the learning of sounds;
+* "More objects" - applying skills to create another game object.
+
+## Frequently Asked Questions
+
+* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+
+![screenshot](images/ghost-fullscreen.png)
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Project materials
+
+## Club leader resources
+
+* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
