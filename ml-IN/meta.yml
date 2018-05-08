@@ -1,0 +1,35 @@
+---
+title: ഗോസ്റ്റ്ബസ്റ്ററുകൾ
+hero_image: ചിത്രങ്ങൾ / ghostbusters.png
+description: പ്രേതങ്ങളെ പിടികൂടുന്നതിൽ ഒരു കളി സൃഷ്ടിക്കുക!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: പച്ച നിറം
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: ഗെയിമുകൾ
+technologies: സ്ക്രാച്ച്
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4.0.1
+last_tested: 2018-01-01
+steps:
+  - 
+    title: ആമുഖം
+  - 
+    title: നിങ്ങൾക്ക് എന്ത് വേണം
+  - 
+    title: ഒരു പ്രേതം
+  - 
+    title: ക്രമരഹിതമായ പ്രേതം
+  - 
+    title: പ്രേതം
+  - 
+    title: ഒരു സ്കോർ ചേർക്കുന്നു
+  - 
+    title: ഒരു ടൈമർ ചേർക്കുന്നു
+  - 
+    title: 'വെല്ലുവിളി: കൂടുതൽ വസ്തുക്കൾ'
