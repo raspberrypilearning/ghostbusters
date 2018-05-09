@@ -1,16 +1,16 @@
 ## Ζωντανεύοντας ένα φάντασμα
 
-\--- task \---
+\--- task --
 
-Open a new empty Scratch project.
+Άνοιξε ένα νέο έργο στο Scratch.
 
 [[[generic-scratch-new-project]]]
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Πρόσθεσε ένα νέο αντικείμενο-φάντασμα και ένα κατάλληλο υπόβαθρο σκηνικού.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -20,7 +20,7 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
 Add code to your ghost so that it appears and disappears forever when you click the flag.
 
