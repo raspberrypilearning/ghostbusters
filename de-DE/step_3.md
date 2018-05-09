@@ -22,15 +22,15 @@ Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Füge deinem Geist Code hinzu, so dass er sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Sobald die `grüne Flagge angeklickt wird`, muss sich dein Gespenst `eine Sekunde` lang `verstecken` und sich dann `eine Sekunde` lang `zeigen`. Es muss dies `fortlaufend` tun. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Teste und speichere nun dein Projekt.
 
 [[[generic-scratch-saving]]]
 
