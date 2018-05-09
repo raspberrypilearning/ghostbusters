@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Open a new empty Scratch project.
+Öffne ein neues Scratch-Projekt.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
 
 ![screenshot](images/ghost-ghost.png)
 
