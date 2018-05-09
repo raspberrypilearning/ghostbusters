@@ -22,15 +22,15 @@
 
 \--- task --
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Πρόσθεσε κώδικα στο φάντασμά σου ώστε να εμφανίζεται και να εξαφανίζεται για πάντα όταν κάνεις κλικ στη σημαία. Δοκίμασε και αποθήκευσε το έργο σου.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Μόλις `πατηθεί η πράσινη σημαία`, θα πρέπει να κάνεις το φάντασμα `να εξαφανίζεται` για `ένα δευτερόλεπτο` και στη συνέχεια `να εμφανίζεται` για `ένα δευτερόλεπτο`. Θα πρέπει να επαναλαμβάνει αυτό `για πάντα`. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Έτσι πρέπει να είναι ο κώδικάς σου: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-Test and save your project.
+Δοκίμασε και αποθήκευσε το έργο σου.
 
 [[[generic-scratch-saving]]]
 
