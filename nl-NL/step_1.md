@@ -34,15 +34,15 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 * [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Uitdagingen
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "Meer willekeur" - gebruik willekeurige getallen;
+* "Een geluid toevoegen" - leer over geluiden;
+* "Meer objecten" - vaardigheden toepassen om een ​​ander spelobject te maken.
 
-## Frequently Asked Questions
+## Veelgestelde vragen (faq)
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Als kinderen het moeilijk vinden om op de spoken te klikken zonder ze te verslepen, kunnen ze het spel spelen in de modus voor volledig scherm. Daarin zijn de spoken niet meer versleepbaar.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projectmaterialen
 
-## Club leader resources
+## Clubleider middelen
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Downloadbaar voltooid Scratch 2 project](resources/Ghostbusters.sb2)
+* [ Online voltooid Scratch 2-project ](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---
