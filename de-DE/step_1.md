@@ -36,13 +36,13 @@ Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Makin
 
 ## Challenges
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "Mehr Zufälligkeit" - mit Zufallszahlen;
+* "Einen Klang hinzufügen" - das Wissen über Sounds festigen;
+* "Mehr Objekte" - Erlerntes anwenden, um ein neues Spielobjekt zu gestalten.
 
-## Frequently Asked Questions
+## Häufig Gestellte Fragen
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Wenn Kinder Schwierigkeiten haben, auf die Geister zu klicken, ohne sie herumzuziehen, können sie das Spiel im Vollbildmodus spielen, in dem die Geister sich nicht verschieben lassen.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@ Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Makin
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektmaterialien
 
-## Club leader resources
+## Ressourcen für Gruppenleiter
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters.sb2)
+* [vollständiges Scratch 2-Projekt Online](http://scratch.mit.edu/projects/60787262/#editor)
