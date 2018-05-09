@@ -30,7 +30,7 @@ Voeg code toe aan je spook zodat die steeds weer verschijnt en verdwijnt als je 
 
 \--- task \---
 
-Test and save your project.
+Test en bewaar jouw project.
 
 [[[generic-scratch-saving]]]
 
