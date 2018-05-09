@@ -55,4 +55,4 @@ title: Projectmaterialen
 ## Clubleider middelen
 
 * [Downloadbaar voltooid Scratch 2 project](resources/Ghostbusters.sb2)
-* [ Online voltooid Scratch 2-project ](http://scratch.mit.edu/projects/60787262/#editor) --- / collapse ---
+* [ Online voltooid Scratch 2-project ](http://scratch.mit.edu/projects/60787262/#editor) --- /collapse ---
