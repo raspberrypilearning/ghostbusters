@@ -24,7 +24,7 @@ Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
 Voeg code toe aan je spook zodat die steeds weer verschijnt en verdwijnt als je op de vlag klikt.
 
-\--- hints \--- \--- hint \--- Wanneer op de `groene vlag is geklikt`, moet je spook `een seconde verdwijnen` en dan `een seconde zichtbaar worden`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Wanneer op de `groene vlag is geklikt`, moet je spook `een seconde verdwijnen` en dan `een seconde zichtbaar worden`. Dit zal steeds moeten ` herhalen `. \--- /hint \--- \--- hint \--- Dit zijn de blokken die je nodig hebt: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Zo zou het programma eruit moeten zien: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
