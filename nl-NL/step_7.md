@@ -17,7 +17,7 @@ Je timer zou:
 
 Het spel zou moeten stoppen als de timer op 0 komt.
 
---- hints --- --- hint --- `Als op de groene vlag is geklikt`, zou de variabele `time` op `10` moeten staan. Door blok ` verander time met -1 ` wordt er afgeteld ` totdat 0 bereikt is `. --- /hint --- --- hint --- Hier zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- Hier zie je hoe je de timer in je spel kunt voegen: ![screenshot](images/ghost-timer-code.png)
+--- hints --- --- hint --- `Als op de groene vlag is geklikt`, zou de variabele `time` op `10` moeten staan. Door blok `verander time met -1` wordt er afgeteld `totdat 0 bereikt is`. --- /hint --- --- hint --- Hier zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- Hier zie je hoe je de timer in je spel kunt voegen: ![screenshot](images/ghost-timer-code.png)
 
 En zo maak je het `time = 0` blok: ![screenshot](images/ghost-timer-help.png) --- /hint --- --- /hints ---
 
