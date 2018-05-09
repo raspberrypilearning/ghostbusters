@@ -34,15 +34,15 @@
 
 * [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Προκλήσεις
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "Περισσότερη τυχαιότητα" - χρησιμοποιώντας τυχαίους αριθμούς.
+* "Προσθέτοντας ένα ήχο" - εμπεδώνοντας την μάθηση των ήχων.
+* "Περισσότερα αντικείμενα" - εφαρμόζοντας δεξιότητες για τη δημιουργία ενός άλλου αντικειμένου παιχνιδιού.
 
-## Frequently Asked Questions
+## Συχνές Ερωτήσεις
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Αν τα παιδιά δυσκολεύονται να κάνουν κλικ στα φαντάσματα χωρίς να τα σέρνουν, μπορούν να παίξουν το παιχνίδι σε λειτουργία πλήρους οθόνης, στην οποία τα φαντάσματα δε σύρονται.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Υλικά του έργου
 
-## Club leader resources
+## Πόροι συντονιστή ομάδας
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Λήψη ολοκληρωμένου έργου Scratch 2](resources/Ghostbusters.sb2)
+* [Online Ολοκληρωμένο έργο Scratch 2](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
