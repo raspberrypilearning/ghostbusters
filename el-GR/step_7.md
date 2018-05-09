@@ -1,42 +1,42 @@
 ## Προσθέτοντας ένα χρονόμετρο
 
-\--- task \---
+\--- task --
 
-Create a new variable called 'time'.
-
-\--- /task \---
-
-\--- task \---
-
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
-
-Your timer should:
-
-+ Start at 10 seconds
-+ Count down every second
-
-The game should stop when the timer gets to 0.
-
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
-
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Δημιούργησε μία νέα μεταβλητή που ονομάζεται 'χρόνος'.
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-Ask a friend to test your game. How many points can they score?
+Μπορείς να προσθέσεις ένα χρονόμετρο στο Σκηνικό σου για να δώσεις στον παίκτη σου μόνο 10 δευτερόλεπτα για να πιάσει όσα περισσότερα φαντάσματα είναι δυνατόν;
+
+Το χρονόμετρό σου πρέπει να:
+
++ Ξεκινά από 10 δευτερόλεπτα
++ Μετρά κάθε δευτερόλεπτο
+
+Το παιχνίδι πρέπει να σταματά όταν το χρονόμετρο φτάσει στο 0.
+
+\--- hints \--- \--- hint \--- `Όταν η πράσινη σημαία πατηθεί`, η μεταβλητή `χρόνος` πρέπει να `οριστεί στο 10`. Θα πρέπει στη συνέχεια `να αλλάζει κατά -1` κάθε δευτερόλεπτο `μέχρι να φτάσει στο 0`. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Να πως θα προσθέσεις το χρονόμετρο στο παιχνίδι σου: ![screenshot](images/ghost-timer-code.png)
+
+Και να πως θα δημιουργήσεις το μπλοκ `χρόνος = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-If your game is too easy, you can:
+\--- task --
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
+Ζήτησε από έναν φίλο να δοκιμάσει το παιχνίδι σου. Πόσους πόντους μπορεί να κερδίσει;
 
-\--- task \---
+\--- /task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Αν το παιχνίδι σου είναι πολύ εύκολο, μπορείς να:
+
++ Δώσεις στον παίκτη λιγότερο χρόνο
++ Κάνεις τα φαντάσματα να φαίνονται λιγότερο συχνά
++ Κάνεις τα φαντάσματα μικρότερα
+
+\--- task --
+
+Άλλαξε και δοκίμασε το παιχνίδι σου μερικές φορές μέχρι να είσαι ευχαριστημένος ότι είναι το σωστό επίπεδο δυσκολίας.
 
 \--- /task \---
