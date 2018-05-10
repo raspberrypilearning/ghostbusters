@@ -4,13 +4,13 @@ Laissons le joueur d'attraper des fantômes!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Pouvez-vous faire disparaître votre fantôme quand il a été attrapé?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Vous devriez être capable de cliquer sur les fantômes pour les attraper. Si vous en trouvez difficile de l'attraper, vous pouvez jouer au jeu en mode plein écran en cliquant sur ce bouton :
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Lorsqu'il est cliqué`, votre sprite fantôme devrait `se cacher`. \--- /hint \--- \--- hint \--- Votre code devrait ressembler à ceci : ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
