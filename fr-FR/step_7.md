@@ -2,41 +2,41 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Créer une nouvelle variable appelée « temps ».
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Pouvez-vous ajouter un chronomètre à votre scène pour donner à votre joueur seulement 10 secondes pour attraper autant de fantômes que possible ?
 
-Your timer should:
+Votre chronomètre devrait :
 
-+ Start at 10 seconds
-+ Count down every second
++ Commencer après 10 secondes
++ Compte à rebours toutes les secondes
 
-The game should stop when the timer gets to 0.
+Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Quand le drapeau vert est cliqué`, votre variable de `temps` devrait `se mettre à 10`. Il devrait alors `se modifier par -1` chaque seconde `jusqu'à ce qu'il atteigne 0` . \--- /hint \--- \--- hint \--- Voici les blocs de code dont vous aurez besoin: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Voici comment ajouter le chronomètre à votre jeu : ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Et voici comment créer le bloc de `temps = 0` : ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Demandez à un ami de tester votre jeu. Combien de points peuvent-ils marquer ?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Si votre jeu est trop facile, vous pouvez :
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Donner au joueur moins de temps
++ Faire apparaître les fantômes moins souvent
++ Rendre les fantômes plus petits
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Modifier et tester votre jeu à quelques reprises jusqu'à ce que vous êtes heureux que c’est le bon niveau de difficulté.
 
 \--- /task \---
