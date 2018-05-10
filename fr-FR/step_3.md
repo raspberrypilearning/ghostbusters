@@ -22,15 +22,15 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Ajoutez du code à votre fantôme afin qu'il apparaisse et disparaisse pour toujours lorsque vous cliquez sur le drapeau.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Lorsque `vous cliquez sur le drapeau vert`, vous devrez `faire disparaître` votre fantôme pour `une seconde` et puis le `faire apparaître` pour `une seconde`. Ceci doit être répété `indéfiniment`. \--- /hint \--- \--- hint \--- Voici les blocs de code dont vous aurez besoin: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Votre code devrait ressembler à ceci: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Teste et sauvegarde ton projet.
 
 [[[generic-scratch-saving]]]
 
