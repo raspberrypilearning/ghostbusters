@@ -34,15 +34,15 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 * [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Défis
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* « Plus aléatoire » - utiliser des nombres aléatoires ;
+* « Ajouter un son » - consolider l’apprentissage des sons ;
+* « Plus d’objets » - appliquer les compétences afin de créer un autre objet de jeu.
 
-## Frequently Asked Questions
+## Foire aux questions
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Si les enfants ont du mal à cliquer sur les fantômes sans les traîner, ils peuvent jouer en mode plein écran, dans lequel on ne peut pas draguer les fantômes.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Matériaux du projet
 
-## Club leader resources
+## Ressources pour le responsable de club
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Projet Scratch 2 complète à télécharger](resources/Ghostbusters.sb2)
+* [Projet Scratch 2 complète en ligne](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
