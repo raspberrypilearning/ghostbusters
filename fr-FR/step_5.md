@@ -16,6 +16,6 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 
 \--- challenge \---
 
-## Défi : ajouter un son
+## Challenge: ajouter un son
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Pouvez-vous faire que votre fantôme fasse un son chaque fois qu'il est attrapé ? \--- /challenge \---
