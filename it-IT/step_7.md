@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Crea una nuova variabile chiamata 'tempo'.
 
 \--- /task \---
 
