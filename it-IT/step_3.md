@@ -22,7 +22,7 @@ Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
 
 \--- task \---
 
-Aggiungi dei codici al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
+Aggiungi dei blocchi al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
 
 \--- hints \--- \--- hint \--- `Quando clicchi su ⚑`, dovrai fare in modo che il tuo fantasma `sparisca` per `un secondo` e poi `ricompaia` per `un secondo`. Dovrà fare ciò `per sempre`. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
