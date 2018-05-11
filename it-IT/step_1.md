@@ -34,15 +34,15 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 * [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Sfide
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* “Ancora casualità” - usare numeri a caso;
+* “Aggiungere un suono” - consolidare l’apprendimento dei suoni;
+* "Altri oggetti” - applicare le conoscenze ottenute per creare altri oggetti all'interno del gioco.
 
-## Frequently Asked Questions
+## Domande più frequenti
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Se i bambini trovano difficile cliccare sui fantasmi senza trascinarli, possono giocare in modalità a schermo intero, dove i fantasmi non sono trascinabili.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali del progetto
 
-## Club leader resources
+## Risorse per gli organizzatori del club
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Progetto Scratch 2 completo scaricabile](resources/Ghostbusters.sb2)
+* [Progetto Scratch 2 completo online](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
