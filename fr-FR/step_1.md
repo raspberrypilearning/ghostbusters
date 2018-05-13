@@ -30,7 +30,7 @@ Vous pouvez trouver une version complète de ce projet [en ligne](http://scratch
 * Variables;
 * Nombres aléatoires.
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
