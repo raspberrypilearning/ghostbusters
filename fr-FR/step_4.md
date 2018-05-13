@@ -14,4 +14,4 @@ Peux-tu ajouter du code à ton fantôme de sorte que, au lieu de rester dans la 
 
 ## Challenge : plus aléatoire
 
-Pouvez-vous `faire attendre` votre fantôme pour une quantité aléatoire de temps avant d'apparaître? Pouvez-vous utiliser le bloc `mettre à la taille` pour rendre votre fantôme une taille aléatoire chaque fois qu'il apparaît? \--- /challenge \---
+Peux-tu faire `attendre` ton fantôme pour une quantité aléatoire de temps avant de se montrer? Peux-tu utiliser le bloc `ajouter__ à la taille` pour rendre ton fantôme une taille aléatoire chaque fois qu'il apparaît? \--- /challenge \---
