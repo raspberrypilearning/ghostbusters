@@ -28,7 +28,7 @@ Vous pouvez trouver une version complète de ce projet [en ligne](http://scratch
 ## Objectifs d'apprentissage
 
 * Variables;
-* Random numbers.
+* Nombres aléatoires.
 
 Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
 
