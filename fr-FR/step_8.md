@@ -5,7 +5,7 @@
 
 \--- challenge \---
 
-## Défi : plus d'objets
+## Challenge : plus d'objets
 
 Pouvez-vous ajouter d'autres objets à votre jeu ?
 
