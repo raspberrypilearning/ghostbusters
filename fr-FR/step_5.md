@@ -10,7 +10,7 @@ Tu dois être capable de cliquer sur les fantômes pour les attraper. Si tu le t
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Quand ce lutin est cliqué`, ton lutin fantôme devrait se `cacher`. \--- /hint \--- \--- hint \--- Votre code devrait ressembler à ceci : ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Quand ce lutin est cliqué`, ton lutin fantôme devrait se `cacher`. \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci : ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
@@ -18,4 +18,4 @@ Tu dois être capable de cliquer sur les fantômes pour les attraper. Si tu le t
 
 ## Challenge: ajouter un son
 
-Pouvez-vous faire que votre fantôme fasse un son chaque fois qu'il est attrapé ? \--- /challenge \---
+Peux-tu faire que ton fantôme joue un son chaque fois qu'il est attrapé ? \--- /challenge \---
