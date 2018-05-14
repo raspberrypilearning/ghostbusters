@@ -11,7 +11,7 @@
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Нотатки керівника
 
 ## Introduction:
 
