@@ -19,16 +19,16 @@
 
 ## Ресурси
 
-Для цього проекту використовуйте Scratch 2. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+Для цього проекту використовуйте Scratch 2. Можна користуватись Scratch 2 онлайн на [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on)або завантажити на[jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) і використовувати офлайн.
 
-You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+Повну версію цього проекту ви можете знайти [онлайн](http://scratch.mit.edu/projects/60787262/#editor), або завантажитиза посиланням "Матеріали проекту", яке містить:
 
 * Ghostbusters.sb2
 
-## Learning Objectives
+## Цілі навчання
 
 * Variables;
-* Random numbers.
+* Випадкові числа.
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
