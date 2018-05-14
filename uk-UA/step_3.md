@@ -12,7 +12,7 @@
 
 Додайте нового привида і фон сцени.
 
-![screenshot](images/ghost-ghost.png)
+![скріншот](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
@@ -24,13 +24,13 @@
 
 Додайте код, щоб привид з'являвся і зникав назавжди при натисканні на прапор.
 
-\--- hints \--- \--- hint \--- Коли ви `настиснули зелений прапорець`, вам потрібно змусити вашого привида `зникнути`на `одну секунду`, а потім знову `з'явитись` на `одну секунду`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Коли ви `настиснули зелений прапорець`, вам потрібно змусити вашого привида `зникнути`на `одну секунду`, а потім знову `з'явитись` на `одну секунду`. Він має робити це `завжди`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам знадобляться: ![screenshot](images/ghost-appear-blocks.png)\--- /hint \--- \--- hint \---Так має виглядати ваш код:![screenshot](images/ghost-appear-code.png)\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Протестуйте та збережіть свій проект.
 
 [[[generic-scratch-saving]]]
 
