@@ -34,25 +34,25 @@
 
 * [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Завдання
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "Більше випадковості" - використання випадкових чисел;
+* "Додавання звуку" - об'єднання вивчення звуків;
+* "Більше об'єктів" - застосування умінь для створення ще одного об'єкта гри.
 
-## Frequently Asked Questions
+## Найбільш поширенні питання
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Якщо дітям важко натиснути на привидів, не перетягуючи їх навколо, вони можуть грати в гру в повноекранному режимі, в якому привиди не перетягуються.
 
-![screenshot](images/ghost-fullscreen.png)
+![скріншот](images/ghost-fullscreen.png)
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Матеріали проекту
 
-## Club leader resources
+## Ресурси лідера клубу
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Повний проект Scratch 2 для завантаження](resources/Ghostbusters.sb2)
+* [Виконаний онлайн проект Scratch 2](http://scratch.mit.edu/projects/60787262/#editor)\--- /collapse \---
