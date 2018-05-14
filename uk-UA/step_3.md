@@ -1,8 +1,8 @@
-## Animating a ghost
+## Анімація привида
 
 \--- task \---
 
-Open a new empty Scratch project.
+Відкрийте новий порожній проект Scratch.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Додайте нового привида і фон сцени.
 
 ![screenshot](images/ghost-ghost.png)
 
