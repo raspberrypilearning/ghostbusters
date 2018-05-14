@@ -13,7 +13,7 @@
 
 ## title: Нотатки керівника
 
-## Introduction:
+## Вступ:
 
 У цьому проекті діти навчаться використовувати змінні для зберігання даних у своїх програмах.
 
@@ -27,12 +27,12 @@
 
 ## Цілі навчання
 
-* Variables;
+* Змінні;
 * Випадкові числа.
 
 Цей проект охоплює елементи з наступними стандартами [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Використайте основні конструкції для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Завдання
 
