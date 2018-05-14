@@ -22,9 +22,9 @@
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Додайте код, щоб привид з'являвся і зникав назавжди при натисканні на прапор.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Коли ви `настиснули зелений прапорець`, вам потрібно змусити вашого привида `зникнути`на `одну секунду`, а потім знову `з'явитись` на `одну секунду`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
