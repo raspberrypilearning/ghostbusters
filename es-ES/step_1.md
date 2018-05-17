@@ -34,15 +34,15 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 * [Usa estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafíos
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "Más aleatoriedad": usando números aleatorios;
+* "Añadiendo un sonido" - consolidando el aprendizaje de sonidos;
+* "Más objetos" - usando habilidades para crear otro objeto del juego.
 
-## Frequently Asked Questions
+## Preguntas frecuentes
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Si los alumnos tienen problemas al hacer click en los fantasmas sin arrastrarlos, pueden jugar en modo pantalla completa, enel que los fantasmas no se pueden arrastrar.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Club leader resources
+## Material para el líder del club
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Proyecto de Scratch 2 acabado para descargar](resources/Ghostbusters.sb2)
+* [Proyecto de Scratch 2 acabado online](http://scratch.mit.edu/projects/60787262/#editor)\--- /collapse \---
