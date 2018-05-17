@@ -17,7 +17,7 @@ Dein Timer sollte:
 
 Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
-\--- hints \--- \--- hint \--- `Wenn die grüne Flagge geklickt wird`, sollte deine `Zeit`-Variable auf `10 gesetzt werden`. Sie sollte dann jede Sekunde `um -1 geändert` werden `bis sie 0 erreicht`. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die Du brauchen wirst: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- So fügst Du deinem Spiel den Timer hinzu: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Wenn die grüne Flagge geklickt wird`, sollte deine `Zeit`-Variable auf `10 gesetzt werden`. Sie sollte dann jede Sekunde `um -1 geändert` werden `bis sie 0 erreicht`. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- So fügst du deinem Spiel den Timer hinzu: ![screenshot](images/ghost-timer-code.png)
 
 Und so machst du den `Zeit = 0` Block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
