@@ -30,7 +30,7 @@ Añade código a tu fantasma para que aparezca y desaparezca siempre después de
 
 \--- task \---
 
-Test and save your project.
+Prueba y guarda tu proyecto.
 
 [[[generic-scratch-saving]]]
 
