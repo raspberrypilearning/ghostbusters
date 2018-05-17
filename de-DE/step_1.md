@@ -19,7 +19,7 @@ In diesem Projekt lernen Kinder, wie sie Variablen verwenden, um Daten in ihren 
 
 ## Ressourcen
 
-Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [jumpto.cc/scratch-on{:target="_blank"}](http://jumpto.cc/scratch-on) verwendet werden oder unter [ jumpto.cc/scratch-off{:target="_blank"}](http://jumpto.cc/scratch-off) heruntergeladen und offline benutzt werden.
+Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) verwendet werden oder unter [ jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) heruntergeladen und offline benutzt werden.
 
 Sie finden eine vollständige Version dieses Projekts [ online ](http://scratch.mit.edu/projects/60787262/#editor) oder zum Download unter dem Link "Projektmaterialien" für dieses Projekt, der Folgendes enthält:
 
