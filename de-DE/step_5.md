@@ -6,7 +6,7 @@ Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
 
 Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde?
 
-Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig ist, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
+Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
 
 ![screenshot](images/ghost-fullscreen.png)
 
