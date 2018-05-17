@@ -42,7 +42,7 @@ Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Makin
 
 ## Häufig Gestellte Fragen
 
-* Wenn Kinder Schwierigkeiten haben, auf die Geister zu klicken, ohne sie herumzuziehen, können sie das Spiel im Vollbildmodus spielen, in dem die Geister sich nicht verschieben lassen.
+* Wenn Kinder Schwierigkeiten haben, auf die Geister zu klicken, ohne sie herumzuziehen, können sie das Spiel im Vollbildmodus spielen, in dem sich die Geister nicht verschieben lassen.
 
 ![screenshot](images/ghost-fullscreen.png)
 
