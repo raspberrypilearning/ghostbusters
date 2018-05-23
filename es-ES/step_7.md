@@ -13,30 +13,30 @@ Crea una nueva variable llamada 'tiempo'.
 Tu temporizador debe:
 
 + Comenzar en 10 segundos
-+ Count down every second
++ Contar atrás cada segundo
 
-The game should stop when the timer gets to 0.
+El juego debería detenerse cuando el temporizador llegue a 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Cuando se hace clic en la bandera verde`, tu variable `tiempo` se debería `poner a 10`. Entonces debería `cambiar en -1` cada segundo `hasta que llegue a 0`. \--- /hint \--- \--- hint \--- Aquí tienes los bloques de código que necesitarás usar: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Así añades el temporizador a tu juego: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Y así se crea el bloque para `tiempo = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Pídele a un amigo que pruebe tu juego. ¿Cuántos puntos puede ganar?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Si tu juego es demasiado fácil, puedes:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Darle menos tiempo al jugador
++ Hacer que los fantasmas aparezcan con menos frecuencia
++ Hacer los fantasmas más pequeños
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Modifica y prueba tu juego varias veces hasta que creas que ahora tiene el nivel de dificultad adecuado.
 
 \--- /task \---
