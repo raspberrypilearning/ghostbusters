@@ -6,16 +6,16 @@
 
 ¿Puedes hacer que tu fantasma desaparezca cuando es atrapado?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Deberías poder hacer clic en los fantasmas para atraparlos. Si encuentras que la captura es difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Al hacer clic en ella`, la figura de tu fantasma se debería `ocultar`. \--- /hint \--- \--- hint \--- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: añadir un sonido
+## Desafío: añadir un sonido
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+¿Puedes conseguir que tu fantasma haga un sonido cada vez que es atrapado? \--- /challenge \---
