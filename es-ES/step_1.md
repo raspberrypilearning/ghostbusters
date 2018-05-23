@@ -36,13 +36,13 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Desafíos
 
-* "Más aleatoriedad": usando números aleatorios;
+* "Más aleatoriedad" - usando números aleatorios;
 * "Añadiendo un sonido" - consolidando el aprendizaje de sonidos;
 * "Más objetos" - usando habilidades para crear otro objeto del juego.
 
 ## Preguntas frecuentes
 
-* Si los alumnos tienen problemas al hacer click en los fantasmas sin arrastrarlos, pueden jugar en modo pantalla completa, enel que los fantasmas no se pueden arrastrar.
+* Si los alumnos tienen problemas al hacer clic en los fantasmas sin arrastrarlos, pueden jugar en modo pantalla completa, en el que los fantasmas no se pueden arrastrar.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -52,7 +52,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## title: Materiales del proyecto
 
-## Material para el líder del club
+## Recursos para el líder del club
 
 * [Proyecto de Scratch 2 acabado para descargar](resources/Ghostbusters.sb2)
-* [Proyecto de Scratch 2 acabado online](http://scratch.mit.edu/projects/60787262/#editor)\--- /collapse \---
+* [Proyecto de Scratch 2 acabado en línea](http://scratch.mit.edu/projects/60787262/#editor)\--- /collapse \---
