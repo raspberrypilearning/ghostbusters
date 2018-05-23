@@ -2,17 +2,17 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Crea una nueva variable llamada 'tiempo'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+¿Puedes añadir un temporizador a tu escenario para darle a tu jugador solo 10 segundos para atrapar tantos fantasmas como sea posible?
 
-Your timer should:
+Tu temporizador debe:
 
-+ Start at 10 seconds
++ Comenzar en 10 segundos
 + Count down every second
 
 The game should stop when the timer gets to 0.
