@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Create a new variable called 'score'.
+Crea una nueva variable llamada 'puntuación'.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,9 +12,9 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deben ganar puntos haciendo clic en los fantasmas para atraparlos.
 
-Each time a player clicks on a ghost, their score should increase.
+Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
 
 ![Increasing score](images/ghost-score-test.png)
 
