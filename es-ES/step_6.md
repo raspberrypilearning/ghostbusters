@@ -16,8 +16,8 @@ Crea una nueva variable llamada 'puntuación'.
 
 Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
 
-![Increasing score](images/ghost-score-test.png)
+![Incrementar la puntuación](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Cuando se hace clic en la bandera verde`, tu variable `puntuación` se debería `poner a 0`. El escenario es el mejor lugar para añadir este código. `Cuando se hace clic en la figura del fantasma`, la `puntuación` se debería `incrementar en 1`. \--- /hint \--- \--- hint \--- Estos son los bloques de código que necesitarás usar: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Aquí ves como se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
