@@ -1,21 +1,21 @@
-## Catching ghosts
+## Ловимо привидів
 
-Let's allow the player to catch ghosts!
+Давайте дозволимо гравцеві ловити привидів!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Чи можете ваш привид зникнути після того, як ви його зловили?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Ви маєте натискати на привидів, щоб зловити їх. Якщо вам важко, можете грати гру у повноекранному режимі, натиснувши цю кнопку:
 
-![screenshot](images/ghost-fullscreen.png)
+![скріншот](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `При натисканні`, ваш привид повинен `заховатись`. \--- /hint \--- \--- hint \--- Ваш код має виглядати так: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Challenge: додавання звуку
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Чи можете ви зробити так, щоб ваш привид видавав звук, коли його спіймано? \--- /challenge \---
