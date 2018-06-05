@@ -1,0 +1,35 @@
+---
+title: घोस्टबस्टर्स
+hero_image: images / ghostbusters.png
+description: भूत पकडण्याविषयी गेम तयार करा!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: हिरवा
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: 1, डिझाइन -1, प्रोग्रामिंग -1, फेज- comp-0, उत्पादन 0, समुदाय-0
+interests: गेम
+technologies: सुरवातीपासून
+site_areas: प्रकल्प
+hardware: ''
+software: सुरवातीपासून
+version: 4.0.1
+last_tested: 2018-01-01
+steps:
+  - 
+    title: परिचय
+  - 
+    title: आपल्याला काय आवश्यक आहे
+  - 
+    title: एक भूत एनिमेटिंग
+  - 
+    title: अविशिष्ट भुते
+  - 
+    title: प्रेक्षकांना पकडणे
+  - 
+    title: स्कोअर जोडणे
+  - 
+    title: टाइमर जोडणे
+  - 
+    title: 'आव्हान: अधिक वस्तू'
