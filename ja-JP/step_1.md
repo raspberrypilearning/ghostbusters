@@ -34,25 +34,25 @@
 
 * [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## チャレンジ
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "もっとランダムに" - 乱数を使用する。
+* "音を入れる" - 音の入れ方
+* "より多くのオブジェクト" - 学んだ事を使って、別のオブジェクトを作成する
 
-## Frequently Asked Questions
+## よくある質問
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* おばけをドラッグせずにクリックするのが難しい場合、ゲームを全画面表示（ドラッグできないようにする）で遊ぶ事もできます。
 
-![screenshot](images/ghost-fullscreen.png)
+![スクリーンショット](images/ghost-fullscreen.png)
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
-## Club leader resources
+## 指導者用資料
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [完成版Scratch2プロジェクト（ダウンロード）](resources/Ghostbusters.sb2)
+* [完成版Scratch2プロジェクト（オンライン）](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---
