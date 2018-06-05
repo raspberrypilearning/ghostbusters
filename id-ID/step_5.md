@@ -1,21 +1,21 @@
-## Catching ghosts
+## Menangkap hantu
 
-Let's allow the player to catch ghosts!
+Mari kita biarkan pemain menangkap hantu!
 
-\--- task \---
+\--- tugas \---
 
-Can you make your ghost disappear when it's been caught?
+Bisakah Anda membuat hantu Anda menghilang ketika sudah tertangkap?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Anda harus dapat mengklik hantu untuk menangkap mereka. Jika Anda menemukan kesulitan penangkapan, Anda dapat memainkan game dalam mode layar penuh dengan mengklik tombol ini:
 
-![screenshot](images/ghost-fullscreen.png)
+![tangkapan layar](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- petunjuk \--- \--- petunjuk \--- `Ketika diklik`, sprite hantu Anda harus `menyembunyikan`. \--- / hint \--- \--- hint \--- Kode Anda akan terlihat seperti ini: ![screenshot](images/ghost-catch-code.png) \--- / petunjuk \--- \--- / petunjuk \---
 
-\--- /task \---
+\--- /tugas \---
 
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: adding a sound
+## Tantangan: menambahkan suara
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Bisakah Anda membuat hantu Anda membuat suara setiap kali tertangkap? \--- / tantangan \---
