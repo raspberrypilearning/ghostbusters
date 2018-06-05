@@ -56,3 +56,5 @@ title: Projektmaterialien
 
 * [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters.sb2)
 * [vollständiges Scratch 2-Projekt Online](https://scratch.mit.edu/projects/227537779/#editor)
+
+--- /collapse ---
