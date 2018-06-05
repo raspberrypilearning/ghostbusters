@@ -1,17 +1,17 @@
-## Random ghosts
+## Hantu acak
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Hantu Anda sangat mudah ditangkap saat ini, karena tidak bergerak!
 
-\--- task \---
+\--- tugas \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Dapatkah Anda menambahkan kode ke hantu Anda sehingga, alih-alih tetap di posisi yang sama, itu muncul pada posisi acak di layar?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- petunjuk \--- \--- petunjuk \--- Anda ingin hantu Anda untuk `pergi ke` posisi acak di atas panggung sebelum muncul setiap kali. \--- / petunjuk \--- \--- petunjuk \--- Ada dua set blok kode yang dapat Anda gunakan. Yang satu ini: ![screenshot](images/ghost-random-blocks-1.png) Atau yang ini: ![screenshot](images/ghost-random-blocks-2.png) \--- / petunjuk \--- \--- petunjuk \--- Kode Anda harus terlihat seperti ini: ![screenshot](images/ghost-random-code-1.png) Atau dapat terlihat seperti ini: ![screenshot](images/ghost-random-code-2.png) \--- / hint \--- - - / petunjuk \---
 
-\--- /task \---
+\--- /tugas \---
 
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: more randomness
+## Tantangan: lebih banyak keacakan
 
-Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---
+Dapatkah Anda membuat hantu Anda `menunggu` jumlah waktu acak sebelum muncul? Dapatkah Anda menggunakan blok `set ukuran` untuk membuat hantu Anda menjadi ukuran acak setiap kali muncul? \--- / tantangan \---
