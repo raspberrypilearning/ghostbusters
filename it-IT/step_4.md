@@ -1,19 +1,17 @@
-## Acchiappare i fantasmi
+## Fantasmi a caso
 
-Facciamo in modo che il giocatore acchiappi i fantasmi!
+Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
 
-+ Per permettere al giocatore di acchiappare i fantasmi, aggiungi questo codice:
+--- task ---
 
-	```blocks
-		quando si clicca questo sprite
-		nascondi
-	```
+Puoi aggiungere dei codici per fare in modo che il tuo fantasma, invece di stare fermo nello stesso punto, compaia sullo schermo in punti a caso?
 
-+ Prova il tuo progetto. Puoi acchiappare fantasmi man mano che compaiono? Se trovi difficile acchiappare i fantasmi, puoi giocare in modalità schermo intero cliccando questo tasto:
+--- hints --- --- hint --- Hai bisogno che il tuo fantasma `vada` ogni volta in un punto a caso dello schermo prima di comparire. --- /hint --- --- hint --- Puoi usare ben due set di blocchi di codice diversi. Questo: ![screenshot](images/ghost-random-blocks-1.png) O questo: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Il tuo codice dovrebbe apparire così: ![screenshot](images/ghost-random-code-1.png) Oppure così: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-fullscreen.png)
+--- /task ---
 
 --- challenge ---
-## Sfida: Aggiungere un suono
-Puoi riprodurre un suono ogni volta che un fantasma viene acchiappato?
---- /challenge ---
+
+## Sfida: più casualità
+
+Potresti fare in modo che il tuo fantasma `aspetti` per un periodo di tempo casuale prima di comparire? Potresti utilizzare il blocco `porta dimensione` per dare al tuo fantasma una dimensione casuale ogni volta che appare? --- /challenge ---

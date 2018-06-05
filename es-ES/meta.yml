@@ -1,8 +1,8 @@
 ---
 title: Cazafantasmas
 hero_image: images/ghostbusters.png
-description: ¡Aprende a crear un juego caza-fantasmas!
-original_url: https://projects.raspberrypi.org/en/projects/ghostbusters
+description: '¡Haz un juego sobre atrapar fantasmas!'
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
 copyedit: true
@@ -14,13 +14,14 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4
+version: 4.0.1
 last_tested: 2018-01-01
-steps: 
-- title: Introducción
-- title: Animar un fantasma
-- title: Fantasmas aleatorios
-- title: Cazar fantasmas
-- title: Añadir puntuación
-- title: Añadir un cronómetro
-- title: "Desafío: Más objetos"
+steps:
+  - title: Introducción
+  - title: Lo que necesitarás
+  - title: Animando un fantasma
+  - title: Fantasmas aleatorios
+  - title: Atrapando fantasmas
+  - title: Añadir una puntuación
+  - title: Añadir un temporizador
+  - title: 'Desafío: más objetos'

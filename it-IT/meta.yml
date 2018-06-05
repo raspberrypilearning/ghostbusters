@@ -1,8 +1,8 @@
 ---
 title: Ghostbusters
 hero_image: images/ghostbusters.png
-description: Impara a creare un gioco di acchiappa fantasmi!
-original_url: https://projects.raspberrypi.org/en/projects/ghostbusters
+description: Crea un gioco di acchiappa-fantasmi!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
 copyedit: true
@@ -14,13 +14,14 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4
+version: 4.0.1
 last_tested: 2018-01-01
-steps: 
-- title: Introduzione
-- title: Animare un fantasma
-- title: Fantasmi a caso
-- title: Acchiappare i fantasmi
-- title: Aggiungi un punteggio
-- title: Aggiungere un timer
-- title: "Sfida: Altri oggetti"
+steps:
+  - title: Introduzione
+  - title: Di cosa avrai bisogno
+  - title: Animare un fantasma
+  - title: Fantasmi a caso
+  - title: Acchiappare i fantasmi
+  - title: Aggiungere un punteggio
+  - title: Aggiungere un timer
+  - title: 'Sfida: Altri oggetti'

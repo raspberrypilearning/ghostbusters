@@ -1,29 +1,60 @@
-## Einführung
+## Einleitung
 
-Du wirst ein Gespensterjagd-Spiel machen!
+Du wirst ein Geisterjagd-Spiel machen!
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/227537779/?autostart=false" frameborder="0"></iframe>
   <img src="images/ghost-final.png">
 </div>
 
+Falls du dieses Projekt ausdrucken musst, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/ghostbusters/print).
+
+--- collapse ---
+---
+title: Hinweise für Gruppenleiter
+---
+## Einleitung:
+
+In diesem Projekt lernen Kinder, wie sie Variablen verwenden, um Daten in ihren Programmen zu speichern.
+
 ## Ressourcen
-Für dieses Projekt sollte Scratch 2 benutzt werden. Scratch 2 kann entweder online unter  [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) benutzt werden oder unter  [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) heruntergeladen udn offline genutzt werden.
 
-Eine vollständige Version des Projektes befindet sich hier <a href="http://scratch.mit.edu/projects/60787262/#editor">online</a>, oder kann heruntergeladen werden, indem man auf 'Download Project Materials' link for this project, which contains:
+Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) verwendet werden oder unter [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) heruntergeladen und offline benutzt werden.
 
-+ Ghostbusters.sb2
+Sie finden eine vollständige Version dieses Projekts [online](http://scratch.mit.edu/projects/60787262/#editor) oder zum Download unter dem Link "Projektmaterialien" für dieses Projekt, der Folgendes enthält:
+
+* Ghostbusters.sb2
 
 ## Lernziele
-+ Variablen;
-+ Zufallszahlen.
 
-## Herausforderungen
-+ "Mehr Zufälligkeit" - Zufallszahlen benutzen;
-+ "Einen Klang hinzufügen" - dqs Lernen von Klängen konsolidieren;
-+ "Mehr Objekte" - Fähigkeiten anwenden, um andere Spielobjekte anzuwenden.
+* Variablen
+* Zufallszahlen
 
-## Häufig gestellte Fragen
-+ Wenn Kinder Schwierigkeiten dabei haben sollten das Gespenst anzuklicken, ohne es zu ziehen, können sie das Spiel im Vollbildmodus spielen, in dem die Figuren nicht verschoben werden können.
+Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+
+* [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+## Challenges
+
+* "Mehr Zufälligkeit" - mit Zufallszahlen;
+* "Einen Klang hinzufügen" - das Wissen über Sounds festigen;
+* "Mehr Objekte" - Erlerntes anwenden, um ein neues Spielobjekt zu gestalten.
+
+## Häufig Gestellte Fragen
+
+* Wenn Kinder Schwierigkeiten haben, auf die Geister zu klicken, ohne sie herumzuziehen, können sie das Spiel im Vollbildmodus spielen, in dem sich die Geister nicht verschieben lassen.
 
 ![screenshot](images/ghost-fullscreen.png)
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterialien
+---
+## Ressourcen für Gruppenleiter
+
+* [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters.sb2)
+* [vollständiges Scratch 2-Projekt Online](https://scratch.mit.edu/projects/227537779/#editor)
+
+--- /collapse ---

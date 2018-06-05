@@ -1,41 +1,23 @@
-## Aggiungere un timer
+## Aggiungere un punteggio
 
-Puoi rendere il gioco più interessante, dando solo 10 secondi al tuo giocatore per acchiappare più fantasmi possibili.
+Rendiamo il gioco più interessante tenendo il punteggio!
 
-+ Puoi usare un'altra variabile per conservare il tempo rimasto. Clicca sul quadro e crea una nuova variabile chiamata 'tempo':
+--- task ---
 
-	![screenshot](images/ghost-time.png)
+Crea una nuova variabile chiamata 'punteggio'.
 
-+ Il timer dovrebbe funzionare così:
+[[[generic-scratch-add-variable]]]
 
-	+ Il timer dovrebbe iniziare a 10 secondi;
-	+ Il timer dovrebbe contare alla rovescia ogni secondo;
-	+ Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
+--- /task ---
 
-	Per fare ciò, questo è il codice, che puoi aggiungere al tuo __quadro__.
+--- task ---
 
-	```blocks
-		quando si clicca sulla bandiera verde
-		porta [tempo v] a [10]
-		ripeti fino a quando <(tempo) = [0]>
-  			attendi (1) secondi
-  			cambia [ora v] di (-1)
-		end
-		ferma [tutto v]
-	```
+Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
 
-	Il codice `ripeti fino a quando`{:class="blockcontrol"}`tempo`{:class="blockdata"}`= 0`{:class="blockoperators"} si aggiunge così:
+Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
 
-	![screenshot](images/ghost-timer-help.png)
+![Aumentare il punteggio](images/ghost-score-test.png)
 
-+ Trascina la tua variabile 'tempo' sul lato destro del quadro. Puoi anche fare clic col tasto destro sulla variabile e scegliere 'large readout' per cambiare il modo in cui il tempo viene visualizzato.
+--- hints --- --- hint --- `Quando si clicca su ⚑`, la tua variabile `punteggio` dovrebbe essere `a 0`. Aggiungi questo codice allo sfondo. ` Quando si fa click sullo sprite del fantasma`, il `punteggio` dovrebbe `aumentare di 1`. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Ecco come fare punti cliccando sui fantasmi: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-readout.png)
-
-+ Chiedi a un amico di provare il gioco. Quanti punti riesce a guadagnare? Se il gioco è troppo facile, puoi:
-
-	+ Dare al giocatore meno tempo;
-	+ Ridurre la frequenza con cui i fantasmi appaiono;
-	+ Rimpicciolire i fantasmi.
-
-	Prova alcune volte il gioco finché sei soddisfatto con il livello di difficoltà.
+--- /task ---

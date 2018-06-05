@@ -1,19 +1,17 @@
-## Gespenster fangen
+## Zufällige Gespenster
 
-Lass es uns dem Spieler erlauben, die Gespenster zu fangen!
+Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
 
-+ Damit der Spieler Gespenster fangen kann, füge diesen Code hinzu:
+--- task ---
 
-	```blocks
-		Wenn ich angeklickt werde
-		verstecke dich
-	```
+Kannst du deinem Geist Code hinzufügen, so dass er an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
 
-+ Teste Dein Projekt. Kannst Du die Gespenster fangen, sobald Sie auftauchen? Wenn Du es auf dem kleinen Bildschirm schwierig findest die Gespenster zu fangen, kannst Du auch in den Vollbildmodus wechseln, indem Du auf dieses Symbol klickst:
+--- hints --- --- hint --- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position `zu gehen`. --- /hint --- --- hint --- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-fullscreen.png)
+--- /task ---
 
 --- challenge ---
-## Herausforderung: Klänge hinzufügen
-Kannst Du einen Klang machen, jedes Mal, wenn das Gespenst gefangen wurde?
---- /challenge ---
+
+## Herausforderung: Mehr Zufälligkeit
+
+Kannst du deinen Geist eine zufällige Zeit `warten` lassen, bevor er erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`-Block vor jedem Erscheinen eine zufällige Größe geben? --- /challenge ---

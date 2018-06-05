@@ -1,14 +1,37 @@
-## Fantasmi a caso
+## Animare un fantasma
 
-È facilissimo acchiappare il tuo fantasma perché non si muove!
+--- task ---
 
-+ Invece di restare nella stessa posizione, puoi fare in modo che Scratch scelga a caso le coordinate x e y. Aggiungi un blocco `vai a` {:class="blockmotion"} al codice del tuo fantasma, in modo che appaia così:
+Avvia un nuovo progetto Scratch.
 
-	![screenshot](images/ghost-random.png)
+[[[generic-scratch-new-project]]]
 
-+ Prova di nuovo il tuo fantasma e dovresti notare che appare ogni volta in un posto diverso.
+--- /task ---
 
---- challenge ---
-## Sfida: Ancora casualità
-Puoi fare in modo che il tuo fantasma `attendi`{:class="blockcontrol"} un periodo di tempo casuale prima di apparire? Puoi usare il blocco `porta dimensione`{:class="blocklooks"} per dare al tuo fantasma una misura casuale ogni volta che appare?
---- /challenge ---
+--- task ---
+
+Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
+
+![screenshot](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Aggiungi dei blocchi al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
+
+--- hints --- --- hint --- `Quando clicchi su ⚑`, dovrai fare in modo che il tuo fantasma `sparisca` per `un secondo` e poi `ricompaia` per `un secondo`. Dovrà fare ciò `per sempre`. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Prova il tuo progetto e salvalo.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---

@@ -1,23 +1,37 @@
-## Fantasmas aleatorios
+## Animando un fantasma
 
-¡Tu fantasma es muy fácil de atrapar, porque no se mueve!
+--- task ---
 
-+ En lugar de quedarse en la misma posición, puedes hacer que Scratch elija coordinadas x e y al azar. Añade un bloque `ir a`{:class="blockmotion"} al código de tu fantasma, para que sea como éste:
+Abre un nuevo proyecto vacío de Scratch.
 
-	```blocks
-		al presionar bandera verde
-		por siempre
-			esconder
-			esperar (1) segundos
-			ir a x:(número al azar entre (-150) y (150)) y:(número al azar entre (-150) y (150))
-			mostrar
-			esperar (1) segundos
-		fin
-	```
+[[[generic-scratch-new-project]]]
 
-+ Vuelve a probar tu fantasma, y deberías de ver cómo aparece cada vez en una posición diferente.
+--- /task ---
 
---- challenge ---
-## Desafío: Más aleatoriedad
-¿Puedes hacer que tu fantasma `espere`{:class="blockcontrol"} un intervalo de tiempo al azar antes de aparecer? ¿Puedes usar el bloque `fijar tamaño`{:class="blocklooks"} para hacer que el tamaño de tu fantasma cambie al azar cada vez que aparezca?
---- /challenge ---
+--- task ---
+
+Añadir una nueva figura de fantasma y un fondo de escenario adecuado.
+
+![screenshot](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Añade código a tu fantasma para que aparezca y desaparezca siempre después de que hagas clic en la bandera.
+
+---hints--- ---hint--- Una vez que hagas `click en la bandera verde`, tendrás que hacer que tu fantasma se `esconda` durante `un segundo` y que después vuelva a `aparecer`durante`un segundo`. Esto lo tendrá que hacer para `siempre`. --- /hint --- --- hint --- Estos son los bloques de código que necesitarás: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Prueba y guarda tu proyecto.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---

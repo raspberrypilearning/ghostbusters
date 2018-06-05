@@ -34,11 +34,11 @@ title: ملاحظات قادة النادي
 
 يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum):
 
-+ [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة].(https://www.raspberrypi.org/curriculum/programming/creator)
++ [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator)
 
 
 ### معلومات إضافية لقادة النادي
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/ghostbusters/print).
 
 --- /collapse ---
 

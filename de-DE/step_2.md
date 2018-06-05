@@ -1,21 +1,9 @@
-## Ein Gespenst bewegen
+## Was du brauchen wirst
 
-+ Starte ein neues Scratch-Projekt und lösche die Katzenfigur, so dass Dein Projekt leer ist. Du findest das Scratch-Bearbeitungsprogramm online auf <a href="http://jumpto.cc/scratch-new">jumpto.cc/scratch-new</a>.
+### Hardware
 
-+ Füge eine neue Gespenstfigur, sowie den passeden Bühnenhintergrund hinzu.
++ Computer, der Scratch 2.0 ausführen kann
 
-	![screenshot](images/ghost-ghost.png)
+### Software
 
-+ Füge Deinem Spiel diesen Code hinzu, um das Gespenst auftauchen und wieder verschwinden zu lassen:
-
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		wiederhole fortlaufend
-			verstecke dich
-			warte (1) Sek.
-			zeige dich
-			warte (1) Sek.
-		Ende
-	```
-
-+ Teste Dein Gespenst, indem Du auf die grüne Fahne klickst.
++ Scratch 2.0 (entweder [online](https://scratch.mit.edu/projects/editor/) oder [offline](https://scratch.mit.edu/scratch2download/))

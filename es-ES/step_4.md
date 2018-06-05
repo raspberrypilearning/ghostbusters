@@ -1,19 +1,17 @@
-## Cazar fantasmas
+## Fantasmas aleatorios
 
-¡Vamos a hacer que el jugador pueda atrapar fantasmas!
+¡Tu fantasma es muy fácil de atrapar en este momento, porque no se mueve!
 
-+ Para que el jugador pueda atrapar un fantasma, añade este código:
+--- task ---
 
-	```blocks
-		al hacer clic en este objeto
-		esconder
-	```
+¿Puedes añadir código a tu fantasma para que, en vez de quedarse en el mismo sitio, aparezca en lugares aleatorios de la pantalla?
 
-+ Prueba tu proyecto. ¿Puedes atrapar fantasmas cuando aparecen? Si te parece difícil cazarlos, puedes jugar al juego en modo pantalla completa haciendo clic en este botón:
+--- hints --- --- hint --- Quieres que tu fantasma `vaya` a una posición aleatoria del escenario antes de aparecer cada vez. --- /hint --- --- hint --- Puedes usar dos conjuntos de bloques de código. Este: ![screenshot](images/ghost-random-blocks-1.png) O este otro: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-random-code-1.png) O puede quedar así: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-fullscreen.png)
+--- /task ---
 
 --- challenge ---
-## Desafío: Añadir un sonido
-¿Puedes hacer que se oiga un sonido cada vez que se caza un fantasma?
---- /challenge ---
+
+## Desafío: más aleatoriedad
+
+¿Puedes hacer que tu fantasma `espere` una cantidad aleatoria de tiempo antes de aparecer de nuevo? ¿Puedes utilizar el bloque `fijar tamaño` para hacer que tu fantasma tenga un tamaño aleatorio cada vez que aparezca? --- /challenge ---

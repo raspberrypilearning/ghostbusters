@@ -1,21 +1,9 @@
-## Animare un fantasma
+## Di cosa avrai bisogno
 
-+ Avvia un nuovo progetto Scratch e cancella lo sprite del gatto, in modo che il tuo progetto sia vuoto. Puoi trovare l'editore Scratch online a <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
+### Hardware
 
-+ Aggiungi un nuovo sprite di fantasma e uno scenario adatto.
++ Un computer in grado di eseguire Scratch 2.0
 
-	![screenshot](images/ghost-ghost.png)
+### Software
 
-+ Aggiungi questo codice al tuo fantasma, in modo che appaia e scompaia ripetutamente:
-
-	```blocks
-		quando si clicca sulla bandiera verde
-		per sempre
-  			nascondi
-  			attendi (1) secondi
-  			mostra
-  			attendi (1) secondi
-		end
-	```
-
-+ Prova il codice del tuo fantasma cliccando la bandiera verde.
++ Scratch 2.0 ([online](https://scratch.mit.edu/projects/editor/) o [offline](https://scratch.mit.edu/scratch2download/))
