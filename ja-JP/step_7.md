@@ -2,41 +2,41 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+'時間'という変数を新しく作成します。
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+プレイヤーがたった10秒の間に、できるだけたくさんのおばけをつかまえられるように、ステージにタイマーを追加できますか？
 
-Your timer should:
+あなたのタイマーは：
 
-+ Start at 10 seconds
-+ Count down every second
++ 10秒から開始
++ 毎秒カウントダウンする
 
-The game should stop when the timer gets to 0.
+タイマーが0になると、ゲームは停止します。
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされた時`、 `時間` 変数は`10になります`。 `0になるまで`1秒ごとに、`-1ずつ変わります`. \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- タイマーを追加するには、こうします。 ![スクリーンショット](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+`時間 = 0`ブロックを作成する方法です。 ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+友達にゲームを遊んでもらいましょう。何点とれるでしょうか？
 
 \--- /task \---
 
-If your game is too easy, you can:
+ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう。
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ 時間を短くする
++ おばけをあらわれにくくする
++ おばけを小さくする
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+満足できるむずかしさになるまで、ゲームを変えてテストしましょう。
 
 \--- /task \---
