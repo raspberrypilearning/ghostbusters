@@ -1,37 +1,37 @@
 ## Animating a ghost
 
-\--- task \---
+\--- tugas \---
 
-Open a new empty Scratch project.
+Buka proyek Scratch kosong baru.
 
 [[[generic-scratch-new-project]]]
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Tambahkan sprite hantu baru dan latar belakang panggung yang sesuai.
 
-![screenshot](images/ghost-ghost.png)
+![tangkapan layar](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
 [[[generic-scratch-backdrop-from-library]]]
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Tambahkan kode ke hantu Anda sehingga muncul dan menghilang selamanya saat Anda mengeklik bendera.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- petunjuk \--- \--- petunjuk \--- Setelah bendera hijau `diklik`, Anda harus membuat hantu Anda `sembunyikan` untuk `satu detik` dan kemudian `tampilkan` untuk `satu detik`. Ini akan perlu melakukan ini selamanya ``. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![screenshot](images/ghost-appear-blocks.png) \--- / hint \--- \--- hint \--- Ini adalah tampilan kode Anda: ![screenshot](images/ghost-appear-code.png) \--- / petunjuk \--- \--- / petunjuk \---
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Test and save your project.
+Uji dan simpan proyek Anda.
 
 [[[generic-scratch-saving]]]
 
-\--- /task \---
+\--- /tugas \---
