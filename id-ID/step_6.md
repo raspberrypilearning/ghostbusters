@@ -1,23 +1,23 @@
-## Adding a score
+## Menambahkan skor
 
-Let's make things more interesting by keeping score!
+Mari buat hal-hal lebih menarik dengan mempertahankan skor!
 
-\--- task \---
+\--- tugas \---
 
-Create a new variable called 'score'.
+Buat variabel baru yang disebut 'skor'.
 
 [[[generic-scratch-add-variable]]]
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Bisakah Anda melacak skor pemain? Pemain harus mencetak poin dengan mengklik hantu untuk menangkapnya.
 
-Each time a player clicks on a ghost, their score should increase.
+Setiap kali seorang pemain mengklik hantu, skornya akan meningkat.
 
-![Increasing score](images/ghost-score-test.png)
+![Meningkatkan skor](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Ketika bendera hijau diklik`, variabel `skor` harus `set ke 0`. Panggung adalah tempat terbaik untuk menambahkan kode ini. `Ketika sprite hantu diklik`, `skor` harus `diubah oleh 1`. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang perlu Anda gunakan: ![screenshot](images/ghost-score-blocks.png) \--- / petunjuk \--- \--- petunjuk \--- Inilah cara untuk mendapatkan poin dengan mengeklik hantu : ![screenshot](images/ghost-score-code.png) \--- / petunjuk \--- \--- / petunjuk \---
 
-\--- /task \---
+\--- /tugas \---
