@@ -1,42 +1,42 @@
-## Adding a timer
+## Menambahkan pengatur waktu
 
-\--- task \---
+\--- tugas \---
 
-Create a new variable called 'time'.
+Buat variabel baru yang disebut 'waktu'.
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Dapatkah Anda menambahkan pengatur waktu ke Panggung untuk memberi pemain Anda hanya 10 detik untuk menangkap sebanyak mungkin hantu?
 
-Your timer should:
+Pengatur waktu Anda harus:
 
-+ Start at 10 seconds
-+ Count down every second
++ Mulai dari 10 detik
++ Hitung mundur setiap detik
 
-The game should stop when the timer gets to 0.
+Permainan akan berhenti ketika pengatur waktu menjadi 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- petunjuk \--- \--- petunjuk \--- `Saat bendera hijau diklik`, variabel `waktu` harus `set ke 10`. Maka harus `berubah dengan -1` setiap detik `sampai mencapai 0`. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang perlu Anda gunakan: ![screenshot](images/ghost-timer-blocks.png) \--- / petunjuk \--- \--- petunjuk \--- Beginilah cara menambahkan pengatur waktu ke permainan: ![tangkapan layar](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Dan ini adalah cara membuat `waktu = 0` blok: ![screenshot](images/ghost-timer-help.png) \--- / petunjuk \--- \--- / petunjuk \---
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Ask a friend to test your game. How many points can they score?
+Mintalah seorang teman untuk menguji game Anda. Berapa banyak poin yang bisa mereka cetak?
 
-\--- /task \---
+\--- /tugas \---
 
-If your game is too easy, you can:
+Jika gim Anda terlalu mudah, Anda dapat:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Beri pemain lebih sedikit waktu
++ Membuat hantu lebih jarang muncul
++ Buat para hantu lebih kecil
 
-\--- task \---
+\--- tugas \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Ubah dan uji permainan Anda beberapa kali sampai Anda senang bahwa itu tingkat kesulitan yang tepat.
 
-\--- /task \---
+\--- /tugas \---
