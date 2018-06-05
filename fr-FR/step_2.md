@@ -1,21 +1,9 @@
-## Animer un fantôme
+## Ce dont tu auras besoin
 
-+ Démarrez un nouveau projet de Scratch et supprimez le lutin de chat pour que votre projet soit vide. Vous pouvez trouver l'éditeur scratch en ligne à <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
+### Hardware
 
-+ Ajoutez un nouveau lutin de fantôme et un arrière-plan approprié.
++ Un ordinateur capable d'exécuter Scratch 2.0
 
-	![screenshot](images/ghost-ghost.png)
+### Software
 
-+ Ajoutez ce code au fantôme pour qu'il apparaisse et disparaisse constamment :
-
-	```blocks
-    	quand le drapeau vert pressé
-    	répéter indéfiniment
-       		cacher
-       		attendre (1) secondes
-       		montrer
-       		attendre (1) secondes
-    	fin
-	```
-
-+ Testez le code de votre fantôme en appuyant sur le drapeau vert.
++ Scratch 2.0 (soit [en ligne](https://scratch.mit.edu/projects/editor/) ou [hors ligne](https://scratch.mit.edu/scratch2download/))

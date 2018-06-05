@@ -1,33 +1,58 @@
 ## Introduction
 
-Vous allez créer un jeu pour attraper des fantômes!
+Vous allez faire un jeu attrape-fantôme!
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/172595411/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/227534169/?autostart=false" frameborder="0"></iframe>
   <img src="images/ghost-final.png">
 </div>
 
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/fr-FR/projects/ghostbusters/print).
+
+--- collapse ---
+---
+title: Notes pour le responsable de club
+---
+## Introduction :
+
+Dans ce projet, les enfants apprendront à utiliser des variables pour stocker des données dans leurs programmes.
+
 ## Ressources
-Pour ce projet, on recommande d'utiliser Scratch 2. Scratch 2 peut être utilisé soit en ligne à [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ou on peut le télécharger via [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) puis l'utiliser hors-ligne.
 
-Vous pouvez trouver une version finalisée du projet <a href="https://scratch.mit.edu/projects/172595411/#editor">en ligne</a>, ou on peut la télécharger en cliquant sur le lien Matériaux du Projet' pour ce projet qui continent :
+Pour ce projet, on devrait utiliser Scratch 2. On peut utiliser Scratch 2 en ligne sur [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ou on peut le télécharger depuis [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) pour l'utiliser hors ligne.
 
-+ Ghostbusters.sb2
+Vous pouvez trouver une version complète de ce projet [en ligne](https://scratch.mit.edu/projects/227534169/#editor) ou vous pouvez le télécharger en cliquant sur le lien 'Matériaux du Projet' pour ce projet, qui contient:
 
-## Objectives pédagogiques
-+ Variables;
-+ Nombres aléatoires.
+* Ghostbusters.sb2
 
-Ce projet couvre des éléments correspondant aux fils suivants du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+## Objectifs d'apprentissage
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* Variables;
+* Nombres aléatoires.
 
-## Challenges
-+ "Plus aléatoire" - utilisation de nombres au hasard ;
-+ "Ajouter du son" - consolidation dans l'apprentissage des sons ;
-+ "Plus d'objets" - appliquer des connaissances pour créer d'autres objets dans le jeu.
+Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](http://rpf.io/curriculum):
 
-## Foire aux Questions
-+ Si les enfants trouvent difficile de cliquer sur les fantômes sans les déplacer, ils peuvent jouer en mode plein écran dans lequel nous ne pouvons pas déplacer les fantômes.
+* [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+## Défis
+
+* « Plus aléatoire » - utiliser des nombres aléatoires ;
+* « Ajouter un son » - consolider l’apprentissage des sons ;
+* « Plus d’objets » - appliquer les compétences afin de créer un autre objet de jeu.
+
+## Foire aux questions
+
+* Si les enfants ont du mal à cliquer sur les fantômes sans les traîner, ils peuvent jouer en mode plein écran, dans lequel on ne peut pas draguer les fantômes.
 
 ![screenshot](images/ghost-fullscreen.png)
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Matériaux du projet
+---
+## Ressources pour le responsable de club
+
+* [Projet Scratch 2 complète à télécharger](resources/Ghostbusters.sb2)
+* [Projet Scratch 2 complète en ligne](https://scratch.mit.edu/projects/227534169/#editor) --- /collapse ---

@@ -1,8 +1,8 @@
 ---
-title: SOS Fantômes
+title: Ghostbusters
 hero_image: images/ghostbusters.png
-description: Apprends à créer un jeu pour attraper des fantômes!
-original_url: https://projects.raspberrypi.org/en/projects/ghostbusters
+description: Faites un jeu sur attraper des fantômes!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
 copyedit: true
@@ -16,11 +16,12 @@ hardware: ''
 software: scratch
 version: 4
 last_tested: 2018-01-01
-steps: 
-- title: Introduction
-- title: Animer un fantôme
-- title: Fantômes aléatoires
-- title: Attraper des fantômes
-- title: Ajouter le pointage
-- title: Ajouter un compte à rebours
-- title: "Défi: Plus d'objets"
+steps:
+  - title: Introduction
+  - title: Ce dont tu auras besoin
+  - title: Animer un fantôme
+  - title: Fantômes aléatoires
+  - title: Attraper des fantômes
+  - title: Ajouter un score
+  - title: Ajouter un chronomètre
+  - title: "Défi: plus d'objets"

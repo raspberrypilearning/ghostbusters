@@ -1,41 +1,23 @@
-## Añadir un cronómetro
+## Añadir una puntuación
 
-Puedes hacer que tu juego sea más interesante dándole al jugador sólo 10 segundos para que atrape tantos fantasmas como le sea posible.
+¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
 
-+ Puedes usar otra variable para mostrar el tiempo que queda. Haz clic en el escenario y crea una nueva variable que se llame “tiempo”:
+--- task ---
 
-	![screenshot](images/ghost-time.png)
+Crea una nueva variable llamada 'puntuación'.
 
-+ Así es como debería de funcionar el cronómetro:
+[[[generic-scratch-add-variable]]]
 
-	+ El cronómetro debería de empezar en 10 segundos;
-	+ El cronómetro debería de contar hacia atrás cada segundo;
-	+ El juego debería de parar cuando el cronómetro llegue a 0.
+--- /task ---
 
-	Éste es el código para hacerlo, y que puedes añadir a tu __escenario__:
+--- task ---
 
-	```blocks
-		al presionar bandera verde
-		fijar [tiempo v] a [10]
-		repetir hasta que <(tiempo) = [0]>
-			esperar (1) segundos
-			cambiar [tiempo v] por (-1)
-		fin
-		detener [todos v]
-	```
+¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
 
-	Así es como se añade el código `repetir hasta`{:class="blockcontrol"}`tiempo`{:class="blockdata"}`= 0`{:class="blockoperators"}:
+Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
 
-	![screenshot](images/ghost-timer-help.png)
+![Incrementar la puntuación](images/ghost-score-test.png)
 
-+ Arrastra el visor de la variable “tiempo” al lado derecho del escenario. También puedes hacer clic con el botón derecho en el visor de la variable y elegir "tamaño grande” para cambiar el modo en el que se muestra el tiempo.
+--- hints --- --- hint --- `Cuando se hace clic en la bandera verde`, tu variable `puntuación` se debería `poner a 0`. El escenario es el mejor lugar para añadir este código. `Cuando se hace clic en la figura del fantasma`, la `puntuación` se debería `incrementar en 1`. --- /hint --- --- hint --- Estos son los bloques de código que tendrás que usar: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Aquí ves cómo se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-readout.png)
-
-+ Pídele a un amigo que pruebe tu juego. ¿Cuántos puntos puede conseguir? Si tu juego es demasiado fácil, puedes:
-
-	+ Darle menos tiempo al jugador;
-	+ Hacer que los fantasmas no aparezcan tan a menudo;
-	+ Hacer que los fantasmas sean más pequeños.
-
-	Prueba tu juego algunas veces hasta que te parezca que tiene el nivel adecuado de dificultad.
+--- /task ---

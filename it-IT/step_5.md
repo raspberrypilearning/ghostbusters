@@ -1,30 +1,21 @@
-## Aggiungi un punteggio
+## Acchiappare i fantasmi
 
-Rendiamo il gioco più interessante tenendo il punteggio.
+Facciamo in modo che il giocatore acchiappi i fantasmi!
 
-+ Per tenere il punteggio del giocatore, ti serve un posto dove collocarlo. Una __variabile__ è un posto dove conservare i dati che possono cambiare, proprio come un punteggio.
+--- task ---
 
-	Per creare una nuova variabile, clicca sulla scheda 'Scripts', seleziona `Variabili e liste`{:class="blockdata"} e poi clicca 'Crea una Variabile'.
+Puoi fare in modo che il fantasma sparisca quando viene acchiappato?
 
-	![screenshot](images/ghost-score.png)
+Per acchiappare un fantasma, cliccaci sopra. Se trovi difficile acchiappare i fantasmi, puoi giocare in modalità schermo intero facendo click su questo pulsante:
 
-	Digita 'punteggio' nel nome della variabile, assicurati che sia disponibile per tutti gli sprite e clicca 'OK' per crearla. Vedrai dunque tanti blocchi di codici che possono esere usati con la tua variabile `punteggio`{:class="blockdata"}.
+![screenshot](images/ghost-fullscreen.png)
 
-	![screenshot](images/ghost-variable.png)
+--- hints --- --- hint --- Il tuo fantasma dovrebbe `sparire` `quando fai click sul suo sprite`. --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
-	Vedrai il punteggio in alto a sinistra del quadro.
+--- /task ---
 
-	![screenshot](images/ghost-stage-score.png)
+--- challenge ---
 
-+ Quando si inizia una nuova partita (cliccando la bandiera), dovresti resettare il punteggio del giocatore a 0;
+## Sfida: Aggiungere un suono
 
-	```blocks
-	quando si clicca sulla bandiera verde
-	porta [punteggio v] a [0]
-	```
-
-+ Ogni volta che si acchiappa una fantasma, devi aggiungere 1 al punteggio del giocatore;
-
-	![screenshot](images/ghost-change-score.png)
-
-+ Esegui di nuovo il programma e acchiappa qualche fantasma. Il tuo punteggio cambia?
+Puoi fare in modo che il tuo fantasma emetta un suono ogni volta che viene acchiappato? --- /challenge ---

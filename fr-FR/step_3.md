@@ -1,14 +1,37 @@
-## Fantômes aléatoires
+## Animer un fantôme
 
-Votre fantôme est trop facile à attraper parce qu'il ne bouge pas!
+--- task ---
 
-+ Au lieu de rester au même endroit, Scratch peut choisir les coordonnées x et y de façon aléatoire. Ajouter un bloc `aller à`{:class="blockmotion"} au code du fantôme pour que ça ressemble à ceci :
+Ouvre un nouveau projet Scratch vide.
 
-	![screenshot](images/ghost-random.png)
+[[[generic-scratch-new-project]]]
 
-+ Testez votre fantôme de nouveau et vous devriez remarquer qu'il apparaît dans un endroit différent à chaque fois.
+--- /task ---
 
---- challenge ---
-## Défi: Plus aléatoire
-Pouvez-vous faire `attendre`{:class="blockcontrol"} votre fantôme pendant une durée de temps aléatoire avant de réapparaître?  Pouvez-vous utiliser le bloc `mettre à (  ) % de la taille initiale`{:class="blocklooks"} pour donner une taille aléatoire à votre fantôme à chaque fois qu'il apparaît?
---- /challenge ---
+--- task ---
+
+Ajoute un nouveau sprite fantôme et une toile de fond de scène appropriée.
+
+![screenshot](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Ajoute du code à ton fantôme afin qu'il apparaisse et disparaisse indéfiniment quand tu cliques sur le drapeau.
+
+--- hints --- --- hint --- Quand `le drapeau vert est cliqué`, tu dois `cacher` ton fantôme pour `une seconde` et puis le `montrer` pour `une seconde`. Ceci doit être répété `indéfiniment`. --- /hint --- --- hint --- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Ton code devrait ressembler à ceci: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Teste et sauvegarde ton projet.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---

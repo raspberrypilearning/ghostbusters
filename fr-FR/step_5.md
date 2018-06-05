@@ -1,30 +1,21 @@
-## Ajouter le pointage
+## Attraper des fantômes
 
-Rendons les choses plus intéressantes en gardant le compte du pointage.
+Laissons le joueur d'attraper des fantômes!
 
-+ Pour garder le compte du pointage du joueur, il faut le stocker quelque part. Une __variable__ est un endroit pour garder des données qui peuvent changer, comme un pointage.
+--- task ---
 
-	Pour créer une variable, cliquez sur l'onglet 'Scripts', sélectionnez `Données`{:class="blockdata"}, puis cliquez sur 'Créer une variable'.
+Peux-tu cacher ton fantôme quand il a été attrapé?
 
-	![screenshot](images/ghost-score.png)
+Tu dois être capable de cliquer sur les fantômes pour les attraper. Si tu le trouves difficile de les attraper, tu peux jouer au jeu en mode plein écran en cliquant sur ce bouton :
 
-	Tapez 'pointage' comme nom de variable, vérifiez que la variable est disponible pour tous les lutins et cliquez sur 'OK' pour créer la variable. Vous allez ensuite voir plusieurs blocs de code qui peuvent être utilisés avec votre variable `pointage`{:class="blockdata"}.
+![screenshot](images/ghost-fullscreen.png)
 
-	![screenshot](images/ghost-variable.png)
+--- hints --- --- hint --- `Quand ce lutin est cliqué`, ton lutin fantôme devrait se `cacher`. --- /hint --- --- hint --- Ton code devrait ressembler à ceci : ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
-	Vous allez aussi voir le pointage en haut à gauche de la scène.
+--- /task ---
 
-	![screenshot](images/ghost-stage-score.png)
+--- challenge ---
 
-+ Lorsque vous commencez un nouveau jeu (en cliquant sur le drapeau), vous devez remettre le pointage à 0 :
+## Défi : ajouter un son
 
-	```blocks
-    quand ⚑ cliqué
-    [pointage v] prend la valeur [0]
-	```
-
-+ Vous devrez ajouter 1 au pointage à chaque fois qu'un fantôme sera attrapé :
-
-	![screenshot](images/ghost-change-score.png)
-
-+ Exécutez votre programme de nouveau et attrapez quelques fantômes. Votre pointage change-t-il?
+Peux-tu faire que ton fantôme joue un son chaque fois qu'il est attrapé ? --- /challenge ---

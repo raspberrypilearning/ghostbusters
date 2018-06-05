@@ -1,8 +1,8 @@
 ---
-title: Gespensterjagd
+title: Geisterjäger
 hero_image: images/ghostbusters.png
-description: Du wirst ein Gespensterjagd-Spiel machen!
-original_url: https://projects.raspberrypi.org/en/projects/ghostbusters
+description: Mache ein Spiel über Geisterjagd!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
 copyedit: true
@@ -14,13 +14,14 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4
+version: 4.0.1
 last_tested: 2018-01-01
-steps: 
-- title: Einführung
-- title: Ein Gespenst bewegen
-- title: Zufällige Position
-- title: Gespenster fangen
-- title: Einen Punktestand hinzufügen
-- title: Eine Uhr hinzufügen
-- title: "Herausforderung: Mehr Figuren"
+steps:
+  - title: Einleitung
+  - title: Was du brauchen wirst
+  - title: Ein Gespenst lebendig werden lassen
+  - title: Zufällige Gespenster
+  - title: Gespenster fangen
+  - title: Eine Punktzahl hinzufügen
+  - title: Hinzufügen eines Timers
+  - title: 'Herausforderung: Mehr Objekte'

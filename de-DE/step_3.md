@@ -1,23 +1,37 @@
-## Zufällige Position
+## Ein Gespenst lebendig werden lassen
 
-Dein Gespenst kann ganz einfach gefangen werden, da es immer an der selben Stelle auftaucht!
+--- task ---
 
-+ Damit dass das Gespenst nicht immer an der gleichen Stelle erscheint, kannst Du es bewegen. Hierfür sagst Du Scratch, dass es zufällige Positionen für die Koordinaten x und y vergeben soll. Füge Deinem Code einen `gehe zu`{:class="blockmotion"} Block hinzu, so dass der Code so aussieht:
+Öffne ein neues Scratch-Projekt.
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		wiederhole fortlaufend
-			verstecke dich
-			warte (1) Sek.
-			gehe zu x:(Zufallszahl von (-150) bis (150)) y:(Zufallszahl von (-150) bis (150))
-			zeige dich
-			warte (1) Sek.
-		Ende
-	```
+[[[generic-scratch-new-project]]]
 
-+ Teste Dein Spiel und Du wirst sehen, dass das Gespenst nun jedes Mal an einer anderen Stelle auftaucht.
+--- /task ---
 
---- challenge ---
-## Herausforderung: Mehr Zufälligkeit
-Kannst Du Dein Gespenst eine zufällige Zeit warten lassen, bevor es wieder auftaucht? Versuche es mit dem Befehl `warte`{:class="blockcontrol"} und 'Zufallszahl'. Kannst Du Deinem Gespenst mit `setze Größe`{:class="blocklooks"} jedes Mal eine zufällige Größe geben?
---- /challenge ---
+--- task ---
+
+Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
+
+![screenshot](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Füge deinem Geist Code hinzu, so dass er sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
+
+--- hints --- --- hint --- Sobald die `grüne Flagge angeklickt wird`, muss sich dein Gespenst `eine Sekunde` lang `verstecken` und sich dann `eine Sekunde` lang `zeigen`. Es muss dies `fortlaufend` tun. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Teste und speichere nun dein Projekt.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---

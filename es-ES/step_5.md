@@ -1,30 +1,21 @@
-## Añadir puntuación
+## Atrapando fantasmas
 
-Vamos a hacer las cosas más interesantes con un contador de puntos.
+¡Permitamos que el jugador atrape fantasmas!
 
-+ Para contar la puntuación del jugador, necesitas un sitio donde ponerla. Una __variable__ es un sitio para almacenar información que cambia, como la puntuación.
+--- task ---
 
-	Para crear una nueva variable, haz clic en la pestaña “Programas”, selecciona `Datos`{:class="blockdata"} y a continuación haz clic en “Crear una Variable”.
+¿Puedes hacer que tu fantasma desaparezca cuando es atrapado?
 
-	![screenshot](images/ghost-score.png)
+Deberías poder hacer clic en los fantasmas para atraparlos. Si capturarlos te resulta difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
 
-	Llama a la nueva variable “puntuación”. Asegúrate de que esté disponible para todos los objetos, y haz clic en “OK” para crearla. A continuación verás nuevos bloques de código que pueden usarse con tu variable `puntuación`{:class="blockdata"}.
+![screenshot](images/ghost-fullscreen.png)
 
-	![screenshot](images/ghost-variable.png)
+--- hints --- --- hint --- `Al hacer clic en ella`, la figura de tu fantasma se debería `esconder`. --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
-	También verás la puntuación en la parte superior izquierda del escenario.
+--- /task ---
 
-	![screenshot](images/ghost-stage-score.png)
+--- challenge ---
 
-+ Cuando empieza un nuevo juego (haciendo clic en la bandera), deberías hacer que la puntuación del jugador sea 0:
+## Desafío: añadir un sonido
 
-	```blocks
-	al presionar bandera verde
-	fijar [puntuación v] a [0]
-	```
-
-+ Cuando el jugador atrape un fantasma, tendrás que añadir 1 su puntuación:
-
-	![screenshot](images/ghost-change-score.png)
-
-+ Ejecuta tu programa de nuevo y atrapa algunos fantasmas. ¿Cambia tu puntuación?
+¿Puedes conseguir que tu fantasma haga un sonido cada vez que es atrapado? --- /challenge ---

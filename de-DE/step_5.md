@@ -1,31 +1,21 @@
-## Einen Punktestand hinzufügen
+## Gespenster fangen
 
-Es wird noch spannender, wenn Du einen Punktestand hinzufügst!
+Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
 
-+ Um den Punktestand eines Spielers anzuzeigen, benötigst Du einen Bereich, wo dieser eingetragen werden kann. Eine __Variable__ ist solch eine Stelle, an der Daten gespeichert werden können, die sich eventuell verändern können. Wie zum Beispiel ein Punktestand.
+--- task ---
 
-	Um eine neue Variable zu erstellen, klicke auf den Skripte-Reiter, wähle `Daten`{:class="blockdata"} aus und klicke auf 'Neue Variable'.
+Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde?
 
-	![screenshot](images/ghost-score.png)
+Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
 
-	Gib 'Punktestand' als den Variablennamen ein. Setze den Haken bei Für alle Figuren', damit die Punktestand-Variable für alle Figuren verfügbar ist, und klicke auf 'OK', um die Variable zu erstellen.
-  Du wirst nun eine Menge Code-Blöcke sehen, die mit der Variable `Punktestand`{:class="blockdata"} verfügbar sind.
+![screenshot](images/ghost-fullscreen.png)
 
-	![screenshot](images/ghost-variable.png)
+--- hints --- --- hint --- `Wenn angeklickt`, sollte sich deine Gespenster-Figur `verstecken`. --- /hint --- --- hint --- Dein Code sollte so aussehen: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
-	Den Punktestand siehst Du oben links in der Bühne.
+--- /task ---
 
-	![screenshot](images/ghost-stage-score.png)
+--- challenge ---
 
-+ Sobald ein neues Spiel startet (mit einem Klick auf die Fahne), solltest Du den Punktestand automatisch auf 0 setzen:
+## Herausforderung: Hinzufügen eines Sounds
 
-	```blocks
-	Wenn die grüne Flagge angeklickt
-	setze [Punktestand v] auf [0]
-	```
-
-+ Immer wenn ein Gespenst gefangen worden ist, ändere den Punktestand um 1:
-
-	![screenshot](images/ghost-change-score.png)
-
-+ Lasse das Programm noch einmal laufen und fange selbst einige Gespenster. Steigt Dein Punktestand?
+Kannst du deinen Geist dazu bringen, jedes Mal ein Geräusch zu machen, wenn er gefangen wird? --- /challenge ---

@@ -1,41 +1,23 @@
-## Ajouter un compte à rebours
+## Ajouter du pointage
 
-Vous pouvez rendre votre jeu encore plus intéressant en limitant chaque partie à 10 secondes pour attraper le plus de fantômes possible.
+Rendons les choses plus intéressantes en comptant les points !
 
-+ Vous pouvez utiliser une autre variable pour stocker le temps qu'il vous reste. Cliquez sur la scène et créez une nouvelle variable nommée 'temps' :
+--- task ---
 
-	![screenshot](images/ghost-time.png)
+Crée une nouvelle variable appelée « pointage ».
 
-+ Le compte à rebours devrait fonctionner ainsi :
+[[[generic-scratch-add-variable]]]
 
-	+ Le compte à rebours devrait commencer à 10 secondes ;
-	+ Le compte à rebours devrait décompter chaque seconde ;
-	+ Le jeu devrait s'arrêter lorsque le compte à rebours arrive à 0.
+--- /task ---
 
-	Voici le code qui vous permettra de réaliser cela. Vous pouvez ajouter celui-ci à votre __scène__ :
+--- task ---
 
-	```blocks
-    	quand le drapeau vert pressé
-    	[temps v] prend la valeur [10]
-    	répéter jusqu’à <(temps) = [0]>
-       		attendre (1) secondes
-       		ajouter à [temps v] (-1)
-    	fin
-    	stop [tout v]
-	```
+Peux-tu garder le pointage du joueur ? Les joueurs doivent marquer des points en cliquant sur les fantômes pour les attraper.
 
-	Voici comment vous pouvez ajouter le code `répéter jusqu’à`{:class="blockcontrol"}`temps`{:class="blockdata"}`= 0`{:class="blockoperators"} :
+Chaque fois qu'un joueur clique sur un fantôme, son pointage doit augmenter.
 
-	![screenshot](images/ghost-timer-help.png)
+![Augmenter le pointage](images/ghost-score-test.png)
 
-+ Déplacez votre variable 'temps' vers le côté droit de votre scène. Vous pouvez aussi faire un clic droit sur l'affichage de la variable et choisir 'grande lecture' afin de changer la présentation du temps.
+--- hints --- --- hint --- `Quand le drapeau vert est cliqué`, la variable de ton `pointage` doit se `mettre à 0`. La scène est le meilleur endroit pour ajouter ce code. `Quand le lutin fantôme est cliqué`, le `pointage` doit être mis `à 1` . --- /hint --- --- hint --- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Ton code devrait ressembler à ceci: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-readout.png)
-
-+ Demandez à un ami de tester votre jeu. Combien de points peut-il marquer? Si votre jeu est trop facile, vous pouvez :
-
-	+ Donner moins de temps au joueur ;
-	+ Faire en sorte que les fantômes apparaissent moins souvent ;
-	+ Réduire la taille des fantômes.
-
-	Testez votre jeu à quelques reprises jusqu'à ce que vous soyez satisfaits du niveau de difficulté.
+--- /task ---

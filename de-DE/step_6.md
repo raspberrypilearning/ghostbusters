@@ -1,41 +1,23 @@
-## Eine Uhr hinzufügen
+## Eine Punktzahl hinzufügen
 
-Du kannst das Spiel noch interessanter gestalten, indem Du dem Spieler nur 10 Sekunden Zeit gibst, um so viele Gespenster wie möglich zu fangen.
+Lass uns die Dinge interessanter machen, indem wir Punkte zählen!
 
-+ Du kannst eine weitere Variable benutzen, um die verbleibende Zeit anzeigen zu lassen. Klicke auf 'Daten' und erstelle eine neue Variable, die 'Zeit' heißt:
+--- task ---
 
-	![screenshot](images/ghost-time.png)
+Erstelle eine neue Variable namens "Punkte".
 
-+ So sollte die Zeitanzeige funktionieren:
+[[[generic-scratch-add-variable]]]
 
-	+ Die Zeit sollte bei 10 Sekunden starten;
-	+ Die Uhr sollte jede Sekunde runterrechnen;
-	+ Die Uhr sollte bei 0 stoppen.
+--- /task ---
 
-	Das ist der Code, den Du zu Deiner __Bühne__ hinzufügen kannst:
+--- task ---
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		setze [Zeit v] auf [10]
-		wiederhole bis <(Zeit) = [0]>
-			warte (1) Sek.
-			ändere [Zeit v] um (-1)
-		Ende
-		stoppe [alles v]
-	```
+Kannst du den Punktestand des Spielers mitschreiben? Die Spieler sollten Punkte bekommen, wenn sie auf Geister klicken, um sie zu fangen.
 
-	So fügst Du den Code `wiederhole bis`{:class="blockcontrol"}`Zeit`{:class="blockdata"}`= 0`{:class="blockoperators"} hinzu:
+Jedes Mal, wenn ein Spieler auf einen Geist klickt, sollte sein Punktestand erhöht werden.
 
-	![screenshot](images/ghost-timer-help.png)
+![Punktestand erhöhen](images/ghost-score-test.png)
 
-+ Ziehe Deine 'Zeit'-Variable auf die rechte Seite der Bühne. Mit einem Rechtsklick kannst Du die Darstellung der Zeitvariable verändern.
+--- hints --- --- hint --- `Wenn die grüne Flagge geklickt wird`, sollte deine `Punkte` Variable auf `0 gesetzt werden`. Am Besten fügst du diesen Code der Bühne hinzu. Die `Punkte` werden `um 1 geändert`. wenn `die Geister-Figur angeklickt wird`. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die Du brauchen wirst: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- So sammelt man durch das Klicken auf Geister Punkte: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
 
-	![screenshot](images/ghost-readout.png)
-
-+ Bitte Deine Familie oder Freunde, das Spiel zu testen. Wie viele Punkte können Sie erreichen? Wenn das Spiel zu einfach ist, kannst Du:
-
-	+ Dem Spieler weniger Zeit geben;
-	+ Das Gespenst seltener auftauchen lassen;
-	+ Das Gespenst kleiner machen.
-
-	Teste Dein Spiel einige Male, bis Du mit dem Schwierigkeitsgrad zufrieden bist.
+--- /task ---
