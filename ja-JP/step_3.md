@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Open a new empty Scratch project.
+新しいScratchのプロジェクトを開きましょう。
 
 [[[generic-scratch-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+おばけのスプライトとふさわしい背景（はいけい）を追加します。
 
-![screenshot](images/ghost-ghost.png)
+![スクリーンショット](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
@@ -22,15 +22,15 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+フラッグをクリックすると、ずっとおばけがあらわれたり、消えたりするようにコードを入れてみましょう。
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされた時`、 おばけは`1秒`のあいだ`かくれて`、`1秒`のあいだ`あらわれます`。 これを `ずっと`くり返します。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+テストして保存しましょう。
 
 [[[generic-scratch-saving]]]
 
