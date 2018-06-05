@@ -1,4 +1,4 @@
-## Atrapar fantasmas
+## Atrapando fantasmas
 
 ¡Permitamos que el jugador atrape fantasmas!
 
@@ -6,11 +6,11 @@
 
 ¿Puedes hacer que tu fantasma desaparezca cuando es atrapado?
 
-Deberías poder hacer clic en los fantasmas para atraparlos. Si encuentras que la captura es difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
+Deberías poder hacer clic en los fantasmas para atraparlos. Si capturarlos te resulta difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Al hacer clic en ella`, la figura de tu fantasma se debería `ocultar`. \--- /hint \--- \--- hint \--- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Al hacer clic en ella`, la figura de tu fantasma se debería `esconder`. \--- /hint \--- \--- hint \--- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
