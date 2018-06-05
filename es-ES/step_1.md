@@ -52,7 +52,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## title: Materiales del proyecto
 
-## Recursos para el líder del club
+## Recursos para los líderes de clubes
 
 * [Proyecto de Scratch 2 acabado para descargar](resources/Ghostbusters.sb2)
-* [Proyecto de Scratch 2 acabado en línea](http://scratch.mit.edu/projects/60787262/#editor)\--- /collapse \---
+* [Proyecto de Scratch 2 acabado online](http://scratch.mit.edu/projects/60787262/#editor)\--- /collapse \---
