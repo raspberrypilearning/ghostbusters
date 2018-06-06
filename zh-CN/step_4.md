@@ -1,6 +1,6 @@
-## Random ghosts
+## 随机幽灵
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+眼下你的幽灵实在是太容易抓捕了，因为它不会动！
 
 \--- task \---
 
