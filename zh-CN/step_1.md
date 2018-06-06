@@ -34,15 +34,15 @@
 
 * [利用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## 挑战
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* “更多随机性” -- 使用随机数；
+* “添加声音” -- 巩固声音相关知识；
+* “更多元素” -- 应用所学技能创建其他游戏元素。
 
-## Frequently Asked Questions
+## 常见问题
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* 如果孩子们觉得很难只点击幽灵而不拖动他们，可以让孩子们在全屏模式下玩游戏，这样幽灵就不能拖动了。
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -50,9 +50,9 @@
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 项目资源
 
-## Club leader resources
+## 俱乐部负责人资源
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [下载完整版Scratch 2项目](resources/Ghostbusters.sb2)
+* [在线完整版Scratch 2项目](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
