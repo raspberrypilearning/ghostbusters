@@ -9,15 +9,15 @@
 
 Зможете додати інші предмети до гри?
 
-![screenshot](images/ghost-final.png)
+![скріншот](images/ghost-final.png)
 
 Коли ви додаєте об'єкт, потрібно подумати про такі речі.
 
 + Який їх розмір?
 + Вони будуть з'являтись частіше чи рідше за привидів?
 + Як буде виглядати/звучати, коли їх зловлять?
-+ How many points will the player score (or lose) for catching it?
++ Скільки очок виграє (чи втратить) гравець, коли їх зловить?
 
-If you need help adding another object, you can reuse the steps above!
+Якщо вам потрібна допомога щоб додати предмет, використайте ті ж кроки вище!
 
 \--- /challenge \---
