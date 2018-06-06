@@ -1,8 +1,8 @@
-## Animating a ghost
+## 幽灵动画
 
 \--- task \---
 
-Open a new empty Scratch project.
+打开一个空白Scrach工程。
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+添加一个幽灵角色并选择一个合适的舞台背景。
 
 ![screenshot](images/ghost-ghost.png)
 
