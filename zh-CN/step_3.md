@@ -12,7 +12,7 @@
 
 添加一个幽灵角色并选择一个合适的舞台背景。
 
-![screenshot](images/ghost-ghost.png)
+![截屏](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
@@ -30,7 +30,7 @@
 
 \--- task \---
 
-Test and save your project.
+测试并保存项目。
 
 [[[generic-scratch-saving]]]
 
