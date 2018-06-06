@@ -44,7 +44,7 @@
 
 * 如果孩子们觉得很难只点击幽灵而不拖动他们，可以让孩子们在全屏模式下玩游戏，这样幽灵就不能拖动了。
 
-![screenshot](images/ghost-fullscreen.png)
+![截屏](images/ghost-fullscreen.png)
 
 \--- /collapse \---
 
