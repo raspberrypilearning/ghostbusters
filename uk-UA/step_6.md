@@ -14,10 +14,10 @@
 
 Зможеш відстежити очки гравців? Гравці набирають очки натискаючи на привидів щоб зловити їх.
 
-Щоразу, коли гравець натискає на привида, рахунок повинен рости.
+Щоразу, коли гравець натискає на привида, очки повинні рости.
 
-![Increasing score](images/ghost-score-test.png)
+![Збільшення очок](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `рахунку` має бути `встановлена на 0`. Сцена - найкраще місце, щоб додати цей код. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `очки` має бути `встановлена на 0`. Сцена - найкраще місце, щоб додати цей код. `При натисканні на привида`,`очки`потрібно`змінити на 1`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам потрібно використати: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Ось як заробити очки натисканням на привидів: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
