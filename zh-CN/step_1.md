@@ -21,18 +21,18 @@
 
 本项目使用Scratch 2。 Scratch 2 可以在线使用[jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ，也可以从[jumpto.cc/scratch-off](http://jumpto.cc/scratch-off)下载下来离线使用。
 
-You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+你可以[在线](http://scratch.mit.edu/projects/60787262/#editor)找到本项目的完整版，或者点击本项目的“项目资源”连接下载下来，包括：
 
 * Ghostbusters.sb2
 
-## Learning Objectives
+## 学习目标
 
-* Variables;
-* Random numbers.
+* 变量
+* 随机数
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [利用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 
