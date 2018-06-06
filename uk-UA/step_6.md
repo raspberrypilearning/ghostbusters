@@ -1,6 +1,6 @@
 ## Додати очки
 
-Let's make things more interesting by keeping score!
+Давайте зробимо гру цікавішою, зберігаючи очки!
 
 \--- task \---
 
