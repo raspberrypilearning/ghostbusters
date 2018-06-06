@@ -1,25 +1,25 @@
-## Introduction
+## 简介
 
-You are going to make a ghost-catching game!
+你将开发一款捉鬼游戏！
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
   <img src="images/ghost-final.png">
 </div>
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/ghostbusters/print)。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 俱乐部负责人笔记
 
-## Introduction:
+## 简介
 
-In this project, children will learn how to use variables to store data in their programs.
+在这个项目中，孩子们将学习如何在程序中用变量存储数据。
 
-## Resources
+## 资源
 
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+本项目使用Scratch 2。 Scratch 2 可以在线使用[jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ，也可以从[jumpto.cc/scratch-off](http://jumpto.cc/scratch-off)下载下来离线使用。
 
 You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
