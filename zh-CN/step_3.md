@@ -22,9 +22,9 @@
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+为幽灵添加代码，当点击旗子时让它不停地忽隐忽现。
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 一旦`绿旗被点击`，你需要让幽灵`隐藏``1秒钟`然后`显示``1秒钟`。 `永远不停地`重复这个动作。 \--- /hint \--- \--- hint \--- 这是你需要用到的代码块： ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- 你的代码应该如下图这样： ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
