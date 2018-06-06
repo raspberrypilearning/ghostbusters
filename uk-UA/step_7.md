@@ -17,26 +17,26 @@
 
 Гра має зупинитись коли таймер дойде до 0.
 
-\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `час` має бути `встановлена на 10`. Потім вона має `змінюватись на -1` щосекунди `поки не сягне 0`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам знадобляться: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ось так можна додати таймер в гру: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `час` має бути `встановлена на 10`. Потім вона має `змінюватись на -1` щосекунди `поки не сягне 0`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам знадобляться: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ось так можна додати таймер в гру: ![скріншот](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+А так створити блок `час =0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Попросіть друга перевірити гру. Скільки очок він зможе набрати?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Якщо гра занадто проста, ви можете:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Дайте гравцю менше часу
++ Зробіть, щоб привиди з'являлися рідше
++ Зменшіть привидів
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Змінюйте і випробовуйте свою гру кілька разів, поки не задоволені рівнем складності.
 
 \--- /task \---
