@@ -1,23 +1,23 @@
-## Adding a timer
+## Додати таймер
 
 \--- task \---
 
-Create a new variable called 'time'.
+Створіть нову змінну з назвою "час".
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Зможете додати таймер на вашу Сцену, щоб дати гравцю лише 10 секунд, щоб зловити якомога більше привидів?
 
-Your timer should:
+Ваш таймер має:
 
-+ Start at 10 seconds
-+ Count down every second
++ Починатись з 10 секунд
++ Відраховувати кожну секунду
 
-The game should stop when the timer gets to 0.
+Гра має зупинитись коли таймер дойде до 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `час` має бути `встановлена на 10`. Потім вона має `змінюватись на -1` щосекунди `поки не сягне 0`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам знадобляться: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ось так можна додати таймер в гру: ![screenshot](images/ghost-timer-code.png)
 
 And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
