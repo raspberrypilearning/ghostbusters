@@ -4,14 +4,14 @@
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+你能为幽灵添加代码让它不再待在一个地方不动，而是在屏幕上随机出现吗？
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 你让幽灵在每次显现出来前`去到`舞台某一随机位置。 \--- /hint \--- \--- hint \--- 你需要用到2组代码块。 这组： ![screenshot](images/ghost-random-blocks-1.png) 或这组： ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- 你的代码应该如下图： ![screenshot](images/ghost-random-code-1.png) 或者也可以像这样： ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## 挑战：更多随机性
 
-Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---
+你能让幽灵`等待`随机时间再显现吗？ 你能用`将角色的大小设定为`代码块让幽灵每次出现时大小随机变化吗？ \--- /challenge \---
