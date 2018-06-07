@@ -17,26 +17,26 @@
 
 当计时器为0时游戏结束。
 
-\--- hints \--- \--- hint \--- `当点击绿旗时`，`时间`变量应当`设置为10`。 然后每过1秒`变化-1``直到变为0`。 \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `当点击绿旗时`，`时间`变量应当`设置为10`。 然后每过1秒`变化-1``直到变为0`。 \--- /hint \---\--- hint \--- 这是你需要用到的代码块： ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- 这是如何向游戏中添加计时器： ![截屏](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+这是如何创建`将时间变量设置为0`的代码块： ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+邀请一位朋友来测试你的游戏。看看他们能得多少分？
 
 \--- /task \---
 
-If your game is too easy, you can:
+如果你的游戏太简单，你可以：
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ 给玩家更少的时间
++ 加少幽灵的出现频率
++ 让幽灵变小点
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+反复修改并测试你的游戏，直到你觉得难度适中为止。
 
 \--- /task \---
