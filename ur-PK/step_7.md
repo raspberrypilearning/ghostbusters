@@ -17,26 +17,26 @@
 
 ٹائمر 0 ہو جاتا ہے جب کھیل کو روکنا چاہئے.
 
-\--- اشارے \--- \--- اشارہ \--- `سبز پرچم پر کلک کیا جاتا ہے تو`، اپنے `وقت` متغیر ہونا چاہئے `سے 10 سیٹ`. یہ تو ہونا چاہئے `-1 طرف تبدیلی کے` ہر دوسرے `یہ 0 تک`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![اسکرین شاٹ](images/ghost-timer-code.png)
+\--- اشارے \--- \--- اشارہ \--- `سبز پرچم پر کلک کیا جاتا ہے تو`، اپنے `وقت` متغیر ہونا چاہئے `سے 10 سیٹ`. یہ تو ہونا چاہئے `-1 طرف تبدیلی کے` ہر دوسرے `یہ 0 تک`. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کو استعمال کرنے کی ضرورت ہو گی ہیں: ![screenshot](images/ghost-timer-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- یہاں پر ٹائمر کو شامل کرنے کا طریقہ یہ ہے آپ کی کھیل: ![اسکرین شاٹ](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+اور یہ کس طرح `وقت = 0` بلاک بنانے کے لئے ہے: ![screenshot](images/ghost-timer-help.png) \--- / اشارہ \--- \--- / اشارہ \---
 
-\--- /task \---
+\--- / کام \---
 
-\--- task \---
+\--- کام \---
 
-Ask a friend to test your game. How many points can they score?
+اپنے کھیل کو جانچنے کے لئے ایک دوست سے پوچھیں. وہ کتنے پوائنٹس سک سکتے ہیں؟
 
-\--- /task \---
+\--- / کام \---
 
-If your game is too easy, you can:
+اگر آپ کا کھیل بہت آسان ہے تو، آپ کر سکتے ہیں:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ کھلاڑی کم وقت دو
++ ماضی کو کم وقت لگائیں
++ ماضی چھوٹے بنائیں
 
-\--- task \---
+\--- کام \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+اپنے کھیل کو چند بار تبدیل کریں اور آزمائیں جب تک کہ آپ خوش ہوں کہ یہ صحیح سطح پر مشکل ہے.
 
-\--- /task \---
+\--- / کام \---
