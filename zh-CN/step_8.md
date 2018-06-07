@@ -1,11 +1,11 @@
 <div class="p-hero-buttons">
-  [Offline Completed Project](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
-  [Online Completed Project](http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
+  [离线版完整工程](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
+  [在线版完整工程](http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
 </div>
 
 \--- challenge \---
 
-## Challenge: more objects
+## 挑战：更多元素
 
 Can you add other objects to your game?
 
