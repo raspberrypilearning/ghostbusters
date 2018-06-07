@@ -1,19 +1,19 @@
-## Adding a timer
+## 添加计时器
 
 \--- task \---
 
-Create a new variable called 'time'.
+新建一个叫“时间”的变量。
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+你能为舞台添加一个计数器，只给玩家10秒钟去捕捉尽可能多的幽灵吗？
 
-Your timer should:
+计时器应当：
 
-+ Start at 10 seconds
-+ Count down every second
++ 初始设置10秒
++ 每秒钟倒计时
 
 The game should stop when the timer gets to 0.
 
