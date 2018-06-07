@@ -12,12 +12,12 @@
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+你能跟踪玩家的分数吗？当玩家点击幽灵捉住它们可获得积分。
 
-Each time a player clicks on a ghost, their score should increase.
+玩家每次点到幽灵分数都会增加。
 
-![Increasing score](images/ghost-score-test.png)
+![增加分数](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `当点击绿旗时`，`分数`变量应该`设为0`。 这段代码最适合添加到舞台上。 `当幽灵角色被点击时`，`分数`应该`增加1`。 \--- /hint \--- \--- hint \--- 这是你需要用到的代码块： ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- 这是当幽灵被点击时如何增加积分： ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
