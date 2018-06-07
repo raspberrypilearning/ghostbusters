@@ -10,12 +10,12 @@
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- 当幽灵角色`被点击时`，应该`隐藏`。 \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 当幽灵角色`被点击时`，应该`隐藏`。 \--- /hint \--- \--- hint \--- 代码如下图： ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## 挑战：添加声音
 
 Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
