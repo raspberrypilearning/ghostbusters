@@ -1,10 +1,10 @@
-## Adding a score
+## 添加分数
 
-Let's make things more interesting by keeping score!
+让我们记录得分让游戏变得更加有趣！
 
 \--- task \---
 
-Create a new variable called 'score'.
+新建一个名叫“分数”的变量。
 
 [[[generic-scratch-add-variable]]]
 
