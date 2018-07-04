@@ -8,7 +8,7 @@ Can you add code to your ghost so that, instead of staying in the same position,
 
 --- hints ---
 --- hint ---
-You want your ghost to `go to` a random position on the stage before appearing each time.
+You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time.
 --- /hint ---
 --- hint ---
 There are two sets of code blocks you can use.
@@ -29,5 +29,6 @@ Or it can look like this:
 
 --- challenge ---
 ## Challenge: more randomness
-Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears?
+Can you make your ghost `wait`{:class=”blockcontrol”}
+ a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears?
 --- /challenge ---

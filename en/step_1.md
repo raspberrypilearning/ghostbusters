@@ -4,13 +4,17 @@ You are going to make a ghost-catching game!
 
 ### What you will make
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+--- no-print ---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+![showcase](images/showcase.gif)
 
+--- /no-print ---
+
+--- print-only ---
+
+![showcase](images/showcase-static.png)
+
+--- /print-only ---
 
 --- collapse ---
 
@@ -40,4 +44,8 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 --- /collapse ---
 
+--- no-print ---
+
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+--- /no-print ---
