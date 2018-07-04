@@ -1,36 +1,55 @@
-## Adding a score
-
-Let's make things more interesting by keeping score!
+## Adding a timer
 
 --- task ---
 
-Create a new variable called 'score'.
-
-[[[generic-scratch-add-variable]]]
+Create a new variable called 'time'.
 
 --- /task ---
 
 --- task ---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-Each time a player clicks on a ghost, their score should increase.
+Your timer should:
 
-![Increasing score](images/ghost-score-test.png)
++ Start at 10 seconds
++ Count down every second
+
+The game should stop when the timer gets to 0.
 
 --- hints ---
 --- hint ---
-`When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`.
+`When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
-![screenshot](images/ghost-score-blocks.png)
+![screenshot](images/ghost-timer-blocks.png)
 --- /hint ---
 --- hint ---
-Here's how to score points by clicking ghosts:
-![screenshot](images/ghost-score-code.png)
+Here's how to add the timer to your game:
+![screenshot](images/ghost-timer-code.png)
+
+And this is how to create the `time = 0` block:
+![screenshot](images/ghost-timer-help.png)
 --- /hint ---
 --- /hints ---
 
 --- /task ---
 
+--- task ---
+
+Ask a friend to test your game. How many points can they score?
+
+--- /task ---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+--- task ---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
+
+--- /task ---
