@@ -1,4 +1,4 @@
-## Animating a ghost
+## Di cosa avrai bisogno
 
 \--- task \---
 
