@@ -14,22 +14,20 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Introduction
   - 
-    title: Ce dont tu auras besoin
+    title: Animating a ghost
   - 
-    title: Animer un fantôme
+    title: Random ghosts
   - 
-    title: Fantômes aléatoires
+    title: Catching ghosts
   - 
-    title: Attraper des fantômes
+    title: Adding a score
   - 
-    title: Ajouter un score
+    title: Adding a timer
   - 
-    title: Ajouter un chronomètre
-  - 
-    title: 'Challenge: plus d''objets'
+    title: 'Challenge: more objects'
