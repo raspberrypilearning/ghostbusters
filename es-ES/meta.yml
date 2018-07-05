@@ -31,3 +31,4 @@ steps:
     title: Añadir una puntuación
   - 
     title: 'Añadir un temporizador'
+    challenge: true
