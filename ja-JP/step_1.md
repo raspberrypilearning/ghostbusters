@@ -2,57 +2,50 @@
 
 おばけをつかまえるゲームを作りましょう！
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/ghostbusters/print)を使用してください。
+\--- no-print \---
 
-## \--- collapse \---
+![showcase](images/showcase.gif)
 
-## title：指導者用ノート
+\--- /no-print \---
 
-## はじめに
+\--- print-only \---
 
-このプロジェクトでは、変数を使ってプログラムにデータを格納する方法を学習します。
+![showcase](images/showcase-static.png)
 
-## 資料
+\--- /print-only \---
 
-このプロジェクトでは、スクラッチ2を使用して下さい。 スクラッチ2は、オンラインで使用できます。 [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) また、こちら[jumpto.cc/scratchoff](http://jumpto.cc/scratch-off) からダウンロードしてオフラインで使用する事も可能です。
+\--- collapse \---
 
-このプロジェクトの完成版は [こちら](http://scratch.mit.edu/projects/60787262/#editor)から確認できます。また、「プロジェクト資料のダウンロード」をクリックしてダウンロードすることもできます。中身は下記の通りです。
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## 学習目標
+### Hardware
 
-* 変数
-* 乱数
++ A computer
 
-このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
+### Software
 
-* [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## チャレンジ
-
-* "もっとランダムに" - 乱数を使用する。
-* "音を入れる" - 音の入れ方
-* "より多くのオブジェクト" - 学んだ事を使って、別のオブジェクトを作成する
-
-## よくある質問
-
-* おばけをドラッグせずにクリックするのが難しい場合、ゲームを全画面表示（ドラッグできないようにする）で遊ぶ事もできます。
-
-![スクリーンショット](images/ghost-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+\--- collapse \---
 
-## title: プロジェクト資料
+* * *
 
-## 指導者用資料
+## title: What you will learn
 
-* [完成版Scratch2プロジェクト（ダウンロード）](resources/Ghostbusters.sb2)
-* [完成版Scratch2プロジェクト（オンライン）](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
+
+\--- /collapse \---
+
+\--- no-print \---
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+\--- /no-print \---
