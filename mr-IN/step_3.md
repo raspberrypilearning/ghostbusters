@@ -1,37 +1,17 @@
-## एक भूत एनिमेटिंग
+## Random ghosts
 
-\--- कार्य \---
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
-एक नवीन रिक्त स्क्रॅच प्रोजेक्ट उघडा.
+\--- task \---
 
-[[[generic-scratch-new-project]]]
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- / कार्य \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
-\--- कार्य \---
+\--- /task \---
 
-नवीन भूत प्रेत आणि एक योग्य टप्पा पार्श्वभूमीमध्ये जोडा.
+\--- challenge \---
 
-![स्क्रीनशॉट](images/ghost-ghost.png)
+## Challenge: more randomness
 
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
-
-\--- / कार्य \---
-
-\--- कार्य \---
-
-आपल्या भूतवर कोड जोडा जेणेकरून ती दिसते आणि आपण ध्वज क्लिक करता तेव्हा कायमचे अदृश्य होईल
-
-\--- इशारे \--- \--- इशारा \--- एकदा `हिरवा झेंडा क्लिक केले आहे`, आपण आपल्या भूत करणे आवश्यक आहे `लपवा` साठी `एक सेकंद` आणि नंतर `शो` साठी `एक सेकंद`. या करावे लागेल `कायमचे`. \--- / इशारा \--- \--- इशारा \--- येथे आपल्याला आवश्यक कोड ब्लॉक आहेत: ![screenshot](images/ghost-appear-blocks.png) \--- / हिच \--- \--- इशारा \--- हा आपला कोड असा असावा: ![screenshot](images/ghost-appear-code.png) \--- / इशारा \--- \--- / इशारे \---
-
-\--- / कार्य \---
-
-\--- कार्य \---
-
-आपल्या प्रकल्पाची चाचणी आणि जतन करा
-
-[[[generic-scratch-saving]]]
-
-\--- / कार्य \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
