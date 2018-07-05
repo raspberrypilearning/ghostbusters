@@ -13,7 +13,7 @@ interests: pertandingan
 technologies: menggaruk
 site_areas: projects
 hardware: ''
-software: scratch
+software: menggaruk
 version: 4.2
 last_tested: 2018-01-01
 steps:
@@ -30,4 +30,4 @@ steps:
   - 
     title: Adding a timer
   - 
-    title: 'Challenge: more objects'
+    title: 'Tantangan: lebih banyak objek'
