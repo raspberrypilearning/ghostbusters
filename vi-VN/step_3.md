@@ -1,37 +1,17 @@
-## Hoạt hình một con ma
+## Random ghosts
 
-\--- bài tập \---
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
-Mở một dự án Scratch trống mới.
+\--- task \---
 
-[[[generic-scratch-new-project]]]
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- /bài tập \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
-\--- bài tập \---
+\--- /task \---
 
-Thêm vào một ma ma mới và phông nền sân khấu phù hợp.
+\--- challenge \---
 
-![ảnh chụp màn hình](images/ghost-ghost.png)
+## Challenge: more randomness
 
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
-
-\--- /bài tập \---
-
-\--- bài tập \---
-
-Thêm mã vào ma của bạn để nó xuất hiện và biến mất mãi mãi khi bạn nhấp vào lá cờ.
-
-\--- gợi ý \--- \--- gợi ý \--- Khi lá cờ `màu xanh lá cây được nhấn`, bạn sẽ cần phải làm cho ma của bạn `ẩn` cho `một giây` và sau đó `hiển thị` cho `một giây thứ`. Nó sẽ cần phải làm điều này `mãi mãi`. \--- / hint \--- \--- hint \--- Đây là các khối mã bạn sẽ cần: ![screenshot](images/ghost-appear-blocks.png) \--- / hint \--- \--- hint \--- Đây là mã của bạn sẽ trông như thế nào: ![screenshot](images/ghost-appear-code.png) \--- / gợi ý \--- \--- / gợi ý \---
-
-\--- /bài tập \---
-
-\--- bài tập \---
-
-Kiểm tra và lưu dự án của bạn.
-
-[[[generic-scratch-saving]]]
-
-\--- /bài tập \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
