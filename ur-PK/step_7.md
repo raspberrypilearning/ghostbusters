@@ -1,42 +1,18 @@
-## ٹائمر شامل کرنا
+\--- challenge \---
 
-\--- کام \---
+## Challenge: more objects
 
-'وقت' کہا جاتا ہے ایک نیا متغیر بنائیں.
+Can you add other objects to your game?
 
-\--- / کام \---
+![screenshot](images/ghost-final.png)
 
-\--- کام \---
+When you're adding an object, you need to think about the following things.
 
-کیا آپ اپنے پلیئر میں ایک ٹائمر شامل کر سکتے ہیں تاکہ آپ کے پلیئر کو صرف ممکنہ طور پر زیادہ ماضی کو پکڑنے کے لئے صرف 10 سیکنڈ دے سکیں؟
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-آپ کا ٹائمر ہونا چاہئے:
+If you need help adding another object, you can reuse the steps above!
 
-+ 10 سیکنڈ پر شروع کریں
-+ ہر سیکنڈ کو شمار کرو
-
-ٹائمر 0 ہو جاتا ہے جب کھیل کو روکنا چاہئے.
-
-\--- اشارے \--- \--- اشارہ \--- `سبز پرچم پر کلک کیا جاتا ہے تو`، اپنے `وقت` متغیر ہونا چاہئے `سے 10 سیٹ`. یہ تو ہونا چاہئے `-1 طرف تبدیلی کے` ہر دوسرے `یہ 0 تک`. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کو استعمال کرنے کی ضرورت ہو گی ہیں: ![screenshot](images/ghost-timer-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- یہاں پر ٹائمر کو شامل کرنے کا طریقہ یہ ہے آپ کی کھیل: ![اسکرین شاٹ](images/ghost-timer-code.png)
-
-اور یہ کس طرح `وقت = 0` بلاک بنانے کے لئے ہے: ![screenshot](images/ghost-timer-help.png) \--- / اشارہ \--- \--- / اشارہ \---
-
-\--- / کام \---
-
-\--- کام \---
-
-اپنے کھیل کو جانچنے کے لئے ایک دوست سے پوچھیں. وہ کتنے پوائنٹس سک سکتے ہیں؟
-
-\--- / کام \---
-
-اگر آپ کا کھیل بہت آسان ہے تو، آپ کر سکتے ہیں:
-
-+ کھلاڑی کم وقت دو
-+ ماضی کو کم وقت لگائیں
-+ ماضی چھوٹے بنائیں
-
-\--- کام \---
-
-اپنے کھیل کو چند بار تبدیل کریں اور آزمائیں جب تک کہ آپ خوش ہوں کہ یہ صحیح سطح پر مشکل ہے.
-
-\--- / کام \---
+\--- /challenge \---
