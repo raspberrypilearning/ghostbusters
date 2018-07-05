@@ -1,4 +1,4 @@
-## Acchiappare i fantasmi
+## Aggiungere un punteggio
 
 Let's make things more interesting by keeping score!
 
