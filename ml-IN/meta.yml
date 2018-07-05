@@ -13,7 +13,7 @@ interests: ഗെയിമുകൾ
 technologies: സ്ക്രാച്ച്
 site_areas: projects
 hardware: ''
-software: scratch
+software: സ്ക്രാച്ച്
 version: 4.2
 last_tested: 2018-01-01
 steps:
@@ -30,4 +30,4 @@ steps:
   - 
     title: Adding a timer
   - 
-    title: 'Challenge: more objects'
+    title: 'വെല്ലുവിളി: കൂടുതൽ വസ്തുക്കൾ'
