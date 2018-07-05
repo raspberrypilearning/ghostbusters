@@ -2,57 +2,50 @@
 
 Anda akan membuat game hantu-catching!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- jatuh \---
+![showcase](images/showcase.gif)
 
-## judul: Catatan pemimpin klub
+\--- /no-print \---
 
-## Pengantar:
+\--- print-only \---
 
-Dalam proyek ini, anak-anak akan belajar bagaimana menggunakan variabel untuk menyimpan data dalam program mereka.
+![showcase](images/showcase-static.png)
 
-## Sumber daya
+\--- /print-only \---
 
-Untuk proyek ini, Scratch 2 harus digunakan. Scratch 2 dapat digunakan secara online di [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) atau dapat diunduh dari [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) dan digunakan secara offline.
+\--- collapse \---
 
-Anda dapat menemukan versi lengkap dari proyek ini [online](http://scratch.mit.edu/projects/60787262/#editor), atau dapat diunduh dengan mengklik tautan 'Project Materials' untuk proyek ini, yang berisi:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Tujuan Pembelajaran
+### Hardware
 
-* Variabel;
-* Angka acak.
++ A computer
 
-Proyek ini mencakup unsur-unsur dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+### Software
 
-* [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana.](https://www.raspberrypi.org/curriculum/programming/creator)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-## Tantangan
+\--- /collapse \---
 
-* "Lebih banyak keacakan" - menggunakan angka acak;
-* "Menambah suara" - mengkonsolidasikan pembelajaran bunyi;
-* "Lebih banyak objek" - menerapkan keterampilan untuk membuat objek permainan lain.
+\--- collapse \---
 
-## Pertanyaan yang Sering Diajukan
+* * *
 
-* Jika anak-anak merasa sulit untuk mengeklik hantu tanpa menyeretnya, mereka dapat memainkan game dalam mode layar penuh, di mana hantu tidak dapat diseret.
+## title: What you will learn
 
-![tangkapan layar](images/ghost-fullscreen.png)
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-\--- /jatuh \---
++ [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## \--- jatuh \---
+\--- /collapse \---
 
-## judul: Materi proyek
+\--- no-print \---
 
-## Sumber daya pemimpin klub
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-* [Proyek Scratch 2 yang dapat diunduh selesai](resources/Ghostbusters.sb2)
-* [Online menyelesaikan Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---
+\--- /no-print \---
