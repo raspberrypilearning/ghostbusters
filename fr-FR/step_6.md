@@ -17,26 +17,26 @@ Ton chronomètre devra :
 
 Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
 
-\--- hints \--- \--- hint \--- `quand le drapeau vert est cliqué`{:class=”blockevents”}, ta variable `temps`{:class=”blockdata”} doit `être définie sur 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `quand le drapeau vert est cliqué`{:class=”blockevents”}, ta variable `temps`{:class=”blockdata”} doit `être définie sur 10`{:class=”blockdata”}. Il devra alors `ajouter -1`{:class=”blockdata”} chaque seconde `jusqu'à ce qu'il atteigne 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci: ![capture d'écran](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Et voici comment créer le bloc de `temps = 0` : ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Demande à un ami de tester ton jeu. Combien de points peuvent-t-il marquer ?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Si ton jeu est trop facile, tu peux :
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Donner au joueur moins de temps
++ Faire apparaître les fantômes moins souvent
++ Rendre les fantômes plus petits
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Change et test ton jeu plusieurs fois jusqu'à ce que tu sois satisfait du niveau de difficulté.
 
 \--- /task \---
