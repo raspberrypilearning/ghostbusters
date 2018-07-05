@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## 挑战：更多元素
 
-Can you add other objects to your game?
+你能为游戏加入其他元素吗？
 
-![screenshot](images/ghost-final.png)
+![截屏](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+当你添加新的游戏元素时，需要考虑如下内容：
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ 它有多大？
++ 它比幽灵更频繁还是不频繁的出现？
++ 当被捉到时它的外观/声音是怎样的？
++ 当玩家捉到它时得到（或失去）多少分？
 
-If you need help adding another object, you can reuse the steps above!
+如果在添加其他游戏元素时需要帮助，你可以参考上面的步骤！
 
 \--- /challenge \---
