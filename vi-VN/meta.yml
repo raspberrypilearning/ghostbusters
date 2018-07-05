@@ -13,7 +13,7 @@ interests: Trò chơi
 technologies: vết trầy
 site_areas: projects
 hardware: ''
-software: scratch
+software: vết trầy
 version: 4.2
 last_tested: 2018-01-01
 steps:
@@ -30,4 +30,4 @@ steps:
   - 
     title: Adding a timer
   - 
-    title: 'Challenge: more objects'
+    title: 'Thách thức: nhiều đối tượng hơn'
