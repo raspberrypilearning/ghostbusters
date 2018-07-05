@@ -1,21 +1,23 @@
-## پکڑنے ماضی
+## Adding a score
 
-چلو کھلاڑی کو ماضی پکڑنے کی اجازت دیتا ہے!
+Let's make things more interesting by keeping score!
 
-\--- کام \---
+\--- task \---
 
-کیا جب آپ پکڑے گئے ہیں تو آپ اپنے ماضی کو غائب کرسکتے ہیں؟
+Create a new variable called 'score'.
 
-آپ کو ان کو پکڑنے کے لئے ماضی پر کلک کرنے کے قابل ہونا چاہئے. اگر آپ کو پکڑنے میں دشواری مشکل ہے، تو آپ اس بٹن پر کلک کرکے کھیل کو مکمل سکرین موڈ میں کھیل سکتے ہیں:
+[[[generic-scratch-add-variable]]]
 
-![اسکرین شاٹ](images/ghost-fullscreen.png)
+\--- /task \---
 
-\--- اشارے \--- \--- اشارہ \--- `کلک کیا تو`، آپ ماضی سپرائٹ ہونا چاہئے `چھپائیں`. \--- / اشارہ \--- \--- اشارہ \--- آپ کا کوڈ اس طرح نظر آنا چاہیے: ![screenshot](images/ghost-catch-code.png) \--- / اشارہ \--- \--- اشارہ \---
+\--- task \---
 
-\--- / کام \---
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-\--- چیلنج \--- \---
+Each time a player clicks on a ghost, their score should increase.
 
-## چیلنج: ایک آواز میں اضافہ
+![Increasing score](images/ghost-score-test.png)
 
-کیا آپ کو اپنے ماضی کو پکڑنے کے لۓ ہر وقت آواز مل سکتی ہے؟ \--- / چیلنج \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
