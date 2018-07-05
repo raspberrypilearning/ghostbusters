@@ -1,4 +1,4 @@
-## Adding a timer
+## Ajouter un chronomètre
 
 \--- task \---
 
