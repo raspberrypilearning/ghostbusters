@@ -1,4 +1,4 @@
-## Adding a score
+## Gespenster fangen
 
 Let's make things more interesting by keeping score!
 
