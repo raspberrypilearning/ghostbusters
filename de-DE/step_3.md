@@ -1,37 +1,17 @@
-## Ein Gespenst lebendig werden lassen
+## Random ghosts
+
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- task \---
 
-Öffne ein neues Scratch-Projekt.
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-[[[generic-scratch-new-project]]]
-
-\--- /task \---
-
-\--- task \---
-
-Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
-
-![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
+\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-\--- task \---
+\--- challenge \---
 
-Füge deinem Geist Code hinzu, so dass er sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
+## Challenge: more randomness
 
-\--- hints \--- \--- hint \--- Sobald die `grüne Flagge angeklickt wird`, muss sich dein Gespenst `eine Sekunde` lang `verstecken` und sich dann `eine Sekunde` lang `zeigen`. Es muss dies `fortlaufend` tun. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Teste und speichere nun dein Projekt.
-
-[[[generic-scratch-saving]]]
-
-\--- /task \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
