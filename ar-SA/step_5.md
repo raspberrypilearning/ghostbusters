@@ -1,4 +1,4 @@
-## Adding a score
+## اصطياد الأشباح
 
 Let's make things more interesting by keeping score!
 
