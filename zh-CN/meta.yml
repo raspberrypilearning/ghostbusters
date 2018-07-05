@@ -31,3 +31,4 @@ steps:
     title: 添加分数
   - 
     title: '添加计时器'
+    challenge: true
