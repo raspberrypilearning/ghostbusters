@@ -4,7 +4,7 @@
 
 Peux-tu ajouter d'autres objets à ton jeu ?
 
-![screenshot](images/ghost-final.png)
+![capture d'écran](images/ghost-final.png)
 
 Quand tu ajoutes un objet, tu dois penser aux éléments suivants.
 
