@@ -1,21 +1,23 @@
-## Bắt ma
+## Adding a score
 
-Hãy để người chơi bắt bóng ma!
+Let's make things more interesting by keeping score!
 
-\--- bài tập \---
+\--- task \---
 
-Bạn có thể làm cho ma của bạn biến mất khi nó bị bắt?
+Create a new variable called 'score'.
 
-Bạn sẽ có thể nhấp vào bóng ma để bắt chúng. Nếu bạn cảm thấy khó khăn, bạn có thể chơi trò chơi ở chế độ toàn màn hình bằng cách nhấp vào nút này:
+[[[generic-scratch-add-variable]]]
 
-![ảnh chụp màn hình](images/ghost-fullscreen.png)
+\--- /task \---
 
-\--- gợi ý \--- \--- gợi ý \--- `Khi nhấp`, ma ma của bạn nên `ẩn`. \--- / hint \--- \--- hint \--- Mã của bạn sẽ trông như thế này: ![screenshot](images/ghost-catch-code.png) \--- / hint \--- \--- / hint \---
+\--- task \---
 
-\--- /bài tập \---
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-\--- thử thách \---
+Each time a player clicks on a ghost, their score should increase.
 
-## Thách thức: thêm âm thanh
+![Increasing score](images/ghost-score-test.png)
 
-Bạn có thể khiến con ma của bạn phát ra âm thanh mỗi khi nó bị bắt không? \--- /thử thách \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
