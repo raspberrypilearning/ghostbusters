@@ -31,3 +31,4 @@ steps:
     title: Adding a timer
   - 
     title: 'Thách thức: nhiều đối tượng hơn'
+    challenge: true
