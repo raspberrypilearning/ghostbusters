@@ -1,23 +1,42 @@
-## ایک سکور شامل
+## Adding a timer
 
-سکور کو برقرار رکھنے کے لۓ چیزوں کو مزید دلچسپ بنا دو
+\--- task \---
 
-\--- کام \---
+Create a new variable called 'time'.
 
-'سکور' کہا جاتا ہے ایک نیا متغیر بنائیں.
+\--- /task \---
 
-[[[generic-scratch-add-variable]]]
+\--- task \---
 
-\--- / کام \---
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-\--- کام \---
+Your timer should:
 
-کیا آپ کھلاڑی کے سکور کا تعاقب کرسکتے ہیں؟ کھلاڑی کو ان کو پکڑنے کے لئے ماضی پر کلک کرکے پوائنٹس اسکور کرنا چاہئے.
++ Start at 10 seconds
++ Count down every second
 
-ہر بار ایک کھلاڑی کسی ماضی پر کلک کرتا ہے، ان کے سکور میں اضافہ کرنا چاہئے.
+The game should stop when the timer gets to 0.
 
-![اضافی سکور](images/ghost-score-test.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-\--- اشارے \--- \--- اشارہ \--- `سبز پرچم پر کلک کیا جاتا ہے تو`، اپنے `سکور` متغیر ہونا چاہئے `0 مقرر`. یہ کوڈ اس کوڈ کو شامل کرنے کا بہترین مقام ہے. `گھوسٹ سپرائٹ کلک کیا جاتا ہے تو`، `کا اسکور` جانی چاہئے `1 کی طرف سے تبدیل کر دیا گیا`. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کو استعمال کرنے کی ضرورت ہو گی ہیں: ![screenshot](images/ghost-score-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- یہاں بھوتوں پر کلک کر کے پوائنٹس اسکور کرنے کا طریقہ یہ ہے ![screenshot](images/ghost-score-code.png) \--- / اشارہ \--- \--- / اشارہ \--- \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-\--- / کام \---
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
+
+\--- /task \---
