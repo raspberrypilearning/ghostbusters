@@ -2,22 +2,22 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Créer une nouvelle variable appelée « temps ».
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Peux-tu ajouter un chronomètre à ta scène pour donner ton joueur seulement 10 secondes pour attraper autant de fantômes que possible ?
 
-Your timer should:
+Ton chronomètre devra :
 
-+ Start at 10 seconds
-+ Count down every second
++ Commencer à 10 secondes
++ Compter à rebours toutes les secondes
 
-The game should stop when the timer gets to 0.
+Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `quand le drapeau vert est cliqué`{:class=”blockevents”}, ta variable `temps`{:class=”blockdata”} doit `être définie sur 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
 And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
