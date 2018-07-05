@@ -14,22 +14,20 @@ technologies: praska
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Uvod
   - 
-    title: Kaj boste potrebovali
+    title: Animating a ghost
   - 
-    title: Animiranje duha
+    title: Random ghosts
   - 
-    title: Naključni duhovi
+    title: Catching ghosts
   - 
-    title: Lovljenje duhov
+    title: Adding a score
   - 
-    title: Dodajanje rezultata
+    title: Adding a timer
   - 
-    title: Dodajanje časovnika
-  - 
-    title: 'Izziv: več predmetov'
+    title: 'Challenge: more objects'
