@@ -24,13 +24,13 @@ Ajoute un nouveau sprite fantôme et une toile de fond de scène appropriée.
 
 Ajoute du code à ton fantôme afin qu'il apparaisse et disparaisse indéfiniment quand tu cliques sur le drapeau.
 
-\--- hints \--- \--- hint \--- Quand le `drapeau vert est cliqué`{:class=”blockevents”}, tu dois faire `disparaître` ton fantôme {:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”} et ensuite le l'`afficher`{:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Quand le `drapeau vert est cliqué`{:class=”blockevents”}, tu dois faire `disparaître` ton fantôme {:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”} et ensuite le l'`afficher`{:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”}. Il devra le faire ` pour toujours ` {: class = "blockcontrol"}. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Teste et sauvegarde ton projet.
 
 [[[generic-scratch-saving]]]
 
