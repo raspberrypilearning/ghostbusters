@@ -16,6 +16,6 @@ Per acchiappare un fantasma, cliccaci sopra. Se trovi difficile acchiappare i fa
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Sfida: Aggiungere un suono
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Puoi fare in modo che il tuo fantasma emetta un suono ogni volta che viene acchiappato? \--- /challenge \---
