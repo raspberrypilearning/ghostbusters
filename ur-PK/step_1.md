@@ -2,57 +2,50 @@
 
 آپ ایک ماضی کو پکڑنے والے کھیل بنانے جا رہے ہیں!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-اگر آپ کو اس منصوبے کو پرنٹ کرنے کی ضرورت ہے، تو براہ مہربانی [پرنٹر دوستانہ ورژن](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- گرنے \---
+![showcase](images/showcase.gif)
 
-## عنوان: کلب لیڈر نوٹ
+\--- /no-print \---
 
-## تعارف:
+\--- print-only \---
 
-اس منصوبے میں، بچوں کو سیکھ جائے گی کہ ان کے پروگراموں میں ڈیٹا کو ذخیرہ کرنے کے لئے متغیر استعمال کیا جائے.
+![showcase](images/showcase-static.png)
 
-## وسائل
+\--- /print-only \---
 
-اس منصوبے کے لئے، سکریچ 2 استعمال کیا جانا چاہئے. سکریچ 2 یا تو آن لائن استعمال کیا جا سکتا [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) یا سے ڈاؤن لوڈ کیا جا سکتا ہے [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) اور آف لائن استعمال کیا.
+\--- collapse \---
 
-آپ اس پراجیکٹ کا مکمل ورژن [آن لائن](http://scratch.mit.edu/projects/60787262/#editor)کرسکتے ہیں، یا اس پراجیکٹ کے لئے 'پروجیکٹ مواد' کا لنک پر کلک کرکے ڈاؤن لوڈ کیا جا سکتا ہے، جس پر مشتمل ہے:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## سیکھنے کے مقاصد
+### Hardware
 
-* متغیرات؛
-* بے ترتیب نمبر
++ A computer
 
-یہ منصوبے [ریسسیری پی آئی ڈی ڈیجیٹل نصاب](http://rpf.io/curriculum)مندرجہ بالا عناصر سے عناصر پر مشتمل ہے.
+### Software
 
-* [سادہ پروگرام بنانے کے لئے بنیادی پروگرامنگ کی تعمیر کا استعمال کریں.](https://www.raspberrypi.org/curriculum/programming/creator)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-## چیلنجز
+\--- /collapse \---
 
-* "مزید بے ترتیب" - بے ترتیب نمبروں کا استعمال کرتے ہوئے؛
-* "آواز شامل کرنا" - آوازوں کو سیکھنے کو مضبوط کرنا؛
-* "مزید چیزیں" - ایک دوسرے کھیل شے کو پیدا کرنے کے لئے مہارت کو لاگو کرنا.
+\--- collapse \---
 
-## اکثر پوچھے گئے سوالات
+* * *
 
-* اگر بچوں کو ان کے گرد گھسیٹنے کے بجائے ماضی پر کلک کرنے کے لئے تلاش کرنا مشکل ہے، تو وہ پورے اسکرین موڈ میں کھیل کھیل سکتے ہیں، جس میں ماضی میں ڈرگ قابل نہیں ہے.
+## title: What you will learn
 
-![اسکرین شاٹ](images/ghost-fullscreen.png)
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-\--- /گرنے \---
++ [سادہ پروگرام بنانے کے لئے بنیادی پروگرامنگ کی تعمیر کا استعمال کریں.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## \--- گرنے \---
+\--- /collapse \---
 
-## عنوان: پروجیکٹ مواد
+\--- no-print \---
 
-## کلب رہنما وسائل
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-* [ڈاؤن لوڈ، اتارنا مکمل سکریچ 2 منصوبے](resources/Ghostbusters.sb2)
-* [آن اسکریچ 2 منصوبے مکمل کر](http://scratch.mit.edu/projects/60787262/#editor) \--- \--- / سکیڑیں
+\--- /no-print \---
