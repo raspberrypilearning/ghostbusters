@@ -1,6 +1,6 @@
-## Introduction
+## Introducción
 
-You are going to make a ghost-catching game!
+¡Vas a hacer un juego de atrapar fantasmas!
 
 ### What you will make
 
@@ -40,7 +40,7 @@ You are going to make a ghost-catching game!
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Usa estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
