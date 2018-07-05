@@ -14,13 +14,11 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Introduzione
-  - 
-    title: Di cosa avrai bisogno
   - 
     title: Animare un fantasma
   - 
@@ -30,4 +28,6 @@ steps:
   - 
     title: Aggiungere un punteggio
   - 
-    title: 'Aggiungere un timer'
+    title: Aggiungere un timer
+  - 
+    title: 'Sfida: Altri oggetti'
