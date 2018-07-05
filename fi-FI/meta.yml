@@ -14,22 +14,20 @@ technologies: naarmu
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: esittely
   - 
-    title: Mitä tarvitset
+    title: Animating a ghost
   - 
-    title: Aaveiden animointi
+    title: Random ghosts
   - 
-    title: Satunnaiset haamut
+    title: Catching ghosts
   - 
-    title: Aaveiden ottaminen
+    title: Adding a score
   - 
-    title: Pisteen lisääminen
+    title: Adding a timer
   - 
-    title: Ajastimen lisääminen
-  - 
-    title: 'Haaste: enemmän esineitä'
+    title: 'Challenge: more objects'
