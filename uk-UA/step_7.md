@@ -1,42 +1,18 @@
-## Додати таймер
+\--- challenge \---
 
-\--- task \---
+## Challenge: more objects
 
-Створіть нову змінну з назвою "час".
+Can you add other objects to your game?
 
-\--- /task \---
+![screenshot](images/ghost-final.png)
 
-\--- task \---
+When you're adding an object, you need to think about the following things.
 
-Зможете додати таймер на вашу Сцену, щоб дати гравцю лише 10 секунд, щоб зловити якомога більше привидів?
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-Ваш таймер має:
+If you need help adding another object, you can reuse the steps above!
 
-+ Починатись з 10 секунд
-+ Відраховувати кожну секунду
-
-Гра має зупинитись коли таймер дойде до 0.
-
-\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `час` має бути `встановлена на 10`. Потім вона має `змінюватись на -1` щосекунди `поки не сягне 0`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам знадобляться: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ось так можна додати таймер в гру: ![скріншот](images/ghost-timer-code.png)
-
-А так створити блок `час =0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Попросіть друга перевірити гру. Скільки очок він зможе набрати?
-
-\--- /task \---
-
-Якщо гра занадто проста, ви можете:
-
-+ Дайте гравцю менше часу
-+ Зробіть, щоб привиди з'являлися рідше
-+ Зменшіть привидів
-
-\--- task \---
-
-Змінюйте і випробовуйте свою гру кілька разів, поки не задоволені рівнем складності.
-
-\--- /task \---
+\--- /challenge \---
