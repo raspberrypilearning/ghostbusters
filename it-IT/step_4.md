@@ -1,4 +1,4 @@
-## Catching ghosts
+## Fantasmi a caso
 
 Let's allow the player to catch ghosts!
 
