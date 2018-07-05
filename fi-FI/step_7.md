@@ -1,42 +1,18 @@
-## Ajastimen lisääminen
+\--- challenge \---
 
-\--- task \---
+## Challenge: more objects
 
-Create a new variable called 'time'.
+Can you add other objects to your game?
 
-\--- /task \---
+![screenshot](images/ghost-final.png)
 
-\--- task \---
+When you're adding an object, you need to think about the following things.
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-Your timer should:
+If you need help adding another object, you can reuse the steps above!
 
-+ Start at 10 seconds
-+ Count down every second
-
-The game should stop when the timer gets to 0.
-
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
-
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Ask a friend to test your game. How many points can they score?
-
-\--- /task \---
-
-If your game is too easy, you can:
-
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
-
-\--- task \---
-
-Change and test your game a few times until you're happy that it's the right level of difficulty.
-
-\--- /task \---
+\--- /challenge \---
