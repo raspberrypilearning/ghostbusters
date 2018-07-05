@@ -1,17 +1,21 @@
-## Fantômes aléatoires
+## Catching ghosts
 
-Ton fantôme est vraiment facile à attraper en ce moment, parce qu'il ne bouge pas!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-Peux-tu ajouter du code à ton fantôme de sorte que, au lieu de rester dans la même position, il apparaît à des positions aléatoires sur l'écran?
+Can you make your ghost disappear when it's been caught?
 
-\--- hints \--- \--- hint \--- Tu veux que ton fantôme `aller à` une position aléatoire sur la scène avant d'apparaître à chaque fois. \--- /hint \--- \--- hint \--- Il existe deux ensembles de blocs de codes que tu peux utiliser. Celui-ci : ![screenshot](images/ghost-random-blocks-1.png) Ou celui-ci : ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci : ![screenshot](images/ghost-random-code-1.png) Ou il peut ressembler à ceci : ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+
+![screenshot](images/ghost-fullscreen.png)
+
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge : plus aléatoire
+## Challenge: adding a sound
 
-Peux-tu faire `attendre` ton fantôme pour une quantité aléatoire de temps avant de se montrer? Peux-tu utiliser le bloc `ajouter__ à la taille` pour rendre ton fantôme une taille aléatoire chaque fois qu'il apparaît? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
