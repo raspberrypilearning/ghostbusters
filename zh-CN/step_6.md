@@ -1,23 +1,42 @@
-## 添加分数
-
-让我们记录得分让游戏变得更加有趣！
+## Adding a timer
 
 \--- task \---
 
-新建一个名叫“分数”的变量。
-
-[[[generic-scratch-add-variable]]]
+Create a new variable called 'time'.
 
 \--- /task \---
 
 \--- task \---
 
-你能跟踪玩家的分数吗？当玩家点击幽灵捉住它们可获得积分。
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-玩家每次点到幽灵分数都会增加。
+Your timer should:
 
-![增加分数](images/ghost-score-test.png)
++ Start at 10 seconds
++ Count down every second
 
-\--- hints \--- \--- hint \--- `当点击绿旗时`，`分数`变量应该`设为0`。 这段代码最适合添加到舞台上。 `当幽灵角色被点击时`，`分数`应该`增加1`。 \--- /hint \--- \--- hint \--- 这是你需要用到的代码块： ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- 这是当幽灵被点击时如何增加积分： ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+The game should stop when the timer gets to 0.
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
 
 \--- /task \---
