@@ -1,58 +1,51 @@
 ## Giới thiệu
 
-Bạn sẽ tạo ra một trò chơi bắt mắt!
+Bạn sẽ tạo ra một trò chơi bắt ma!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-Nếu bạn cần in dự án này, hãy sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- sự sụp đổ \---
+![showcase](images/showcase.gif)
 
-## title: Ghi chú của leader club
+\--- /no-print \---
 
-## Giới thiệu:
+\--- print-only \---
 
-Trong dự án này, trẻ sẽ học cách sử dụng các biến để lưu trữ dữ liệu trong các chương trình của chúng.
+![showcase](images/showcase-static.png)
 
-## Tài nguyên
+\--- /print-only \---
 
-Đối với dự án này, Scratch 2 nên được sử dụng. Scratch 2 có thể được sử dụng trực tuyến tại [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) hoặc có thể tải xuống từ [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) và sử dụng ngoại tuyến.
+\--- collapse \---
 
-Bạn có thể tìm thấy phiên bản hoàn thành của dự án này [trực tuyến](http://scratch.mit.edu/projects/60787262/#editor)hoặc có thể tải xuống bằng cách nhấp vào liên kết 'Tài liệu Dự án' cho dự án này, trong đó có:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Mục tiêu học tập
+### Hardware
 
-* Biến;
-* Số ngẫu nhiên.
++ A computer
 
-Dự án này bao gồm các yếu tố từ các chuỗi sau đây của [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+### Software
 
-* [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-## Thách thức
+\--- /collapse \---
 
-* "Ngẫu nhiên hơn" - sử dụng các số ngẫu nhiên;
-* "Thêm âm thanh" - củng cố việc học âm thanh;
-* "Các đối tượng khác" - áp dụng các kỹ năng để tạo ra một đối tượng trò chơi khác.
+\--- collapse \---
 
-## Các câu hỏi thường gặp
+* * *
 
-* Nếu trẻ em cảm thấy khó khăn khi nhấp vào các bóng ma mà không cần kéo chúng xung quanh, chúng có thể chơi trò chơi ở chế độ toàn màn hình, trong đó các bóng ma không thể kéo được.
+## title: What you will learn
 
-![ảnh chụp màn hình](images/ghost-fullscreen.png)
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-\--- /sự sụp đổ \---
++ [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## \--- sự sụp đổ \---
+\--- /collapse \---
 
-## title: Tài liệu dự án
+\--- no-print \---
 
-## Tài nguyên lãnh đạo câu lạc bộ
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-* [Dự án Scratch 2 hoàn thành có thể tải xuống](resources/Ghostbusters.sb2)
-* [Online hoàn thành Scratch 2 dự án](http://scratch.mit.edu/projects/60787262/#editor) \--- / sụp đổ \---
+\--- /no-print \---
