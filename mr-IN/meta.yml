@@ -8,28 +8,26 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, डिझाइन -1, प्रोग्रामिंग -1, फेज- comp-0, उत्पादन 0, समुदाय-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: गेम
 technologies: सुरवातीपासून
-site_areas: प्रकल्प
+site_areas: projects
 hardware: ''
-software: सुरवातीपासून
-version: 4.0.1
+software: scratch
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: परिचय
   - 
-    title: आपल्याला काय आवश्यक आहे
+    title: Animating a ghost
   - 
-    title: एक भूत एनिमेटिंग
+    title: Random ghosts
   - 
-    title: अविशिष्ट भुते
+    title: Catching ghosts
   - 
-    title: प्रेक्षकांना पकडणे
+    title: Adding a score
   - 
-    title: स्कोअर जोडणे
+    title: Adding a timer
   - 
-    title: टाइमर जोडणे
-  - 
-    title: 'आव्हान: अधिक वस्तू'
+    title: 'Challenge: more objects'
