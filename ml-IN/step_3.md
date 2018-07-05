@@ -10,8 +10,8 @@ Can you add code to your ghost so that, instead of staying in the same position,
 
 \--- /task \---
 
-\--- challenge \---
+\--- വെല്ലുവിളി \---
 
 ## Challenge: more randomness
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- / വെല്ലുവിളി \---
