@@ -8,28 +8,26 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, desain-0, pemrograman-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: pertandingan
 technologies: menggaruk
-site_areas: proyek
+site_areas: projects
 hardware: ''
-software: menggaruk
-version: 4.0.1
+software: scratch
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: pengantar
   - 
-    title: Apa yang Anda butuhkan
-  - 
     title: Animating a ghost
   - 
-    title: Hantu acak
+    title: Random ghosts
   - 
-    title: Menangkap hantu
+    title: Catching ghosts
   - 
-    title: Menambahkan skor
+    title: Adding a score
   - 
-    title: Menambahkan pengatur waktu
+    title: Adding a timer
   - 
-    title: 'Tantangan: lebih banyak objek'
+    title: 'Challenge: more objects'
