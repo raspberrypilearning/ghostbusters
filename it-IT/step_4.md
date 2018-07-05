@@ -1,17 +1,21 @@
-## Fantasmi a caso
+## Catching ghosts
 
-Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-Puoi aggiungere dei codici per fare in modo che il tuo fantasma, invece di stare fermo nello stesso punto, compaia sullo schermo in punti a caso?
+Can you make your ghost disappear when it's been caught?
 
-\--- hints \--- \--- hint \--- Hai bisogno che il tuo fantasma `vada` ogni volta in un punto a caso dello schermo prima di comparire. \--- /hint \--- \--- hint \--- Puoi usare ben due set di blocchi di codice diversi. Questo: ![screenshot](images/ghost-random-blocks-1.png) O questo: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Il tuo codice dovrebbe apparire così: ![screenshot](images/ghost-random-code-1.png) Oppure così: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+
+![screenshot](images/ghost-fullscreen.png)
+
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Sfida: più casualità
+## Challenge: adding a sound
 
-Potresti fare in modo che il tuo fantasma `aspetti` per un periodo di tempo casuale prima di comparire? Potresti utilizzare il blocco `porta dimensione` per dare al tuo fantasma una dimensione casuale ogni volta che appare? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
