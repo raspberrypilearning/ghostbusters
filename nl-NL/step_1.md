@@ -2,57 +2,50 @@
 
 Je gaat een spookachtig spel maken!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- collapse \---
+![showcase](images/showcase.gif)
 
-## titel: Opmerkingen voor docenten
+\--- /no-print \---
 
-## Introductie:
+\--- print-only \---
 
-In dit project leren kinderen variabelen te gebruiken om gegevens in hun programma's op te slaan.
+![showcase](images/showcase-static.png)
 
-## Bronnen
+\--- /print-only \---
 
-Voor dit project dient Scratch 2 te worden gebruikt. Scratch 2 kan online worden gebruikt op [ jumpto.cc/scratch-on ](http://jumpto.cc/scratch-on) of kan worden gedownload van [ jumpto.cc/scratchoff ](http://jumpto.cc/scratch-off) en offline worden gebruikt.
+\--- collapse \---
 
-Je kunt een voltooide versie van dit project [ online vinden ](http://scratch.mit.edu/projects/60787262/#editor), of het kan worden gedownload door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Leerdoelen
+### Hardware
 
-* Variabelen;
-* Willekeurige getallen.
++ A computer
 
-Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
+### Software
 
-* [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Uitdagingen
-
-* "Meer willekeur" - gebruik willekeurige getallen;
-* "Een geluid toevoegen" - leer over geluiden;
-* "Meer objecten" - vaardigheden toepassen om een ​​ander spelobject te maken.
-
-## Veelgestelde vragen (faq)
-
-* Als kinderen het moeilijk vinden om op de spoken te klikken zonder ze te verslepen, kunnen ze het spel spelen in de modus voor volledig scherm. Daarin zijn de spoken niet meer versleepbaar.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+\--- collapse \---
 
-## title: Projectmaterialen
+* * *
 
-## Clubleider middelen
+## title: What you will learn
 
-* [Downloadbaar voltooid Scratch 2 project](resources/Ghostbusters.sb2)
-* [ Online voltooid Scratch 2-project ](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+\--- /collapse \---
+
+\--- no-print \---
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+\--- /no-print \---
