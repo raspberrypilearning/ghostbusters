@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## チャレンジ：オブジェクトをふやす
 
-Can you add other objects to your game?
+ゲームに他のオブジェクトを追加できますか？
 
-![screenshot](images/ghost-final.png)
+![スクリーンショット](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+オブジェクトを追加するときは、次のことについて考えましょう。
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ 大きさはどの位ですか？
++ おばけよりも、よくあらわれますか？
++ つかまった時に、どのような見た目になりますか？音はどうなりますか？
++ プレイヤーがつかまえた時に、何点とれますか？または何点なくしますか？
 
-If you need help adding another object, you can reuse the steps above!
+別のオブジェクトを追加するには、上のやり方を使ってみましょう。
 
 \--- /challenge \---
