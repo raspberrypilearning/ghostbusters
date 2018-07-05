@@ -14,7 +14,7 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 
 \--- /task \---
 
-\--- challenge \---
+\--- izziv \---
 
 ## Challenge: adding a sound
 
