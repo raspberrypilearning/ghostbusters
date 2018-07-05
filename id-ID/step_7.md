@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: more objects
+## Tantangan: lebih banyak objek
 
-Can you add other objects to your game?
+Bisakah Anda menambahkan objek lain ke gim Anda?
 
-![screenshot](images/ghost-final.png)
+![tangkapan layar](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Saat Anda menambahkan objek, Anda perlu memikirkan hal-hal berikut.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Seberapa besar itu?
++ Akankah itu muncul lebih sering daripada hantu?
++ Apa yang akan terlihat / terdengar seperti ketika telah ditangkap?
++ Berapa poin yang akan skor pemain (atau kalah) untuk menangkapnya?
 
-If you need help adding another object, you can reuse the steps above!
+Jika Anda perlu bantuan menambahkan objek lain, Anda dapat menggunakan kembali langkah-langkah di atas!
 
-\--- /challenge \---
+\--- / tantangan \---
