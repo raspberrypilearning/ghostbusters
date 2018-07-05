@@ -13,7 +13,7 @@ interests: oyunlar
 technologies: cızıq
 site_areas: projects
 hardware: ''
-software: scratch
+software: cızıq
 version: 4.2
 last_tested: 2018-01-01
 steps:
@@ -30,4 +30,4 @@ steps:
   - 
     title: Adding a timer
   - 
-    title: 'Challenge: more objects'
+    title: 'Çağırış: daha çox obyekt'
