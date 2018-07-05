@@ -8,28 +8,26 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, thiết kế-0, lập trình-1, phys-comp-0, sản xuất-0, cộng đồng-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: Trò chơi
 technologies: vết trầy
-site_areas: dự án
+site_areas: projects
 hardware: ''
-software: vết trầy
-version: 4.0.1
+software: scratch
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Giới thiệu
   - 
-    title: Những gì bạn cần
+    title: Animating a ghost
   - 
-    title: Hoạt hình một con ma
+    title: Random ghosts
   - 
-    title: Bóng ma ngẫu nhiên
+    title: Catching ghosts
   - 
-    title: Bắt ma
+    title: Adding a score
   - 
-    title: Thêm điểm
+    title: Adding a timer
   - 
-    title: Thêm bộ hẹn giờ
-  - 
-    title: 'Thách thức: nhiều đối tượng hơn'
+    title: 'Challenge: more objects'
