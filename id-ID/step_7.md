@@ -1,42 +1,18 @@
-## Menambahkan pengatur waktu
+\--- challenge \---
 
-\--- tugas \---
+## Challenge: more objects
 
-Buat variabel baru yang disebut 'waktu'.
+Can you add other objects to your game?
 
-\--- /tugas \---
+![screenshot](images/ghost-final.png)
 
-\--- tugas \---
+When you're adding an object, you need to think about the following things.
 
-Dapatkah Anda menambahkan pengatur waktu ke Panggung untuk memberi pemain Anda hanya 10 detik untuk menangkap sebanyak mungkin hantu?
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-Pengatur waktu Anda harus:
+If you need help adding another object, you can reuse the steps above!
 
-+ Mulai dari 10 detik
-+ Hitung mundur setiap detik
-
-Permainan akan berhenti ketika pengatur waktu menjadi 0.
-
-\--- petunjuk \--- \--- petunjuk \--- `Saat bendera hijau diklik`, variabel `waktu` harus `set ke 10`. Maka harus `berubah dengan -1` setiap detik `sampai mencapai 0`. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang perlu Anda gunakan: ![screenshot](images/ghost-timer-blocks.png) \--- / petunjuk \--- \--- petunjuk \--- Beginilah cara menambahkan pengatur waktu ke permainan: ![tangkapan layar](images/ghost-timer-code.png)
-
-Dan ini adalah cara membuat `waktu = 0` blok: ![screenshot](images/ghost-timer-help.png) \--- / petunjuk \--- \--- / petunjuk \---
-
-\--- /tugas \---
-
-\--- tugas \---
-
-Mintalah seorang teman untuk menguji game Anda. Berapa banyak poin yang bisa mereka cetak?
-
-\--- /tugas \---
-
-Jika gim Anda terlalu mudah, Anda dapat:
-
-+ Beri pemain lebih sedikit waktu
-+ Membuat hantu lebih jarang muncul
-+ Buat para hantu lebih kecil
-
-\--- tugas \---
-
-Ubah dan uji permainan Anda beberapa kali sampai Anda senang bahwa itu tingkat kesulitan yang tepat.
-
-\--- /tugas \---
+\--- /challenge \---
