@@ -1,17 +1,21 @@
-## أشباح عشوائية
+## Catching ghosts
 
-إلى الآن، من السهل جدًا اصطياد الشبح لأنه لا يتحرك!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-هل يمكنك إضافة كود برمجي إلى الشبح بحيث يظهر في مواقع عشوائية على الشاشة بدلًا من البقاء في الموقع نفسه؟
+Can you make your ghost disappear when it's been caught?
 
-\--- hints \--- \--- hint \--- تحتاج إلى برمجة الشبح باستخدام `انتقل إلى` موقع عشوائي على المنصة قبل كل مرة يظهر فيها. \--- /hint \--- \--- hint \--- توجد مجموعتان من القوالب البرمجية التي يمكنك إستخدامها. هذا القالب: ![screenshot](images/ghost-random-blocks-1.png) أو هذا القالب: ![screenshot](images/ghost-random-blocks-2.png) يجب أن تبدو التعليمات البرمجية الخاصة بك إما مثل هذا: ![screenshot](images/ghost-random-code-1.png) أو يمكن أن تبدو كالتالي: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-\---/task--
+![screenshot](images/ghost-fullscreen.png)
+
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
 
 \--- challenge \---
 
-## التحدي: أكثر عشوائية
+## Challenge: adding a sound
 
-هل يمكنك برمجة الشبح باستخدام `انتظر` لمدة عشوائية من الوقت قبل الظهور؟ وهل يمكنك استخدام القالب `عيِّن الحجم` لتجعل الشبح يظهر في كل مرة بحجم عشوائي؟ \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
