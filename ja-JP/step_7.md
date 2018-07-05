@@ -1,42 +1,18 @@
-## タイマーの追加
+\--- challenge \---
 
-\--- task \---
+## Challenge: more objects
 
-'時間'という変数を新しく作成します。
+Can you add other objects to your game?
 
-\--- /task \---
+![screenshot](images/ghost-final.png)
 
-\--- task \---
+When you're adding an object, you need to think about the following things.
 
-プレイヤーがたった10秒の間に、できるだけたくさんのおばけをつかまえられるように、ステージにタイマーを追加できますか？
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-あなたのタイマーは：
+If you need help adding another object, you can reuse the steps above!
 
-+ 10秒から開始
-+ 毎秒カウントダウンする
-
-タイマーが0になると、ゲームは停止します。
-
-\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされた時`、 `時間` 変数は`10になります`。 `0になるまで`1秒ごとに、`-1ずつ変わります`. \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- タイマーを追加するには、こうします。 ![スクリーンショット](images/ghost-timer-code.png)
-
-`時間 = 0`ブロックを作成する方法です。 ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-友達にゲームを遊んでもらいましょう。何点とれるでしょうか？
-
-\--- /task \---
-
-ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう。
-
-+ 時間を短くする
-+ おばけをあらわれにくくする
-+ おばけを小さくする
-
-\--- task \---
-
-満足できるむずかしさになるまで、ゲームを変えてテストしましょう。
-
-\--- /task \---
+\--- /challenge \---
