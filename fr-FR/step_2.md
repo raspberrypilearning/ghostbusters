@@ -10,9 +10,9 @@ Ouvre un nouveau projet Scratch vide.
 
 \--- task \---
 
-Ajoute un nouveau sprite fantôme et une toile de fond de scène appropriée.
+Ajoute un nouveau lutin fantôme et un arrière plan appropriée.
 
-![screenshot](images/ghost-ghost.png)
+![capture d'écran](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
