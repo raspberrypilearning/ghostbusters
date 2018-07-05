@@ -17,10 +17,11 @@ software: scratch
 version: 4.2
 last_tested: 2018-01-01
 steps: 
-- title: Introduction
-- title: Animating a ghost
-- title: Random ghosts
-- title: Catching ghosts
-- title: Adding a score
-- title: Adding a timer
-- title: 'Challenge: more objects'
+  - title: Introduction
+  - title: Animating a ghost
+  - title: Random ghosts
+  - title: Catching ghosts
+  - title: Adding a score
+  - title: Adding a timer
+  - title: 'Challenge: more objects'
+    challenge: true
