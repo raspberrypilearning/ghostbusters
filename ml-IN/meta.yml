@@ -14,22 +14,20 @@ technologies: സ്ക്രാച്ച്
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: ആമുഖം
   - 
-    title: നിങ്ങൾക്ക് എന്ത് വേണം
+    title: Animating a ghost
   - 
-    title: ഒരു പ്രേതം
+    title: Random ghosts
   - 
-    title: ക്രമരഹിതമായ പ്രേതം
+    title: Catching ghosts
   - 
-    title: പ്രേതം
+    title: Adding a score
   - 
-    title: ഒരു സ്കോർ ചേർക്കുന്നു
+    title: Adding a timer
   - 
-    title: ഒരു ടൈമർ ചേർക്കുന്നു
-  - 
-    title: 'വെല്ലുവിളി: കൂടുതൽ വസ്തുക്കൾ'
+    title: 'Challenge: more objects'
