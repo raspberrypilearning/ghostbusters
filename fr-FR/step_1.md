@@ -2,17 +2,17 @@
 
 Vous allez faire un jeu attrape-fantôme!
 
-### What you will make
+### Ce que tu feras
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![démonstration](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![démonstration](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -20,15 +20,15 @@ Vous allez faire un jeu attrape-fantôme!
 
 * * *
 
-## title: What you will need
+## title: De quoi as-tu besoin
 
-### Hardware
+### Matériel informatique
 
-+ A computer
++ Un ordinateur
 
-### Software
+### Logiciels
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Vous allez faire un jeu attrape-fantôme!
 
 * * *
 
-## title: What you will learn
+## title: Ce que tu vas apprendre
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ce projet couvre les éléments suivantes des sections du curriculum [ Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
 + [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
