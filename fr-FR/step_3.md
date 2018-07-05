@@ -1,4 +1,4 @@
-## Random ghosts
+## Fantômes aléatoires
 
 Your ghost is really easy to catch at the moment, because it doesn't move!
 
