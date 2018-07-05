@@ -2,57 +2,50 @@
 
 Πρόκειται να φτιάξεις ένα παιχνίδι για κυνήγι φαντασμάτων!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- collapse \---
+![showcase](images/showcase.gif)
 
-## title: Σημειώσεις συντονιστή ομάδας
+\--- /no-print \---
 
-## Εισαγωγή:
+\--- print-only \---
 
-Σε αυτή το έργο, τα παιδιά θα μάθουν πώς να χρησιμοποιούν μεταβλητές για την αποθήκευση δεδομένων στα προγράμματά τους.
+![showcase](images/showcase-static.png)
 
-## Πόροι
+\--- /print-only \---
 
-Για το έργο αυτό, θα πρέπει να χρησιμοποιηθεί το Scratch 2. Το Scratch 2 μπορεί είτε να χρησιμοποιηθεί online στο [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) είτε να μεταφορτωθεί από το [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) και να χρησιμοποιηθεί εκτός σύνδεσης.
+\--- collapse \---
 
-Μπορείς να βρεις μία ολοκληρωμένη έκδοση του έργου [online](http://scratch.mit.edu/projects/60787262/#editor) ή μπορείς να το κατεβάσεις κάνοντας κλικ στο σύνδεσμο «Υλικά έργου» για αυτό το έργο, το οποίο περιέχει:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Στόχοι μάθησης
+### Hardware
 
-* Μεταβλητές;
-* Τυχαίοι αριθμοί.
++ A computer
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum):
+### Software
 
-* [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Προκλήσεις
-
-* "Περισσότερη τυχαιότητα" - χρησιμοποιώντας τυχαίους αριθμούς.
-* "Προσθέτοντας ένα ήχο" - εμπεδώνοντας την μάθηση των ήχων.
-* "Περισσότερα αντικείμενα" - εφαρμόζοντας δεξιότητες για τη δημιουργία ενός άλλου αντικειμένου παιχνιδιού.
-
-## Συχνές Ερωτήσεις
-
-* Αν τα παιδιά δυσκολεύονται να κάνουν κλικ στα φαντάσματα χωρίς να τα σέρνουν, μπορούν να παίξουν το παιχνίδι σε λειτουργία πλήρους οθόνης, στην οποία τα φαντάσματα δε σύρονται.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+\--- collapse \---
 
-## title: Υλικά του έργου
+* * *
 
-## Πόροι συντονιστή ομάδας
+## title: What you will learn
 
-* [Λήψη ολοκληρωμένου έργου Scratch 2](resources/Ghostbusters.sb2)
-* [Online Ολοκληρωμένο έργο Scratch 2](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+\--- /collapse \---
+
+\--- no-print \---
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+\--- /no-print \---
