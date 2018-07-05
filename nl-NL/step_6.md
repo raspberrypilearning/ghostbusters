@@ -1,4 +1,4 @@
-## Adding a timer
+## Een score toevoegen
 
 \--- task \---
 
