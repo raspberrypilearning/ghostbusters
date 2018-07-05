@@ -31,3 +31,4 @@ steps:
     title: Een score toevoegen
   - 
     title: 'Een meting toevoegen'
+    challenge: true
