@@ -31,3 +31,4 @@ steps:
     title: Adding a timer
   - 
     title: 'വെല്ലുവിളി: കൂടുതൽ വസ്തുക്കൾ'
+    challenge: true
