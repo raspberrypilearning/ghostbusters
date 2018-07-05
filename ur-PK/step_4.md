@@ -1,17 +1,21 @@
-## بے ترتیب ماضی
+## Catching ghosts
 
-آپ کے ماضی کو اس وقت پکڑنے کے لئے بہت آسان ہے، کیونکہ یہ منتقل نہیں ہوتا ہے!
+Let's allow the player to catch ghosts!
 
-\--- کام \---
+\--- task \---
 
-آپ اپنے ماضی میں کوڈ شامل کرسکتے ہیں تاکہ، اسی پوزیشن میں رہنے کی بجائے، اس پر سکرین پر بے ترتیب عہدوں پر نظر آتے ہیں؟
+Can you make your ghost disappear when it's been caught?
 
-\--- اشارے \--- \--- اشارہ \--- آپ کو آپ ماضی چاہتے ہیں `پر جانے کے` ہر بار دکھائے جانے سے پہلے مرحلے پر ایک بے ترتیب پوزیشن. \--- / اشارہ \--- \--- اشارہ \--- اس کوڈ کے آپ پہلے ہی غلط استعمال کی اطلاع دے چکے ہیں. یہ ایک: ![screenshot](images/ghost-random-blocks-1.png) یا یہ ایک: ![screenshot](images/ghost-random-blocks-2.png) \--- \--- اشارہ \--- \--- آپ کا کوڈ بھی اس طرح نظر آنا چاہئے: ![screenshot](images/ghost-random-code-1.png) یا یہ اس طرح نظر آسکتا ہے: ![screenshot](images/ghost-random-code-2.png) \--- / اشارہ \--- - / اشارہ \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-\--- / کام \---
+![screenshot](images/ghost-fullscreen.png)
 
-\--- چیلنج \--- \---
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-## چیلنج: زیادہ بے ترتیب
+\--- /task \---
 
-کیا آپ اپنے ماضی کو بنا سکتے ہیں `ظاہر کرنے سے قبل` بے ترتیب وقت انتظار کریں؟ کیا آپ اپنے گھوسٹ کو ہر بار ظاہر ہونے والے بے ترتیب سائز بنانے کیلئے `سیٹ کا سائز` بلاک استعمال کرسکتے ہیں؟ \--- / چیلنج \---
+\--- challenge \---
+
+## Challenge: adding a sound
+
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
