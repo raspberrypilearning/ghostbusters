@@ -14,22 +14,20 @@ technologies: cızıq
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Giriş
   - 
-    title: Nə lazımdırsın
+    title: Animating a ghost
   - 
-    title: Bir hayaletin canlandırılması
+    title: Random ghosts
   - 
-    title: Random Ghosts
+    title: Catching ghosts
   - 
-    title: Ulduzları tutmaq
+    title: Adding a score
   - 
-    title: Hesab əlavə et
+    title: Adding a timer
   - 
-    title: Taymeri əlavə etmək
-  - 
-    title: 'Çağırış: daha çox obyekt'
+    title: 'Challenge: more objects'
