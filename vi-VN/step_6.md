@@ -1,23 +1,42 @@
-## Thêm điểm
+## Adding a timer
 
-Hãy làm cho mọi thứ thú vị hơn bằng cách giữ điểm số!
+\--- task \---
 
-\--- bài tập \---
+Create a new variable called 'time'.
 
-Tạo một biến mới gọi là 'điểm'.
+\--- /task \---
 
-[[[generic-scratch-add-variable]]]
+\--- task \---
 
-\--- /bài tập \---
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-\--- bài tập \---
+Your timer should:
 
-Bạn có thể theo dõi điểm số của người chơi không? Người chơi nên ghi điểm bằng cách nhấp vào bóng ma để bắt chúng.
++ Start at 10 seconds
++ Count down every second
 
-Mỗi lần người chơi nhấp vào một con ma, điểm số của họ sẽ tăng lên.
+The game should stop when the timer gets to 0.
 
-![Tăng điểm số](images/ghost-score-test.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-\--- gợi ý \--- \--- gợi ý \--- `Khi lá cờ màu xanh lá cây được nhấp`, `điểm` của bạn nên được `đặt thành 0`. Giai đoạn là nơi tốt nhất để thêm mã này. `Khi ma quỷ được nhấp`, `điểm` nên được `thay đổi bằng 1`. \--- / hint \--- \--- hint \--- Đây là các khối mã bạn sẽ cần phải sử dụng: ![screenshot](images/ghost-score-blocks.png) \--- / hint \--- \--- hint \--- Dưới đây là cách ghi điểm bằng cách nhấp vào ma : ![screenshot](images/ghost-score-code.png) \--- / gợi ý \--- \--- / gợi ý \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-\--- /bài tập \---
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
+
+\--- /task \---
