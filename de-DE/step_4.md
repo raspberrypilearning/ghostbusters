@@ -1,17 +1,21 @@
-## Zufällige Gespenster
+## Catching ghosts
 
-Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-Kannst du deinem Geist Code hinzufügen, so dass er an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
+Can you make your ghost disappear when it's been caught?
 
-\--- hints \--- \--- hint \--- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position `zu gehen`. \--- /hint \--- \--- hint \--- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+
+![screenshot](images/ghost-fullscreen.png)
+
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: Mehr Zufälligkeit
+## Challenge: adding a sound
 
-Kannst du deinen Geist eine zufällige Zeit `warten` lassen, bevor er erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`-Block vor jedem Erscheinen eine zufällige Größe geben? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
