@@ -2,7 +2,7 @@
 
 Let's allow the player to catch ghosts!
 
-\--- task \---
+\--- task --
 
 Can you make your ghost disappear when it's been caught?
 
