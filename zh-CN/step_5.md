@@ -1,21 +1,23 @@
-## 捉鬼
+## Adding a score
 
-让我们的玩家可以捕捉幽灵！
+Let's make things more interesting by keeping score!
 
 \--- task \---
 
-你能让幽灵被捉到后消失吗？
+Create a new variable called 'score'.
 
-你应该可以点击幽灵来捕捉它们。如果你觉得很难捕捉，可以点击这个按钮进入全屏模式来进行游戏：
-
-![截屏](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- 当幽灵角色`被点击时`，应该`隐藏`。 \--- /hint \--- \--- hint \--- 代码如下图： ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch-add-variable]]]
 
 \--- /task \---
 
-\--- challenge \---
+\--- task \---
 
-## 挑战：添加声音
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-你能让幽灵每次被捉住时发出声音吗？ \--- /challenge \---
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
