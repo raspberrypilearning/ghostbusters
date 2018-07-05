@@ -8,28 +8,26 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, reka bentuk-0, pengaturcaraan-1, phys-comp-0, pembuatan-0, komuniti-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: permainan
 technologies: awal
-site_areas: projek
+site_areas: projects
 hardware: ''
-software: awal
-version: 4.0.1
+software: scratch
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Pengenalan
   - 
-    title: Apa yang anda perlukan
+    title: Animating a ghost
   - 
-    title: Animasi hantu
+    title: Random ghosts
   - 
-    title: Hantu rawak
+    title: Catching ghosts
   - 
-    title: Menangkap hantu
+    title: Adding a score
   - 
-    title: Menambah skor
+    title: Adding a timer
   - 
-    title: Menambah pemasa
-  - 
-    title: 'Cabaran: lebih banyak objek'
+    title: 'Challenge: more objects'
