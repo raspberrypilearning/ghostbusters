@@ -1,17 +1,21 @@
-## Hantu acak
+## Catching ghosts
 
-Hantu Anda sangat mudah ditangkap saat ini, karena tidak bergerak!
+Let's allow the player to catch ghosts!
 
-\--- tugas \---
+\--- task \---
 
-Dapatkah Anda menambahkan kode ke hantu Anda sehingga, alih-alih tetap di posisi yang sama, itu muncul pada posisi acak di layar?
+Can you make your ghost disappear when it's been caught?
 
-\--- petunjuk \--- \--- petunjuk \--- Anda ingin hantu Anda untuk `pergi ke` posisi acak di atas panggung sebelum muncul setiap kali. \--- / petunjuk \--- \--- petunjuk \--- Ada dua set blok kode yang dapat Anda gunakan. Yang satu ini: ![screenshot](images/ghost-random-blocks-1.png) Atau yang ini: ![screenshot](images/ghost-random-blocks-2.png) \--- / petunjuk \--- \--- petunjuk \--- Kode Anda harus terlihat seperti ini: ![screenshot](images/ghost-random-code-1.png) Atau dapat terlihat seperti ini: ![screenshot](images/ghost-random-code-2.png) \--- / hint \--- - - / petunjuk \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-\--- /tugas \---
+![screenshot](images/ghost-fullscreen.png)
 
-\--- tantangan \---
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-## Tantangan: lebih banyak keacakan
+\--- /task \---
 
-Dapatkah Anda membuat hantu Anda `menunggu` jumlah waktu acak sebelum muncul? Dapatkah Anda menggunakan blok `set ukuran` untuk membuat hantu Anda menjadi ukuran acak setiap kali muncul? \--- / tantangan \---
+\--- challenge \---
+
+## Challenge: adding a sound
+
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
