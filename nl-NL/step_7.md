@@ -1,42 +1,18 @@
-## Een timer toevoegen
+\--- challenge \---
 
-\--- task \---
+## Challenge: more objects
 
-Maak een nieuwe variabele met de naam 'time'.
+Can you add other objects to your game?
 
-\--- /task \---
+![screenshot](images/ghost-final.png)
 
-\--- task \---
+When you're adding an object, you need to think about the following things.
 
-Kun je een timer toevoegen aan het speelveld zodat de speler maar 10 seconden de tijd heeft om zoveel mogelijk spoken te vangen?
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-Je timer zou:
+If you need help adding another object, you can reuse the steps above!
 
-+ Beginnen op 10 seconden
-+ Elke seconde aftellen
-
-Het spel zou moeten stoppen als de timer op 0 komt.
-
-\--- hints \--- \--- hint \--- `Als op de groene vlag is geklikt`, zou de variabele `time` op `10` moeten staan. Door blok ` verander time met -1 ` wordt er afgeteld ` totdat 0 bereikt is `. \--- /hint \--- \--- hint \--- Hier zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Hier zie je hoe je de timer in je spel kunt voegen: ![screenshot](images/ghost-timer-code.png)
-
-En zo maak je het `time = 0` blok: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Vraag een vriend om je spel te testen. Hoeveel punten kan die scoren?
-
-\--- /task \---
-
-Als je spel te gemakkelijk is, kun je:
-
-+ De speler minder tijd geven
-+ De spoken minder vaak laten verschijnen
-+ De spoken kleiner maken
-
-\--- task \---
-
-Verander en test je spel een paar keer totdat je tevreden bent met de moeilijkheidsgraad.
-
-\--- /task \---
+\--- /challenge \---
