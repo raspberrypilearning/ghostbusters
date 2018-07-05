@@ -1,37 +1,17 @@
-## 幽灵动画
+## Random ghosts
+
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- task \---
 
-打开一个空白Scrach工程。
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-[[[generic-scratch-new-project]]]
-
-\--- /task \---
-
-\--- task \---
-
-添加一个幽灵角色并选择一个合适的舞台背景。
-
-![截屏](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
+\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-\--- task \---
+\--- challenge \---
 
-为幽灵添加代码，当点击旗子时让它不停地忽隐忽现。
+## Challenge: more randomness
 
-\--- hints \--- \--- hint \--- 一旦`绿旗被点击`，你需要让幽灵`隐藏``1秒钟`然后`显示``1秒钟`。 `永远不停地`重复这个动作。 \--- /hint \--- \--- hint \--- 这是你需要用到的代码块： ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- 你的代码应该如下图这样： ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-测试并保存项目。
-
-[[[generic-scratch-saving]]]
-
-\--- /task \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
