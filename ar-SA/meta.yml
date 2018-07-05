@@ -31,3 +31,4 @@ steps:
     title: إضافة نقطة
   - 
     title: 'إضافة موقِّت'
+    challenge: true
