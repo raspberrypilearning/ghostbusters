@@ -31,3 +31,4 @@ steps:
     title: Adding a timer
   - 
     title: 'チャレンジ：オブジェクトをふやす'
+    challenge: true
