@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- haaste \---
 
-## Challenge: more objects
+## Haaste: enemmän esineitä
 
-Can you add other objects to your game?
+Voitko lisätä muita esineitä peliisi?
 
-![screenshot](images/ghost-final.png)
+![kuvakaappaus](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Kun lisäät objektia, sinun on harkittava seuraavia asioita.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Kuinka iso se on?
++ Näyttääkö se enemmän tai vähemmän usein kuin aave?
++ Mitä se näyttää / kuulostaa, kun se on kiinni?
++ Kuinka monta pistettä pelaaja pisteet (tai menettää) kiinni sen kiinni?
 
-If you need help adding another object, you can reuse the steps above!
+Jos tarvitset apua uuden objektin lisäämiseen, voit käyttää yllä olevia ohjeita uudelleen.
 
-\--- /challenge \---
+\--- /haaste \---
