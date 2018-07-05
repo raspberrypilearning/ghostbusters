@@ -1,37 +1,17 @@
-## ایک ماضی کو حرکت پذیری
+## Random ghosts
 
-\--- کام \---
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
-ایک نیا خالی سکریچ پروجیکٹ کھولیں.
+\--- task \---
 
-[[[generic-scratch-new-project]]]
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- / کام \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
-\--- کام \---
+\--- /task \---
 
-ایک نیا ماضی سپرے اور مناسب مرحلے کی پس منظر میں شامل کریں.
+\--- challenge \---
 
-![اسکرین شاٹ](images/ghost-ghost.png)
+## Challenge: more randomness
 
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
-
-\--- / کام \---
-
-\--- کام \---
-
-اپنے ماضی میں کوڈ شامل کریں تاکہ یہ ظاہر ہوجائے اور جب آپ پرچم پر کلک کریں تو ہمیشہ کے لئے غائب ہوجائیں.
-
-\--- اشارے \--- \--- اشارہ \--- ایک بار `سبز پرچم پر کلک کیا جاتا ہے`، آپ اپنے ماضی کو کرنے کی ضرورت ہوگی `چھپائیں` کے لئے `ایک سیکنڈ` اور پھر `شو` کے لئے `ایک سیکنڈ`. اسے `ہمیشہ کے لئے`کرنے کی ضرورت ہوگی. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کو ضرورت ہو گی: ![screenshot](images/ghost-appear-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- یہ وہی ہے جو آپ کا کوڈ نظر آنا چاہئے: ![screenshot](images/ghost-appear-code.png) \--- / اشارہ \--- \--- / اشارہ \---
-
-\--- / کام \---
-
-\--- کام \---
-
-ٹیسٹ اور آپ کی منصوبہ بندی کو بچانے کے.
-
-[[[generic-scratch-saving]]]
-
-\--- / کام \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
