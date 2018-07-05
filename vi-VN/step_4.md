@@ -1,17 +1,21 @@
-## Bóng ma ngẫu nhiên
+## Catching ghosts
 
-Con ma của bạn thực sự dễ nắm bắt vào lúc này, bởi vì nó không di chuyển!
+Let's allow the player to catch ghosts!
 
-\--- bài tập \---
+\--- task \---
 
-Bạn có thể thêm mã vào ma của bạn để, thay vì ở trong cùng một vị trí, nó xuất hiện ở vị trí ngẫu nhiên trên màn hình?
+Can you make your ghost disappear when it's been caught?
 
-\--- gợi ý \--- \--- gợi ý \--- Bạn muốn con ma của bạn `đi đến` vị trí ngẫu nhiên trên sân khấu trước khi xuất hiện mỗi lần. \--- / hint \--- \--- hint \--- Có hai bộ mã khối bạn có thể sử dụng. Điều này một: ![screenshot](images/ghost-random-blocks-1.png) Hoặc điều này một: ![screenshot](images/ghost-random-blocks-2.png) \--- / hint \--- \--- hint \--- Mã của bạn nên trông như thế này: ![screenshot](images/ghost-random-code-1.png) Hoặc nó có thể trông như thế này: ![screenshot](images/ghost-random-code-2.png) \--- / hint \--- - - / gợi ý \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-\--- /bài tập \---
+![screenshot](images/ghost-fullscreen.png)
 
-\--- thử thách \---
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-## Thách thức: ngẫu nhiên hơn
+\--- /task \---
 
-Bạn có thể làm cho ma của bạn `chờ đợi` một khoảng thời gian ngẫu nhiên trước khi xuất hiện? Bạn có thể sử dụng khối `đặt kích thước` để làm cho ma của bạn có kích thước ngẫu nhiên mỗi khi nó xuất hiện không? \--- /thử thách \---
+\--- challenge \---
+
+## Challenge: adding a sound
+
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
