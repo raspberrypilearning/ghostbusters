@@ -31,3 +31,4 @@ steps:
     title: स्कोर जोड़ना
   - 
     title: 'टाइमर जोड़ना'
+    challenge: true
