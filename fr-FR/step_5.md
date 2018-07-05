@@ -1,10 +1,10 @@
 ## Ajouter un score
 
-Let's make things more interesting by keeping score!
+Rendons les choses plus intéressantes en comptant les points !
 
 \--- task \---
 
-Create a new variable called 'score'.
+Créez une nouvelle variable appelée « score ».
 
 [[[generic-scratch-add-variable]]]
 
