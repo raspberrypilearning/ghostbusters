@@ -1,4 +1,4 @@
-## Adding a timer
+## Aggiungere un punteggio
 
 \--- task \---
 
