@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## Uitdaging: meer voorwerpen
 
-Can you add other objects to your game?
+Kun je andere voorwerpen aan je spel toevoegen?
 
 ![screenshot](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Als je een voorwerp toevoegt, moet je nadenken over de volgende dingen.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Hoe groot is het?
++ Zal het meer of minder vaak verschijnen dan het spook?
++ Hoe ziet het eruit / klinkt het als het is gepakt?
++ Hoeveel punten scoort (of verliest) de speler om het te vangen?
 
-If you need help adding another object, you can reuse the steps above!
+Als je hulp nodig hebt bij het toevoegen van een ander voorwerp, kun je de stappen hierboven opnieuw doen!
 
 \--- /challenge \---
