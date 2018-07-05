@@ -31,3 +31,4 @@ steps:
     title: Eine Punktzahl hinzufügen
   - 
     title: 'Hinzufügen eines Timers'
+    challenge: true
