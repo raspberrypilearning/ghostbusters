@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## Πρόκληση: περισσότερα αντικείμενα
 
-Can you add other objects to your game?
+Μπορείς να προσθέσεις άλλα αντικείμενα στο παιχνίδι σου;
 
 ![screenshot](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Όταν προσθέτεις ένα αντικείμενο, πρέπει να σκεφτείς τα ακόλουθα πράγματα.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Πόσο μεγάλο είναι;
++ Θα φαίνεται λιγότερο ή περισσότερο συχνά από το φάντασμα;
++ Πως θα φαίνεται/ακούγεται όταν έχει πιαστεί;
++ Πόσους πόντους θα κερδίσει (ή χάσει) ο παίκτης για να το πιάσει;
 
-If you need help adding another object, you can reuse the steps above!
+Αν χρειάζεσαι βοήθεια για την προσθήκη άλλου αντικειμένου, μπορείς να επαναλάβεις τα παραπάνω βήματα!
 
 \--- /challenge \---
