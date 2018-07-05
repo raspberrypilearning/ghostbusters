@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- आव्हान \---
 
-## Challenge: more objects
+## आव्हान: अधिक वस्तू
 
-Can you add other objects to your game?
+आपण आपल्या गेममध्ये इतर वस्तू जोडू शकता?
 
-![screenshot](images/ghost-final.png)
+![स्क्रीनशॉट](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+जेव्हा आपण एखादा ऑब्जेक्ट जोडत असतो, तेव्हा आपण खालील गोष्टींबद्दल विचार करण्याची गरज आहे.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ तो किती मोठा आहे?
++ ते भूत पेक्षा अधिक किंवा कमी वेळा दिसून येईल?
++ ते पकडले गेल्यावर काय दिसेल / ध्वनी येईल?
++ खेळाडू पकडण्यासाठी किती गुण (किंवा गमावले जातील)?
 
-If you need help adding another object, you can reuse the steps above!
+आपल्याला इतर ऑब्जेक्ट जोडताना मदतीची आवश्यकता असल्यास, आपण वरील चरण पुन्हा वापरू शकता!
 
-\--- /challenge \---
+\--- / आव्हान \---
