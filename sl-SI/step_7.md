@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- izziv \---
 
-## Challenge: more objects
+## Izziv: več predmetov
 
-Can you add other objects to your game?
+Ali lahko v svojo igro dodate druge predmete?
 
 ![screenshot](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Ko dodate predmet, morate razmišljati o naslednjih stvareh.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Kako velik je?
++ Se bo pojavil bolj ali manj pogosto kot duh?
++ Kakšen bo izgled / zvok, ko bo ujet?
++ Koliko točk bo igralec dosegel (ali izgubil), če bi ga ujeli?
 
-If you need help adding another object, you can reuse the steps above!
+Če potrebujete pomoč pri dodajanju drugega predmeta, lahko znova uporabite zgornje korake!
 
-\--- /challenge \---
+\--- / izziv \---
