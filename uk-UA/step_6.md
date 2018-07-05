@@ -1,23 +1,42 @@
-## Додати очки
-
-Давайте зробимо гру цікавішою, зберігаючи очки!
+## Adding a timer
 
 \--- task \---
 
-Створіть нову змінну з назвою "очки".
-
-[[[generic-scratch-add-variable]]]
+Create a new variable called 'time'.
 
 \--- /task \---
 
 \--- task \---
 
-Зможеш відстежити очки гравців? Гравці набирають очки натискаючи на привидів щоб зловити їх.
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-Щоразу, коли гравець натискає на привида, очки повинні рости.
+Your timer should:
 
-![Збільшення очок](images/ghost-score-test.png)
++ Start at 10 seconds
++ Count down every second
 
-\--- hints \--- \--- hint \--- `Коли натискається зелений прапорець`, ваша змінна `очки` має бути `встановлена на 0`. Сцена - найкраще місце, щоб додати цей код. `При натисканні на привида`,`очки`потрібно`змінити на 1`. \--- /hint \--- \--- hint \--- Ось кодові блоки, які вам потрібно використати: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Ось як заробити очки натисканням на привидів: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+The game should stop when the timer gets to 0.
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
 
 \--- /task \---
