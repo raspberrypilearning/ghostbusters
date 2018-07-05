@@ -11,23 +11,23 @@ duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: projects
+site_areas: projets
 hardware: ''
 software: scratch
-version: 4.2
-last_tested: 2018-01-01
+version: 4
+last_tested: 01/01/2018
 steps:
   - 
     title: Introduction
   - 
-    title: Animating a ghost
+    title: Animer un fantôme
   - 
-    title: Random ghosts
+    title: Fantômes aléatoires
   - 
-    title: Catching ghosts
+    title: Attraper des fantômes
   - 
-    title: Adding a score
+    title: Ajouter un score
   - 
-    title: Adding a timer
+    title: Ajouter un chronomètre
   - 
     title: 'Challenge : plus d''objets'
