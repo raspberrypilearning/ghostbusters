@@ -1,17 +1,21 @@
-## Random Ghosts
+## Catching ghosts
 
-Sizin xəyalınız ancaq tutmaq asan deyil, çünki hərəkət etməz!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Can you make your ghost disappear when it's been caught?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+
+![screenshot](images/ghost-fullscreen.png)
+
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Çağırış: daha çox təsadüf
+## Challenge: adding a sound
 
-Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
