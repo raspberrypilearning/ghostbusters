@@ -1,21 +1,23 @@
-## Gespenster fangen
+## Adding a score
 
-Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
+Let's make things more interesting by keeping score!
 
 \--- task \---
 
-Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde?
+Create a new variable called 'score'.
 
-Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
-
-![screenshot](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `Wenn angeklickt`, sollte sich deine Gespenster-Figur `verstecken`. \--- /hint \--- \--- hint \--- Dein Code sollte so aussehen: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch-add-variable]]]
 
 \--- /task \---
 
-\--- challenge \---
+\--- task \---
 
-## Challenge: Hinzufügen eines Sounds
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-Kannst du deinen Geist dazu bringen, jedes Mal ein Geräusch zu machen, wenn er gefangen wird? \--- /challenge \---
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
