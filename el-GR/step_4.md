@@ -1,4 +1,4 @@
-## Catching ghosts
+## Τυχαία φαντάσματα
 
 Let's allow the player to catch ghosts!
 
