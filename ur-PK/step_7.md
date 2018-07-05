@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- چیلنج \--- \---
 
-## Challenge: more objects
+## چیلنج: مزید اشیاء
 
-Can you add other objects to your game?
+کیا آپ دوسرے کھیل کو اپنے کھیل میں شامل کر سکتے ہیں؟
 
-![screenshot](images/ghost-final.png)
+![اسکرین شاٹ](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+جب آپ کسی چیز کو شامل کر رہے ہیں، تو آپ کو مندرجہ ذیل چیزوں کے بارے میں سوچنا ہوگا.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ کتنا بڑا ہے یہ؟
++ کیا یہ ماضی سے کم یا زیادہ وقت لگے گا؟
++ جب یہ پکڑا گیا ہے تو کیا نظر آئے گا؟
++ اس کو پکڑنے کے لۓ کھلاڑی کتنے نکات (یا کھوئے گا)؟
 
-If you need help adding another object, you can reuse the steps above!
+اگر آپ کو ایک اور اعتراض شامل کرنے میں مدد کی ضرورت ہو تو، آپ اوپر کے اقدامات دوبارہ استعمال کر سکتے ہیں!
 
-\--- /challenge \---
+\--- / چیلنج \---
