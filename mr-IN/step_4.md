@@ -1,17 +1,21 @@
-## अविशिष्ट भुते
+## Catching ghosts
 
-आपले भूत क्षणभर पकडणे खूप सोपे आहे कारण ते हलवत नाही.
+Let's allow the player to catch ghosts!
 
-\--- कार्य \---
+\--- task \---
 
-आपण आपल्या भूतलामध्ये कोड जोडू शकता जेणेकरुन त्याच स्थितीत राहण्याऐवजी ते स्क्रीनवर यादृच्छिक स्थितीत दिसून येईल?
+Can you make your ghost disappear when it's been caught?
 
-\--- इशारे \--- \--- इशारा \--- आपण आपल्या भूत इच्छित `जा` प्रत्येक वेळी येण्यापूर्वी स्टेज वर एक यादृच्छिक स्थान. \--- / इशारा \--- \--- इशारा \--- आपण वापरु शकता अशा दोन कोड ब्लॉक आहेत. हा एक: ![screenshot](images/ghost-random-blocks-1.png) किंवा हा एक: ![screenshot](images/ghost-random-blocks-2.png) \--- / हिंत \--- \--- इशारा \--- तुमचा कोड याप्रमाणे असावा: ![screenshot](images/ghost-random-code-1.png) किंवा ते या प्रमाणे दिसेल: ![screenshot](images/ghost-random-code-2.png) \--- / संकेत \--- - - / इशारे \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-\--- / कार्य \---
+![screenshot](images/ghost-fullscreen.png)
 
-\--- आव्हान \---
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-## आव्हान: अधिक यादृच्छिकता
+\--- /task \---
 
-आपण आपल्या भूत बनवू शकता `प्रतीक्षा` दिसणे आधी एक यादृच्छिक वेळ? आपण प्रत्येक वेळी असे दिसते की आपल्या भूतला एक यादृच्छिक आकार देण्यासाठी आपण `सेट आकार` ब्लॉक वापरू शकता? \--- / आव्हान \---
+\--- challenge \---
+
+## Challenge: adding a sound
+
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
