@@ -1,4 +1,4 @@
-## Adding a score
+## 捉鬼
 
 Let's make things more interesting by keeping score!
 
