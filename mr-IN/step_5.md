@@ -1,21 +1,23 @@
-## प्रेक्षकांना पकडणे
+## Adding a score
 
-खेळाडूंना भूत पकडण्यासाठी अनुमती द्या!
+Let's make things more interesting by keeping score!
 
-\--- कार्य \---
+\--- task \---
 
-जेव्हा ते पकडले गेले तेव्हा तुम्ही तुमचा भूत अदृश्य करू शकता?
+Create a new variable called 'score'.
 
-आपण त्यांना पकडण्यासाठी भूत क्लिक करण्यास सक्षम असावे. आपण पकडू अवघड आढळल्यास, आपण बटण क्लिक करून फुल-स्क्रीन मोडमध्ये खेळ खेळू शकता:
+[[[generic-scratch-add-variable]]]
 
-![स्क्रीनशॉट](images/ghost-fullscreen.png)
+\--- /task \---
 
-\--- इशारे \--- \--- इशारा \--- `क्लिक केल्यानंतर`, आपल्या भूत परी पाहिजे `लपवा`. \--- / इशारा \--- \--- इशारा \--- आपला कोड अशाप्रकारे दिसला पाहिजे: ![screenshot](images/ghost-catch-code.png) \--- / इशारा \--- \--- / संकेत \---
+\--- task \---
 
-\--- / कार्य \---
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-\--- आव्हान \---
+Each time a player clicks on a ghost, their score should increase.
 
-## आव्हान: ध्वनी जोडणे
+![Increasing score](images/ghost-score-test.png)
 
-प्रत्येक वेळी पकडल्या गेलेल्या आवाजाने तुम्ही भूत मागू शकता का? \--- / आव्हान \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
