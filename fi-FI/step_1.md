@@ -2,57 +2,50 @@
 
 Aiot tehdä haamukuvia!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- romahdus \---
+![showcase](images/showcase.gif)
 
-## otsikko: Klubin johtajat
+\--- /no-print \---
 
-## Johdanto:
+\--- print-only \---
 
-Tässä hankkeessa lapset oppivat käyttämään muuttujia tallentamaan tietoja ohjelmiinsa.
+![showcase](images/showcase-static.png)
 
-## voimavarat
+\--- /print-only \---
 
-Tätä hanketta varten olisi käytettävä Scratch 2 -ohjelmaa. Scratch 2 voidaan joko käyttää verkossa [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) tai ladata [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) ja käyttää offline-tilassa.
+\--- collapse \---
 
-Löydät tämän projektin valmiin version [verkossa](http://scratch.mit.edu/projects/60787262/#editor)tai se voidaan ladata klikkaamalla tämän projektin 'Projektin materiaalit' -linkkiä, joka sisältää:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Oppimistavoitteet
+### Hardware
 
-* muuttujat;
-* Satunnaiset numerot.
++ A computer
 
-Tämä hanke kattaa [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osista:
+### Software
 
-* [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Challenges
-
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
-
-## Frequently Asked Questions
-
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+\--- collapse \---
 
-## title: Project materials
+* * *
 
-## Club leader resources
+## title: What you will learn
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+\--- /collapse \---
+
+\--- no-print \---
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+\--- /no-print \---
