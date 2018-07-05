@@ -1,42 +1,18 @@
-## إضافة مؤقت
+\--- challenge \---
 
-\--- task \---
+## Challenge: more objects
 
-أنشئ متغيرًا جديدًا يُسمى 'الوقت'.
+Can you add other objects to your game?
 
-\---/task--
+![screenshot](images/ghost-final.png)
 
-\--- task \---
+When you're adding an object, you need to think about the following things.
 
-هل يمكنك إضافة موقِّت إلى المنصة لتمنح اللاعب 10 ثوان فقط لاصطياد أكبر عدد ممكن من الأشباح؟
++ How big is it?
++ Will it appear more or less often than the ghost?
++ What will it look/sound like when it has been caught?
++ How many points will the player score (or lose) for catching it?
 
-يجب برمجة الموقِّت على النحو التالي:
+If you need help adding another object, you can reuse the steps above!
 
-+ يبدأ العد من 10 ثوان
-+ يبدأ في العد التنازلي بمقدار ثانية واحدة
-
-ستنتهي اللعبة عندما يصل الموقِّت إلى 0.
-
-\--- hints \--- \--- hint \--- `عند النقر فوق العلم الأخضر`، يجب أن يتغير متغير `الوقت` إلى `10 ثوان`. بعد ذلك يجب ان `يتغير بمقدار -1` كل ثانية `إلى ان يصل إلى الرقم 0`. \--- /hint \--- \--- hint \--- هذه هيا القوالب البرمجية التي ستقوم بإستخدامها: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- إليك كيفية إضافة المؤقت إلى لعبتك: ![لقطة الشاشة](images/ghost-timer-code.png)
-
-وهذه كيفية إنشاء قالب `الوقت = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
-
-\---/task--
-
-\--- task \---
-
-اطلب من صديق أن يجرِّب اللعبة. كم عدد النقاط التي يمكنه إحرازها؟
-
-\---/task--
-
-إذا كانت اللعبة سهلة للغاية، فيمكنك:
-
-+ منح اللاعب وقتًا أقل
-+ تقليل ظهور الأشباح
-+ تصغير أحجام الأشباح
-
-\--- task \---
-
-غيِّر قيم المتغيرات واختبر اللعبة عدة مرات حتى تصل إلى مستوى الصعوبة الذي تريده.
-
-\---/task\---
+\--- /challenge \---
