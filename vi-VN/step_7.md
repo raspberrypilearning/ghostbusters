@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## Thách thức: nhiều đối tượng hơn
 
-Can you add other objects to your game?
+Bạn có thể thêm các đối tượng khác vào trò chơi của mình không?
 
-![screenshot](images/ghost-final.png)
+![ảnh chụp màn hình](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Khi thêm một đối tượng, bạn cần phải suy nghĩ về những điều sau đây.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Nó sẽ to đến mức nào?
++ Nó sẽ xuất hiện thường xuyên hơn hay ít thường xuyên hơn con ma?
++ Nó sẽ trông như thế nào/phát ra âm thanh gì khi nó bị bắt?
++ Người chơi sẽ ghi được (hay để mất) bao nhiêu điểm khi bắt được nó?
 
-If you need help adding another object, you can reuse the steps above!
+Nếu bạn cần trợ giúp khi thêm đối tượng khác, bạn có thể sử dụng lại các bước ở trên!
 
 \--- /challenge \---
