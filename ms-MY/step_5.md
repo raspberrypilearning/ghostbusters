@@ -1,21 +1,23 @@
-## Menangkap hantu
+## Adding a score
 
-Mari izinkan pemain menangkap hantu!
+Let's make things more interesting by keeping score!
 
-\--- tugas \---
+\--- task \---
 
-Bolehkah anda membuat hantu anda hilang apabila ia ditangkap?
+Create a new variable called 'score'.
 
-Anda harus dapat mengklik hantu untuk menangkap mereka. Jika anda mendapati penangkapan sukar, anda boleh memainkan permainan dalam mod skrin penuh dengan mengklik butang ini:
+[[[generic-scratch-add-variable]]]
 
-![tangkapan skrin](images/ghost-fullscreen.png)
+\--- /task \---
 
-\--- \--- \--- petunjuk petunjuk \--- `Apabila diklik`, bidadari hantu anda perlu `hide`. \--- / petunjuk \--- \--- petunjuk \--- Kod anda harus kelihatan seperti ini: ![screenshot](images/ghost-catch-code.png) \--- / petunjuk \--- \--- / petunjuk \---
+\--- task \---
 
-\--- / tugas \---
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-\--- cabaran \---
+Each time a player clicks on a ghost, their score should increase.
 
-## Cabaran: menambah bunyi
+![Increasing score](images/ghost-score-test.png)
 
-Bolehkah anda mendapatkan hantu anda untuk membuat bunyi setiap kali ia ditangkap? \--- / cabaran \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
