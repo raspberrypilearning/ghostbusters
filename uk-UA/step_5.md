@@ -1,21 +1,23 @@
-## Ловимо привидів
+## Adding a score
 
-Давайте дозволимо гравцеві ловити привидів!
+Let's make things more interesting by keeping score!
 
 \--- task \---
 
-Чи можете ваш привид зникнути після того, як ви його зловили?
+Create a new variable called 'score'.
 
-Ви маєте натискати на привидів, щоб зловити їх. Якщо вам важко, можете грати гру у повноекранному режимі, натиснувши цю кнопку:
-
-![скріншот](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `При натисканні`, ваш привид повинен `заховатись`. \--- /hint \--- \--- hint \--- Ваш код має виглядати так: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch-add-variable]]]
 
 \--- /task \---
 
-\--- challenge \---
+\--- task \---
 
-## Challenge: додавання звуку
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-Чи можете ви зробити так, щоб ваш привид видавав звук, коли його спіймано? \--- /challenge \---
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
