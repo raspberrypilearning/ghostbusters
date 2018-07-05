@@ -1,4 +1,4 @@
-## Adding a score
+## Πιάνοντας φαντάσματα
 
 Let's make things more interesting by keeping score!
 
