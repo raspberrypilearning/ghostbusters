@@ -31,3 +31,4 @@ steps:
     title: Ajouter un chronomètre
   - 
     title: 'Challenge : plus d''objets'
+    challenge: true
