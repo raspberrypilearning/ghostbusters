@@ -31,3 +31,4 @@ steps:
     title: Adding a timer
   - 
     title: 'Challenge: more objects'
+    challenge: true
