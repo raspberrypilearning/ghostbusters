@@ -14,7 +14,7 @@ technologies: scratch
 site_areas: codeclub, scratch
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
@@ -30,6 +30,4 @@ steps:
   - 
     title: स्कोर जोड़ना
   - 
-    title: टाइमर जोड़ना
-  - 
-    title: 'चुनौती: और ऑब्जेक्ट्स'
+    title: 'टाइमर जोड़ना'
