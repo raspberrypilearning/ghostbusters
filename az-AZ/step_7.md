@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- çağırış \---
 
-## Challenge: more objects
+## Çağırış: daha çox obyekt
 
-Can you add other objects to your game?
+Oyununuza başqa obyektlər əlavə edə bilərsinizmi?
 
-![screenshot](images/ghost-final.png)
+![ekran görüntüsü](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Bir obyekt əlavə edərkən, aşağıdakıları düşünmək lazımdır.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Nə qədər böyükdür?
++ Xəyaldan daha çox və ya tez-tez görünəcəkmi?
++ Tutulduqda görünən kimi görünəcək?
++ Oyunçu onu tutmaq üçün neçə xal qazanacaq (ya da itirəcək)?
 
-If you need help adding another object, you can reuse the steps above!
+Başqa bir obyektin əlavə edilməsinə kömək etsəniz, yuxarıda göstərilən addımları yenidən istifadə edə bilərsiniz!
 
-\--- /challenge \---
+\--- / problem
