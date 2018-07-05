@@ -1,10 +1,10 @@
 ## Aggiungere un punteggio
 
-Let's make things more interesting by keeping score!
+Rendiamo il gioco più interessante tenendo il punteggio!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Crea una nuova variabile chiamata 'punteggio'.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,9 +12,9 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
 
-Each time a player clicks on a ghost, their score should increase.
+Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
 
 ![Increasing score](images/ghost-score-test.png)
 
