@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## Meydan Okuma: Daha fazla nesne
 
-Can you add other objects to your game?
+Oyununa başka nesneler ekleyebilir misin?
 
-![screenshot](images/ghost-final.png)
+![ekran görüntüsü](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Bir nesneyi eklerken, aşağıdaki şeyleri düşünmen gerekir.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Ne kadar büyük olmalı?
++ Hayaletten daha fazla mı yoksa daha az mı görünecek?
++ Yakalandığında nasıl görünecek / duyulacak?
++ Oyuncu onu yakaladığında kaç puan kazanacak (veya kaybedecek)?
 
-If you need help adding another object, you can reuse the steps above!
+Başka bir nesne ekleme konusunda yardıma ihtiyacın varsa, yukarıdaki adımları tekrar kullanabilirsin!
 
 \--- /challenge \---
