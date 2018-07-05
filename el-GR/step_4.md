@@ -1,17 +1,21 @@
-## Τυχαία φαντάσματα
+## Catching ghosts
 
-Μέχρι στιγμής, το φάντασμά σου είναι πολύ εύκολο να πιαστεί γιατί δεν κινείται!
+Let's allow the player to catch ghosts!
 
-\--- task --
+\--- task \---
 
-Μπορείς να προσθέσεις κώδικα στο φάντασμά σου έτσι ώστε, αντί να μένει στην ίδια θέση, να εμφανίζεται σε τυχαίες θέσεις στην οθόνη;
+Can you make your ghost disappear when it's been caught?
 
-\--- hints \--- \--- hint \--- Θέλεις το φάντασμά σου να `πηγαίνει σε` μια τυχαία θέση στο σκηνικό πριν εμφανιστεί κάθε φορά. \--- /hint \--- \--- hint \--- Υπάρχουν δύο ομάδες μπλοκ κώδικα που μπορείς να χρησιμοποιήσεις. Αυτό: ![screenshot](images/ghost-random-blocks-1.png) Ή αυτό: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Ο κώδικάς σου θα πρέπει να φαίνεται ως εξής: ![screenshot](images/ghost-random-code-1.png) Ή μπορεί να μοιάζει έτσι: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- - - /hints \---
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+
+![screenshot](images/ghost-fullscreen.png)
+
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Πρόκληση: περισσότερη τυχαιότητα
+## Challenge: adding a sound
 
-Μπορείς να κάνεις το φάντασμα `να περιμένει` ένα τυχαίο χρονικό διάστημα πριν εμφανιστεί; Μπορείς να χρησιμοποιήσεις το μπλοκ `όρισε το μέγεθος του αντικειμένου` για να έχει το φάντασμα τυχαίο μέγεθος κάθε φορά που εμφανίζεται; \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
