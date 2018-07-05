@@ -8,28 +8,26 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1، ڈیزائن-0، پروگرامنگ -1، فیز-کمپ-0، تیاری-0، کمیونٹی-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: کھیل
 technologies: خرگوش
-site_areas: منصوبوں
+site_areas: projects
 hardware: ''
-software: خرگوش
-version: 4.0.1
+software: scratch
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: تعارف
   - 
-    title: آپ کو کیا ضرورت ہے
+    title: Animating a ghost
   - 
-    title: ایک ماضی کو حرکت پذیری
+    title: Random ghosts
   - 
-    title: بے ترتیب ماضی
+    title: Catching ghosts
   - 
-    title: پکڑنے ماضی
+    title: Adding a score
   - 
-    title: ایک سکور شامل
+    title: Adding a timer
   - 
-    title: ٹائمر شامل کرنا
-  - 
-    title: 'چیلنج: مزید اشیاء'
+    title: 'Challenge: more objects'
