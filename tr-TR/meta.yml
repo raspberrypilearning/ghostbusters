@@ -1,7 +1,7 @@
 ---
-title: Ghostbusters
+title: Hayalet Avcıları
 hero_image: images / ghostbusters.png
-description: Hayaletleri yakalamak hakkında bir oyun yapın!
+description: Hayaletleri yakalama oyunu yapın!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: yeşil
 listed: true
@@ -14,22 +14,20 @@ technologies: çizik
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2
 last_tested: 2018-01-01
 steps:
   - 
     title: Giriş
   - 
-    title: Neye ihtiyacınız olacak?
+    title: Animating a ghost
   - 
-    title: Bir hayaleti canlandırmak
+    title: Random ghosts
   - 
-    title: Rastgele hayaletler
+    title: Catching ghosts
   - 
-    title: Hayaletler yakalamak
+    title: Adding a score
   - 
-    title: Bir skor ekleme
+    title: Adding a timer
   - 
-    title: Bir zamanlayıcı eklemek
-  - 
-    title: 'Zorluk: Daha fazla nesne'
+    title: 'Challenge: more objects'
