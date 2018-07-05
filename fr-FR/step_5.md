@@ -1,21 +1,23 @@
-## Attraper des fantômes
+## Adding a score
 
-Laissons le joueur d'attraper des fantômes!
+Let's make things more interesting by keeping score!
 
 \--- task \---
 
-Peux-tu cacher ton fantôme quand il a été attrapé?
+Create a new variable called 'score'.
 
-Tu dois être capable de cliquer sur les fantômes pour les attraper. Si tu le trouves difficile de les attraper, tu peux jouer au jeu en mode plein écran en cliquant sur ce bouton :
-
-![screenshot](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `Quand ce lutin est cliqué`, ton lutin fantôme devrait se `cacher`. \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci : ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch-add-variable]]]
 
 \--- /task \---
 
-\--- challenge \---
+\--- task \---
 
-## Challenge: ajouter un son
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-Peux-tu faire que ton fantôme joue un son chaque fois qu'il est attrapé ? \--- /challenge \---
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
