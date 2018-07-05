@@ -2,57 +2,50 @@
 
 आपण एक भूत-मस्तक खेळ करणार आहात!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-आपण हा प्रकल्प प्रिंट करणे आवश्यक असल्यास, कृपया [छपाईयंत्र वापरकर्ताजोगी स्वरूप आवृत्ती](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- संकुचित \---
+![showcase](images/showcase.gif)
 
-## शीर्षक: क्लब नेते नोट्स
+\--- /no-print \---
 
-## परिचय:
+\--- print-only \---
 
-या प्रकल्पामध्ये, मुले त्यांच्या कार्यक्रमांमध्ये डेटा साठवण्यासाठी व्हेरिएबल्सचा वापर कसा करायचा ते शिकतील.
+![showcase](images/showcase-static.png)
 
-## संसाधने
+\--- /print-only \---
 
-या प्रकल्पासाठी, स्क्रॅच 2 चा वापर करावा. स्क्रॅच 2 एकतर ऑनलाइन उडी. एसी [ सी स्क्रॅच-ऑन](http://jumpto.cc/scratch-on) किंवा [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) वरून डाउनलोड केला जाऊ शकतो आणि ऑफलाइन वापरला जाऊ शकतो.</p> 
+\--- collapse \---
 
-आपण या प्रकल्पाचा पूर्ण आवृत्ती शोधू शकता [ऑनलाइन](http://scratch.mit.edu/projects/60787262/#editor)किंवा ती या प्रकल्प आहे, जे 'प्रकल्प सामुग्री' दुव्यावर क्लिक करून डाउनलोड केला जाऊ शकतो:
+* * *
 
-* घोस्टबस्टर्स.sb2
+## title: What you will need
 
-## शिकण्याचे उद्दिष्ट
+### Hardware
 
-* व्हेरिएबल्स;
-* यादृच्छिक संख्या
++ A computer
 
-हा प्रकल्प खालील रास पासून घटक समाविष्ट आहे [रास्पबेरी पी डिजिटल तयार अभ्यासक्रम](http://rpf.io/curriculum):
+### Software
 
-* [सोप्या प्रोग्राम्स तयार करण्यासाठी मूलभूत प्रोग्रामिंग सिस्टम्स वापरा.](https://www.raspberrypi.org/curriculum/programming/creator)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-## आव्हाने
+\--- /collapse \---
 
-* "अधिक यादृच्छिकता" - यादृच्छिक क्रमांक वापरून;
-* "ध्वनी जोडणे" - ध्वनींच्या शिक्षणास मजबुती देणे;
-* "अधिक ऑब्जेक्ट" - दुसरा गेम ऑब्जेक्ट तयार करण्यासाठी कौशल्य लागू करणे.
+\--- collapse \---
 
-## सतत विचारले जाणारे प्रश्न
+* * *
 
-* जर भूत्यांना भुतांना त्यास ड्रॅग न करता त्यांच्यावर क्लिक करणे कठीण वाटत असेल तर ते खेळ पूर्णस्क्रीन मोडमध्ये खेळू शकतात, ज्यामध्ये भुते ड्रॅग करू शकत नाहीत.
+## title: What you will learn
 
-![स्क्रीनशॉट](images/ghost-fullscreen.png)
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-\--- / संकुचित \---
++ [सोप्या प्रोग्राम्स तयार करण्यासाठी मूलभूत प्रोग्रामिंग सिस्टम्स वापरा.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## \--- संकुचित \---
+\--- /collapse \---
 
-## शीर्षकः प्रकल्प सामग्री
+\--- no-print \---
 
-## क्लब नेते साधने
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-* [डाउनलोड करण्यायोग्य पूर्ण स्क्रॅच 2 प्रकल्प](resources/Ghostbusters.sb2)
-* [ऑनलाईन पूर्ण स्क्रॅच 2 प्रोजेक्ट](http://scratch.mit.edu/projects/60787262/#editor) \--- / संकुचित \---
+\--- /no-print \---
