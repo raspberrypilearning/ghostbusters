@@ -31,3 +31,4 @@ steps:
     title: Adding a timer
   - 
     title: 'आव्हान: अधिक वस्तू'
+    challenge: true
