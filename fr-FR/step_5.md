@@ -1,4 +1,4 @@
-## Adding a score
+## Ajouter un score
 
 Let's make things more interesting by keeping score!
 
