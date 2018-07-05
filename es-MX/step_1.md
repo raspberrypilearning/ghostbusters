@@ -2,57 +2,50 @@
 
 You are going to make a ghost-catching game!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- collapse \---
+![showcase](images/showcase.gif)
 
-## title: Club leader notes
+\--- /no-print \---
 
-## Introduction:
+\--- print-only \---
 
-In this project, children will learn how to use variables to store data in their programs.
+![showcase](images/showcase-static.png)
 
-## Resources
+\--- /print-only \---
 
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+\--- collapse \---
 
-You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Learning Objectives
+### Hardware
 
-* Variables;
-* Random numbers.
++ A computer
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+### Software
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Challenges
-
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
-
-## Frequently Asked Questions
-
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+\--- collapse \---
 
-## title: Project materials
+* * *
 
-## Club leader resources
+## title: What you will learn
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+\--- /collapse \---
+
+\--- no-print \---
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+\--- /no-print \---
