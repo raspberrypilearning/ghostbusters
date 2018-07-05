@@ -1,4 +1,4 @@
-## Catching ghosts
+## Attraper des fantômes
 
 Let's allow the player to catch ghosts!
 
