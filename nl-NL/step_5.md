@@ -1,21 +1,23 @@
-## Spoken vangen
+## Adding a score
 
-Laten we de speler de gelegenheid geven om ​spoken te vangen!
+Let's make things more interesting by keeping score!
 
 \--- task \---
 
-Kun je je spook laten verdwijnen als deze is gepakt?
+Create a new variable called 'score'.
 
-Je moet op de spoken kunnen klikken om ze te vangen. Als het vangen moeilijk is kun je het spel in volledig schermmodus spelen door op deze knop te klikken:
-
-![screenshot](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `Wanneer op deze sprite wordt geklikt`, zou het spook moeten `verdwijnen`. \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch-add-variable]]]
 
 \--- /task \---
 
-\--- challenge \---
+\--- task \---
 
-## Uitdaging: een geluid toevoegen
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-Kun je je spook een geluid laten maken als die wordt gevangen? \--- /challenge \---
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
