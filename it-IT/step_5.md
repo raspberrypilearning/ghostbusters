@@ -1,4 +1,4 @@
-## Adding a score
+## Acchiappare i fantasmi
 
 Let's make things more interesting by keeping score!
 
