@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: more objects
+## التحدي: "كائنات أخرى"
 
-Can you add other objects to your game?
+هل يمكنك إضافة كائنات أخرى إلى اللعبة؟
 
-![screenshot](images/ghost-final.png)
+![لقطة الشاشة](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+عندما تضيف كائنًا، يجب أن تفكِّر في الآتي.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ ما حجمه؟
++ هل ستكون مرّات ظهوره أكثر من مرّات ظهور الأشباح أم أقل؟
++ كيف سيكون مظهره / صوته إذا تم اصطياده؟
++ كم عدد النقاط التي سيحرزها اللاعب (أو يخسرها) عندما يحاول اصطياده؟
 
-If you need help adding another object, you can reuse the steps above!
+إذا كنتَ تحتاج إلى مساعدة عند إضافة كائن آخر، فيمكنك استخدام الخطوات أعلاه!
 
 \--- /challenge \---
