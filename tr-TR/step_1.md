@@ -2,57 +2,50 @@
 
 Hayalet avlayan bir oyun yapacaksın!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### What you will make
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+\--- no-print \---
 
-## \--- çöküş \---
+![showcase](images/showcase.gif)
 
-## Başlık: Kulüp lideri notları
+\--- /no-print \---
 
-## Giriş:
+\--- print-only \---
 
-Bu projede, çocuklar programlarında veri depolamak için değişkenlerin nasıl kullanılacağını öğrenecekler.
+![showcase](images/showcase-static.png)
 
-## kaynaklar
+\--- /print-only \---
 
-Bu proje için Scratch 2 kullanılmalıdır. Scratch 2, [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) adresinde çevrimiçi olarak kullanılabilir veya [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) adresinden indirilebilir ve çevrimdışı olarak kullanılabilir.
+\--- collapse \---
 
-Bu projenin tamamlanmış bir sürümünü bulabilirsiniz [Online](http://scratch.mit.edu/projects/60787262/#editor)veya içerdiği bu proje için 'Proje Materials' bağlantısını tıklayarak indirilebilir:
+* * *
 
-* Ghostbusters.sb2
+## title: What you will need
 
-## Öğrenme hedefleri
+### Hardware
 
-* Değişkenler;
-* Rastgele numaralar.
++ A computer
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)aşağıdaki bölümlerinden unsurları kapsamaktadır:
+### Software
 
-* [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Challenges
-
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
-
-## Frequently Asked Questions
-
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+\--- collapse \---
 
-## title: Project materials
+* * *
 
-## Club leader resources
+## title: What you will learn
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+\--- /collapse \---
+
+\--- no-print \---
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+\--- /no-print \---
