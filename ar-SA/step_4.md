@@ -10,7 +10,7 @@
 
 ![لقطة الشاشة](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- يجب ان يبدو التعليمة البرمجية الخاصة بك هكذا ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `عند النقر`{:class=”blockevents”}، يجب أن `يختفي`{:class=”blocklooks”} الشبح. \--- /hint \--- \--- hint \--- يجب ان يبدو التعليمة البرمجية الخاصة بك هكذا ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \---/task\---
 
