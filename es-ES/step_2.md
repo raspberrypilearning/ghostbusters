@@ -1,4 +1,4 @@
-## Lo que necesitarás
+## Animando un fantasma
 
 \--- task \---
 
