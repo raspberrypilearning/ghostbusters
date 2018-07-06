@@ -28,7 +28,7 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 ### Software
 
-+ Scratch 2.0 (entweder [online](http://rpf.io/scratchon) oder [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
