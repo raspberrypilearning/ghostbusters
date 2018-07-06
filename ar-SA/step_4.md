@@ -1,4 +1,4 @@
-## أشباح عشوائية
+## اصطياد الأشباح
 
 Let's allow the player to catch ghosts!
 
