@@ -12,6 +12,6 @@ Kannst du deinem Geist Code hinzufügen, so dass er an zufälligen Positionen au
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Herausforderung: Mehr Zufälligkeit
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Kannst du deinen Geist eine zufällige Zeit `warten`{:class=”blockcontrol”} lassen, bevor er erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`{:class=”blocklooks”} -Block vor jedem Erscheinen eine zufällige Größe geben? \--- /challenge \---
