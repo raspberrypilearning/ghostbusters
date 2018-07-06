@@ -1,4 +1,4 @@
-## إظهار شبح وإخفاؤه
+## أشباح عشوائية
 
 Your ghost is really easy to catch at the moment, because it doesn't move!
 
