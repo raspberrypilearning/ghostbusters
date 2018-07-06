@@ -2,7 +2,7 @@
 
 Kannst du deinem Spiel andere Objekte hinzufügen?
 
-![screenshot](images/ghost-final.png)
+![Screenshot](images/ghost-final.png)
 
 Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
 
@@ -11,4 +11,4 @@ Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
 + Wie wird es aussehen / klingen, wenn es gefangen wurde?
 + Wie viele Punkte erhält (oder verliert) der Spieler, wenn er es fängt?
 
-Wenn du Hilfe beim Hinzufügen eines anderen Objekts benötigst, kannst du die oben genannten Schritte erneut verwenden!
+Wenn du Hilfe beim Hinzufügen eines anderen Objekts benötigst, kannst du die vorher genannten Schritte erneut verwenden!
