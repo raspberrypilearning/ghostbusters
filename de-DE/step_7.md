@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: mehr Objekte
+## Herausforderung: mehr Objekte
 
 Kannst du deinem Spiel andere Objekte hinzufügen?
 
-![screenshot](images/ghost-final.png)
+![Screenshot](images/ghost-final.png)
 
 Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
 
