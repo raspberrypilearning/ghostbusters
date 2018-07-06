@@ -1,5 +1,3 @@
-\--- challenge \---
-
 ## Izazov: više objekata
 
 Možeš li dodati više objekata u igru?
@@ -14,5 +12,3 @@ Kada dodaješ objekt, moraš razmisliti o sljedećem.
 + Koliko bodova će igrač dobiti (ili izgubiti) kada bude uhvaćen?
 
 Trebaš li pomoć oko dodavanja drugih objekata, ponovi korake iznad!
-
-\--- /challenge \---
