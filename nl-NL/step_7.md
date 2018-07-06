@@ -1,5 +1,3 @@
-\--- challenge \---
-
 ## Uitdaging: meer voorwerpen
 
 Kun je andere voorwerpen aan je spel toevoegen?
@@ -14,5 +12,3 @@ Als je een voorwerp toevoegt, moet je nadenken over de volgende dingen.
 + Hoeveel punten scoort (of verliest) de speler om het te vangen?
 
 Als je hulp nodig hebt bij het toevoegen van een ander voorwerp, kun je de stappen hierboven opnieuw doen!
-
-\--- /challenge \---
