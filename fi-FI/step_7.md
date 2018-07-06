@@ -1,5 +1,3 @@
-\--- haaste \---
-
 ## Haaste: enemmän esineitä
 
 Voitko lisätä muita esineitä peliisi?
@@ -14,5 +12,3 @@ Kun lisäät objektia, sinun on harkittava seuraavia asioita.
 + Kuinka monta pistettä pelaaja pisteet (tai menettää) kiinni sen kiinni?
 
 Jos tarvitset apua uuden objektin lisäämiseen, voit käyttää yllä olevia ohjeita uudelleen.
-
-\--- /haaste \---
