@@ -1,5 +1,3 @@
-\--- izziv \---
-
 ## Izziv: več predmetov
 
 Ali lahko v svojo igro dodate druge predmete?
@@ -14,5 +12,3 @@ Ko dodate predmet, morate razmišljati o naslednjih stvareh.
 + Koliko točk bo igralec dosegel (ali izgubil), če bi ga ujeli?
 
 Če potrebujete pomoč pri dodajanju drugega predmeta, lahko znova uporabite zgornje korake!
-
-\--- / izziv \---
