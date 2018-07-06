@@ -1,5 +1,3 @@
-\--- challenge \---
-
 ## Meydan Okuma: Daha fazla nesne
 
 Oyununa başka nesneler ekleyebilir misin?
@@ -14,5 +12,3 @@ Bir nesneyi eklerken, aşağıdaki şeyleri düşünmen gerekir.
 + Oyuncu onu yakaladığında kaç puan kazanacak (veya kaybedecek)?
 
 Başka bir nesne ekleme konusunda yardıma ihtiyacın varsa, yukarıdaki adımları tekrar kullanabilirsin!
-
-\--- /challenge \---
