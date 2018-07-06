@@ -1,5 +1,3 @@
-\--- çağırış \---
-
 ## Çağırış: daha çox obyekt
 
 Oyununuza başqa obyektlər əlavə edə bilərsinizmi?
@@ -14,5 +12,3 @@ Bir obyekt əlavə edərkən, aşağıdakıları düşünmək lazımdır.
 + Oyunçu onu tutmaq üçün neçə xal qazanacaq (ya da itirəcək)?
 
 Başqa bir obyektin əlavə edilməsinə kömək etsəniz, yuxarıda göstərilən addımları yenidən istifadə edə bilərsiniz!
-
-\--- / problem
