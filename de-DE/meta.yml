@@ -20,8 +20,6 @@ steps:
   - 
     title: Einleitung
   - 
-    title: Was du brauchen wirst
-  - 
     title: Ein Gespenst lebendig werden lassen
   - 
     title: Zufällige Gespenster
@@ -30,5 +28,7 @@ steps:
   - 
     title: Eine Punktzahl hinzufügen
   - 
-    title: 'Hinzufügen eines Timers'
+    title: Hinzufügen eines Timers
+  - 
+    title: 'Herausforderung: mehr Objekte'
     challenge: true
