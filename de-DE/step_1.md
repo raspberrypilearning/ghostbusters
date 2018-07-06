@@ -2,7 +2,7 @@
 
 Du wirst ein Geisterjagd-Spiel machen!
 
-### What you will make
+### Was du machen wirst
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 * * *
 
-## title: What you will need
+## title: Was du brauchen wirst
 
 ### Hardware
 
-+ A computer
++ Einen Computer
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (entweder [online](http://rpf.io/scratchon) oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
