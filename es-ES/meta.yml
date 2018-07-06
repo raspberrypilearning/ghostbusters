@@ -20,15 +20,15 @@ steps:
   - 
     title: Introducción
   - 
-    title: Lo que necesitarás
-  - 
     title: Animando un fantasma
   - 
     title: Fantasmas aleatorios
   - 
     title: Atrapando fantasmas
   - 
-    title: Añadir una puntuación
+    title: Agregar un puntaje
   - 
-    title: 'Añadir un temporizador'
+    title: Agregar un contador de tiempo
+  - 
+    title: 'Desafío: más objetos'
     challenge: true
