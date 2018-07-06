@@ -17,7 +17,7 @@
 
 ستنتهي اللعبة عندما يصل الموقِّت إلى 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- هذه هيا القوالب البرمجية التي ستقوم بإستخدامها: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- إليك كيفية إضافة المؤقت إلى لعبتك: ![لقطة الشاشة](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `الوقت`{:class=”blockdata”} يجب أن يكون `مساوي 10`{:class=”blockdata”}. بعد ذالك يجب `تغيير الوقت بمقدار -1`{:class=”blockdata”} كل ثانية `حتى تصل إلى 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- هذه هيا القوالب البرمجية التي ستقوم بإستخدامها: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- إليك كيفية إضافة المؤقت إلى لعبتك: ![لقطة الشاشة](images/ghost-timer-code.png)
 
 وهذه كيفية إنشاء قالب `الوقت = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
