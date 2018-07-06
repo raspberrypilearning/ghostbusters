@@ -2,7 +2,7 @@
 
 سوف تقوم بصنع لعبة إصطياد أشباح!
 
-### What you will make
+### ما الذي ستصنعه
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@
 
 * * *
 
-## title: What you will need
+## ما ستحتاج إليه
 
-### Hardware
+### الأجهزة
 
-+ A computer
++ جهاز حاسب آلي
 
-### Software
+### البرمجيات
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 2.0 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@
 
 * * *
 
-## title: What you will learn
+## ما ستحتاج إليه
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+يتناول هذا المشروع عناصر من المعايير التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
 + [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
