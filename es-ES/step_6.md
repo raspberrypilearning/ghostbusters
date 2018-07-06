@@ -1,4 +1,4 @@
-## Añadir una puntuación
+## Agregar un contador de tiempo
 
 \--- task \---
 
