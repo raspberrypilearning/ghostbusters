@@ -28,7 +28,7 @@ steps:
   - 
     title: إضافة النتيجة
   - 
-    title: إضافة نقطة
+    title: إضافة مؤقت
   - 
-    title: 'إضافة موقِّت'
+    title: 'التحدي: كائنات أخرى'
     challenge: true
