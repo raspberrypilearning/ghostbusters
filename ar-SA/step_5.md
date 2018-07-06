@@ -18,6 +18,6 @@
 
 ![زيادة النقاط](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- هذه هيا القوالب التي ستقوم بإستخدامها: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- إليك التعليمات البرمجية لكيفية تسجيل النقاط: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `النتيجة`{:class=”blockdata”} يجب أن يكون `مساوي 0`{:class=”blockdata”}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- هذه هيا القوالب التي ستقوم بإستخدامها: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- إليك التعليمات البرمجية لكيفية تسجيل النقاط: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \---/task\---
