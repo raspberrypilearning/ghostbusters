@@ -1,4 +1,4 @@
-## Ein Gespenst lebendig werden lassen
+## Zufällige Gespenster
 
 Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
 
