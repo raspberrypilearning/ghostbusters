@@ -1,17 +1,17 @@
 ## أشباح عشوائية
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+إلى الآن، من السهل جدًا اصطياد الشبح لأنه لا يتحرك!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+هل يمكنك إضافة كود برمجي إلى الشبح بحيث يظهر في مواقع عشوائية على الشاشة بدلًا من البقاء في الموقع نفسه؟
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- تحتاج إلى برمجة الشبح باستخدام `انتقل إلى` موقع عشوائي على المنصة قبل كل مرة يظهر فيها. \--- /hint \--- \--- hint \--- توجد مجموعتان من القوالب البرمجية التي يمكنك إستخدامها. هذا القالب: ![screenshot](images/ghost-random-blocks-1.png) أو هذا القالب: ![screenshot](images/ghost-random-blocks-2.png) يجب أن تبدو التعليمات البرمجية الخاصة بك إما مثل هذا: ![screenshot](images/ghost-random-code-1.png) أو يمكن أن تبدو كالتالي: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
-\--- /task \---
+\---/task\---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## التحدي: أكثر عشوائية
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+هل يمكنك برمجة الشبح باستخدام `انتظر` لمدة عشوائية من الوقت قبل الظهور؟ وهل يمكنك استخدام القالب `عيِّن الحجم` لتجعل الشبح يظهر في كل مرة بحجم عشوائي؟ \--- /challenge \---
