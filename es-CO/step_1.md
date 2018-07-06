@@ -2,33 +2,33 @@
 
 ¡Vas a hacer un juego de atrapar fantasmas!
 
-### What you will make
+### Lo que harás
 
-\--- no-print \---
+\--- sin impresión \---
 
 ![showcase](images/showcase.gif)
 
-\--- /no-print \---
+\--- /sin impresión \---
 
-\--- print-only \---
+\--- solo impresión \---
 
 ![showcase](images/showcase-static.png)
 
-\--- /print-only \---
+\--- /solo impresión \---
 
 \--- collapse \---
 
 * * *
 
-## title: What you will need
+## title: Lo que necesitarás
 
 ### Hardware
 
-+ A computer
++ Una computadora
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (ya sea [en línea](http://rpf.io/scratchon) {: target = "_blank"} o [fuera de línea](http://rpf.io/scratchoff) {: target = "_blank"})
 
 \--- /collapse \---
 
@@ -36,16 +36,16 @@
 
 * * *
 
-## title: What you will learn
+## title: Lo que aprenderá
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Usa estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
-\--- no-print \---
+\--- sin impresión \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-\--- /no-print \---
+\--- /sin impresión \---
