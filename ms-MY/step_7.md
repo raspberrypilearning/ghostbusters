@@ -1,5 +1,3 @@
-\--- cabaran \---
-
 ## Cabaran: lebih banyak objek
 
 Bolehkah anda menambah objek lain ke permainan anda?
@@ -14,5 +12,3 @@ Apabila anda menambah objek, anda perlu memikirkan perkara-perkara berikut.
 + Berapa banyak mata yang akan dapat skor pemain (atau kalah) untuk menangkapnya?
 
 Jika anda memerlukan bantuan menambah objek lain, anda boleh menggunakan semula langkah-langkah di atas!
-
-\--- / cabaran \---
