@@ -4,7 +4,7 @@
 
 Create a new variable called 'time'.
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
@@ -21,13 +21,13 @@ The game should stop when the timer gets to 0.
 
 And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
 Ask a friend to test your game. How many points can they score?
 
-\--- /task \---
+\---/task\---
 
 If your game is too easy, you can:
 
@@ -39,4 +39,4 @@ If your game is too easy, you can:
 
 Change and test your game a few times until you're happy that it's the right level of difficulty.
 
-\--- /task \---
+\---/task\---
