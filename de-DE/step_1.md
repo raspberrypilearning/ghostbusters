@@ -6,13 +6,13 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![Schaufenster](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![Schaufenster](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -38,7 +38,7 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 ## title: Was du lernen wirst
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum) {:target="_blank"}:
 
 + [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
