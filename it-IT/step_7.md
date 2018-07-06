@@ -1,5 +1,3 @@
-\--- challenge \---
-
 ## Sfida: Altri oggetti
 
 Puoi aggiungere altri oggetti al tuo gioco?
@@ -14,5 +12,3 @@ Rifletti sull’oggetto da aggiungere. Pensa a:
 + Quanti punti guadagnerai (o perderai) per averlo acchiappato?
 
 Se hai bisogno di aiuto per aggiungere un altro oggetto, riutilizza le indicazioni qui sopra!
-
-\--- /challenge \---
