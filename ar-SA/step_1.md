@@ -6,13 +6,13 @@
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![معرض](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![معرض](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -46,6 +46,6 @@
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
