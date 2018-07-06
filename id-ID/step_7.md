@@ -1,5 +1,3 @@
-\--- tantangan \---
-
 ## Tantangan: lebih banyak objek
 
 Bisakah Anda menambahkan objek lain ke gim Anda?
@@ -14,5 +12,3 @@ Saat Anda menambahkan objek, Anda perlu memikirkan hal-hal berikut.
 + Berapa poin yang akan skor pemain (atau kalah) untuk menangkapnya?
 
 Jika Anda perlu bantuan menambahkan objek lain, Anda dapat menggunakan kembali langkah-langkah di atas!
-
-\--- / tantangan \---
