@@ -1,4 +1,4 @@
-## اصطياد الأشباح
+## إضافة النتيجة
 
 Let's make things more interesting by keeping score!
 
