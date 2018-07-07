@@ -8,7 +8,7 @@
 
 [[[generic-scratch-add-variable]]]
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
@@ -20,4 +20,4 @@
 
 \--- hints \--- \--- hint \--- `عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `النتيجة`{:class=”blockdata”} يجب أن يكون `مساوي 0`{:class=”blockdata”}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية. `عندما يتم النقر على كائن الشبح`{:class=”blockevents”}، `النتيجة`{:class=”blockdata”} يجب أن`تتغير بمقدار 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- هذه هيا القوالب التي ستقوم باستخدامها: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- إليك التعليمات البرمجية لكيفية تسجيل النقاط: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
-\--- /task \---
+\---/task\---
