@@ -36,7 +36,7 @@
 
 * * *
 
-## title: What you will learn
+## title: Lo que aprenderás
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
