@@ -8,10 +8,10 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, diseño-0, programación-1, phys-comp-0, fabricación-0, comunidad-0
 interests: games
 technologies: scratch
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: scratch
 version: 4.2.1
