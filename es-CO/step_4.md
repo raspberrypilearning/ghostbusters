@@ -1,4 +1,4 @@
-## Fantasmas aleatorios
+## Atrapando fantasmas
 
 Let's allow the player to catch ghosts!
 
