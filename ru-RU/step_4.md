@@ -1,10 +1,10 @@
 ## Ловля призраков
 
-Let's allow the player to catch ghosts!
+Давай позволим игроку ловить призраков!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Можешь ли ты заставить твоего призрака исчезнуть, когда его поймали?
 
 You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
