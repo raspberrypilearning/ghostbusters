@@ -24,13 +24,13 @@ Añade una nueva figura de fantasma y un fondo de escenario adecuado.
 
 Añade código a tu fantasma para que aparezca y desaparezca siempre después de que hagas clic en la bandera.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Una vez que `se haga click en la bandera verde`{:class=”blockevents”}, tendras que hacer que tu fantasma se `esconda`{:class=”blocklooks”} por `un segundo`{:class=”blockcontrol”} y que después `se muestre`{:class=”blocklooks”} por `un segundo`{:class=”blockcontrol”}. Tendrá que hacer esto `siempre`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Estos son los bloques de código que necesitarás: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Tu código debería quedar así: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Prueba y guarda tu proyecto.
 
 [[[generic-scratch-saving]]]
 
