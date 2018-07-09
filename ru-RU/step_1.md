@@ -20,7 +20,7 @@
 
 * * *
 
-## title: What you will need
+## title: Что тебе понадобится
 
 ### Оборудование
 
@@ -36,7 +36,7 @@
 
 * * *
 
-## title: What you will learn
+## title: Чему ты научишься
 
 Этот проект включает в себя элементы из [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -46,6 +46,6 @@
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Если ты хочешь распечатать этот проект, то воспользуйся [версией для печати](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
