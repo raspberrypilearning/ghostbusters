@@ -1,8 +1,8 @@
-## Introduction
+## Введение
 
-You are going to make a ghost-catching game!
+Ты собираешься сделать игру о ловле призраков!
 
-### What you will make
+### Что тебе нужно сделать
 
 \--- no-print \---
 
@@ -22,13 +22,13 @@ You are going to make a ghost-catching game!
 
 ## title: What you will need
 
-### Hardware
+### Оборудование
 
-+ A computer
++ Компьютер
 
-### Software
+### Программное обеспечение
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [автономный редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -38,9 +38,9 @@ You are going to make a ghost-catching game!
 
 ## title: What you will learn
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Этот проект включает в себя элементы из [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Используй базовые конструкции программирования для создания простых программ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
