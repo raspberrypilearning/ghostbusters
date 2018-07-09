@@ -1,10 +1,10 @@
 ## Добавление баллов
 
-Let's make things more interesting by keeping score!
+Давай сделаем нечто более интересное, будем подсчитывать баллы!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Создай новую переменную с именем 'баллы'.
 
 [[[generic-scratch-add-variable]]]
 
