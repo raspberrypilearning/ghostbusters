@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Открой новый пустой проект Scratch.
+Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Добавь новый спрайт призрака и подходящий фон для сцены.
+Add in a new ghost sprite and a suitable stage backdrop.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@
 
 \--- task \---
 
-Добавь код для своего призрака, чтобы он появлялся и исчезал, когда ты щёлкаешь на флаге.
+Add code to your ghost so that it appears and disappears forever when you click the flag.
 
-\--- hints \--- \--- hint \--- После щелчка на `зелёном флаге`{:class=”blockevents”}, тебе нужно `скрыть (hide)`{:class=”blocklooks”} твоего призрака на `одну секунду`{:class=”blockcontrol”}, а затем `показать его (show)`{:class=”blocklooks”} на `одну секунду`{:class=”blockcontrol”}. Нужно выполнять это `постоянно`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Тебе понадобятся такие блоки кода: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Твой код должен будет выглядеть как-то так: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Проверь и сохрани проект.
+Test and save your project.
 
 [[[generic-scratch-saving]]]
 
