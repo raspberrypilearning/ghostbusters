@@ -1,4 +1,4 @@
-## Challenge: more objects
+## टाइमर जोड़ना
 
 Can you add other objects to your game?
 
