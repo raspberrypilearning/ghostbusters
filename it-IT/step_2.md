@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Avvia un nuovo progetto Scratch.
+Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Avvia un nuovo progetto Scratch.
 
 \--- task \---
 
-Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
+Add in a new ghost sprite and a suitable stage backdrop.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@ Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
 
 \--- task \---
 
-Aggiungi dei blocchi al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
+Add code to your ghost so that it appears and disappears forever when you click the flag.
 
-\--- hints \--- \--- hint \--- `Quando clicchi su ⚑`{:class=”blockevents”}, dovrai fare in modo che il tuo fantasma `sparisca`{:class=”blocklooks”} per `un secondo`{:class=”blockcontrol”} e poi `ricompaia`{:class=”blocklooks”} per `un secondo`{:class=”blockcontrol”}. Dovrà fare ciò `per sempre`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Prova il tuo progetto e salvalo.
+Test and save your project.
 
 [[[generic-scratch-saving]]]
 
