@@ -2,7 +2,7 @@
 
 Let's make things more interesting by keeping score!
 
-\--- task --
+\--- task \---
 
 Create a new variable called 'score'.
 
@@ -10,7 +10,7 @@ Create a new variable called 'score'.
 
 \--- /task \---
 
-\--- task --
+\--- task \---
 
 Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
