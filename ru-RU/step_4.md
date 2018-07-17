@@ -1,21 +1,21 @@
 ## Ловля призраков
 
-Давай позволим игроку ловить призраков!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-Можешь ли ты заставить твоего призрака исчезнуть, когда его поймали?
+Can you make your ghost disappear when it's been caught?
 
-Тебе нужно сделать так, чтобы при щелчке на призраке он был пойман. Если ты считаешь, что процесс ловли получился сложным, то ты можешь играть в игру в полноэкранном режиме, нажав эту кнопку:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `После щелчка`{:class=”blockevents”} спрайт твоего призрака должен `скрыться`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Твой код должен выглядеть как-то так: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Задача: добавление звука
+## Challenge: adding a sound
 
-Можешь ли ты заставить своего призрака издавать звук каждый раз, когда его поймают? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
