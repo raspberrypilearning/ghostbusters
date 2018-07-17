@@ -1,4 +1,4 @@
-## Animating a ghost
+## おばけを動かす
 
 \--- task \---
 
