@@ -30,5 +30,5 @@ steps:
   - 
     title: Añadir una puntuación
   - 
-    title: 'Desafío: más objetos'
+    title: 'Añadir un temporizador'
     challenge: true
