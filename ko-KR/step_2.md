@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+새 유령 스프라이트를 추가하고 어울리는 배경을 넣으세요.
 
 ![screenshot](images/ghost-ghost.png)
 
