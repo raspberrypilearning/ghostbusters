@@ -1,4 +1,4 @@
-## Agregar un puntaje
+## Atrapando fantasmas
 
 Let's make things more interesting by keeping score!
 
