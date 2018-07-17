@@ -1,4 +1,4 @@
-## Animating a ghost
+## Fantoma animată
 
 \--- task \---
 
@@ -12,7 +12,7 @@ Open a new empty Scratch project.
 
 Add in a new ghost sprite and a suitable stage backdrop.
 
-![screenshot](images/ghost-ghost.png)
+![captură de ecran](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
