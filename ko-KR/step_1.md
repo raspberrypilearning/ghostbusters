@@ -22,11 +22,11 @@
 
 ## title: What you will need
 
-### Hardware
+### 하드웨어
 
 + A computer
 
-### Software
+### 소프트웨어
 
 + Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
