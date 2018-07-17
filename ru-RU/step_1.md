@@ -2,7 +2,7 @@
 
 Ты собираешься сделать игру о ловле призраков!
 
-### Что тебе нужно сделать
+### What you will make
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@
 
 * * *
 
-## title: Что тебе понадобится
+## title: What you will need
 
-### Оборудование
+### Hardware
 
-+ Компьютер
++ A computer
 
-### Программное обеспечение
+### Software
 
-+ Scratch 2.0 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [автономный редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@
 
 * * *
 
-## title: Чему ты научишься
+## title: What you will learn
 
-Этот проект включает в себя элементы из [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Используй базовые конструкции программирования для создания простых программ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@
 
 \--- no-print \---
 
-Если ты хочешь распечатать этот проект, то воспользуйся [версией для печати](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
