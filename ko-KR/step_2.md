@@ -22,9 +22,9 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+깃발을 클릭했을 때 유령이 계속 나타났다 사라지도록 코드를 추가하세요.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- 필요한 코드 블럭은 다음과 같습니다. ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- 코드는 이런 형태로 만들어져야 합니다. ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `녹색 깃발이 클릭되면`{:class=”blockevents”}, 유령들을 `1초 동안`{:class=”blockcontrol”} `숨기기`{:class=”blocklooks”} 로 숨겼다가 `1초 동안`{:class=”blockcontrol”} `보이기`{:class=”blocklooks”} 로 보여줘야 합니다. 이 작업을 `무한 반복하기`{:class=”blockcontrol”} 로 해야합니다. \--- /hint \--- \--- hint \--- 필요한 코드 블럭은 다음과 같습니다. ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- 코드는 이런 형태로 만들어져야 합니다. ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
