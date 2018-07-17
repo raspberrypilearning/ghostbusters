@@ -1,4 +1,4 @@
-## Catching ghosts
+## Hvatanje duhova
 
 Let's allow the player to catch ghosts!
 
