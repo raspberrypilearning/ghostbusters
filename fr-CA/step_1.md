@@ -2,17 +2,17 @@
 
 Tu vas devoir faire un jeux de ghost-catching!
 
-### Ce que tu feras
+### What you will make
 
 \--- no-print \---
 
-![démonstration](images/showcase.gif)
+![showcase](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![démonstration](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -20,15 +20,15 @@ Tu vas devoir faire un jeux de ghost-catching!
 
 * * *
 
-## title: De quoi as-tu besoin
+## title: What you will need
 
-### Matériel informatique
+### Hardware
 
-+ Un ordinateur
++ A computer
 
-### Logiciels
+### Software
 
-+ Scratch 2.0 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Tu vas devoir faire un jeux de ghost-catching!
 
 * * *
 
-## title: Ce que tu vas apprendre
+## title: What you will learn
 
-Ce projet couvre les éléments suivantes des sections du curriculum [ Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ Ce projet couvre les éléments suivantes des sections du curriculum [ Raspberry
 
 \--- no-print \---
 
-Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
