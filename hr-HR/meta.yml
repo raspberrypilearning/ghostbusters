@@ -20,15 +20,15 @@ steps:
   - 
     title: Uvod
   - 
-    title: Animating a ghost
+    title: Animacija duha
   - 
-    title: Random ghosts
+    title: Duh se pojavljuje na nasumičnim mjestima
   - 
-    title: Catching ghosts
+    title: Hvatanje duhova
   - 
-    title: Adding a score
+    title: Dodavanje rezultata
   - 
-    title: Adding a timer
+    title: Dodavanje mjerača vremena
   - 
     title: 'Izazov: više objekata'
     challenge: true
