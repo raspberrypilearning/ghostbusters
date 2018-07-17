@@ -2,41 +2,41 @@
 
 \--- task \---
 
-أنشئ متغيرًا جديدًا يُسمى 'الوقت'.
+Create a new variable called 'time'.
 
-\---/task\---
-
-\--- task \---
-
-هل يمكنك إضافة موقِّت إلى المنصة لتمنح اللاعب 10 ثوان فقط لاصطياد أكبر عدد ممكن من الأشباح؟
-
-يجب برمجة الموقِت على النحو التالي:
-
-+ يبدأ العد من 10 ثوان
-+ يبدأ في العد التنازلي بمقدار ثانية واحدة
-
-ستنتهي اللعبة عندما يصل الموقِت إلى 0.
-
-\--- hints \--- \--- hint \--- `عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `الوقت`{:class=”blockdata”} يجب أن يكون `مساوي 10`{:class=”blockdata”}. بعد ذالك يجب `تغيير الوقت بمقدار -1`{:class=”blockdata”} كل ثانية `حتى تصل إلى 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- هذه هيا القوالب البرمجية التي ستقوم بإستخدامها: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- إليك كيفية إضافة المؤقت إلى لعبتك: ![لقطة الشاشة](images/ghost-timer-code.png)
-
-وهذه كيفية إنشاء قالب `الوقت = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
-
-\---/task\---
+\--- /task \---
 
 \--- task \---
 
-اطلب من صديق أن يجرِّب اللعبة. كم عدد النقاط التي يمكنه إحرازها؟
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-\---/task\---
+Your timer should:
 
-إذا كانت اللعبة سهلة للغاية، فيمكنك:
++ Start at 10 seconds
++ Count down every second
 
-+ منح اللاعب وقتًا أقل
-+ اجعل ظهور الأشباح أقل
-+ تصغير أحجام الأشباح
+The game should stop when the timer gets to 0.
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![لقطة الشاشة](images/ghost-timer-code.png)
+
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+
+\--- /task \---
 
 \--- task \---
 
-غيِّر قيم المتغيرات واختبر اللعبة عدة مرات حتى تصل إلى مستوى الصعوبة الذي تريده.
+Ask a friend to test your game. How many points can they score?
 
-\---/task\---
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy that it's the right level of difficulty.
+
+\--- /task \---
