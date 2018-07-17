@@ -2,7 +2,7 @@
 
 이제부터 유령 잡기 게임을 만들어 봅시다!
 
-### What you will make
+### 만들게 될 것
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@
 
 * * *
 
-## title: What you will need
+## title: 준비물
 
 ### 하드웨어
 
-+ A computer
++ 컴퓨터
 
 ### 소프트웨어
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ 스크래치 2.0 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@
 
 * * *
 
-## title: What you will learn
+## title: 배우게 될 것
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
 + [기본 프로그래밍 문법으로 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/ghostbusters/print)를 사용하십시오.
 
 \--- /no-print \---
