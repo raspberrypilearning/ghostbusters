@@ -1,6 +1,6 @@
-## Introduction
+## Úvod
 
-You are going to make a ghost-catching game!
+Pojďme udělat hru o chytání duchů!
 
 ### What you will make
 
@@ -40,7 +40,7 @@ You are going to make a ghost-catching game!
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [<0>Použij základní programovací konstrukce k vytvoření jednoduchých programů</0>{:target="_blank"}.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
