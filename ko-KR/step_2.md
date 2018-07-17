@@ -30,7 +30,7 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- task \---
 
-Test and save your project.
+프로젝트를 테스트해 보고 저장하세요.
 
 [[[generic-scratch-saving]]]
 
