@@ -1,4 +1,4 @@
-## Catching ghosts
+## おばけを捕まえる
 
 Let's allow the player to catch ghosts!
 
