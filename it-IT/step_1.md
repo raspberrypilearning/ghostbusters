@@ -2,7 +2,7 @@
 
 Stai per creare un gioco di acchiappa-fantasmi!
 
-### Cosa creerai
+### What you will make
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 * * *
 
-## title: Di cosa avrai bisogno
+## title: What you will need
 
 ### Hardware
 
-+ Un computer
++ A computer
 
 ### Software
 
-+ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 * * *
 
-## title: Cosa imparerai
+## title: What you will learn
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 \--- no-print \---
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
