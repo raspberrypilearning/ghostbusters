@@ -1,21 +1,21 @@
-## Gespenster fangen
+## Zufällige Gespenster
 
-Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
+Let's allow the player to catch ghosts!
 
 \--- task \---
 
-Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde?
+Can you make your ghost disappear when it's been caught?
 
-Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
 ![Screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Wenn sie angeklickt wird`{:class=”blockevents”}, sollte sich die Geisterfigur `verstecken`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Dein Code sollte so aussehen: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Herausforderung: Einen Klang hinzufügen
+## Challenge: adding a sound
 
-Kannst du deinen Geist dazu bringen, jedes Mal ein Geräusch zu machen, wenn er gefangen wird? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
