@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Ouvre un nouveau projet Scratch vide.
+Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Ouvre un nouveau projet Scratch vide.
 
 \--- task \---
 
-Ajoute un nouveau lutin fantôme et un arrière plan appropriée.
+Add in a new ghost sprite and a suitable stage backdrop.
 
 ![capture d'écran](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@ Ajoute un nouveau lutin fantôme et un arrière plan appropriée.
 
 \--- task \---
 
-Ajoute du code à ton fantôme afin qu'il apparaisse et disparaisse indéfiniment quand tu cliques sur le drapeau.
+Add code to your ghost so that it appears and disappears forever when you click the flag.
 
-\--- hints \--- \--- hint \--- Quand le `drapeau vert est cliqué`{:class=”blockevents”}, tu dois faire `disparaître` ton fantôme {:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”} et ensuite le l'`afficher`{:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”}. Il devra le faire ` pour toujours ` {: class = "blockcontrol"}. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Teste et sauvegarde ton projet.
+Test and save your project.
 
 [[[generic-scratch-saving]]]
 
