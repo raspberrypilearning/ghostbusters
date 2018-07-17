@@ -10,7 +10,7 @@
 
 ![screenshot](images/ghost-fullscreen.png)
 
---- hints --- --- hint --- `클릭되면`{:class="blockevents"}, 유령 스프라이트는 `숨기기` 되어야 합니다.{:class="blocklooks"}. --- /hint --- --- hint --- 코드는 다음과 같아야 합니다. ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
+--- hints --- --- hint --- `클릭되면`{:class="blockevents"}, 유령 스프라이트는 `숨기기` 되어야 합니다{:class="blocklooks"}. --- /hint --- --- hint --- 코드는 다음과 같아야 합니다. ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
