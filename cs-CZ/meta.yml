@@ -1,7 +1,7 @@
 ---
-title: Ghostbusters
+title: Krotitelé duchů
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: Udělej hru o chytání duchů!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
@@ -18,17 +18,17 @@ version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: Animating a ghost
+    title: Animace ducha
   - 
-    title: Random ghosts
+    title: Náhodní duchové
   - 
-    title: Catching ghosts
+    title: Chytání duchů
   - 
-    title: Adding a score
+    title: Přidání skóre
   - 
-    title: Adding a timer
+    title: Přidání časovače
   - 
-    title: 'Challenge: more objects'
+    title: 'Výzva: více objektů'
     challenge: true
