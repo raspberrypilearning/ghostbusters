@@ -1,12 +1,12 @@
 ## Προσθέτοντας ένα χρονόμετρο
 
-\--- task --
+\--- task \---
 
 Create a new variable called 'time'.
 
 \--- /task \---
 
-\--- task --
+\--- task \---
 
 Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
@@ -23,7 +23,7 @@ And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer
 
 \--- /task \---
 
-\--- task --
+\--- task \---
 
 Ask a friend to test your game. How many points can they score?
 
@@ -35,7 +35,7 @@ If your game is too easy, you can:
 + Make the ghosts appear less often
 + Make the ghosts smaller
 
-\--- task --
+\--- task \---
 
 Change and test your game a few times until you're happy that it's the right level of difficulty.
 
