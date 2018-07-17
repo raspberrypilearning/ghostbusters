@@ -1,4 +1,4 @@
-## Adding a score
+## スコアを追加する
 
 Let's make things more interesting by keeping score!
 
