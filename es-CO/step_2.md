@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Abre un nuevo proyecto vacío de Scratch.
+Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,9 +10,9 @@ Abre un nuevo proyecto vacío de Scratch.
 
 \--- task \---
 
-Añadir una nueva figura de fantasma y un fondo de escenario adecuado.
+Add in a new ghost sprite and a suitable stage backdrop.
 
-![captura de pantalla](images/ghost-ghost.png)
+![screenshot](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
@@ -22,15 +22,15 @@ Añadir una nueva figura de fantasma y un fondo de escenario adecuado.
 
 \--- task \---
 
-Añade código a tu fantasma para que aparezca y desaparezca siempre después de que hagas clic en la bandera.
+Add code to your ghost so that it appears and disappears forever when you click the flag.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. Necesitará hacer esto ` para siempre ` {: class = "blockcontrol"}. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitarás: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Así es como debería ser tu código: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Pruebe y guarde su proyecto.
+Test and save your project.
 
 [[[generic-scratch-saving]]]
 
