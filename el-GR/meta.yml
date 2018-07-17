@@ -14,13 +14,13 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.2.1
+version: 4.0.1
 last_tested: 2018-01-01
 steps:
   - 
     title: Εισαγωγή
   - 
-    title: Ζωντανεύοντας ένα φάντασμα
+    title: Σχεδιάζοντας ένα φάντασμα
   - 
     title: Τυχαία φαντάσματα
   - 
@@ -30,5 +30,5 @@ steps:
   - 
     title: Προσθέτοντας ένα χρονόμετρο
   - 
-    title: 'Πρόκληση: περισσότερα αντικείμενα'
+    title: 'Προσθέτοντας ένα χρονόμετρο'
     challenge: true
