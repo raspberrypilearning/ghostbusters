@@ -14,7 +14,7 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.2.1
+version: 4.0.1
 last_tested: 2018-01-01
 steps:
   - 
@@ -24,11 +24,11 @@ steps:
   - 
     title: Zufällige Gespenster
   - 
+    title: Zufällige Gespenster
+  - 
     title: Gespenster fangen
   - 
     title: Eine Punktzahl hinzufügen
   - 
-    title: Hinzufügen eines Timers
-  - 
-    title: 'Herausforderung: mehr Objekte'
+    title: 'Hinzufügen eines Timers'
     challenge: true
