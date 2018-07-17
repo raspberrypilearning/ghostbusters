@@ -17,7 +17,7 @@
 
 타이머가 0이 되면 게임이 끝나야 합니다.
 
---- hints --- --- hint --- `녹색 깃발이 클릭되면`{:class=”blockevents”}, `시간`{:class=”blockdata”} 변수는 `10으로 정하기`로 초기화 되어야 합니다{:class=”blockdata”}. 그리고 나서는 `0이 되기 전까지`{:class=”blockcontrol"}매 초마다 `-1만큼 바꾸기`로 변해야 합니다{:class=”blockdata”} --- /hint --- --- hint --- 다음과 같은 코드 블럭이 필요합니다. ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- 게임에 타이머를 추가하는 방법은 이렇습니다. ![screenshot](images/ghost-timer-code.png)
+--- hints --- --- hint --- `녹색 깃발이 클릭되면`{:class=”blockevents”}, `시간`{:class=”blockdata”} 변수는 `10으로 정하기`{:class=”blockdata”}로 초기화 되어야 합니다. 그리고 나서는 `0이 되기 전까지`{:class=”blockcontrol"}매 초마다 `-1만큼 바꾸기`{:class=”blockdata”}로 변해야 합니다 --- /hint --- --- hint --- 다음과 같은 코드 블럭이 필요합니다. ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- 게임에 타이머를 추가하는 방법은 이렇습니다. ![screenshot](images/ghost-timer-code.png)
 
 `time = 0`블럭을 다음처럼 만들 수 있습니다: ![screenshot](images/ghost-timer-help.png) --- /hint --- --- /hints ---
 
