@@ -1,4 +1,4 @@
-## Adding a score
+## Dodavanje rezultata
 
 Let's make things more interesting by keeping score!
 
