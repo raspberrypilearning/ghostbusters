@@ -1,4 +1,4 @@
-## Random ghosts
+## Duh se pojavljuje na nasumičnim mjestima
 
 Your ghost is really easy to catch at the moment, because it doesn't move!
 
