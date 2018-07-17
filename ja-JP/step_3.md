@@ -1,4 +1,4 @@
-## Random ghosts
+## おばけをランダムに動かす
 
 Your ghost is really easy to catch at the moment, because it doesn't move!
 
