@@ -11,11 +11,11 @@ duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: projets
+site_areas: projects
 hardware: ''
 software: scratch
 version: 4.2.1
-last_tested: 01/01/2018
+last_tested: 2018-01-01
 steps:
   - 
     title: Introduction
