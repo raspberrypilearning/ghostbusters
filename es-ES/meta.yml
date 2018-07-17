@@ -11,10 +11,10 @@ duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: proyectos
+site_areas: projects
 hardware: ''
 software: scratch
-version: 4.2.1
+version: 4.0.1
 last_tested: 2018-01-01
 steps:
   - 
@@ -22,13 +22,13 @@ steps:
   - 
     title: Animando un fantasma
   - 
+    title: Animando un fantasma
+  - 
     title: Fantasmas aleatorios
   - 
     title: Atrapando fantasmas
   - 
-    title: Agregar un puntaje
+    title: Añadir una puntuación
   - 
-    title: Agregar un contador de tiempo
-  - 
-    title: 'Desafío: más objetos'
+    title: 'Añadir un temporizador'
     challenge: true
