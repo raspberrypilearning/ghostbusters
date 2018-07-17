@@ -1,4 +1,4 @@
-## Introductie
+## Inleiding
 
 Je gaat een spookachtig spel maken!
 
