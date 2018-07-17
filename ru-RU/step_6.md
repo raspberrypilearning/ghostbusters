@@ -2,22 +2,22 @@
 
 \--- task \---
 
-Создай новую переменную с именем 'время'.
+Create a new variable called 'time'.
 
 \--- /task \---
 
 \--- task \---
 
-Можешь ли ты добавить на свою сцену таймер, чтобы дать игроку всего 10 секунд на то, чтобы поймать как можно больше призраков?
+Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
 
-Твой таймер должен:
+Your timer should:
 
-+ Иметь начальное значение в 10 секунд
-+ Каждую секунду вести обратный отсчет
++ Start at 10 seconds
++ Count down every second
 
-Игра должна прекратиться, когда таймер достигнет значения 0.
+The game should stop when the timer gets to 0.
 
-\--- hints \--- \--- hint \--- `когда шелкнут по зелёному флагу`{:class=”blockevents”} твоя переменная `время`{:class=”blockdata”} должна `измениться на 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
 And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
