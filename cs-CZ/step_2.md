@@ -1,4 +1,4 @@
-## Animating a ghost
+## Animace ducha
 
 \--- task \---
 
