@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Öffne ein neues Scratch-Projekt.
+Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
+Add in a new ghost sprite and a suitable stage backdrop.
 
 ![Screenshot](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@ Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
 
 \--- task \---
 
-Füge deinem Geist Code hinzu, so dass er sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
+Add code to your ghost so that it appears and disappears forever when you click the flag.
 
-\--- hints \--- \--- hint \--- Wenn auf die `grüne Flagge geklickt wird`{:class=”blockevents”}, musst du erreichen dass sich dein Gespenst `eine Sekunde`{:class=”blockcontrol”} lang `versteckt`{:class=”blocklooks”} und dann `eine Sekunde`{:class=”blockcontrol”} lang `zeigt`{:class=”blocklooks”}. Das muss er `fortlaufend`{:class=”blockcontrol”} wiederholen. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Teste und speichere nun dein Projekt.
+Test and save your project.
 
 [[[generic-scratch-saving]]]
 
