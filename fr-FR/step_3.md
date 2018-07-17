@@ -1,17 +1,17 @@
 ## Fantômes aléatoires
 
-Ton fantôme est vraiment facile à attraper en ce moment, parce qu'il ne bouge pas!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- task \---
 
-Peux-tu ajouter du code à ton fantôme de sorte que, au lieu de rester dans la même position, il apparaît à des positions aléatoires sur l'écran?
+Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- hints \--- \--- hint \--- Tu veux que ton fantôme `aille à`{:class=”blockmotion”} une position aléatoire sur la scène avant d'apparaître à chaque fois. \--- /hint \--- \--- hint \--- Il existe deux ensembles de blocs de codes que tu peux utiliser. Celui-ci : ![screenshot](images/ghost-random-blocks-1.png) Ou celui-ci : ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci : ![screenshot](images/ghost-random-code-1.png) Ou il peut ressembler à ceci : ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Défi : plus aléatoire
+## Challenge: more randomness
 
-Peux-tu faire `attendre`{:class=”blockcontrol”} ton fantôme pendant un temps aléatoire avant de se montrer? Peux-tu utiliser le bloc `mettre à ___% de la taille initiale`{:class=”blocklooks”} pour rendre ton fantôme une taille aléatoire chaque fois qu'il apparaît? \--- /challenge \---
+Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
