@@ -1,4 +1,4 @@
-## Adding a timer
+## タイマーを追加する
 
 \--- task \---
 
