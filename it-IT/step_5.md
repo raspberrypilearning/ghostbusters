@@ -1,10 +1,10 @@
 ## Aggiungere un punteggio
 
-Rendiamo il gioco più interessante tenendo il punteggio!
+Let's make things more interesting by keeping score!
 
 \--- task \---
 
-Crea una nuova variabile chiamata 'punteggio'.
+Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,12 +12,12 @@ Crea una nuova variabile chiamata 'punteggio'.
 
 \--- task \---
 
-Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
+Each time a player clicks on a ghost, their score should increase.
 
-![Aumentare il punteggio](images/ghost-score-test.png)
+![Increasing score](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `Quando si clicca su ⚑`{:class=”blockevents”}, la tua variabile `punteggio`{:class=”blockdata”} dovrebbe `essere portata a 0`{:class=”blockdata”}. Aggiungi questo codice allo sfondo. hints \---\--- hint \---`Quando si clicca sullo sprite del fantasma`{:class=”blockevents”}, la tua variabile `punteggio`{:class=”blockdata”} dovrebbe `aumentare di 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Ecco come fare punti cliccando sui fantasmi: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
