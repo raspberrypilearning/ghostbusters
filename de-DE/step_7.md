@@ -1,4 +1,4 @@
-## Herausforderung: mehr Objekte
+## Hinzufügen eines Timers
 
 Kannst du deinem Spiel andere Objekte hinzufügen?
 
