@@ -6,7 +6,7 @@ Hajde da omogućimo igraču da hvata duhove!
 
 Da li možeš da napraviš da tvoj duh nestane kada je uhvaćen?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Trebalo bi da možeš da uhvatiš duhove tako što ćeš kliknuti na njih. Ako ti je teško da uhvatiš duhove, možeš da igraš igru na cijelom ekranu tako što ćeš kliknuti na sljedeće dugme:
 
 ![snimak ekrana](images/ghost-fullscreen.png)
 
