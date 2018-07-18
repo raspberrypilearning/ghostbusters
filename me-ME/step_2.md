@@ -1,8 +1,8 @@
-## Animating a ghost
+## Animiraj duha
 
 \--- task \---
 
-Open a new empty Scratch project.
+Otvori novi prazan Scratch projekat.
 
 [[[generic-scratch-new-project]]]
 
