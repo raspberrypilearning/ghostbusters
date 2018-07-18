@@ -1,10 +1,10 @@
-## Random ghosts
+## Nasumični duhovi
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Tvog duha je zaista lako uhvatiti zato što se ne pomjera!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Da li možeš da dodaš kôd svom duhu tako da se, umjesto da ostane na istom mjestu, nasumično pojavljuje na različitim mjestima na ekranu?
 
 \--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
