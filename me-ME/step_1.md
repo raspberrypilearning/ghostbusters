@@ -6,13 +6,13 @@ Napravićeš igru hvatanja duhova!
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![prikaz](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![prikaz](images/showcase-static.png)
 
 \--- /print-only \---
 
