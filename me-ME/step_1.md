@@ -46,6 +46,6 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 
 \--- no-print \---
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Ukoliko je potrebno da odštampaš ovaj projekat, koristi [Verziju za štampu](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
