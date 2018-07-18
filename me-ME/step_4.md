@@ -1,10 +1,10 @@
-## Catching ghosts
+## Hvatanje duhova
 
-Let's allow the player to catch ghosts!
+Hajde da omogućimo igraču da hvata duhove!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Da li možeš da napraviš da tvoj duh nestane kada je uhvaćen?
 
 You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
