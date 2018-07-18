@@ -6,12 +6,12 @@ Tvog duha je zaista lako uhvatiti zato što se ne pomjera!
 
 Da li možeš da dodaš kôd svom duhu tako da se, umjesto da ostane na istom mjestu, nasumično pojavljuje na različitim mjestima na ekranu?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Želiš da tvoj duh svaki put ide `go to`{:class=”blockmotion”} na nasumično izabrano mjesto na pozornici prije nego što se pojavi. \--- /hint \--- \--- hint \--- Ovdje su dvije grupe blokova kôda koje možeš da koristiš. Ovaj: ![screenshot](images/ghost-random-blocks-1.png) Ili ovaj: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tvoj kôd bi trebalo da izgleda ovako: ![screenshot](images/ghost-random-code-1.png) Ili može da izgleda ovako: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Izazov: više nasumičnosti
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Da li možeš da napraviš da tvoj duh čeka `wait`{:class=”blockcontrol”} neko vrijeme prije nego što se pojavi? Možeš li da upotrijebiš blok `set size`{:class=”blocklooks”} (postavi veličinu) tako da se tvoj duh svaki put pojavi u različitoj veličini? \--- /challenge \---
