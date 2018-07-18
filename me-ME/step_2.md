@@ -30,7 +30,7 @@ Dodaj kôd svom duhu, tako da se neprestano pojavljuje i nestaje kada klikneš n
 
 \--- task \---
 
-Test and save your project.
+Isprobaj i sačuvaj svoj projekat.
 
 [[[generic-scratch-saving]]]
 
