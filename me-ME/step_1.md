@@ -1,8 +1,8 @@
-## Introduction
+## Uvod
 
-You are going to make a ghost-catching game!
+Napravićeš igru hvatanja duhova!
 
-### What you will make
+### Šta ćeš napraviti
 
 \--- no-print \---
 
