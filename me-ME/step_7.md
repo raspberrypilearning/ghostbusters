@@ -2,7 +2,7 @@
 
 Can you add other objects to your game?
 
-![screenshot](images/ghost-final.png)
+![snimak ekrana](images/ghost-final.png)
 
 When you're adding an object, you need to think about the following things.
 
