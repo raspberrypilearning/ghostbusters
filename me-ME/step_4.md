@@ -10,12 +10,12 @@ Trebalo bi da možeš da uhvatiš duhove tako što ćeš kliknuti na njih. Ako t
 
 ![snimak ekrana](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Kada se klikne na lik duha `when clicked`{:class=”blockevents”}, on bi trebalo da se sakrije `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Tvoj kôd bi trebalo da izgleda ovako: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Izazov: dodaj zvuk
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Da li možeš da napraviš da tvoj duh proizvodi zvuk svaki put kada je uhvaćen?
