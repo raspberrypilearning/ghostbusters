@@ -2,17 +2,17 @@
 
 سوف تقوم بصنع لعبة إصطياد أشباح!
 
-### What you will make
+### ما الذي ستصنعه
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![معرض](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![معرض](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -20,15 +20,15 @@
 
 * * *
 
-## title: What you will need
+## title: ما ستحتاج إليه
 
-### Hardware
+### الأجهزة
 
-+ A computer
++ جهاز حاسب آلي
 
-### Software
+### البرمجيات
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 2.0 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@
 
 * * *
 
-## title: What you will learn
+## title: ما الذي ستتعلمه
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
