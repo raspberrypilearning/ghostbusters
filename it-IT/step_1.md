@@ -36,9 +36,9 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 * * *
 
-## title: What you will learn
+## title: Cosa imparerai
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
