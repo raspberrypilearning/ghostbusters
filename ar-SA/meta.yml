@@ -11,7 +11,7 @@ duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: codeclub, scratch
+site_areas: projects
 hardware: ''
 software: scratch
 version: 4.2.1
@@ -30,5 +30,5 @@ steps:
   - 
     title: إضافة مؤقِت
   - 
-    title: 'إضافة موقِّت'
+    title: 'التحدي: كائنات أخرى'
     challenge: true
