@@ -2,13 +2,13 @@
 
 \--- task \---
 
-Kreiraj novu promjenljivu pod nazivom 'vrijeme'.
+Kreiraj novu promjenljivu (variable) pod nazivom 'vrijeme'.
 
 \--- /task \---
 
 \--- task \---
 
-Možeš li da dodaš mjerač vremena na svoju Pozornicu kako bismo tvom igraču dali samo 10 sekundi da uhvati što više duhova?
+Možeš li da dodaš mjerač vremena na svoju Pozornicu (stage) kako bismo tvom igraču dali samo 10 sekundi da uhvati što više duhova?
 
 Tvoj mjerač vremena treba da:
 
