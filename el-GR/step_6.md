@@ -1,41 +1,41 @@
 ## Προσθέτοντας ένα χρονόμετρο
 
-\--- task \---
+\--- task --
 
-Create a new variable called 'time'.
-
-\--- /task \---
-
-\--- task \---
-
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
-
-Your timer should:
-
-+ Start at 10 seconds
-+ Count down every second
-
-The game should stop when the timer gets to 0.
-
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
-
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Δημιούργησε μία νέα μεταβλητή που ονομάζεται 'χρόνος'.
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-Ask a friend to test your game. How many points can they score?
+Μπορείς να προσθέσεις ένα χρονόμετρο στο Σκηνικό σου για να δώσεις στον παίκτη σου μόνο 10 δευτερόλεπτα για να πιάσει όσα περισσότερα φαντάσματα είναι δυνατόν;
+
+Το χρονόμετρό σου πρέπει να:
+
++ Ξεκινά από τα 10 δευτερόλεπτα
++ Μετρά κάθε δευτερόλεπτο
+
+Το παιχνίδι πρέπει να σταματά όταν το χρονόμετρο φτάσει στο 0.
+
+\--- hints \--- \--- hint \--- `Όταν πατηθεί η πράσινη σημαία`{:class=”blockevents”}, η μεταβλητή σου `χρόνος`{:class=”blockdata”} πρέπει να `οριστεί σε 10`{:class=”blockdata”}. Στη συνέχεια πρέπει να `αλλάζει κατά -1`{:class="blockdata"} κάθε δευτερόλεπτο `έως ότου φτάσει στο 0`{:class="blockcontrol"}. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Να πως θα προσθέσεις το χρονόμετρο στο παιχνίδι σου: ![screenshot](images/ghost-timer-code.png)
+
+Και να πως θα δημιουργήσεις το μπλοκ `χρόνος = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-If your game is too easy, you can:
+\--- task --
+
+Ζήτησε από έναν φίλο να δοκιμάσει το παιχνίδι σου. Πόσους πόντους μπορεί να κερδίσει;
+
+\--- /task \---
+
+Αν το παιχνίδι σου είναι πολύ εύκολο, μπορείς να:
 
 + Give the player less time
 + Make the ghosts appear less often
 + Make the ghosts smaller
 
-\--- task \---
+\--- task --
 
 Change and test your game a few times until you're happy that it's the right level of difficulty.
 
