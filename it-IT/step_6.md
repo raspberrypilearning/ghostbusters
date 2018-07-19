@@ -2,37 +2,37 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Crea una nuova variabile chiamata 'tempo'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Puoi aggiungere un timer al tuo sfondo per dare al tuo giocatore solo 10 secondi per catturare quanti più fantasmi possibile?
 
-Your timer should:
+Il tuo timer dovrebbe:
 
-+ Start at 10 seconds
-+ Count down every second
++ Partire da 10 secondi
++ Contare alla rovescia ogni secondo
 
-The game should stop when the timer gets to 0.
+Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Quando si clicca su ⚑`{:class=”blockevents”}, la tua variabile `tempo`{:class=”blockdata”} dovrebbe `essere pari a 10`{:class=”blockdata”}. Dovrebbe quindi `diminuire di -1`{:class=”blockdata”} ogni secondo, `fino a raggiungere lo 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ecco come aggiungere un timer al tuo gioco: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Ecco come creare il blocco `tempo = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Chiedi a un amico di provare il gioco. Quanti punti riesce a guadagnare?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Se il gioco è troppo facile, puoi:
 
-+ Give the player less time
-+ Make the ghosts appear less often
++ Dare al giocatore meno tempo
++ Ridurre la frequenza con cui i fantasmi appaiono
 + Make the ghosts smaller
 
 \--- task \---
