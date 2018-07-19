@@ -6,13 +6,13 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![Schaufenster](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![Schaufenster](images/showcase-static.png)
 
 \--- /print-only \---
 
