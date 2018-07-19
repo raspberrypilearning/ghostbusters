@@ -8,7 +8,7 @@
 
 --- hints --- --- hint --- تحتاج إلى برمجة الشبح باستخدام `انتقل إلى`{:class=”blockmotion”} موقع عشوائي على المنصة قبل كل مرة يظهر فيها. --- /hint --- --- hint --- توجد مجموعتان من القوالب البرمجية التي يمكنك استخدامها. هذا القالب: ![screenshot](images/ghost-random-blocks-1.png) أو هذا القالب: ![screenshot](images/ghost-random-blocks-2.png) ---/hint --- --- hint --- يجب أن تبدو التعليمات البرمجية الخاصة بك إما مثل هذا: ![screenshot](images/ghost-random-code-1.png) أو يمكن أن تبدو كالتالي: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
----/task--
+--- /task ---
 
 --- challenge ---
 
