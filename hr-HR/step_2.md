@@ -30,7 +30,7 @@ Dodaj sljedeće naredbe liku duha tako da se on neprestano pojavljuje i nestaje 
 
 \--- task \---
 
-Test and save your project.
+Testiraj i spremi svoj projekt.
 
 [[[generic-scratch-saving]]]
 
