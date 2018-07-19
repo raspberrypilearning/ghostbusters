@@ -2,41 +2,41 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Maak een nieuwe variabele met de naam 'tijd'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Kun je een timer toevoegen aan het speelveld zodat de speler maar 10 seconden de tijd heeft om zoveel mogelijk spoken te vangen?
 
-Your timer should:
+Je timer zou moeten:
 
-+ Start at 10 seconds
-+ Count down every second
++ Beginnen met 10 seconden
++ Elke seconde aftellen
 
-The game should stop when the timer gets to 0.
+Het spel zou moeten stoppen als de tiidklok op 0 komt.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Wanneer op de groene vlag wordt geklikt`{:class="blockevents"}, zou de `tijd`{:class="blockdata"} op `10`{:Class =”blockdata”} moeten staan. Het zou dan elke seconde moeten `veranderen met -1`{:class="blockdata"} totdat deze `0 bereikt`{:Class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Hier zie je hoe je de tijdklok aan je spel kunt toevoegen: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+En zo maak je het `tijd = 0` blok: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Vraag een vriend om je spel te testen. Hoeveel punten kan die scoren?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Als je spel te gemakkelijk is, kun je:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ De speler minder tijd geven
++ De spoken minder vaak laten verschijnen
++ De spoken kleiner maken
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Verander en test je spel een paar keer totdat je tevreden bent met de moeilijkheidsgraad.
 
 \--- /task \---
