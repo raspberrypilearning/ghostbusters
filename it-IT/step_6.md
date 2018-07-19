@@ -33,10 +33,10 @@ Se il gioco è troppo facile, puoi:
 
 + Dare al giocatore meno tempo
 + Ridurre la frequenza con cui i fantasmi appaiono
-+ Make the ghosts smaller
++ Rimpicciolire i fantasmi
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Prova il gioco un paio di volte fino a quando non sei soddisfatto del livello di difficoltà.
 
 \--- /task \---
