@@ -1,21 +1,21 @@
 ## اصطياد الأشباح
 
-Let's allow the player to catch ghosts!
+لنمكِّن اللاعب من اصطياد الأشباح!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+هل يمكنك أن تجعل الشبح يختفي إذا تم اصطياده؟
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+يجب أن تتمكن من اصطياد الأشباح بالنقر عليهم. إذا وجدتَ اصطيادها صعبًا، فيمكنك أن تلعب اللعبة في وضع الشاشة الكاملة بالنقر فوق هذا الزر:
 
 ![لقطة الشاشة](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `عند النقر`{:class=”blockevents”}، يجب أن `يختفي`{:class=”blocklooks”} الشبح. \--- /hint \--- \--- hint \--- يجب ان يبدو التعليمة البرمجية الخاصة بك هكذا ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \---/task--
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## التحدي: إضافة صوت
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+هل يمكنك أن تجعل الشبح يُصدر صوتًا في كل مرة يتم اصطياده؟ \--- /challenge \---
