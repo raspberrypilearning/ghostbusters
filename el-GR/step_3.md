@@ -6,7 +6,7 @@
 
 Μπορείς να προσθέσεις κώδικα στο φάντασμά σου έτσι ώστε, αντί να μένει στην ίδια θέση, να εμφανίζεται σε τυχαίες θέσεις στην οθόνη;
 
-\--- hints \--- \--- hint \--- Tο φάντασμά σου θέλεις να `πηγαίνει σε`{:class=”blockmotion”} μια τυχαία θέση στο σκηνικό πριν εμφανιστεί κάθε φορά. \--- /hint \--- \--- hint \--- Υπάρχουν δύο ομάδες μπλοκ κώδικα που μπορείς να χρησιμοποιήσεις. Αυτό: ![screenshot](images/ghost-random-blocks-1.png) Ή αυτό: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Ο κώδικάς σου θα πρέπει να φαίνεται ως εξής: ![screenshot](images/ghost-random-code-1.png) Ή μπορεί να μοιάζει έτσι: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- - - /hints \---
+\--- hints \--- \--- hint \--- Tο φάντασμά σου θέλεις να `πηγαίνει σε`{:class=”blockmotion”} μια τυχαία θέση στο σκηνικό πριν εμφανιστεί κάθε φορά. \--- /hint \--- \--- hint \--- Υπάρχουν δύο ομάδες μπλοκ κώδικα που μπορείς να χρησιμοποιήσεις. Αυτή: ![screenshot](images/ghost-random-blocks-1.png) Ή αυτή: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Ο κώδικάς σου θα πρέπει να φαίνεται ως εξής: ![screenshot](images/ghost-random-code-1.png) Ή μπορεί να μοιάζει έτσι: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- - - /hints \---
 
 \--- /task \---
 
