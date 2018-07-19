@@ -14,7 +14,7 @@ Kreiraj novu promjenljivu pod nazivom 'rezultat'.
 
 Da li možeš da pratiš igračev rezultat? Igrač bi trebalo da dobije bod kada klikne na duha i uhvati ga.
 
-Each time a player clicks on a ghost, their score should increase.
+Svaki put kada igrač klikne na duha, njegov rezultat treba da se poveća.
 
 ![Increasing score](images/ghost-score-test.png)
 
