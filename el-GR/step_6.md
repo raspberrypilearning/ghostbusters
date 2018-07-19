@@ -31,12 +31,12 @@
 
 Αν το παιχνίδι σου είναι πολύ εύκολο, μπορείς να:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Δώσεις στον παίκτη λιγότερο χρόνο
++ Κάνεις τα φαντάσματα να εμφανίζονται λιγότερο συχνά
++ Κάνεις τα φαντάσματα μικρότερα
 
 \--- task --
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Άλλαξε και δοκίμασε το παιχνίδι σου μερικές φορές μέχρι να είσαι ευχαριστημένος ότι είναι το σωστό επίπεδο δυσκολίας.
 
 \--- /task \---
