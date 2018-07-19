@@ -31,12 +31,12 @@ Bitte eine/n Freund/in, dein Spiel zu testen. Wie viele Punkte schafft er/sie?
 
 Wenn dein Spiel zu einfach ist, kannst du:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dem Spieler weniger Zeit geben
++ Die Geister weniger oft erscheinen lassen
++ Die Geister kleiner machen
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Verändere und teste dein Spiel ein paar Mal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
 
 \--- /task \---
