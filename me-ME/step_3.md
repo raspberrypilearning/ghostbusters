@@ -1,6 +1,6 @@
 ## Nasumični duhovi
 
-Tvog duha je zaista lako uhvatiti zato što se ne pomjera!
+Tvog duha je trenutno zaista lako uhvatiti, zato što se ne pomjera!
 
 \--- task \---
 
