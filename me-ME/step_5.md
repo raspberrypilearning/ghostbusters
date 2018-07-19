@@ -1,6 +1,6 @@
 ## Dodaj rezultat
 
-Napravimo igru još interesantnijom tako što ćemo pratiti rezultat!
+Napravimo igru zanimljivijom tako što ćemo pratiti rezultat!
 
 \--- task \---
 
