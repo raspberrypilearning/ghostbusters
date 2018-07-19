@@ -2,7 +2,7 @@
 
 Napravit ćeš igru hvatanja duhova!
 
-### What you will make
+### Napravit ćeš
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Napravit ćeš igru hvatanja duhova!
 
 * * *
 
-## title: What you will need
+## title: Trebat ćeš
 
-### Hardware
+### Hardver
 
-+ A computer
++ Računalo
 
-### Software
+### Softver
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff) verziju{:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Napravit ćeš igru hvatanja duhova!
 
 * * *
 
-## title: What you will learn
+## title: Naučit ćeš
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa{:target="_blank"}:
 
 + [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Ako trebate ispisati ovaj projekt, koristite [verziju koja je prilagođena pisaču](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
