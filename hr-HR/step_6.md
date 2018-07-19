@@ -2,41 +2,41 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Napravi novu varijablu 'vrijeme'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Možeš li na Pozornicu dodati mjerač vremena kako bi igrač imao samo 10 sekundi da uhvati što je više moguće duhova?
 
-Your timer should:
+Želimo napraviti sljedeće:
 
-+ Start at 10 seconds
-+ Count down every second
++ Početno vrijeme neka bude na 10 sekundi
++ Preostalo vrijeme smanjuje se svake sekunde
 
-The game should stop when the timer gets to 0.
+Igra prestaje kada vrijeme dođe do 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Kada je zelena zastavica kliknuta`{:class=”blockevents”}, varijabla `vrijeme`{:class=”blockdata”} mora biti `postavljena na 10`{:class=”blockdata”}. Zatim se mora `promijeniti za -1`{:class=”blockdata”} svake sekunde `sve dok ne dođe do nule`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Trebat ćeš sljedeće blokove naredbi: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ovako ćeš dodati mjerač vremena: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+A ovako ćeš dodati `vrijeme = 0` kôd: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Zamoli prijatelja da isproba tvoju igru. Koliko bodova može osvojiti?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Ako ti se igra čini prejednostavna možeš:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dati igraču manje vremena
++ Napraviti da se duhovi ne pojavljuju tako često
++ Smanjiti duhove
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Isprobaj igru nekoliko puta i doradi je sve dok ne bude dovoljno teška.
 
 \--- /task \---
