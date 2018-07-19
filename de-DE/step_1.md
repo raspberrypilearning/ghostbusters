@@ -2,7 +2,7 @@
 
 Du wirst ein Geisterjagd-Spiel machen!
 
-### What you will make
+### Was du machen wirst
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 * * *
 
-## title: What you will need
+## title: Was du brauchen wirst
 
 ### Hardware
 
-+ A computer
++ Einen Computer
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Du wirst ein Geisterjagd-Spiel machen!
 
 * * *
 
-## title: What you will learn
+## title: Was du lernen wirst
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum) {:target="_blank"}:
 
 + [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
