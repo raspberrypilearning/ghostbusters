@@ -1,23 +1,23 @@
 ## Προσθήκη βαθμολογίας
 
-Let's make things more interesting by keeping score!
+Ας κάνουμε τα πράγματα πιο ενδιαφέροντα κρατώντας βαθμολογία!
 
-\--- task \---
+\--- task --
 
-Create a new variable called 'score'.
+Δημιούργησε μία νέα μεταβλητή που ονομάζεται 'σκορ'.
 
 [[[generic-scratch-add-variable]]]
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Μπορείς να παρακολουθείς τη βαθμολογία του παίκτη; Οι παίκτες πρέπει να κερδίζουν πόντους όταν πιάνουν φαντάσματα κάνοντας κλικ πάνω τους.
 
-Each time a player clicks on a ghost, their score should increase.
+Κάθε φορά που ένας παίκτης κάνει κλικ σε ένα φάντασμα, η βαθμολογία πρέπει να αυξάνεται.
 
-![Increasing score](images/ghost-score-test.png)
+![Αυξάνοντας τη βαθμολογία](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Όταν πατηθεί η πράσινη σημαία`{:class=”blockevents”}, η μεταβλητή σου `σκορ`{:class=”blockdata”} πρέπει να `οριστεί σε 0`{:class=”blockdata”}. Το Σκηνικό (Stage) είναι το καλύτερο μέρος για να προσθέσεις αυτόν τον κώδικα. `Κάθε φορά που στο φάντασμα γίνει κλικ`{:class=”blockevents”}, η μεταβλητή σου `σκορ`{:class=”blockdata”} πρέπει να `αυξάνεται κατά 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Να πως κερδίζεις πόντους κάνοντας κλικ στα φαντάσματα: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
