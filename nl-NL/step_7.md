@@ -1,4 +1,4 @@
-## Een meting toevoegen
+## Uitdaging: meer objecten
 
 Kun je andere voorwerpen aan je spel toevoegen?
 
