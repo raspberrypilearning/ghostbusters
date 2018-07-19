@@ -17,11 +17,9 @@
 --- /print-only ---
 
 --- collapse ---
-
-* * *
-
-## title: ما ستحتاج إليه
-
+---
+title: ما ستحتاج إليه
+---
 ### الأجهزة
 
 + جهاز حاسب آلي
@@ -33,11 +31,9 @@
 --- /collapse ---
 
 --- collapse ---
-
-* * *
-
-## title: ما الذي ستتعلمه
-
+---
+title: ما الذي ستتعلمه
+---
 يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
