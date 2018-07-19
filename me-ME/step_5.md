@@ -1,10 +1,10 @@
-## Adding a score
+## Dodaj rezultat
 
-Let's make things more interesting by keeping score!
+Napravimo igru još interesantnijom tako što ćemo pratiti rezultat!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Kreiraj novu promjenljivu pod nazivom 'rezultat'.
 
 [[[generic-scratch-add-variable]]]
 
