@@ -1,17 +1,17 @@
 ## Duh se pojavljuje na nasumičnim mjestima
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Ovog duha je jako lako uhvatiti jer je nepomičan!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Možeš li dodati kôd svom duhu tako da se pojavljuje na nasumičnim mjestima na ekranu umjesto da stoji na istom mjestu?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Želiš da tvoj duh `ide na`{:class=”blockmotion”} nasumično mjesto na pozornici prije svakog pojavljivanja. \--- /hint \--- \--- hint \--- Postoje dva bloka naredbi koje možeš koristiti. Ovaj: ![screenshot](images/ghost-random-blocks-1.png) Ili ovaj: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tvoj kôd bi trebao izgledati ovako: ![screenshot](images/ghost-random-code-1.png) Ili ovako: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Izazov: više nasumičnosti
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Možeš li napraviti promjene u naredbi `čekaj`{:class=”blockcontrol”} tako da duh čeka neko vrijeme prije nego što se pojavi? Možeš li koristiti naredbu `postavi veličinu`{:class=”blocklooks”} tako da duh bude različite veličine svaki put kad se pojavi? \--- /challenge \---
