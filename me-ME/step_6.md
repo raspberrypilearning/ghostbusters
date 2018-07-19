@@ -32,11 +32,11 @@ Zamoli prijatelje da isprobaju tvoju igru. Koliko bodova mogu da osvoje?
 Ako je tvoja igra previše laka, možeš da uradiš sljedeće:
 
 + Daj igraču manje vremena
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Napravi da se duhovi pojavljuju rjeđe
++ Smanji duhove
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Izmijeni i isprobaj svoju igru nekoliko puta, dok ne procijeniš da je dovoljno teška.
 
 \--- /task \---
