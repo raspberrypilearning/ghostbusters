@@ -20,7 +20,7 @@ Napravićeš igru hvatanja duhova!
 
 * * *
 
-## šta će ti biti potrebno
+## title: Šta će ti biti potrebno
 
 ### Hardver
 
@@ -36,7 +36,7 @@ Napravićeš igru hvatanja duhova!
 
 * * *
 
-## šta ćeš naučiti
+## title: Šta ćeš naučiti
 
 Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
