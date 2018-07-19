@@ -1,21 +1,21 @@
 ## Acchiappare i fantasmi
 
-Let's allow the player to catch ghosts!
+Facciamo in modo che il giocatore acchiappi i fantasmi!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Puoi fare in modo che il fantasma sparisca quando viene acchiappato?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Per acchiappare un fantasma, cliccaci sopra. Se trovi difficile acchiappare i fantasmi, puoi giocare in modalità schermo intero facendo click su questo pulsante:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Il tuo fantasma dovrebbe `sparire`{:class=”blocklooks”}`quando fai click sul suo sprite`{:class=”blockevents”}. \--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Sfida: Aggiungere un suono
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Puoi fare in modo che il tuo fantasma emetta un suono ogni volta che viene acchiappato? \--- /challenge \---
