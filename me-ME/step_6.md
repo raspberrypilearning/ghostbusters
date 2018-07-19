@@ -1,16 +1,16 @@
-## Adding a timer
+## Dodaj mjerač vremena
 
 \--- task \---
 
-Create a new variable called 'time'.
+Kreiraj novu promjenljivu pod nazivom 'vrijeme'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Možeš li da dodaš mjerač vremena na svoju Pozornicu kako bismo tvom igraču dali samo 10 sekundi da uhvati što više duhova?
 
-Your timer should:
+Tvoj mjerač vremena treba da:
 
 + Start at 10 seconds
 + Count down every second
