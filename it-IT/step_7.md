@@ -1,4 +1,4 @@
-## Aggiungere un timer
+## Sfida: Altri oggetti
 
 Puoi aggiungere altri oggetti al tuo gioco?
 
