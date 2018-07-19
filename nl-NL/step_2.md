@@ -24,13 +24,13 @@ Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
 Voeg code toe aan je spook zodat die steeds weer verschijnt en verdwijnt als je op de vlag klikt.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Nadat op `de groene vlag wordt geklikt`{:class="blockevents"}, moet je spook voor `één seconde`{:class="blockcontrol"} `verdwijnenen`{:class="blocklooks"} en vervolgens voor `één seconde`{:Class=”blockcontrol”}` verschijnen`{:class="blocklooks"}. Dit zal zich steeds moeten `herhalen`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Dit zijn de blokken die je nodig hebt: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Zo zou het programma eruit moeten zien: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Test en sla uw project op.
 
 [[[generic-scratch-saving]]]
 
