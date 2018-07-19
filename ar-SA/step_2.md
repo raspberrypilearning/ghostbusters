@@ -1,9 +1,37 @@
-## ما ستحتاج إليه
+## تحريك شبح
 
-### الجهاز
+--- task ---
 
-+ جهاز كمبيوتر يدعم تشغيل برنامج Scratch 2.0
+افتح مشروع Scratch جديدًا وفارغًا.
 
-### البرنامج
+[[[generic-scratch-new-project]]]
 
-+ برنامج Scratch 2.0 (سواء أكان [عبر الإنترنت](https://scratch.mit.edu/projects/editor/) أو [دون اتصال بالإنترنت](https://scratch.mit.edu/scratch2download/))
+--- /task ---
+
+--- task ---
+
+أضف كائن شبح جديدًا وخلفية مناسبة.
+
+![لقطة الشاشة](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+أضف تعليمة برمجية إلى الشبح بحيث يظهر ويختفي تمامًا باستمرار عندما تنقر فوق العلم.
+
+--- hints --- --- hint --- بمجرد `النقر فوق العلم الأخضر`{:class=”blockcontrol”}، ستحتاج إلى `إخفاء` الشبح {:class=”blocklooks”} لمدة `ثانية واحدة`{:class=”blockcontrol”} ثم `تظهره`{:class=”blocklooks”} لمدة` ثانية واحدة`{:class=”blockcontrol”}. ستحتاج إلى القيام بهذا `للأبد`{:class=”blockcontrol”}. --- /hint --- --- hint --- فيما يلي التعليمات البرمجية التي ستحتاج إلى استخدامها: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- يجب أن تكون التعليمة البرمجية التي تُدخلها كما يلي: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+إختبر واحفظ المشروع الخاص بك.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---

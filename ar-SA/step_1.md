@@ -1,54 +1,47 @@
 ## المقدمة
 
-ستصنع لعبة اصطياد أشباح!
+سوف تقوم بصنع لعبة إصطياد أشباح!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### ما الذي ستصنعه
 
-### معلومات إضافية لقادة النادي
+--- no-print ---
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+![معرض](images/showcase.gif)
 
+--- /no-print ---
+
+--- print-only ---
+
+![معرض](images/showcase-static.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
-title: ملاحظات قادة النادي
+title: ما ستحتاج إليه
 ---
+### الأجهزة
 
++ جهاز حاسب آلي
 
-## المقدمة:
-في هذا المشروع، سيتعلَّم الأطفال كيف يستخدمون المتغيرات لتخزين البيانات في برامجهم.
+### البرمجيات
 
-## الموارد
-بالنسبة إلى هذا المشروع، يجب استخدام برنامج Scratch 2. ويمكن استخدام برنامج Scratch 2 عبر الإنترنت على [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) أو يمكن تنزيله من [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) واستخدامه دون اتصال بالإنترنت.
-
-يمكنك العثور على نسخة مكتملة من هذا المشروع <a href="http://scratch.mit.edu/projects/60787262/#editor">online</a>، أو يمكن تنزيله بالنقر فوق الرابط 'مواد المشروع' الخاص بهذا المشروع، والذي يحتوي على:
-
-+ Ghostbusters.sb2
-
-## أهداف التعلم
-+ المتغيرات؛
-+ الأرقام العشوائية.
-
-يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum):
-
-+ [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator)
-
-
-### معلومات إضافية لقادة النادي
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/ghostbusters/print).
++ برنامج Scratch 2.0 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: مواد المشروع
+title: ما الذي ستتعلمه
 ---
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-## موارد قادة النادي
-* [مشروع Scratch 2 مكتمل قابل للتنزيل](resources/Ghostbusters.sb2)
-* [مشروع Scratch 2 مكتمل عبر الإنترنت](http://scratch.mit.edu/projects/60787262/#editor)
++ [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
+
 --- /collapse ---
 
+--- no-print ---
+
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/ar-SA/projects/ghostbusters/print).
+
+--- /no-print ---
