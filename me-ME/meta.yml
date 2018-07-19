@@ -18,17 +18,17 @@ version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: Animating a ghost
+    title: Animiraj duha
   - 
-    title: Random ghosts
+    title: Nasumični duhovi
   - 
-    title: Catching ghosts
+    title: Hvatanje duhova
   - 
-    title: Adding a score
+    title: Dodaj rezultat
   - 
-    title: Adding a timer
+    title: Dodaj mjerač vremena
   - 
-    title: 'Challenge: more objects'
+    title: 'Izazov: još objekata'
     challenge: true
