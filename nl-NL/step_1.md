@@ -2,7 +2,7 @@
 
 Je gaat een spookachtig spel maken!
 
-### What you will make
+### Wat ga je maken
 
 \--- no-print \---
 
@@ -20,11 +20,11 @@ Je gaat een spookachtig spel maken!
 
 * * *
 
-## title: What you will need
+## title: Wat heb je nodig
 
 ### Hardware
 
-+ A computer
++ Een computer
 
 ### Software
 
