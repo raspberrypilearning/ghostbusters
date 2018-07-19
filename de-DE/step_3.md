@@ -1,17 +1,17 @@
 ## Zufällige Gespenster
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Dein Gespenst ist im Moment wirklich leicht zu fangen, weil es sich nicht bewegt!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Kannst du deinem Geist Code hinzufügen, so dass er an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position auf der Bühne `zu gehen`{:class=”blockmotion”}. \--- /hint \--- \--- hint \--- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Herausforderung: Mehr Zufälligkeit
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Kannst du deinen Geist eine zufällige Zeit `warten`{:class=”blockcontrol”} lassen, bevor er erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`{:class=”blocklooks”} -Block vor jedem Erscheinen eine zufällige Größe geben? \--- /challenge \---
