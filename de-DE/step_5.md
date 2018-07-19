@@ -1,10 +1,10 @@
-## Gespenster fangen
+## Eine Punktzahl hinzufügen
 
-Let's make things more interesting by keeping score!
+Lass uns die Dinge interessanter machen, indem wir Punkte zählen!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Erstelle eine neue Variable namens "Punkte".
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,9 +12,9 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Kannst du den Punktestand des Spielers mitschreiben? Die Spieler sollten Punkte bekommen, wenn sie auf Geister klicken, um sie zu fangen.
 
-Each time a player clicks on a ghost, their score should increase.
+Jedes Mal, wenn ein Spieler auf einen Geist klickt, sollte sein Punktestand erhöht werden.
 
 ![Increasing score](images/ghost-score-test.png)
 
