@@ -1,17 +1,17 @@
 ## Fantasmi a caso
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Puoi aggiungere dei codici per fare in modo che il tuo fantasma, invece di stare fermo nello stesso punto, compaia sullo schermo in punti a caso?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Hai bisogno che il tuo fantasma `vada` ogni volta in un punto a caso dello schermo prima di comparire. \--- /hint \--- \--- hint \--- Puoi usare ben due set di blocchi di codice diversi. Questo: ![screenshot](images/ghost-random-blocks-1.png) O questo: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Il tuo codice dovrebbe apparire così: ![screenshot](images/ghost-random-code-1.png) Oppure così: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Sfida: più casualità
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Potresti fare in modo che il tuo fantasma `aspetti` per un periodo di tempo casuale prima di comparire? Potresti utilizzare il blocco `porta dimensione` per dare al tuo fantasma una dimensione casuale ogni volta che appare? \--- /challenge \---
