@@ -1,21 +1,21 @@
-## Willekeurige spoken
+## Spoken vangen
 
-Let's allow the player to catch ghosts!
+Laten we de speler de gelegenheid geven om ​spoken te vangen!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Kun je je spook laten verdwijnen als deze is gepakt?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Je moet op de spoken kunnen klikken om ze te vangen. Als je het vangen moeilijk vindt kun je het spel in volledig schermmodus spelen door op deze knop te klikken:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Wanneer op je sprite wordt geklikt`{:class="blockevents"}, zou het spook moeten `verdwijnen`{:Class=”blocklooks”}. \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Uitdaging: geluid toevoegen
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Kun je je spook een geluid laten maken als die wordt gevangen? \--- /challenge \---
