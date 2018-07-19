@@ -2,7 +2,7 @@
 
 Stai per creare un gioco di acchiappa-fantasmi!
 
-### What you will make
+### Cosa creerai
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 * * *
 
-## title: What you will need
+## title: Di cosa avrai bisogno
 
 ### Hardware
 
-+ A computer
++ Un computer
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
 
 \--- /collapse \---
 
