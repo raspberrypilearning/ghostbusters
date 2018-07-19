@@ -1,4 +1,4 @@
-## Spoken vangen
+## Een score toevoegen
 
 Let's make things more interesting by keeping score!
 
