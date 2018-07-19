@@ -9,26 +9,26 @@ copyedit: true
 ingredient: false
 duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
+interests: spellen
 technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
     title: Inleiding
   - 
-    title: Wat heb je nodig
-  - 
-    title: Een spook laten bewegen
+    title: Beweeg een spook
   - 
     title: Willekeurige spoken
   - 
-    title: Spoken vangen
+    title: Willekeurige spoken
   - 
     title: Een score toevoegen
   - 
-    title: 'Een meting toevoegen'
+    title: Een tijdklok toevoegen
+  - 
+    title: 'Uitdaging: meer objecten'
     challenge: true
