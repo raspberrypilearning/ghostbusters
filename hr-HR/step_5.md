@@ -1,10 +1,10 @@
 ## Dodavanje rezultata
 
-Let's make things more interesting by keeping score!
+Napravimo igru zanimljivijom tako što ćemo dodati rezultat!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Stvori novu varijablu 'rezultat'.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,9 +12,9 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Možeš li pratiti igračev rezultat? Igrači dobivaju bodove kada kliknu na duhove i uhvate ih.
 
-Each time a player clicks on a ghost, their score should increase.
+Svaki put kad igrač klikne na duha, njegov rezultat se treba povećati.
 
 ![Increasing score](images/ghost-score-test.png)
 
