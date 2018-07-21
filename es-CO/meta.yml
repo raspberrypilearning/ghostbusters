@@ -3,24 +3,22 @@ title: Cazafantasmas
 hero_image: images/ghostbusters.png
 description: '¡Haz un juego sobre atrapar fantasmas!'
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
+theme: verde
 listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
+curriculum: 1, diseño-0, programación-1, phys-comp-0, fabricación-0, comunidad-0
+interests: juegos
 technologies: scratch
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
     title: Introducción
-  - 
-    title: Animando un fantasma
   - 
     title: Animando un fantasma
   - 
@@ -30,5 +28,7 @@ steps:
   - 
     title: Añadir una puntuación
   - 
-    title: 'Añadir un temporizador'
+    title: Añadir un temporizador
+  - 
+    title: 'Desafío: más objetos'
     challenge: true
