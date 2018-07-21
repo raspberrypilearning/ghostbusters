@@ -1,4 +1,4 @@
-## Añadir un temporizador
+## Desafío: más objetos
 
 ¿Puedes añadir otros objetos a tu juego?
 
