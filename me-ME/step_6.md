@@ -1,4 +1,4 @@
-## Dodaj mjerač vremena
+## Dodavanje mjerača vremena
 
 \--- task \---
 
