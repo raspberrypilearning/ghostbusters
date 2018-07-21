@@ -1,4 +1,4 @@
-## Añadir una puntuación
+## Añadir un temporizador
 
 \--- task \---
 
