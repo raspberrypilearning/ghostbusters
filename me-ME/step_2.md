@@ -1,4 +1,4 @@
-## Animiranje duha
+## Animacija duha
 
 \--- task \---
 
