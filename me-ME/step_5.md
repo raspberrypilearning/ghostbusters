@@ -1,4 +1,4 @@
-## Dodaj rezultat
+## Dodavanje rezultata
 
 Napravimo igru zanimljivijom tako što ćemo pratiti rezultat!
 
