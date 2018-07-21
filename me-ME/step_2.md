@@ -1,4 +1,4 @@
-## Animiraj duha
+## Animiranje duha
 
 \--- task \---
 
