@@ -20,15 +20,15 @@ steps:
   - 
     title: Uvod
   - 
-    title: Animiraj duha
+    title: Animacija duha
   - 
     title: Nasumični duhovi
   - 
     title: Hvatanje duhova
   - 
-    title: Dodaj rezultat
+    title: Dodavanje rezultata
   - 
-    title: Dodaj mjerač vremena
+    title: Dodavanje mjerača vremena
   - 
     title: 'Izazov: još objekata'
     challenge: true
