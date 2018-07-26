@@ -1,12 +1,12 @@
 ## Atrapando fantasmas
 
-Let's allow the player to catch ghosts!
+¡Permitamos que el jugador atrape fantasmas!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+¿Puedes hacer que tu fantasma desaparezca cuando es atrapado?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Deberías poder hacer clic en los fantasmas para atraparlos. Si capturarlos te resulta difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
 
 ![screenshot](images/ghost-fullscreen.png)
 
