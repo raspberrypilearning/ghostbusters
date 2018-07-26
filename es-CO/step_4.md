@@ -10,12 +10,12 @@ Deberías poder hacer clic en los fantasmas para atraparlos. Si capturarlos te r
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Cuando hagas click sobre él`{:class=”blockevents”}, tu sprite del fantasma se debería `esconder`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Desafío: añadir un sonido
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+¿Puedes conseguir que tu fantasma haga un sonido cada vez que es atrapado? \--- /challenge \---
