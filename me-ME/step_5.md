@@ -12,7 +12,7 @@ Kreiraj novu promjenljivu (variable) pod nazivom 'rezultat'.
 
 \--- task \---
 
-Da li možeš da pratiš igračev rezultat? Igrač bi trebalo da dobije bod kada klikne na duha i uhvati ga.
+Da li možeš da pratiš igračev rezultat? Igrači bi trebalo da dobijaju bodove kada kliknu na duhove i uhvate ih.
 
 Svaki put kada igrač klikne na duha, njegov rezultat treba da se poveća.
 
