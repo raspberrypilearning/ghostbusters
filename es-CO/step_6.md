@@ -37,6 +37,6 @@ Si tu juego es demasiado fácil, puedes:
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Modifica y prueba tu juego varias veces hasta que creas que tiene el nivel de dificultad adecuado.
 
 \--- /task \---
