@@ -1,4 +1,4 @@
-## Izazov: još objekata
+## Izazov: više objekata
 
 Možeš li da dodaš još objekata u svoju igru?
 
