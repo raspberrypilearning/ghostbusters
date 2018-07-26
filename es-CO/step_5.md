@@ -1,10 +1,10 @@
 ## Añadir una puntuación
 
-Let's make things more interesting by keeping score!
+¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Crea una nueva variable llamada 'puntuación'.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,12 +12,12 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
 
-Each time a player clicks on a ghost, their score should increase.
+Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
 
-![Increasing score](images/ghost-score-test.png)
+![Incrementar la puntuación](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Cuando hagas click en la bandera verde`{:class=”blockevents”}, tu variable `puntuación`{:class=”blockdata”} debería `ponerse a 0`{:class=”blockdata”}. El escenario es el mejor lugar para añadir este código. `Cuando hagas click en el sprite del fantasma`{:class=”blockevents”}, la `puntuación`{:class=”blockdata”} debería `incrementarse en 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Estos son los bloques de código que tendrás que usar: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Aquí ves cómo se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
