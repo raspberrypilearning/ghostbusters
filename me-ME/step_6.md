@@ -17,7 +17,7 @@ Tvoj mjerač vremena treba da:
 
 Igra treba da se završi kada mjerač vremena dođe do 0.
 
-\--- hints \--- \--- hint \--- `Kada se klikne na zelenu zastavicu`{:class=”blockevents”} (when the green flag is clicked), tvoja promjenljiva `vrijeme`{:class=”blockdata”} treba da bude `postavljena na 10`{:class=”blockdata”} (set to 10). Zatim treba svakog sekunda da se `promijeni za -1`{:class=”blockdata”} (change by -1) `dok ne dođe do 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koje treba da koristiš: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ovako ćeš da dodaš mjerač vremena u svoju igru: ![snimak ekrana](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Kada se klikne na zelenu zastavicu`{:class=”blockevents”} (when the green flag is clicked), tvoja promjenljiva `vrijeme`{:class=”blockdata”} treba da bude `postavljena na 10`{:class=”blockdata”} (set to 10). Zatim treba svake sekunde da se `promijeni za -1`{:class=”blockdata”} (change by -1) `dok ne dođe do 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koje treba da koristiš: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ovako ćeš da dodaš mjerač vremena u svoju igru: ![snimak ekrana](images/ghost-timer-code.png)
 
 A ovako ćeš da kreiraš blok `vrijeme = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
