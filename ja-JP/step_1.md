@@ -2,7 +2,7 @@
 
 おばけをつかまえるゲームを作りましょう！
 
-### What you will make
+### 作るもの
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@
 
 * * *
 
-## title: What you will need
+## title: 必要なもの
 
-### Hardware
+### ハードウェア
 
-+ A computer
++ コンピューター
 
-### Software
+### ソフトウェア
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch(スクラッチ) 2.0 ([オンライン](http://rpf.io/scratchon)または[オフライン](http://rpf.io/scratchoff)"})
 
 \--- /collapse \---
 
