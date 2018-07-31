@@ -17,26 +17,26 @@
 
 タイマーが0になると、ゲームは終わります。
 
-\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされたとき`{:class=”blockevents”}、`時間`{:class=”blockdata”}の変数を`10にする`{:class=”blockdata”}必要があります。 It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![スクリーンショット](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされたとき`{:class=”blockevents”}、`時間`{:class=”blockdata”}の変数を`10にする`{:class=”blockdata”}必要があります。 それは毎秒、`-1ずつ変える`{:class=”blockdata”}、そして`0になるまで繰り返す`{:class=”blockcontrol"}(くりかえす)必要があります。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- タイマーを追加するには、こうします。 ![スクリーンショット](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+これが`時間 = 0`ブロックを作成する方法です。 ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+友達にゲームを遊んでもらいましょう。何点とれるでしょうか？
 
 \--- /task \---
 
-If your game is too easy, you can:
+ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう。
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ 時間を短くする
++ おばけをあらわれにくくする
++ おばけを小さくする
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+満足できるむずかしさになるまで、ゲームを変えてテストしましょう。
 
 \--- /task \---
