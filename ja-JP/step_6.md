@@ -2,20 +2,20 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+「時間」という変数を新しく作成します。
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+プレイヤーがたった10秒の間に、できるだけたくさんのおばけをつかまえられるように、ステージにタイマーを追加できますか？
 
-Your timer should:
+タイマーはこのようにします。
 
-+ Start at 10 seconds
-+ Count down every second
++ 10秒から始まる
++ 1秒ずつへっていく
 
-The game should stop when the timer gets to 0.
+タイマーが0になると、ゲームは終わります。
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![スクリーンショット](images/ghost-timer-code.png)
 
