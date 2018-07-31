@@ -8,7 +8,7 @@
 
 \--- task \---
 
-プレイヤーがたった10秒の間に、できるだけたくさんのおばけをつかまえられるように、ステージにタイマーを追加できますか？
+プレイヤーがたった10秒以内に、できるだけたくさんのおばけをつかまえられるように、ステージにタイマーを追加できますか？
 
 タイマーはこのようにします。
 
@@ -17,7 +17,7 @@
 
 タイマーが0になると、ゲームは終わります。
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![スクリーンショット](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされたとき`{:class=”blockevents”}、`時間`{:class=”blockdata”}の変数を`10にする`{:class=”blockdata”}必要があります。 It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![スクリーンショット](images/ghost-timer-code.png)
 
 And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
