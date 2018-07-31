@@ -6,13 +6,13 @@
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![ショーケース](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![ショーケース](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -28,7 +28,7 @@
 
 ### ソフトウェア
 
-+ Scratch(スクラッチ) 2.0 ([オンライン](http://rpf.io/scratchon)または[オフライン](http://rpf.io/scratchoff)"})
++ Scratch 2.0 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@
 
 * * *
 
-## title: What you will learn
+## title: 学習すること
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトでは[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}（英語）の柱の一つである、プログラミングの以下の要素を学びます。
 
 + [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+このプロジェクトを印刷する必要がある場合は、[印刷用バージョン](https://projects.raspberrypi.org/en/projects/ghostbusters/print)を使用してください。
 
 \--- /no-print \---
