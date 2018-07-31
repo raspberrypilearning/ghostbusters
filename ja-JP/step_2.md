@@ -24,7 +24,7 @@
 
 フラッグをクリックすると、いつまでもおばけがあらわれたり消えたりするように、コードを入れてみましょう。
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされたとき`{:class=”blockevents”}、おばけを`1秒`{:class=”blockcontrol”}`隠す`{:class=”blocklooks”} (かくす)、そして`1秒`{:class=”blockcontrol”}`表示する`{:class=”blocklooks”} 必要があります。 これを`ずっと`{:class=”blockcontrol”}行う必要があります。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
