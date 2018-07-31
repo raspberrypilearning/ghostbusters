@@ -1,10 +1,10 @@
 ## おばけを捕まえる
 
-Let's allow the player to catch ghosts!
+プレーヤーがおばけを捕まえられるようにしましょう！
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+おばけが捕まったときに消えるようにすることはできますか？
 
 You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
