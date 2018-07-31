@@ -10,7 +10,7 @@ Je moet op de spoken kunnen klikken om ze te vangen. Als je het vangen moeilijk 
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Wanneer op je sprite wordt geklikt`{:class="blockevents"}, zou het spook moeten `verdwijnen`{:Class=”blocklooks”}. \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Wanneer op je sprite wordt geklikt`{:class="blockevents"}, zou het spook moeten `verdwijnen`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
