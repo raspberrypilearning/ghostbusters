@@ -12,6 +12,7 @@ Als je een voorwerp toevoegt, moet je nadenken over de volgende dingen.
 + Hoeveel punten scoort (of verliest) de speler om het te vangen?
 
 Als je hulp nodig hebt bij het toevoegen van een ander voorwerp, kun je de stappen hierboven opnieuw doen!
+
 ***
 ### Door de community geleverde vertaling
 Dit project werd vertaald door **Jeroen Dekker/Henny van Ham** en gecontroleerd door **Cor Groot/Sanneke van der Meer**.
