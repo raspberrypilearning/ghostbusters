@@ -1,21 +1,23 @@
-## Acchiappare i fantasmi
+## Aggiungere un punteggio
 
-Facciamo in modo che il giocatore acchiappi i fantasmi!
+Rendiamo il gioco più interessante tenendo il punteggio!
 
 --- task ---
 
-Puoi fare in modo che il fantasma sparisca quando viene acchiappato?
+Crea una nuova variabile chiamata 'punteggio'.
 
-Per acchiappare un fantasma, cliccaci sopra. Se trovi difficile acchiappare i fantasmi, puoi giocare in modalità schermo intero facendo click su questo pulsante:
-
-![screenshot](images/ghost-fullscreen.png)
-
---- hints --- --- hint --- Il tuo fantasma dovrebbe `sparire` `quando fai click sul suo sprite`. --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
+[[[generic-scratch-add-variable]]]
 
 --- /task ---
 
---- challenge ---
+--- task ---
 
-## Sfida: Aggiungere un suono
+Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
 
-Puoi fare in modo che il tuo fantasma emetta un suono ogni volta che viene acchiappato? --- /challenge ---
+Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
+
+![Aumentare il punteggio](images/ghost-score-test.png)
+
+--- hints --- --- hint --- `Quando si clicca su ⚑`{:class="blockevents"}, la tua variabile `punteggio`{:class="blockdata"} dovrebbe `essere portata a 0`{:class="blockdata"}. Aggiungi questo codice allo sfondo. `Quando si clicca sullo sprite del fantasma`{:class="blockevents"}, la tua variabile `punteggio`{:class="blockdata"} dovrebbe `aumentare di 1`{:class="blockdata"}. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Ecco come fare punti cliccando sui fantasmi: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+
+--- /task ---

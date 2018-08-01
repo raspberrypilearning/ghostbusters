@@ -1,6 +1,5 @@
 <div class="p-hero-buttons">
-  [Offline Ολοκληρωμένο Έργο](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'} 
-  [Online Ολοκληρωμένο Έργο](https://scratch.mit.edu/projects/227539036/#editor){:target="_blank"}
+  [Offline Ολοκληρωμένο Έργο](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}[Online Ολοκληρωμένο Έργο] (http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
 </div>
 
 --- challenge ---
@@ -24,6 +23,6 @@
 ***
 ### Κοινοτική συνεισφορά μετάφρασης 
 
-Το έργο αυτό μεταφράστηκε από Γιώργος Νικολαΐδης και αναθεωρήθηκε από Βαγγέλης Πορτιάς/Δήμητρα Θεοδώρου. 
+Το έργο αυτό μεταφράστηκε από **Γιώργος Νικολαΐδης** και αναθεωρήθηκε από Βαγγέλης **Πορτιάς/Δήμητρα Θεοδώρου/Μάνος Ζεάκης**. 
 
 Οι εκπληκτικοί μας εθελοντές-μεταφραστές μας βοηθούν να δώσουμε στα παιδιά όλου του κόσμου την ευκαιρία να μάθουν να προγραμματίζουν. Μπορείτε να μας βοηθήσετε να προσεγγίσουμε περισσότερα παιδιά μεταφράζοντας τα έργα μας - διαβάστε περισσότερα στο [rpf.io/translators](https://rpf.io/translators).

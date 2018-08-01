@@ -1,42 +1,14 @@
-## Een timer toevoegen
+## Uitdaging: meer objecten
 
---- task ---
+Kun je andere voorwerpen aan je spel toevoegen?
 
-Maak een nieuwe variabele met de naam 'time'.
+![screenshot](images/ghost-final.png)
 
---- /task ---
+Als je een voorwerp toevoegt, moet je nadenken over de volgende dingen.
 
---- task ---
++ Hoe groot is het?
++ Zal het meer of minder vaak verschijnen dan het spook?
++ Hoe ziet het eruit/klinkt het als het is gepakt?
++ Hoeveel punten scoort (of verliest) de speler om het te vangen?
 
-Kun je een timer toevoegen aan het speelveld zodat de speler maar 10 seconden de tijd heeft om zoveel mogelijk spoken te vangen?
-
-Je timer zou:
-
-+ Beginnen op 10 seconden
-+ Elke seconde aftellen
-
-Het spel zou moeten stoppen als de timer op 0 komt.
-
---- hints --- --- hint --- `Als op de groene vlag is geklikt`, zou de variabele `time` op `10` moeten staan. Door blok `verander time met -1` wordt er afgeteld `totdat 0 bereikt is`. --- /hint --- --- hint --- Hier zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- Hier zie je hoe je de timer in je spel kunt voegen: ![screenshot](images/ghost-timer-code.png)
-
-En zo maak je het `time = 0` blok: ![screenshot](images/ghost-timer-help.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- task ---
-
-Vraag een vriend om je spel te testen. Hoeveel punten kan die scoren?
-
---- /task ---
-
-Als je spel te gemakkelijk is, kun je:
-
-+ De speler minder tijd geven
-+ De spoken minder vaak laten verschijnen
-+ De spoken kleiner maken
-
---- task ---
-
-Verander en test je spel een paar keer totdat je tevreden bent met de moeilijkheidsgraad.
-
---- /task ---
+Als je hulp nodig hebt bij het toevoegen van een ander voorwerp, kun je de stappen hierboven opnieuw doen!

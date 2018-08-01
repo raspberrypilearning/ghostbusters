@@ -1,9 +1,37 @@
-## Di cosa avrai bisogno
+## Animare un fantasma
 
-### Hardware
+--- task ---
 
-+ Un computer in grado di eseguire Scratch 2.0
+Avvia un nuovo progetto Scratch.
 
-### Software
+[[[generic-scratch-new-project]]]
 
-+ Scratch 2.0 ([online](https://scratch.mit.edu/projects/editor/) o [offline](https://scratch.mit.edu/scratch2download/))
+--- /task ---
+
+--- task ---
+
+Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
+
+![screenshot](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Aggiungi dei codici al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
+
+--- hints --- --- hint --- `Quando clicchi su ⚑`{:class="blockevents"}, dovrai fare in modo che il tuo fantasma `sparisca`{:class="blocklooks"} per `un secondo`{:class="blockcontrol"} e poi `ricompaia`{:class="blocklooks"} per `un secondo`{:class="blockcontrol"}. Dovrà fare ciò `per sempre`{:class="blockcontrol"}. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Prova il tuo progetto e salvalo.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---
