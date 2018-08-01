@@ -14,14 +14,14 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2.1
 last_tested: 2018-01-01
 steps:
-  - title: Introductie
-  - title: Wat heb je nodig
-  - title: Een spook laten bewegen
+  - title: Inleiding
+  - title: Beweeg een spook
   - title: Willekeurige spoken
   - title: Spoken vangen
   - title: Een score toevoegen
-  - title: Een meting toevoegen
-  - title: 'Uitdaging: meer hindernissen'
+  - title: Een tijdklok toevoegen
+  - title: 'Uitdaging: meer objecten'
+    challenge: true

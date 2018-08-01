@@ -2,57 +2,46 @@
 
 Stai per creare un gioco di acchiappa-fantasmi!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/227536329/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### Cosa creerai
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/it-IT/projects/ghostbusters/print).
+--- no-print ---
+
+![showcase](images/showcase.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![showcase](images/showcase-static.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
-title: Note per i volontari
+title: Di cosa avrai bisogno
 ---
-## Introduzione:
+### Hardware
 
-In questo progetto, i bambini impareranno ad usare le variabili per immagazzinare i dati nei loro programmi.
++ Un computer
 
-## Risorse
+### Software
 
-Per questo progetto, andrebbe usato Scratch 2. Scratch 2 può essere usato online su [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) oppure può essere scaricato da [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) ed essere usato in modalità offline.
-
-Una versione completa di questo progetto può essere trovata [online](https://scratch.mit.edu/projects/227536329/#editor), o può essere scaricata cliccando il link ‘Materiali del Progetto’, che contiene:
-
-* Ghostbusters.sb2
-
-## Obiettivi di apprendimento
-
-* Variabili;
-* Numeri a caso.
-
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
-
-* [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Sfide
-
-* “Ancora casualità” - usare numeri a caso;
-* “Aggiungere un suono” - consolidare l’apprendimento dei suoni;
-* "Altri oggetti” - applicare le conoscenze ottenute per creare altri oggetti all'interno del gioco.
-
-## Domande più frequenti
-
-* Se i bambini trovano difficile cliccare sui fantasmi senza trascinarli, possono giocare in modalità a schermo intero, dove i fantasmi non sono trascinabili.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Materiali del progetto
+title: Cosa imparerai
 ---
-## Risorse per gli organizzatori del club
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-* [Progetto Scratch 2 completo scaricabile](resources/Ghostbusters.sb2)
-* [Progetto Scratch 2 completo online](https://scratch.mit.edu/projects/227536329/#editor) --- /collapse ---
++ [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+--- /collapse ---
+
+--- no-print ---
+
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/it-IT/projects/ghostbusters/print).
+
+--- /no-print ---

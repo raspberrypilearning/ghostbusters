@@ -14,14 +14,14 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - title: Εισαγωγή
-  - title: Τι θα χρειαστείς
-  - title: Ζωντανεύοντας ένα φάντασμα
+  - title: Σχεδιάζοντας ένα φάντασμα
   - title: Τυχαία φαντάσματα
   - title: Πιάνοντας φαντάσματα
-  - title: Προσθέτοντας ένα σκορ
+  - title: Προσθήκη βαθμολογίας
   - title: Προσθέτοντας ένα χρονόμετρο
   - title: 'Πρόκληση: περισσότερα αντικείμενα'
+    challenge: true

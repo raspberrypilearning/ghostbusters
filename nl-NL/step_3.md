@@ -1,37 +1,17 @@
-## Beweeg een spook
+## Willekeurige spoken
+
+Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
 
 --- task ---
 
-Open een nieuw leeg Scratch-project.
+Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het scherm verschijnt, in plaats van steeds op dezelfde plaats?
 
-[[[generic-scratch-new-project]]]
-
---- /task ---
-
---- task ---
-
-Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
-
-![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
+--- hints --- --- hint --- Je wilt dat het spook met een `ga naar`{:class="blockmotion"} naar een willekeurige plaats gaat voordat die elke keer verschijnt. --- /hint --- --- hint --- Er zijn twee sets codeblokken die je kunt gebruiken. Deze: ![screenshot](images/ghost-random-blocks-1.png) Of deze: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-random-code-1.png) Of het kan er zo uitzien: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
---- task ---
+--- challenge ---
 
-Voeg code toe aan je spook zodat die steeds weer verschijnt en verdwijnt als je op de vlag klikt.
+## Uitdaging: meer willekeur
 
---- hints --- --- hint --- Wanneer op de `groene vlag is geklikt`, moet je spook `een seconde verdwijnen` en dan `een seconde zichtbaar worden`. Dit zal steeds moeten ` herhalen `. --- /hint --- --- hint --- Dit zijn de blokken die je nodig hebt: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Zo zou het programma eruit moeten zien: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- task ---
-
-Test en bewaar jouw project.
-
-[[[generic-scratch-saving]]]
-
---- /task ---
+Kun je je spook een willekeurige tijd laten wachten met `wacht`{:class="blockcontrol"} voordat die verschijnt? Kun je met het `maak grootte`{:class="blocklooks"} blok het spook een willekeurige grootte geven, elke keer dat deze verschijnt? --- /challenge ---

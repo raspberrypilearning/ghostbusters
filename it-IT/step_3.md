@@ -1,37 +1,17 @@
-## Animare un fantasma
+## Fantasmi a caso
+
+Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
 
 --- task ---
 
-Avvia un nuovo progetto Scratch.
+Puoi aggiungere dei codici per fare in modo che il tuo fantasma, invece di stare fermo nello stesso punto, compaia sullo schermo in punti a caso?
 
-[[[generic-scratch-new-project]]]
-
---- /task ---
-
---- task ---
-
-Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
-
-![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
+--- hints --- --- hint --- Hai bisogno che il tuo fantasma `vada` ogni volta in un punto a caso dello schermo prima di comparire. --- /hint --- --- hint --- Puoi usare ben due set di blocchi di codice diversi. Questo: ![screenshot](images/ghost-random-blocks-1.png) O questo: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Il tuo codice dovrebbe apparire così: ![screenshot](images/ghost-random-code-1.png) Oppure così: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
---- task ---
+--- challenge ---
 
-Aggiungi dei blocchi al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
+## Sfida: più casualità
 
---- hints --- --- hint --- `Quando clicchi su ⚑`, dovrai fare in modo che il tuo fantasma `sparisca` per `un secondo` e poi `ricompaia` per `un secondo`. Dovrà fare ciò `per sempre`. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- task ---
-
-Prova il tuo progetto e salvalo.
-
-[[[generic-scratch-saving]]]
-
---- /task ---
+Potresti fare in modo che il tuo fantasma `aspetti` per un periodo di tempo casuale prima di comparire? Potresti utilizzare il blocco `porta dimensione` per dare al tuo fantasma una dimensione casuale ogni volta che appare? --- /challenge ---

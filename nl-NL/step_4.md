@@ -1,17 +1,21 @@
-## Willekeurige spoken
+## Spoken vangen
 
-Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
+Laten we de speler de gelegenheid geven om ​spoken te vangen!
 
 --- task ---
 
-Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het scherm verschijnt, in plaats van steeds op dezelfde plaats?
+Kun je je spook laten verdwijnen als deze is gepakt?
 
---- hints --- --- hint --- Je wilt dat het spook met een `ga naar` naar een willekeurige plaats gaat voordat die elke keer verschijnt. --- / hint --- --- hint --- Er zijn twee sets codeblokken die je kunt gebruiken. Deze: ![screenshot](images/ghost-random-blocks-1.png) Of deze: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-random-code-1.png) Of het kan er zo uitzien: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
+Je moet op de spoken kunnen klikken om ze te vangen. Als je het vangen moeilijk vindt kun je het spel in volledig schermmodus spelen door op deze knop te klikken:
+
+![screenshot](images/ghost-fullscreen.png)
+
+--- hints --- --- hint --- `Wanneer op je sprite wordt geklikt`{:class="blockevents"}, zou het spook moeten `verdwijnen`{:class="blocklooks"}. --- /hint --- --- hint --- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
 --- challenge ---
 
-## Uitdaging: meer willekeur
+## Uitdaging: geluid toevoegen
 
-Kun je je spook een willekeurige hoeveelheid tijd laten wachten met `wacht` voordat die verschijnt? Kun je met het `maak grootte` blok het spook een willekeurige grootte geven, elke keer dat deze verschijnt? --- /challenge ---
+Kun je je spook een geluid laten maken als die wordt gevangen? --- /challenge ---
