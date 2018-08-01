@@ -1,6 +1,6 @@
 ## Uvod
 
-Napravit ćeš igru hvatanja duhova!
+Napravit ćeš igru o hvatanju duhova!
 
 ### Napravit ćeš
 
