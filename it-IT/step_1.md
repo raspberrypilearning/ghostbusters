@@ -26,7 +26,7 @@ title: Di cosa avrai bisogno
 
 ### Software
 
-+ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
++ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
