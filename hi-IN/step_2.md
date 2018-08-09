@@ -1,8 +1,8 @@
-## आपको क्या चाहिए
+## भूत का एनिमेशन बनाना
 
 \--- task \---
 
-Open a new empty Scratch project.
+एक नया खाली स्क्रैच प्रोजेक्ट खोलें।
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+एक नया भूत स्प्राइट और एक उपयुक्त पृष्ठभूमि स्टेज में जोड़ें।
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+अपने भूत में कोड जोड़ें ताकि जब आप फ्लैग पर क्लिक करें तो यह हमेशा प्रकट और गायब होता रहे।
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- जब `हरा झंडा क्लिक किया जाए` {: class = "blockevents"}, तो आपको अपने भूत को `​​छिपाने की आवश्यकता होगी` {: वर्ग = "blocklooks"} `एक सेकंड के लिए` {: class = "blockcontrol"} और फिर `दिखाना` {: वर्ग = "blocklooks"} होगा `एक सेकंड के लिए` {: वर्ग = "blockcontrol"}। इसे ऐसा `हमेशा के लिए` के लिए करना होगा।{:class=”blockcontrol”} \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- आपका कोड इस प्रकार दखाई देगा: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+प्रोजेक्ट का परीक्षण करें और सहेजें
 
 [[[generic-scratch-saving]]]
 
