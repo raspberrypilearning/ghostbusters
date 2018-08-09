@@ -1,7 +1,7 @@
 ---
 title: Ghostbusters
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: Vei crea jocul ”Vânătorul de fantome”!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
@@ -18,7 +18,7 @@ version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
-    title: Introduction
+    title: Ghostbusters
   - 
     title: Fantoma animată
   - 
