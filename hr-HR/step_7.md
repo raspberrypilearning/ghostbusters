@@ -12,6 +12,7 @@ Kada dodaješ objekt, moraš razmisliti o sljedećem.
 + Koliko bodova će igrač dobiti (ili izgubiti) kada bude uhvaćen?
 
 Trebaš li pomoć oko dodavanja drugih objekata, ponovi korake iznad!
+
 ***
 ### Prijevod članova zajednice 
 
