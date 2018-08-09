@@ -1,21 +1,21 @@
-## बेतरतीब भूत
+## भूत पकड़ना
 
-Let's allow the player to catch ghosts!
+चलिए अपने खिलाड़ी को भूत पकड़ने की अनुमति दें!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+क्या आप ऐसा कर सकते हैं कि पकड़े जाने पर भूत गायब हो जाए?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+आप भूत पर क्लिक करके ही उन्हें पकड़ पाएंगे। यदि आपको पकड़ना मुश्किल लगे, तो आप इस बटन पर क्लिक करके गेम को फुल स्क्रीन मोड में खेल सकते हैं:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `क्लिक होने पर`, आपके भूत स्प्राइट को `छुप`जाना चाहिए। \--- /hint \--- \--- hint \--- आपका कोड इस तरह दिखना चाहिए: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## चुनौती: ध्वनि जोड़ना
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+क्या आप ऐसा कर सकते हैं कि भूत के पकड़े जाने पर यह आवाज़ उत्पन्न करे? \--- /challenge \---
