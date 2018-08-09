@@ -14,13 +14,11 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
     title: Introducción
-  - 
-    title: Animando un fantasma
   - 
     title: Animando un fantasma
   - 
@@ -30,5 +28,7 @@ steps:
   - 
     title: Añadir una puntuación
   - 
-    title: 'Añadir un temporizador'
+    title: Añadir un temporizador
+  - 
+    title: 'Desafío: más objetos'
     challenge: true
