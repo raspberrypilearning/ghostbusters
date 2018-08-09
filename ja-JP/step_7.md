@@ -2,7 +2,7 @@
 
 ゲームに他のオブジェクトを追加できますか？
 
-![スクリーンショット](images/ghost-final.png)
+![screenshot](images/ghost-final.png)
 
 オブジェクトを追加するときは、次のことについて考えましょう。
 
