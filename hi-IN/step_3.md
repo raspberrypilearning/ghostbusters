@@ -1,17 +1,17 @@
-## भूत की एनिमेशन बनाना
+## अस्थाई भूत
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+आपका भूत इस समय पकड़ने में वाकई आसान है, क्योंकि यह चलता नहीं है!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+क्या आप अपने भूत में कोड जोड़ सकते हैं, ताकि एक ही स्थिति में रहने के बजाय, यह स्क्रीन पर अस्थाई दिखाई दे?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- आप चाहते हैं कि आपका भूत हर बार स्टेज पर दिखने से पहले अस्थाई स्थिति पर चला `जाए`। \--- /hint \--- \--- hint \--- आप दो प्रकार के कोड ब्लॉक्स का उपयोग कर सकते हैं। यह वाला: ![screenshot](images/ghost-random-blocks-1.png) या यह वाला: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- आपका कोड या इस तरह दिखना चाहिए:: ![screenshot](images/ghost-random-code-1.png) या यह इस तरह दिख सकता है: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## चुनौती: अधिक अस्थाई
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+क्या आप ऐसा कर सकते हैं कि आपका भूत दिखाई देने से पहले अस्थाई समय तक `इंतज़ार` करें? क्या आप हर बार नए आकार का भूत बनाने के लिए `आकार सेट करें` ब्लॉक का उपयोग कर सकते हैं? \--- /challenge \---
