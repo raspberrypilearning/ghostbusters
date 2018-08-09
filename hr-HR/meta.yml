@@ -1,7 +1,7 @@
 ---
 title: Istjerivači duhova
 hero_image: images/ghostbusters.png
-description: U ovom projektu napravit ćeš svoju prvu igru! To će biti igra hvatanja duhova.
+description: Napravi igru​ o hvatanja duhova!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
@@ -16,5 +16,12 @@ hardware: ''
 software: scratch
 version: 4.2.1
 last_tested: 2018-01-01
-steps: 
-  - title: Istjerivači duhova
+steps:
+  - title: Uvod
+  - title: Animacija duha
+  - title: Duh se pojavljuje na nasumičnim mjestima
+  - title: Hvatanje duhova
+  - title: Dodavanje rezultata
+  - title: Dodavanje mjerača vremena
+  - title: 'Izazov: više objekata'
+    challenge: true

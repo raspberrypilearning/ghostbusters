@@ -1,3 +1,47 @@
-Ovo je starija verzija **Istjerivači duhova**. Trenutačno ne uključuje najnovije sadržaje ni korisničke značajke web stranice projekata.  Projekt će biti privremeno dostupan u [ovom](images/Ghostbusters.pdf) formatu prije nego se arhivira. 
+## Uvod
 
-Trebamo vašu pomoć kako bi ažurirali i preveli ovakve projekte!  Ako ste nam u mogućnosti pomoći, molimo [javite nam se ovdje](https://rpf.io/translators).
+Napravit ćeš igru o hvatanju duhova!
+
+### Napravit ćeš
+
+--- no-print ---
+
+![showcase](images/showcase.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![showcase](images/showcase-static.png)
+
+--- /print-only ---
+
+--- collapse ---
+---
+title: Trebat ćeš
+---
+### Hardver
+
++ Računalo
+
+### Softver
+
++ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"} verziju)
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Naučit ćeš
+---
+Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} nastavnog plana i programa:
+
++ [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+--- /collapse ---
+
+--- no-print ---
+
+Ako trebate ispisati ovaj projekt, koristite [verziju koja je prilagođena pisaču](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+
+--- /no-print ---
