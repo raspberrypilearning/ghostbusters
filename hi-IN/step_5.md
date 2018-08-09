@@ -1,10 +1,10 @@
-## भूत पकड़ना
+## स्कोर जोड़ना
 
-Let's make things more interesting by keeping score!
+चलो स्कोर रख कर चीजों को और अधिक रोचक बनाते हैं!
 
 \--- task \---
 
-Create a new variable called 'score'.
+'score' नामक एक नया वेरिएबल बनाएँ।
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,12 +12,12 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+क्या आप खिलाड़ी के स्कोर पर नज़र रख सकते हैं? स्कोर बनाने के लिए खिलाड़ी को भूत पर क्लिक करना होगा।
 
-Each time a player clicks on a ghost, their score should increase.
+जब भी कोई खिलाड़ी भूत पर क्लिक करता है, तो उनका स्कोर बढ़ना चाहिए।
 
-![Increasing score](images/ghost-score-test.png)
+![स्कोर बढ़ाना](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `जब हरा झंडा क्लिक किया जाता है` </code>{:class=”blockevents”}, तो आपका `score` {: class = "blockdata"} वेरिएबल `0 पर सेट हो जाना चाहिए</0>{:class=”blockdata”}। इस कोड को जोड़ने के लिए स्टेज सबसे बढ़िया स्थान है। <code>जब भूत स्प्राइट क्लिक किया जाता है` {:class=”blockevents”}, `स्कोर` {: class = "blockdata"} `1 से बदल जाना चाहिए` {: वर्ग = "blockdata"}। \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- यहाँ भूत पर क्लिक करके अंक स्कोर बनाने का तरीका बताया गया है: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
