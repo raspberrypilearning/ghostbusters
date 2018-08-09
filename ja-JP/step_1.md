@@ -6,13 +6,13 @@
 
 \--- no-print \---
 
-![ショーケース](images/showcase.gif)
+![showcase](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![ショーケース](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
