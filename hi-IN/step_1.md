@@ -1,18 +1,18 @@
-## भूमिका
+## परिचय
 
-You are going to make a ghost-catching game!
+आप एक भूत-पकड़ने वाला गेम बनाने जा रहे हैं!
 
-### What you will make
+### आप क्या बनाएँगे
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+![शोकेस](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![शोकेस](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -20,15 +20,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: आपको किन चीजों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-+ A computer
++ एक कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,16 +36,16 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/ghostbusters/print) का उपयोग करें।
 
 \--- /no-print \---
