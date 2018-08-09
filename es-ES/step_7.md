@@ -1,10 +1,10 @@
-## Añadir un temporizador
+## Desafío: más objetos
 
 ¿Puedes añadir otros objetos a tu juego?
 
-![screenshot](images/ghost-final.png)
+![captura de pantalla](images/ghost-final.png)
 
-Cuando estás añadiendo un objeto, necesitas tener en cuenta lo siguiente.
+Cuando estás añadiendo un objeto, necesitas tener en cuenta lo siguiente:
 
 + ¿Cómo es de grande?
 + ¿Aparecerá con más o menos frecuencia que el fantasma?
