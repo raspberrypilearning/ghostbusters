@@ -1,42 +1,42 @@
-## स्कोर जोड़ना
+## टाइमर(timer) जोड़ना
 
 \--- task \---
 
-Create a new variable called 'time'.
+'time' नामक एक नया वेरिएबल बनाएँ।
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+अपने खिलाड़ी को भूत पकड़ने के लिए अधिकतम 10 सेकंड का समय देने के लिए क्या आप अपने स्टेज में टाइमर जोड़ सकते हैं?
 
-Your timer should:
+आपके टाइमर को चाहिए कि:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 सेकंड से शुरू करें
++ हर सेकंड को गिने
 
-The game should stop when the timer gets to 0.
+जब टाइमर 0 हो जाए तो गेम को रुकना चाहिए।
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `जब हरा झंडा क्लिक किया जाता है `{:class=”blockevents”}, तो आपका `time` {: class = "blockdata"} वेरिएबल `10 पर सेट हो जाना चाहिए`{:class=”blockdata”}। इसके बाद इसे`-1 से बदलना चाहिए` {: class = "blockdata"} प्रत्येक सेकेंड `जब तक कि यह 0 तक नहीं पहुँच जाता` {:class=”blockcontrol"}। \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- यहाँ अपने गेम में टाइमर जोड़ने का तरीका बताया गया है: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+और यह `time = 0` ब्लॉक बनाने का तरीका है: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+किसी मित्र से अपने गेम का परीक्षण करने के लिए कहें। वे कितने अंक(points) स्कोर कर सकते हैं?
 
 \--- /task \---
 
-If your game is too easy, you can:
+यदि आपका गेम बहुत आसान है, तो आप यह कर सकते हैं:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ खिलाड़ी को कम समय दें सकते है
++ भूत को कम बार प्रकट कर सकते है
++ भूत को छोटा बना सकते है
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+गेम में तब तक परिवर्तन करें और परीक्षण करें जब तक आप इसकी कठिनता के स्तर से ख़ुश न हो जाएँ।
 
 \--- /task \---
