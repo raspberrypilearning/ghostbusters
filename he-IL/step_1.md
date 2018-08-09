@@ -1,4 +1,4 @@
-## Introduction
+## מכסחי השדים
 
 You are going to make a ghost-catching game!
 
