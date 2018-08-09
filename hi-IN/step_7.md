@@ -1,14 +1,14 @@
-## टाइमर जोड़ना
+## चुनौती: अधिक वस्तु!
 
-Can you add other objects to your game?
+क्या आप अपने गेम में अन्य वस्तु जोड़ सकते हैं?
 
-![screenshot](images/ghost-final.png)
+![स्क्रीनशॉट](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+जब आप वस्तु जोड़ते हैं, तो आपको निम्नलिखित बातों पर ध्यान देना होगा।
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ वो कितना बड़ा होगा?
++ क्या यह भूत की तुलना में अधिक या कम दिखाई देगा?
++ पकड़े जाने पर वह कैसा दिखाई देगा/कैसी आवाज़ करेगा?
++ उसे पकड़ने पर खिलाड़ी को कितने अंक मिलेंगे (या कम होंगे)?
 
-If you need help adding another object, you can reuse the steps above!
+यदि अन्य ऑब्जेक्ट को जोड़ने में आपको सहायता की आवश्यकता हो, तो आप उपर्युक्त चरणों का पुनः उपयोग कर सकते हैं!
