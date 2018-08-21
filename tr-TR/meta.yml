@@ -8,10 +8,10 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, tasarım-0, programlama-1, phys-comp-0, üretim-0, topluluk-0
 interests: oyunlar
 technologies: çizik
-site_areas: projects
+site_areas: projeler
 hardware: ''
 software: çizik
 version: 4.2.1
@@ -20,15 +20,15 @@ steps:
   - 
     title: Giriş
   - 
-    title: Animating a ghost
+    title: Bir hayaletin animasyonu
   - 
-    title: Random ghosts
+    title: Rastgele hayaletler
   - 
-    title: Catching ghosts
+    title: Hayaletleri yakalamak
   - 
-    title: Adding a score
+    title: Puantör eklemek
   - 
-    title: Adding a timer
+    title: Süre eklemek
   - 
     title: 'Meydan Okuma: Daha fazla nesne'
     challenge: true
