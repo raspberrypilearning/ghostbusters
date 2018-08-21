@@ -10,7 +10,7 @@ Treba da klikneš na duhove kako bi ih uhvatio/uhvatila. Ako ti je teško da hva
 
 ![screenshot](images/ghost-fullscreen.png)
 
---- hints --- --- hint --- `Kada se klikne`{:class=”blockevents”} (when clicked) na lik duha, on treba da ` se sakrije`{:class=”blocklooks”} (hide). --- /hint --- --- hint --- Tvoj kôd treba da izgleda ovako: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
+--- hints --- --- hint --- `Kada se klikne`{:class=”blockevents”} (when clicked) na lik duha, on treba da `se sakrije`{:class=”blocklooks”} (hide). --- /hint --- --- hint --- Tvoj kôd treba da izgleda ovako: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
