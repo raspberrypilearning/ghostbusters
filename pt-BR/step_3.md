@@ -1,17 +1,17 @@
-## Random ghosts
+## Fantasmas aleatórios
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Seu fantasma é realmente fácil de pegar no momento, porque ele não se move!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Você pode adicionar código ao seu espírito para que, ao invés de ficar na mesma posição, ele apareça aleatoriamente na tela?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Você quer que o seu fantasma `vá para`{:class=”blockmotion”} uma posição aleatória no palco antes de aparcer novamente. \--- /hint \--- \--- hint \--- Existem dois conjuntos de blocos de código que você pode usar. Este: ![screenshot](images/ghost-random-blocks-1.png) Ou este: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Seu código deve ser parecido com isto: <2 /> Ou pode ser assim: <3 /> \--- / hint \--- \--- / hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Desafio: Mais aleatoriedade
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- /challenge \---
+Você pode fazer o seu fantasma `esperar` {:class="blockcontrol"} um tempo aleatório antes de aparecer? Você pode usar o bloco `mude o tamanho para` {:class ="blocklooks"} para fazer seu fantasma ter um tamanho aleatório cada vez que ele aparece? \--- /challenge \---
