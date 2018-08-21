@@ -10,7 +10,7 @@
 
 \--- task \---
 
-एक नया भूत स्प्राइट और एक उपयुक्त पृष्ठभूमि स्टेज में जोड़ें।
+एक नया भूत स्प्राइट और एक उपयुक्त पृष्ठभूमि(backdrop) स्टेज में जोड़ें।
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,9 +22,9 @@
 
 \--- task \---
 
-अपने भूत में कोड जोड़ें ताकि जब आप फ्लैग पर क्लिक करें तो यह हमेशा प्रकट और गायब होता रहे।
+अपने भूत में कोड जोड़ें ताकि जब आप झंडे पर क्लिक करें तो यह हमेशा प्रकट और गायब होता रहे।
 
-\--- hints \--- \--- hint \--- जब `हरा झंडा क्लिक किया जाए` {: class = "blockevents"}, तो आपको अपने भूत को `​​छिपाने की आवश्यकता होगी` {: वर्ग = "blocklooks"} `एक सेकंड के लिए` {: class = "blockcontrol"} और फिर `दिखाना` {: वर्ग = "blocklooks"} होगा `एक सेकंड के लिए` {: वर्ग = "blockcontrol"}। इसे ऐसा `हमेशा के लिए` के लिए करना होगा।{:class=”blockcontrol”} \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- आपका कोड इस प्रकार दखाई देगा: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- जब `हरा झंडा क्लिक किया जाए` {: class = "blockevents"}, तो आपको अपने भूत को `​​छिपाने की आवश्यकता होगी` {: वर्ग = "blocklooks"} `एक सेकंड के लिए` {: class = "blockcontrol"} और फिर `दिखाना` {: वर्ग = "blocklooks"} होगा `एक सेकंड के लिए` {: वर्ग = "blockcontrol"}। इसे ऐसा `हमेशा` के लिए करना होगा।{:class=”blockcontrol”} \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- आपका कोड इस प्रकार दखाई देगा: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
