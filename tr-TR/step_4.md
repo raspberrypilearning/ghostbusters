@@ -1,21 +1,21 @@
-## Catching ghosts
+## Hayaletleri yakalamak
 
-Let's allow the player to catch ghosts!
+Haydi hayaletleri yakalamaları için oyunculara izin verelim!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught?
+Yakalandığı zaman hayaletinizi görünmez yapabilir misiniz?
 
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
+Hayaletleri yakalamak için onlara tıklayabilmen gerekiyor. Eğer yakalamakta zorlanıyorsanız, bu butona tıklayarak oyunu tam-ekran oynayabilirsiniz:
 
 ![ekran görüntüsü](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Tıklandığı zaman`{:class=”blockevents”}, hayaletiniz `gizli` olmalı{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Kodun böyle görünmeli: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- challenge \---
 
-## Challenge: adding a sound
+## Meydan okuma: Ses ekleme
 
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Hayaletin her yakalandığı zaman ses çıkarmasını sağlayabilir misin? \--- /challenge \---
