@@ -1,8 +1,8 @@
-## Animating a ghost
+## Animando um fantasma
 
 \--- task \---
 
-Open a new empty Scratch project.
+Abra um novo projeto no Scratch.
 
 [[[generic-scratch-new-project]]]
 
@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Adicione um novo sprite de fantasma e um pano de fundo adequado para o seu palco.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 \--- task \---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Adicione código ao seu fantasma para que ele apareça e depois desapareça, quando você clicar na bandeira.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Assim que a `bandeira for clicada`{:class=”blockevents”}, você precisará fazer o seu fantasma `se esconder`{:class=”blocklooks”} por `um segundo`{:class=”blockcontrol”} e então `aparecer `{:class=”blocklooks”} por `um segundo`{:class=”blockcontrol”}. Será necessário fazer isso `sempre` {: class = "blockcontrol"}. \--- /hint \--- \--- hint \--- Aqui estão os blocos de códigos que você precisará: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Veja como seu código deve ficar: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Teste e salve seu projeto.
 
 [[[generic-scratch-saving]]]
 
