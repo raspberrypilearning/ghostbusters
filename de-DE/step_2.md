@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
+Wähle eine neue Gespenster-Figur und einen passenden Bühnenhintergrund aus.
 
 ![Screenshot](images/ghost-ghost.png)
 
@@ -22,7 +22,7 @@ Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
 
 \--- task \---
 
-Füge deinem Geist Code hinzu, so dass er sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
+Füge für dein Gespenst Code zusammen, so dass es sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
 
 \--- hints \--- \--- hint \--- Wenn auf die `grüne Flagge geklickt wird`{:class=”blockevents”}, musst du erreichen dass sich dein Gespenst `eine Sekunde`{:class=”blockcontrol”} lang `versteckt`{:class=”blocklooks”} und dann `eine Sekunde`{:class=”blockcontrol”} lang `zeigt`{:class=”blocklooks”}. Das muss es `fortlaufend`{:class=”blockcontrol”} wiederholen. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
