@@ -1,42 +1,42 @@
-## Adding a timer
+## Zamanlayıcı eklemek
 
 \--- task \---
 
-Create a new variable called 'time'.
+'Time' adlı bir değişken oluşturun.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Oyuncunun mümkün olduğu kadar hayaleti yakalaması için yalnızca 10 saniye veren zamanlayıcıyı sahneye ekleyebilir misiniz?
 
-Your timer should:
+Zamanlayıcınız şunları yapmalı:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 saniyede başlamalı
++ Her saniye 1 azalmalı
 
-The game should stop when the timer gets to 0.
+Zamanlayıcı 0 olduğunda oyun durmalı.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![ekran görüntüsü](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Yeşil bayrak tıklandığı zaman`{:class=”blockevents”}, `zaman`{:class=”blockdata”} değişkeniniz `0 olarak` atanmalı{:class=”blockdata”}. Her saniye `0'a ulaşana kadar`{:class=”blockcontrol"} `-1 ile değiştirilmeli`:class=”blockdata”}. \--- /hint \--- \--- hint \--- Kullanmanız gereken kod blokları burada: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Zamanlayıcıyı oyununuza böyle eklemelisiniz: ![ekran görüntüsü](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+Ve bu şekilde `zaman = 0` kod bloku oluşturabilirsin: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Bir arkadaşından oyununu oynamasını iste. Kaç puan alabilir?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Eğer oyunun çok kolaysa, bunları yapabilirsin:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Oyuncuya daha az zaman ver
++ Hayaleti da seyrek görünür yap
++ Hayaleti daha küçük yap
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Oyununun zorluğunu beğenene kadar birkaç kez oyunu değiştir ve oyna.
 
 \--- /task \---
