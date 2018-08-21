@@ -28,7 +28,7 @@
 
 ### Software
 
-+ Scratch 2.0 ( bien [online](http://rpf.io/scratchon){:target="_blank"} o bien [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([en línea](http://rpf.io/scratchon){:target="_blank"} o [sin conexión](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
