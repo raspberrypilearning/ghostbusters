@@ -1,18 +1,18 @@
 ## Einleitung
 
-Du wirst ein Geisterjagd-Spiel machen!
+Du wirst ein Gespensterjagd-Spiel machen!
 
 ### Was du machen wirst
 
 \--- no-print \---
 
-![Schaufenster](images/showcase.gif)
+![Vorschau](images/showcase.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![Schaufenster](images/showcase-static.png)
+![Vorschau](images/showcase-static.png)
 
 \--- /print-only \---
 
