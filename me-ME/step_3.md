@@ -14,4 +14,4 @@ Da li možeš da dodaš kôd svom duhu tako da se, umjesto da ostane na istom mj
 
 ## Izazov: više nasumičnosti
 
-Da li možeš da napraviš da tvoj duh `čeka`{:class=”blockcontrol”} (wait) neko vrijeme prije nego što se pojavi? Možeš li da upotrijebiš blok `postavi veličinu`{:class=”blocklooks”} (set size) tako da tvoj duh bude različite veličine svaki put kada se pojavi? \--- /challenge \---
+Da li možeš da napraviš da tvoj duh `čeka`{:class=”blockcontrol”} (wait) neko vrijeme prije nego što se pojavi? Možeš li da upotrijebiš blok `set size`{:class=”blocklooks”} (postavi veličinu) tako da tvoj duh bude različite veličine svaki put kada se pojavi? \--- /challenge \---
