@@ -1,8 +1,8 @@
 ## Giriş
 
-Hayalet avlayan bir oyun yapacaksın!
+Bir hayalet avlama oyunu yapacaksınız!
 
-### What you will make
+### Yapacağınız
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Hayalet avlayan bir oyun yapacaksın!
 
 * * *
 
-## title: What you will need
+## İhtiyacınız olacak şeyler
 
-### Hardware
+### Donanım
 
-+ A computer
++ Bir bilgisayar
 
-### Software
+### Yazılım
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} ya da [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Hayalet avlayan bir oyun yapacaksın!
 
 * * *
 
-## title: What you will learn
+## Öğrenecekleriniz
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Bu proje, [ Raspberry Pi Dijital Yapım Müfredatı'nın aşağıdaki bölümlerinden öğeleri kapsamaktadır. ](http://rpf.io/curriculum) {: Hedef = "_ blank"}:
 
 + [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Eğer bu projeyi yazdırmak istiyorsanız, lütfen [Yazıcı uyumlu sürümü](https://projects.raspberrypi.org/en/projects/ghostbusters/print) kullanın.
 
 \--- /no-print \---
