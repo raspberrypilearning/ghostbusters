@@ -1,7 +1,7 @@
 ---
-title: Caça fantasmas
+title: Caça-fantasmas
 hero_image: images/ghostbusters.png
-description: Você fará um jogo de caça fantasmas!
+description: Você fará um jogo de caça-fantasmas!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
@@ -18,17 +18,17 @@ version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
-    title: Caça fantasmas
+    title: Introdução
   - 
-    title: Animating a ghost
+    title: Animando um fantasma
   - 
-    title: Random ghosts
+    title: Fantasmas aleatórios
   - 
-    title: Catching ghosts
+    title: Capturando fantasmas
   - 
-    title: Adding a score
+    title: Adicionando uma pontuação
   - 
-    title: Adding a timer
+    title: Adicionando um cronômetro
   - 
-    title: 'Challenge: more objects'
+    title: 'Desafio: Mais objetos'
     challenge: true
