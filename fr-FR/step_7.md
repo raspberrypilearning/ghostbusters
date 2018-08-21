@@ -1,4 +1,4 @@
-## Challenge : plus d'objets
+## Défi : plus d'objets
 
 Peux-tu ajouter d'autres objets à ton jeu ?
 
@@ -9,6 +9,6 @@ Quand tu ajoutes un objet, tu dois penser aux éléments suivants.
 + Quelle est sa taille ?
 + Apparaîtra-t-il plus ou moins souvent que le fantôme ?
 + À quoi ressemblera-t-il / comment sonnera-t-il quand il sera attrapé ?
-+ Combien de points va le jouer marquer (ou perdre) pour l'avoir attrapé ?
++ Combien de points va le joueur marquer (ou perdre) pour l'avoir attrapé ?
 
 Si tu as besoin d'aide pour ajouter un autre objet, tu peux réutiliser les étapes en haute ici !
