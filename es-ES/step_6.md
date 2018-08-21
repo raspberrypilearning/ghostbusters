@@ -17,7 +17,7 @@ Tu temporizador debería:
 
 El juego debería detenerse cuando el temporizador llegue a 0.
 
-\--- hints \--- \--- hint \--- `Cuando hagas clic en la bandera verde`{:class=”blockevents”}, tu variable `tiempo`{:class=”blockdata”} debería `ponerse a 10`{:class=”blockdata”}. Después se debería `cambiar por -1`{:class=”blockdata”} cada segundo `hasta que llegue a 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Aquí tienes los bloques de código que tendrás que usar: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Así añades el temporizador a tu juego: ![captura de pantalla](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Cuando hagas clic en la bandera verde`{:class=”blockevents”}, tu variable `tiempo`{:class=”blockdata”} debería `ponerse a 10`{:class=”blockdata”}. Después, se debería `cambiar por -1`{:class=”blockdata”} cada segundo `hasta que llegue a 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Aquí tienes los bloques de código que tendrás que usar: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Así añades el temporizador a tu juego: ![captura de pantalla](images/ghost-timer-code.png)
 
 Y así se crea el bloque para `tiempo = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
