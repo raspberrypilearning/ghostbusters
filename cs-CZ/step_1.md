@@ -2,7 +2,7 @@
 
 Pojďme udělat hru o chytání duchů!
 
-### What you will make
+### Co budeš dělat
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Pojďme udělat hru o chytání duchů!
 
 * * *
 
-## title: What you will need
+## title: Co budeš potřebovat
 
 ### Hardware
 
-+ A computer
++ Počítač
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (buď [online](http://rpf.io/scratchon){:target="_blank"} nebo [offline](http://rpf.io/scratchoff){:target="_blank"} verzi"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Pojďme udělat hru o chytání duchů!
 
 * * *
 
-## title: What you will learn
+## title: Co se naučíš
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum)"}{:target="_blank"}:
 
 + [<0>Použij základní programovací konstrukce k vytvoření jednoduchých programů</0>{:target="_blank"}.](https://www.raspberrypi.org/curriculum/programming/creator)
 
