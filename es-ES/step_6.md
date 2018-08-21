@@ -10,10 +10,10 @@ Crea una nueva variable llamada 'tiempo'.
 
 ¿Puedes añadir un temporizador a tu escenario para darle a tu jugador solo 10 segundos para atrapar tantos fantasmas como sea posible?
 
-Tu temporizador debe:
+Tu temporizador debería:
 
 + Comenzar en 10 segundos
-+ Contar atrás cada segundo
++ Contar para atrás cada segundo
 
 El juego debería detenerse cuando el temporizador llegue a 0.
 
