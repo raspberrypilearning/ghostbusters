@@ -1,14 +1,14 @@
-## Challenge: more objects
+## Desafio: Mais objetos
 
-Can you add other objects to your game?
+Você pode adicionar outros objetos ao seu jogo?
 
 ![screenshot](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Quando você está adicionando um objeto, precisa pensar sobre as seguintes coisas.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Quão grande é o objeto?
++ Ele irá aparecer mais ou menos vezes que o fantasma?
++ Qual será a aparência ou qual será o som emitido quando ele for capturado?
++ Quantos pontos o jogador vai marcar (ou perder) por pegá-lo?
 
-If you need help adding another object, you can reuse the steps above!
+Se você precisar de ajuda para adicionar outro objeto, poderá reutilizar as etapas acima!
