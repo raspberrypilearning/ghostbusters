@@ -17,7 +17,7 @@
 
 जब टाइमर 0 हो जाए तो गेम को रुकना चाहिए।
 
-\--- hints \--- \--- hint \--- `जब हरा झंडा क्लिक किया जाता है `{:class=”blockevents”}, तो आपका `time` {: class = "blockdata"} वेरिएबल `10 पर सेट हो जाना चाहिए`{:class=”blockdata”}। इसके बाद इसे`-1 से बदलना चाहिए` {: class = "blockdata"} प्रत्येक सेकेंड `जब तक कि यह 0 तक नहीं पहुँच जाता` {:class=”blockcontrol"}। \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- यहाँ अपने गेम में टाइमर जोड़ने का तरीका बताया गया है: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `जब हरा झंडा क्लिक किया जाए`{:class=”blockevents”}, तो आपका `time` {: class = "blockdata"} वेरिएबल `10 पर सेट हो जाना चाहिए`{:class=”blockdata”}। इसके बाद इसे`-1 से बदलना चाहिए` {: class = "blockdata"} प्रत्येक सेकेंड `जब तक कि यह 0 तक नहीं पहुँच जाता` {:class=”blockcontrol"}। \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- यहाँ अपने गेम में टाइमर जोड़ने का तरीका बताया गया है: ![स्क्रीनशॉट](images/ghost-timer-code.png)
 
 और यह `time = 0` ब्लॉक बनाने का तरीका है: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
