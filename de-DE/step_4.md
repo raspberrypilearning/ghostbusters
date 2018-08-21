@@ -4,7 +4,7 @@ Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
 
 \--- task \---
 
-Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde?
+Kannst du dein Gespenst verschwinden lassen, wenn es gefangen wurde?
 
 Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
 
@@ -16,6 +16,6 @@ Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fang
 
 \--- challenge \---
 
-## Herausforderung: Einen Klang hinzufügen
+## Herausforderung: Einen Klang dazugeben
 
 Kannst du deinen Geist dazu bringen, jedes Mal ein Geräusch zu machen, wenn er gefangen wird? \--- /challenge \---
