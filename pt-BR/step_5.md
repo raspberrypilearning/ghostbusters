@@ -1,10 +1,10 @@
-## Adding a score
+## Adicionando uma pontuação
 
-Let's make things more interesting by keeping score!
+Vamos tornar as coisas mais interessantes, mantendo uma pontuação!
 
 \--- task \---
 
-Create a new variable called 'score'.
+Crie uma nova variável chamada 'pontuação'.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,12 +12,22 @@ Create a new variable called 'score'.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Você consegue acompanhar a pontuação do jogador? Os jogadores devem marcar pontos clicando em fantasmas para pegá-los.
 
-Each time a player clicks on a ghost, their score should increase.
+Cada vez que um jogador clicar em um fantasma, sua pontuação deve aumentar.
 
-![Increasing score](images/ghost-score-test.png)
+![Pontuação crescente](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Quando a bandeira for clicada`{:class=”blockevents”}, sua variável `pontuação`{:class=”blockdata”} deve `mudar para 0`{:class=”blockdata”}. O Palco é o melhor lugar para adicionar esse código. `Quando o ator fantasma for clicado`{:class="blockevents"}, a `pontuação`{:class ="blockdata"} deve ser adicionado 1</0{:class="blockdata"} ponto.
+--- /hint --- 
+--- hint --- 
+Aqui estão os blocos de códigos que você precisará:
+<img src="images/ghost-score-blocks.png" alt="screenshot" />
+--- /hint --- 
+--- hint --- 
+Veja como seu código deve ficar: 
+<img src="images/ghost-score-code.png" alt="screenshot" /> 
+--- /hint --- 
+--- /hints ---</p>
 
-\--- /task \---
+<p>--- /task ---</p>
