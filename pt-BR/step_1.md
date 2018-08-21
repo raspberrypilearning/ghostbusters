@@ -1,8 +1,8 @@
-## Caça fantasmas
+## Introdução
 
-You are going to make a ghost-catching game!
+Você vai fazer um jogo de caça-fantasmas!
 
-### What you will make
+### O que você vai fazer
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: O que você vai precisar
 
 ### Hardware
 
-+ A computer
++ Computador
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,16 +36,16 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: O que você vai aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Se você precisar imprimir este projeto, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 \--- /no-print \---
