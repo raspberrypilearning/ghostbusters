@@ -1,4 +1,4 @@
-## Puantör eklemek
+## Skor göstergesi eklemek
 
 Skor tutarak işleri daha ilginç hale getirelim!
 
