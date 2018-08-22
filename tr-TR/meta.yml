@@ -9,11 +9,11 @@ copyedit: true
 ingredient: false
 duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: oyunlar
-technologies: çizik
+interests: games
+technologies: scratch
 site_areas: projeler
 hardware: ''
-software: çizik
+software: scratch
 version: 4.2.1
 last_tested: 2018-01-01
 steps:
