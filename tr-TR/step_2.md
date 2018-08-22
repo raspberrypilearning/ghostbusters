@@ -24,7 +24,7 @@ Yeni bir hayalet peri ve uygun sahne zemini ekleyin.
 
 Bayrağa tıkladığınızda görünür kalacak veya kaybolacak kodu hayaletinize ekleyin.
 
-`Yeşil bayrak tıklandığı` zaman, hayaletinizi `bir saniye` `gizlemeniz` ve sonra `bir saniye` `göstermeniz` gerekli. Bunu `sonsuza kadar` yapması gerekecektir. \--- /hint \--- \--- hint \--- Gerekli olan kod blokları burada: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Kodunuz böyle görünmeli: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hint \---
+\--- hints \--- \--- hint \--- `Yeşil bayrak tıklandığı`{:class=”blockevents”} zaman, hayaletinizi `bir saniye`{:class=”blockcontrol”} `gizlemeniz`{:class=”blocklooks”} ve sonra `bir saniye`{:class=”blockcontrol”} `göstermeniz`{:class=”blocklooks”}</0> gerekli. Bunu `sonsuza kadar`{:class=”blockcontrol”} yapması gerekecektir. \--- /hint \--- \--- hint \--- Gerekli olan kod blokları burada: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Kodunuz böyle görünmeli: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hint \---
 
 \--- /task \---
 
