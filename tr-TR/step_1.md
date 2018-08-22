@@ -38,7 +38,7 @@ Bir hayalet avlama oyunu yapacaksınız!
 
 ## Öğrenecekleriniz
 
-Bu proje, [ Raspberry Pi Dijital Yapım Müfredatı'nın aşağıdaki bölümlerinden öğeleri kapsamaktadır. ](http://rpf.io/curriculum) {: Hedef = "_ blank"}:
+Bu proje, [Raspberry Pi Dijital Yapım Müfredatı'nın aşağıdaki bölümlerinden öğeleri kapsamaktadır.](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
 
