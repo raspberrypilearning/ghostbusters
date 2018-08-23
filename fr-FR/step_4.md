@@ -1,6 +1,6 @@
 ## Attraper des fantômes
 
-Laissons le joueur d'attraper des fantômes!
+Laissons le joueur attraper des fantômes!
 
 \--- task \---
 
