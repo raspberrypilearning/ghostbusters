@@ -20,7 +20,7 @@ Tu vas faire un jeu attrape-fantôme!
 
 * * *
 
-## title: De quoi as-tu besoin
+## title: Ce qu'il faut avoir
 
 ### Matériel informatique
 
