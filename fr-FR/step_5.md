@@ -12,7 +12,7 @@ Créez une nouvelle variable appelée « score ».
 
 \--- task \---
 
-Peux-tu garder le pointage du joueur ? Les joueurs doivent marquer des points en cliquant sur les fantômes pour les attraper.
+Peux-tu garder le score du joueur ? Les joueurs doivent marquer des points en cliquant sur les fantômes pour les attraper.
 
 Chaque fois qu'un joueur clique sur un fantôme, son score devrait augmenter.
 
