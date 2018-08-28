@@ -38,7 +38,7 @@
 
 ## title: 学習すること
 
-このプロジェクトでは[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}（英語）の柱の一つである、プログラミングの以下の要素を学びます。
+このプロジェクトでは[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
 
 + [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
