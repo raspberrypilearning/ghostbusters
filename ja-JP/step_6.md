@@ -2,7 +2,7 @@
 
 \--- task \---
 
-「時間」という変数を新しく作成します。
+「時間」という変数（へんすう）を新しく作成します。
 
 \--- /task \---
 
@@ -17,7 +17,7 @@
 
 タイマーが0になると、ゲームは終わります。
 
-\--- hints \--- \--- hint \--- `緑の旗がクリックされたとき`{:class=”blockevents”}、`時間`{:class=”blockdata”}の変数を`10にする`{:class=”blockdata”}必要があります。 それは毎秒、`-1ずつ変える`{:class=”blockdata”}、そして`0になるまで繰り返す`{:class=”blockcontrol"}(くりかえす)必要があります。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- タイマーを追加するには、こうします。 ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `緑の旗がクリックされたとき`{:class=”blockevents”}、`時間`{:class=”blockdata”}の変数（へんすう）を`10にする`{:class=”blockdata”}必要があります。 それは毎秒、`-1ずつ変える`{:class=”blockdata”}、そして`0になるまで繰り返す`{:class=”blockcontrol"}(くりかえす)必要があります。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- タイマーを追加するには、こうします。 ![screenshot](images/ghost-timer-code.png)
 
 これが`時間 = 0`ブロックを作成する方法です。 ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
@@ -25,7 +25,7 @@
 
 \--- task \---
 
-友達にゲームを遊んでもらいましょう。何点とれるでしょうか？
+友達にゲームをテストしてもらいましょう。何点とれるでしょうか？
 
 \--- /task \---
 
