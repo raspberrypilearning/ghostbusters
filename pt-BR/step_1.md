@@ -1,6 +1,6 @@
 ## Introdução
 
-Você vai fazer um jogo de caça-fantasmas!
+Você vai criar um jogo de Caça-Fantasmas!
 
 ### O que você vai fazer
 
@@ -24,7 +24,7 @@ Você vai fazer um jogo de caça-fantasmas!
 
 ### Hardware
 
-+ Computador
++ Um computador
 
 ### Software
 
@@ -40,7 +40,7 @@ Você vai fazer um jogo de caça-fantasmas!
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Use estruturas de programação básicas para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 \--- /collapse \---
 
