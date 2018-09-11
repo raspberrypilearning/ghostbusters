@@ -1,17 +1,17 @@
-## Random ghosts
+## Hantu acak
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Hantu kamu sangat mudah ditangkap saat ini, karena dia tidak bergerak!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Dapatkah kamu tambahkan kode ke hantu kamu sehingga, alih-alih diam di tempat, hantu muncul pada posisi acak di layar?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Kamu mau hantu kamu untuk `pergi ke`{:class="blockmotion"} posisi acak di atas panggung setiap kali sebelum tampil. \--- /hint \--- \--- hint \--- Ada dua set blok kode yang dapat kamu gunakan. Yang ini: ![screenshot](images/ghost-random-blocks-1.png) Atau yang ini: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Kode kamu seharusnya terlihat seperti ini: ![screenshot](images/ghost-random-code-1.png) Atau dapat terlihat seperti ini: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hint \---
 
 \--- /task \---
 
-\--- tantangan \---
+\--- challenge \---
 
-## Challenge: more randomness
+## Tantangan: perilaku acak tambahan
 
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- / tantangan \---
+Dapatkah kamu membuat hantu kamu `menunggu`{:class="blockcontrol"} beberapa saat secara acak sebelum tampil? Dapatkah kamu menggunakan blok `atur ukuran`{:class="blocklooks"} untuk membuat hantu kamu berukuran acak setiap kali dia tampil? \--- / tantangan \---
