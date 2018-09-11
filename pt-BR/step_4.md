@@ -1,12 +1,12 @@
 ## Caçando fantasmas
 
-Vamos permitir que o jogador a cace fantasmas!
+Vamos permitir que o jogador cace fantasmas!
 
 \--- task \---
 
-Você pode fazer seu fantasma desaparecer quando for pego?
+Você pode fazer seu fantasma desaparecer quando ele for pego?
 
-Você deve ser capaz de clicar em fantasmas para pegá-los. Se você achar a captura difícil, você pode jogar o jogo no modo tela cheia clicando neste botão:
+Você deve ser capaz de clicar nos fantasmas para pegá-los. Se achar difícil capturá-los, você pode jogar o jogo no modo tela cheia clicando neste botão:
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -18,4 +18,4 @@ Você deve ser capaz de clicar em fantasmas para pegá-los. Se você achar a cap
 
 ## Desafio: Adicionando som
 
-Você consegue fazer o seu fantasma emitir um som cada vez que é pego? \--- /challenge \---
+Você consegue fazer o seu fantasma emitir um som a cada vez que ele for pego? \--- /challenge \---
