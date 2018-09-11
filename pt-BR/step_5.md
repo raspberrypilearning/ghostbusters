@@ -28,6 +28,6 @@ Aqui estão os blocos de códigos que você vai precisar:
 Veja como seu código deve ficar: 
 <img src="images/ghost-score-code.png" alt="screenshot" /> 
 --- /hint --- 
---- /hints ---</p>
+--- /hints ---
 
-<p>--- /task ---</p>
+--- /task ---
