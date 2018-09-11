@@ -2,41 +2,41 @@
 
 \--- task \---
 
-Create a new variable called 'time'.
+Vytvoř novou proměnnou nazvanou "čas".
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Dokážeš přidat časovač do scény tak, aby hráči měli jen 10 sekund, k chycení co největšího počtu duchů?
 
-Your timer should:
+Tvůj časovač by měl:
 
-+ Start at 10 seconds
-+ Count down every second
++ Začínat na 10 vteřinách
++ Odpočítávat každou vteřinu
 
-The game should stop when the timer gets to 0.
+Hra by měla skončit, když se časovač dostane k 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Po kliknutí na zelený praporek`{:class=”blockevents”}, inicializuj proměnnou `čas`{:class=”blockdata”} `nastavením na 10`{:class=”blockdata”}. Poté `změň čas o -1`{:class=”blockdata”} každou vteřinu `dokud nedosáhne 0`{:class=”blockcontrol"}. \--- /hint \---\--- hint \--- Zde jsou bloky, které budeš potřebovat: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Zde je způsob, jak přidat časovač do hry:\--- /hint \--- \--- /hints: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+A takto vytvoříš blok s porovnáním `čas = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Požádej kamaráda, aby vyzkoušel tvoji hru. Jaké skóre dokáže získat?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Pokud je hra příliš snadná, můžeš:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dát hráči méně času
++ Zařídit, aby se duchové se objevovali méně často
++ Zmenšit duchy
 
 \--- task \---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Několikkrát změň a otestuj svoji hru, dokud nebudeš spokojen/a s úrovní obtížnosti.
 
 \--- /task \---
