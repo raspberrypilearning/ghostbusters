@@ -10,7 +10,7 @@ Você deve ser capaz de clicar nos fantasmas para pegá-los. Se achar difícil c
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Quando clicado` {:class ="blockevents"}, seu ator fantasma deve `esconder-se` {:class ="blocklooks"}. \--- /hint \--- \--- hint \--- Seu código deve ficar assim: <0 /> \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `Quando clicado` {:class ="blockevents"}, seu ator fantasma deve `esconder-se` {:class ="blocklooks"}. \--- /hint \--- \--- hint \--- Seu código deve ficar assim: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
