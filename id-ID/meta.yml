@@ -3,32 +3,32 @@ title: Ghostbusters
 hero_image: images / ghostbusters.png
 description: Buat game tentang menangkap hantu!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: hijau
+theme: green
 listed: true
 copyedit: true
 ingredient: false
 duration: 2
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: pertandingan
-technologies: menggaruk
+interests: games
+technologies: scratch
 site_areas: projects
 hardware: ''
-software: menggaruk
+software: scratch
 version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - 
-    title: pengantar
+    title: Pengantar
   - 
-    title: Animating a ghost
+    title: Menganimasikan satu hantu
   - 
-    title: Random ghosts
+    title: Hantu acak
   - 
-    title: Catching ghosts
+    title: Menangkap hantu
   - 
-    title: Adding a score
+    title: Menambahkan skor
   - 
-    title: Adding a timer
+    title: Menambahkan pengatur waktu
   - 
-    title: 'Tantangan: lebih banyak objek'
+    title: 'Tantangan: benda tambahan'
     challenge: true
