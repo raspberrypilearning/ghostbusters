@@ -46,6 +46,6 @@ Projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank}.
 
 \--- /no-print \---
