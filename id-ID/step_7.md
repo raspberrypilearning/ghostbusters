@@ -1,14 +1,14 @@
-## Tantangan: lebih banyak objek
+## Tantangan: benda tambahan
 
-Bisakah Anda menambahkan objek lain ke gim Anda?
+Dapatkah kamu menambahkan benda lain ke game kamu?
 
 ![tangkapan layar](images/ghost-final.png)
 
-Saat Anda menambahkan objek, Anda perlu memikirkan hal-hal berikut.
+Saat kamu menambahkan benda, kamu perlu memikirkan hal-hal berikut.
 
-+ Seberapa besar itu?
-+ Akankah itu muncul lebih sering daripada hantu?
-+ Apa yang akan terlihat / terdengar seperti ketika telah ditangkap?
-+ Berapa poin yang akan skor pemain (atau kalah) untuk menangkapnya?
++ Seberapa besar benda itu?
++ Akankah benda tampil lebih atau kurang sering dibanding hantu?
++ Seperti apa tampilan/suara saat benda tertangkap?
++ Berapa poin yang akan pemain peroleh (atau kehilangan) untuk menangkapnya?
 
-Jika Anda perlu bantuan menambahkan objek lain, Anda dapat menggunakan kembali langkah-langkah di atas!
+Jika kamu perlu bantuan menambahkan benda lain, kamu dapat menggunakan kembali langkah-langkah di atas!
