@@ -1,8 +1,8 @@
-## pengantar
+## Pengantar
 
-Anda akan membuat game hantu-catching!
+Anda akan membuat game menangkap-hantu!
 
-### What you will make
+### Apa yang kamu akan buat
 
 \--- no-print \---
 
@@ -20,15 +20,15 @@ Anda akan membuat game hantu-catching!
 
 * * *
 
-## title: What you will need
+## title: Apa yang kamu butuhkan
 
-### Hardware
+### Perangkat Keras
 
-+ A computer
++ Komputer
 
-### Software
+### Perangkat Lunak
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,9 +36,9 @@ Anda akan membuat game hantu-catching!
 
 * * *
 
-## title: What you will learn
+## title: Apa yang akan kamu pelajari
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Proyek ini mencakup unsur-unsur dari rangkaian [Kurikulum Digital Making Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,6 +46,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- no-print \---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Jika kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/ghostbusters/print){: target="_blank"}.
 
 \--- /no-print \---
