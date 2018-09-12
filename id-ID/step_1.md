@@ -1,6 +1,6 @@
 ## Pengantar
 
-Anda akan membuat game menangkap-hantu!
+Anda akan membuat game menangkap hantu!
 
 ### Apa yang kamu akan buat
 
