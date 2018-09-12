@@ -32,7 +32,7 @@ Mintalah seorang teman untuk menguji game Anda. Berapa banyak poin yang bisa mer
 Jika game kamu terlalu mudah, kamu dapat:
 
 + Berikan pemain pengurangan waktu
-+ Buatlah hantu kurang sering tampil
++ Membuat hantu lebih jarang muncul
 + Buatlah hantu lebih kecil
 
 \--- task \---
