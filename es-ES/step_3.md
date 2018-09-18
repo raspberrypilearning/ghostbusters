@@ -1,37 +1,17 @@
-## Animando un fantasma
+## Fantasmas aleatorios
+
+¡Tu fantasma es muy fácil de atrapar en este momento, porque no se mueve!
 
 --- task ---
 
-Abre un nuevo proyecto vacío de Scratch.
+¿Puedes agregar código a tu fantasma para que, en lugar de permanecer en la misma posición, aparezca en posiciones aleatorias en la pantalla?
 
-[[[generic-scratch-new-project]]]
-
---- /task ---
-
---- task ---
-
-Añadir una nueva figura de fantasma y un fondo de escenario adecuado.
-
-![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
+--- hints --- --- hint --- Quieres que tu fantasma `vaya a`{:class=”blockmotion”} una posición aleatoria en el escenario antes de aparecer cada vez. --- /hint --- --- hint --- Puedes usar dos conjuntos de bloques de código. Este: ![screenshot](images/ghost-random-blocks-1.png) O este otro: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-random-code-1.png) O puede quedar así: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
---- task ---
+--- challenge ---
 
-Añade código a tu fantasma para que aparezca y desaparezca siempre después de que hagas clic en la bandera.
+## Desafío: más aleatoriedad
 
----hints--- ---hint--- Una vez que hagas `click en la bandera verde`, tendrás que hacer que tu fantasma se `esconda` durante `un segundo` y que después vuelva a `aparecer`durante`un segundo`. Esto lo tendrá que hacer para `siempre`. --- /hint --- --- hint --- Estos son los bloques de código que necesitarás: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- task ---
-
-Prueba y guarda tu proyecto.
-
-[[[generic-scratch-saving]]]
-
---- /task ---
+¿Puedes hacer que tu fantasma `espere`{:class=”blockcontrol”} durante un tiempo aleatorio antes de aparecer? ¿Puedes utilizar el bloque `fijar tamaño`{:class=”blocklooks”} para hacer que tu fantasma tenga un tamaño aleatorio cada vez que aparece? --- /challenge ---

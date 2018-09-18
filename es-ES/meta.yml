@@ -14,14 +14,14 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 4.0.1
+version: 4.2.1
 last_tested: 2018-01-01
 steps:
   - title: Introducción
-  - title: Lo que necesitarás
   - title: Animando un fantasma
   - title: Fantasmas aleatorios
   - title: Atrapando fantasmas
   - title: Añadir una puntuación
   - title: Añadir un temporizador
   - title: 'Desafío: más objetos'
+    challenge: true

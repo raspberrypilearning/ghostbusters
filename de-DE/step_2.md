@@ -1,9 +1,37 @@
-## Was du brauchen wirst
+## Ein Gespenst lebendig werden lassen
 
-### Hardware
+--- task ---
 
-+ Computer, der Scratch 2.0 ausführen kann
+Öffne ein neues Scratch-Projekt.
 
-### Software
+[[[generic-scratch-new-project]]]
 
-+ Scratch 2.0 (entweder [online](https://scratch.mit.edu/projects/editor/) oder [offline](https://scratch.mit.edu/scratch2download/))
+--- /task ---
+
+--- task ---
+
+Wähle eine neue Gespenster-Figur und einen passenden Bühnenhintergrund aus.
+
+![Screenshot](images/ghost-ghost.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
+[[[generic-scratch-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Füge für dein Gespenst Code zusammen, so dass es sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
+
+--- hints --- --- hint --- Wenn auf die `grüne Flagge geklickt wird`{:class=”blockevents”}, musst du erreichen dass sich dein Gespenst `eine Sekunde`{:class=”blockcontrol”} lang `versteckt`{:class=”blocklooks”} und dann `eine Sekunde`{:class=”blockcontrol”} lang `zeigt`{:class=”blocklooks”}. Das muss es `fortlaufend`{:class=”blockcontrol”} wiederholen. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Teste und speichere nun dein Projekt.
+
+[[[generic-scratch-saving]]]
+
+--- /task ---

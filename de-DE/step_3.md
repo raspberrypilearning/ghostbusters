@@ -1,37 +1,17 @@
-## Ein Gespenst lebendig werden lassen
+## Zufällige Orte
+
+Dein Gespenst ist im Moment wirklich leicht zu fangen, weil es sich nicht bewegt!
 
 --- task ---
 
-Öffne ein neues Scratch-Projekt.
+Kannst du dein Gespenst so programmieren, dass es an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
 
-[[[generic-scratch-new-project]]]
-
---- /task ---
-
---- task ---
-
-Füge eine neue Geister-Figur und einen passenden Bühnenhintergrund hinzu.
-
-![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
+--- hints --- --- hint --- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position auf der Bühne `zu gehen`{:class=”blockmotion”}. --- /hint --- --- hint --- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
---- task ---
+--- challenge ---
 
-Füge deinem Geist Code hinzu, so dass er sich fortlaufend zeigt und wieder versteckt, nachdem du auf die grüne Flagge geklickt hast.
+## Herausforderung: Mehr Zufälligkeit
 
---- hints --- --- hint --- Sobald die `grüne Flagge angeklickt wird`, muss sich dein Gespenst `eine Sekunde` lang `verstecken` und sich dann `eine Sekunde` lang `zeigen`. Es muss dies `fortlaufend` tun. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- So sollte dein Code aussehen: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- task ---
-
-Teste und speichere nun dein Projekt.
-
-[[[generic-scratch-saving]]]
-
---- /task ---
+Kannst du dein Gespenst eine zufällige Zeit `warten`{:class=”blockcontrol”} lassen, bevor es erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`{:class=”blocklooks”}-Block vor jedem Erscheinen eine zufällige Größe geben? --- /challenge ---

@@ -1,60 +1,47 @@
 ## Einleitung
 
-Du wirst ein Geisterjagd-Spiel machen!
+Du wirst ein Gespensterjagd-Spiel machen!
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/227537779/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
-</div>
+### Was du machen wirst
 
-Falls du dieses Projekt ausdrucken musst, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/ghostbusters/print).
+--- no-print ---
+
+![Vorschau](images/showcase.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Vorschau](images/showcase-static.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
-title: Hinweise für Gruppenleiter
+title: Was du brauchen wirst
 ---
-## Einleitung:
+### Hardware
 
-In diesem Projekt lernen Kinder, wie sie Variablen verwenden, um Daten in ihren Programmen zu speichern.
++ Einen Computer
 
-## Ressourcen
+### Software
 
-Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) verwendet werden oder unter [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) heruntergeladen und offline benutzt werden.
-
-Sie finden eine vollständige Version dieses Projekts [online](http://scratch.mit.edu/projects/60787262/#editor) oder zum Download unter dem Link "Projektmaterialien" für dieses Projekt, der Folgendes enthält:
-
-* Ghostbusters.sb2
-
-## Lernziele
-
-* Variablen
-* Zufallszahlen
-
-Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
-
-* [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Challenges
-
-* "Mehr Zufälligkeit" - mit Zufallszahlen;
-* "Einen Klang hinzufügen" - das Wissen über Sounds festigen;
-* "Mehr Objekte" - Erlerntes anwenden, um ein neues Spielobjekt zu gestalten.
-
-## Häufig Gestellte Fragen
-
-* Wenn Kinder Schwierigkeiten haben, auf die Geister zu klicken, ohne sie herumzuziehen, können sie das Spiel im Vollbildmodus spielen, in dem sich die Geister nicht verschieben lassen.
-
-![screenshot](images/ghost-fullscreen.png)
++ Scratch 2.0 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Projektmaterialien
+title: Was du lernen wirst
 ---
-## Ressourcen für Gruppenleiter
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}:
 
-* [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters.sb2)
-* [vollständiges Scratch 2-Projekt Online](https://scratch.mit.edu/projects/227537779/#editor)
++ [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 --- /collapse ---
+
+--- no-print ---
+
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/ghostbusters/print).
+
+--- /no-print ---
