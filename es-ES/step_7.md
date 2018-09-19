@@ -12,6 +12,7 @@ Cuando estás añadiendo un objeto, necesitas tener en cuenta lo siguiente:
 + ¿Cuántos puntos ganará (o perderá) el jugador por atraparlo?
 
 Si necesitas ayuda para añadir otro objeto ¡puedes reutilizar los pasos anteriores!
+
 ***
 ### Traducción aportada por la comunidad
 

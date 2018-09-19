@@ -23,5 +23,5 @@ steps:
   - title: Attraper des fantômes
   - title: Ajouter un score
   - title: Ajouter un chronomètre
-  - title: "Défi : plus d''objets"
+  - title: "Défi : plus d'objets"
     challenge: true
