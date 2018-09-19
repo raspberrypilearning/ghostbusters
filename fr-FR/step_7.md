@@ -12,6 +12,7 @@ Quand tu ajoutes un objet, tu dois penser aux éléments suivants.
 + Combien de points va le joueur marquer (ou perdre) pour l'avoir attrapé ?
 
 Si tu as besoin d'aide pour ajouter un autre objet, tu peux réutiliser les étapes en haute ici !
+
 ***
 ### Traduction de la communauté
 
