@@ -18,7 +18,7 @@
 
 --- collapse ---
 ---
-## title: 必要なもの
+title: 必要なもの
 ---
 ### ハードウェア
 
@@ -32,8 +32,8 @@
 
 --- collapse ---
 ---
-## title: 学習すること
-
+title: 学習すること
+---
 このプロジェクトでは[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
 
 + [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
