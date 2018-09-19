@@ -1,0 +1,27 @@
+---
+title: Ghostbusters
+hero_image: images/ghostbusters.png
+description: Faites un jeu sur attraper des fantômes!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: 1, design-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
+interests: games
+technologies: scratch
+site_areas: projets
+hardware: ''
+software: scratch
+version: 4.2.1
+last_tested: 2018-01-01
+steps:
+  - title: Introduction
+  - title: Animer un fantôme
+  - title: Fantômes aléatoires
+  - title: Attraper des fantômes
+  - title: Ajouter un score
+  - title: Ajouter un chronomètre
+  - title: "Défi : plus d'objets"
+    challenge: true

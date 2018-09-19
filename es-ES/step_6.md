@@ -1,23 +1,42 @@
-## Añadir una puntuación
-
-¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
+## Añadir un temporizador
 
 --- task ---
 
-Crea una nueva variable llamada 'puntuación'.
-
-[[[generic-scratch-add-variable]]]
+Crea una nueva variable llamada 'tiempo'.
 
 --- /task ---
 
 --- task ---
 
-¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
+¿Puedes añadir un temporizador a tu escenario para darle a tu jugador solo 10 segundos para atrapar tantos fantasmas como sea posible?
 
-Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
+Tu temporizador debería:
 
-![Incrementar la puntuación](images/ghost-score-test.png)
++ Comenzar en 10 segundos
++ Contar para atrás cada segundo
 
---- hints --- --- hint --- `Cuando se hace clic en la bandera verde`, tu variable `puntuación` se debería `poner a 0`. El escenario es el mejor lugar para añadir este código. `Cuando se hace clic en la figura del fantasma`, la `puntuación` se debería `incrementar en 1`. --- /hint --- --- hint --- Estos son los bloques de código que tendrás que usar: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Aquí ves cómo se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+El juego debería detenerse cuando el temporizador llegue a 0.
+
+--- hints --- --- hint --- `Cuando hagas clic en la bandera verde`{:class=”blockevents”}, tu variable `tiempo`{:class=”blockdata”} debería `ponerse a 10`{:class=”blockdata”}. Después, se debería `cambiar por -1`{:class=”blockdata”} cada segundo `hasta que llegue a 0`{:class=”blockcontrol"}. --- /hint --- --- hint --- Aquí tienes los bloques de código que tendrás que usar: ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- Así añades el temporizador a tu juego: ![captura de pantalla](images/ghost-timer-code.png)
+
+Y así se crea el bloque para `tiempo = 0`: ![screenshot](images/ghost-timer-help.png) --- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Pídele a un/a amigo/a que pruebe tu juego. ¿Cuántos puntos puede conseguir?
+
+--- /task ---
+
+Si tu juego es demasiado fácil, puedes:
+
++ Darle menos tiempo al jugador
++ Hacer que los fantasmas aparezcan con menos frecuencia
++ Hacer los fantasmas más pequeños
+
+--- task ---
+
+Modifica y prueba tu juego varias veces hasta que creas que tiene el nivel de dificultad adecuado.
 
 --- /task ---

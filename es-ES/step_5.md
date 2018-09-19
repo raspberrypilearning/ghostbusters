@@ -1,21 +1,23 @@
-## Atrapando fantasmas
+## Añadir una puntuación
 
-¡Permitamos que el jugador atrape fantasmas!
+¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
 
 --- task ---
 
-¿Puedes hacer que tu fantasma desaparezca cuando es atrapado?
+Crea una nueva variable llamada 'puntuación'.
 
-Deberías poder hacer clic en los fantasmas para atraparlos. Si capturarlos te resulta difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
-
-![screenshot](images/ghost-fullscreen.png)
-
---- hints --- --- hint --- `Al hacer clic en ella`, la figura de tu fantasma se debería `esconder`. --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
+[[[generic-scratch-add-variable]]]
 
 --- /task ---
 
---- challenge ---
+--- task ---
 
-## Desafío: añadir un sonido
+¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
 
-¿Puedes conseguir que tu fantasma haga un sonido cada vez que es atrapado? --- /challenge ---
+Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
+
+![Incrementar la puntuación](images/ghost-score-test.png)
+
+--- hints --- --- hint --- `Cuando hagas click en la bandera verde`{:class=”blockevents”}, tu variable `puntuación`{:class=”blockdata”} debería `ponerse a 0`{:class=”blockdata”}. El escenario es el mejor lugar para añadir este código. `Cuando hagas click en la figura del fantasma`{:class=”blockevents”}, la `puntuación`{:class=”blockdata”} debería `incrementarse en 1`{:class=”blockdata”}. --- /hint --- --- hint --- Estos son los bloques de código que tendrás que usar: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Aquí ves cómo se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+
+--- /task ---

@@ -1,17 +1,21 @@
-## Zufällige Gespenster
+## Gespenster fangen
 
-Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
+Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
 
 --- task ---
 
-Kannst du deinem Geist Code hinzufügen, so dass er an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
+Kannst du dein Gespenst verschwinden lassen, wenn es gefangen wurde?
 
---- hints --- --- hint --- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position `zu gehen`. --- /hint --- --- hint --- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
+Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
+
+![Screenshot](images/ghost-fullscreen.png)
+
+--- hints --- --- hint --- `Wenn sie angeklickt wird`{:class=”blockevents”}, sollte sich die Geisterfigur `verstecken`{:class=”blocklooks”}. --- /hint --- --- hint --- Dein Code sollte so aussehen: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
 
 --- /task ---
 
 --- challenge ---
 
-## Herausforderung: Mehr Zufälligkeit
+## Herausforderung: Einen Klang dazugeben
 
-Kannst du deinen Geist eine zufällige Zeit `warten` lassen, bevor er erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`-Block vor jedem Erscheinen eine zufällige Größe geben? --- /challenge ---
+Kannst du deinen Geist dazu bringen, jedes Mal ein Geräusch zu machen, wenn er gefangen wird? --- /challenge ---

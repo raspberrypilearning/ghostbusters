@@ -1,42 +1,20 @@
-## Hinzufügen eines Timers
+## Herausforderung: mehr Objekte
 
---- task ---
+Kannst du deinem Spiel andere Objekte hinzufügen?
 
-Erstelle eine neue Variable namens "Zeit".
+![Screenshot](images/ghost-final.png)
 
---- /task ---
+Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
 
---- task ---
++ Wie groß ist es?
++ Wird es öfter als der Geist erscheinen, oder seltener?
++ Wie wird es aussehen / klingen, wenn es gefangen wurde?
++ Wie viele Punkte erhält (oder verliert) der Spieler, wenn er es fängt?
 
-Kannst du deiner Bühne einen Timer hinzufügen, so dass dein Spieler nur 10 Sekunden hat, um so viele Geister wie möglich zu fangen?
+Wenn du Hilfe beim Hinzufügen eines zusätzlichen Objekts benötigst, kannst du einfach erneut durch die vorher genannten Schritte gehen!
+***
+### Von der Community übersetzt
 
-Dein Timer sollte:
+Dieses Projekt wurde von Anastasia Heilmann/Karl Schuh übersetzt und von Thorsten Billib/Helmut Schlimper überprüft.
 
-+ bei 10 Sekunden beginnen
-+ jede Sekunde herunterzählen
-
-Das Spiel soll aufhören, wenn der Timer auf 0 steht.
-
---- hints --- --- hint --- `Wenn die grüne Flagge geklickt wird`, sollte deine `Zeit`-Variable auf `10 gesetzt werden`. Sie sollte dann jede Sekunde `um -1 geändert` werden `bis sie 0 erreicht`. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die du brauchen wirst: ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- So fügst du deinem Spiel den Timer hinzu: ![screenshot](images/ghost-timer-code.png)
-
-Und so machst du den `Zeit = 0` Block: ![screenshot](images/ghost-timer-help.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- task ---
-
-Bitte eine/n Freund/in, dein Spiel zu testen. Wie viele Punkte schafft er/sie?
-
---- /task ---
-
-Wenn dein Spiel zu einfach ist, kannst du:
-
-+ dem Spieler weniger Zeit geben
-+ die Geister weniger oft erscheinen lassen
-+ die Geister kleiner machen
-
---- task ---
-
-Verändere und teste dein Spiel ein paar Mal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
-
---- /task ---
+Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translators](https://rpf.io/translators).
