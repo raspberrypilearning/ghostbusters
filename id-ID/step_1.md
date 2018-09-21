@@ -17,9 +17,11 @@ Anda akan membuat game menangkap hantu!
 --- /print-only ---
 
 --- collapse ---
+
 ---
 title: Apa yang kamu butuhkan
 ---
+
 ### Perangkat Keras
 
 + Komputer
@@ -31,9 +33,11 @@ title: Apa yang kamu butuhkan
 --- /collapse ---
 
 --- collapse ---
+
 ---
 title: Apa yang akan kamu pelajari
 ---
+
 Proyek ini mencakup unsur-unsur dari rangkaian [Kurikulum Digital Making Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana.](https://www.raspberrypi.org/curriculum/programming/creator)
