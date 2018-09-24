@@ -14,4 +14,4 @@ Dokážeš přidat kód do svého ducha tak, aby se náhodně objevoval na různ
 
 ## Výzva: více náhodnosti
 
-Dokážeš svého ducha přimět `čekat` {: class="blockcontrol"} po náhodně dlouhou dobu předtím, než se znovu objeví? Dokážeš využít block `nastav velikost na`{:class="blocklooks"} tak, aby tvůj duch změnil náhodně velikost pokaždé, když se znovu objeví? \--- /challenge \---
+Dokážeš svého ducha přimět `čekat` {: class="blockcontrol"} po náhodně dlouhou dobu předtím, než se znovu objeví? Dokážeš využít blok `nastav velikost na`{:class="blocklooks"} tak, aby tvůj duch změnil náhodně velikost pokaždé, když se znovu objeví? \--- /challenge \---
