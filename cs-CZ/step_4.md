@@ -6,7 +6,7 @@ Pojďme zařídit, aby hráč mohl ducha chytat!
 
 Dokážeš, aby tvůj duch zmizel, kdykoliv je uloven?
 
-Měl bys být schopeni chytit ducha kliknutím na něj. Pokud zjistíš, že je chytání obtížné, můžeš hru hrát v režimu celé obrazovky. Přepneš do něj kliknutím na toto tlačítko:
+Měl bys být schopen chytit ducha kliknutím na něj. Pokud zjistíš, že je chytání obtížné, můžeš hru hrát v režimu celé obrazovky. Přepneš do něj kliknutím na toto tlačítko:
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -18,4 +18,4 @@ Měl bys být schopeni chytit ducha kliknutím na něj. Pokud zjistíš, že je 
 
 ## Výzva: přidání zvuku
 
-Dokážeš zařídit, aby duch udělal zvuk kdykoliv je chycen? \--- /challenge \---
+Dokážeš zařídit, aby duch udělal zvuk, kdykoliv je chycen? \--- /challenge \---
