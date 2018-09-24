@@ -8,7 +8,7 @@ Vytvoř novou proměnnou nazvanou "čas".
 
 \--- task \---
 
-Dokážeš přidat časovač do scény tak, aby hráči měli jen 10 sekund, k chycení co největšího počtu duchů?
+Dokážeš přidat časovač do scény tak, aby hráči měli jen 10 sekund k chycení co největšího počtu duchů?
 
 Tvůj časovač by měl:
 
@@ -19,7 +19,7 @@ Hra by měla skončit, když se časovač dostane k 0.
 
 \--- hints \--- \--- hint \--- `Po kliknutí na zelený praporek`{:class=”blockevents”}, inicializuj proměnnou `čas`{:class=”blockdata”} `nastavením na 10`{:class=”blockdata”}. Poté `změň čas o -1`{:class=”blockdata”} každou vteřinu `dokud nedosáhne 0`{:class=”blockcontrol"}. \--- /hint \---\--- hint \--- Zde jsou bloky, které budeš potřebovat: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Zde je způsob, jak přidat časovač do hry:\--- /hint \--- \--- /hints: ![screenshot](images/ghost-timer-code.png)
 
-A takto vytvoříš blok s porovnáním `čas = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+A takto vytvoříš blok s porovnáním `čas = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
@@ -37,6 +37,6 @@ Pokud je hra příliš snadná, můžeš:
 
 \--- task \---
 
-Několikkrát změň a otestuj svoji hru, dokud nebudeš spokojen/a s úrovní obtížnosti.
+Několikrát změň a otestuj svoji hru, dokud nebudeš spokojen/a s úrovní obtížnosti.
 
 \--- /task \---
