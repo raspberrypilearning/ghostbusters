@@ -22,7 +22,7 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 --- task ---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag. 
+Add code to your ghost so that it appears and disappears forever when you click the flag.
 
 --- hints ---
 --- hint ---
@@ -30,11 +30,32 @@ Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make 
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
-![screenshot](images/ghost-appear-blocks.png)
+![ghost-sprite](images/ghost_resize.png)
+```blocks
+hide
+
+show
+
+forever
+
+wait (1) secs
+
+wait (1) secs
+
+when flag clicked
+```
 --- /hint ---
 --- hint ---
 This is what your code should look like:
-![screenshot](images/ghost-appear-code.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+when flag clicked
+forever
+hide
+wait (1) secs
+show
+wait (1) secs
+```
 --- /hint ---
 --- /hints ---
 
@@ -47,4 +68,3 @@ Test and save your project.
 [[[generic-scratch-saving]]]
 
 --- /task ---
-
