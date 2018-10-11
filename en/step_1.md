@@ -46,8 +46,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 --- /collapse ---
 
+---
+title: Additional notes for educators
+---
+
 --- no-print ---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 --- /no-print ---
+
+[If you need the solution to this project, you can find it here](http://rpf.io/ghostbusters-get).
+
+--- /collapse ---

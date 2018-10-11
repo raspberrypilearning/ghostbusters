@@ -1,36 +1,28 @@
-## Adding a score
+## Catching ghosts
 
-Let's make things more interesting by keeping score!
-
---- task ---
-
-Create a new variable called 'score'.
-
-[[[generic-scratch-add-variable]]]
-
---- /task ---
+Let's allow the player to catch ghosts!
 
 --- task ---
 
-Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
+Can you make your ghost disappear when it's been caught?
 
-Each time a player clicks on a ghost, their score should increase.
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-![Increasing score](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen.png)
 
 --- hints ---
 --- hint ---
-`When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}.
+`When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}.
 --- /hint ---
 --- hint ---
-Here are the code blocks you will need to use:
-![screenshot](images/ghost-score-blocks.png)
---- /hint ---
---- hint ---
-Here's how to score points by clicking ghosts:
-![screenshot](images/ghost-score-code.png)
+Your code should look like this:
+![screenshot](images/ghost-catch-code.png)
 --- /hint ---
 --- /hints ---
 
 --- /task ---
 
+--- challenge ---
+## Challenge: adding a sound
+Can you get your ghost to make a sound each time it's caught?
+--- /challenge ---
