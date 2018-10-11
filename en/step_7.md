@@ -1,55 +1,36 @@
-## Adding a timer
+## Adding a score
+
+Let's make things more interesting by keeping score!
 
 --- task ---
 
-Create a new variable called 'time'.
+Create a new variable called 'score'.
+
+[[[generic-scratch-add-variable]]]
 
 --- /task ---
 
 --- task ---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
 
-Your timer should:
+Each time a player clicks on a ghost, their score should increase.
 
-+ Start at 10 seconds
-+ Count down every second
-
-The game should stop when the timer gets to 0.
+![Increasing score](images/ghost-score-test.png)
 
 --- hints ---
 --- hint ---
-`When the green flag is clicked`{:class=”blockevents”}, your `time`{:class=”blockdata”} variable should be `set to 10`{:class=”blockdata”}. It should then `change by -1`{:class=”blockdata”} every second `until it reaches 0`{:class=”blockcontrol"}.
+`When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
-![screenshot](images/ghost-timer-blocks.png)
+![screenshot](images/ghost-score-blocks.png)
 --- /hint ---
 --- hint ---
-Here's how to add the timer to your game:
-![screenshot](images/ghost-timer-code.png)
-
-And this is how to create the `time = 0` block:
-![screenshot](images/ghost-timer-help.png)
+Here's how to score points by clicking ghosts:
+![screenshot](images/ghost-score-code.png)
 --- /hint ---
 --- /hints ---
 
 --- /task ---
 
---- task ---
-
-Ask a friend to test your game. How many points can they score?
-
---- /task ---
-
-If your game is too easy, you can:
-
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
-
---- task ---
-
-Change and test your game a few times until you're happy that it's the right level of difficulty.
-
---- /task ---

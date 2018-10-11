@@ -16,13 +16,12 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 --- /hint ---
 --- hint ---
 Your code should look like this:
-![screenshot](images/ghost-catch-code.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+when this sprite clicked
+hide
+```
 --- /hint ---
 --- /hints ---
 
 --- /task ---
-
---- challenge ---
-## Challenge: adding a sound
-Can you get your ghost to make a sound each time it's caught?
---- /challenge ---
