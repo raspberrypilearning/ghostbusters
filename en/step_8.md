@@ -23,14 +23,45 @@ The game should stop when the timer gets to 0.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
-![screenshot](images/ghost-timer-blocks.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+stop [all]
+
+< [ ] = [ ] >
+
+set [time] to [10]
+
+change [time] by (-1)
+
+time
+
+wait (1) secs
+
+repeat until < >
+
+when flag clicked
+
+```
 --- /hint ---
 --- hint ---
 Here's how to add the timer to your game:
-![screenshot](images/ghost-timer-code.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+when flag clicked
+set [time] to [10]
+repeat until < (time) = [0] >
+wait (1) secs
+change [time] by (-1)
+stop [all]
+```
 
 And this is how to create the `time = 0` block:
-![screenshot](images/ghost-timer-help.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+when flag clicked
+set [time] to 10
+repeat until < [(time)] = [0] >
+```
 --- /hint ---
 --- /hints ---
 

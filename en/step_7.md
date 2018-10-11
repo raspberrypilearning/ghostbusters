@@ -24,13 +24,17 @@ Each time a player clicks on a ghost, their score should increase.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
-![screenshot](images/ghost-score-blocks.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+
+```
 --- /hint ---
 --- hint ---
-Here's how to score points by clicking ghosts:
-![screenshot](images/ghost-score-code.png)
+![ghost-sprite](images/ghost-resize.png)
+``` blocks
+
+```
 --- /hint ---
 --- /hints ---
 
 --- /task ---
-
