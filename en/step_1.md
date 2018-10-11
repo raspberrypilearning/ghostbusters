@@ -2,8 +2,6 @@
 
 You are going to make a ghost-catching game!
 
-### What you will make
-
 --- no-print ---
 
 ![showcase](images/showcase.gif)
@@ -29,6 +27,10 @@ title: What you will need
 ### Software
 
 + Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
+[downloads can be found here](http://rpf.io/ghostbusters-go)
 
 --- /collapse ---
 
