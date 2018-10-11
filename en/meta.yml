@@ -13,8 +13,8 @@ steps:
   - title: 'Challenge: more randomness'
     challenge: true
   - title: Catching ghosts
-  - title: 'Challenge: add sound'
-    challenge: true 
+  - title: 'Challenge: adding a sound'
+    challenge: true
   - title: Adding a score
   - title: Adding a timer
   - title: 'Challenge: more objects'
