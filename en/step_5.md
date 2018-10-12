@@ -16,7 +16,7 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 --- /hint ---
 --- hint ---
 Your code should look like this:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 when this sprite clicked
 hide

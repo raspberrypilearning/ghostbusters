@@ -13,12 +13,12 @@ You want your ghost to `go to`{:class=”blockmotion”} a random position on th
 --- hint ---
 There are two sets of code blocks you can use.
 This one:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 go to (random position)
 ```
 Or this one:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 go to x: (14) y: (50)
 
@@ -29,7 +29,7 @@ pick random (1) to (10)
 --- /hint ---
 --- hint ---
 Your code should look either like this:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 when flag clicked
 forever
@@ -40,7 +40,7 @@ show
 wait (1) secs
 ```
 Or it can look like this:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 when flag clicked
 forever

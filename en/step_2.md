@@ -30,7 +30,7 @@ Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make 
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
-![ghost-sprite](images/ghost_resize.png)
+![ghost-sprite](images/ghost_sprite.png)
 ```blocks
 hide
 
@@ -47,7 +47,7 @@ when flag clicked
 --- /hint ---
 --- hint ---
 This is what your code should look like:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 when flag clicked
 forever

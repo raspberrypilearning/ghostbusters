@@ -24,13 +24,13 @@ Each time a player clicks on a ghost, their score should increase.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 
 ```
 --- /hint ---
 --- hint ---
-![ghost-sprite](images/ghost-resize.png)
+![ghost-sprite](images/ghost-sprite.png)
 ``` blocks
 
 ```
