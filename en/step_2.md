@@ -37,6 +37,7 @@ hide
 show
 
 forever
+end
 
 wait (1) secs
 
@@ -55,6 +56,7 @@ hide
 wait (1) secs
 show
 wait (1) secs
+end
 ```
 --- /hint ---
 --- /hints ---

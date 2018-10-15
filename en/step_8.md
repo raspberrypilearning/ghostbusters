@@ -38,6 +38,7 @@ time
 wait (1) secs
 
 repeat until < >
+end
 
 when flag clicked
 
@@ -45,18 +46,17 @@ when flag clicked
 --- /hint ---
 --- hint ---
 Here's how to add the timer to your game:
-![ghost-sprite](images/ghost-resize.png)
 ``` blocks
 when flag clicked
 set [time] to [10]
 repeat until < (time) = [0] >
 wait (1) secs
 change [time] by (-1)
+end
 stop [all]
 ```
 
 And this is how to create the `time = 0` block:
-![ghost-sprite](images/ghost-resize.png)
 ``` blocks
 when flag clicked
 set [time] to 10
