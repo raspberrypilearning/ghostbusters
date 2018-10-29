@@ -26,7 +26,7 @@ Add code to your ghost so that it appears and disappears forever when you click 
 
 --- hints ---
 --- hint ---
-Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}.
+Once the `green flag is clicked`{:class="blockevents"}, you'll need to make your ghost `hide`{:class="blocklooks"} for `one second`{:class="blockcontrol"} and then `show`{:class="blocklooks"} for `one second`{:class="blockcontrol"}. It will need to do this `forever`{:class="blockcontrol"}.
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:

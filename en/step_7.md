@@ -20,7 +20,7 @@ Each time a player clicks on a ghost, their score should increase.
 
 --- hints ---
 --- hint ---
-`When the green flag is clicked`{:class=”blockevents”}, your `score`{:class=”blockdata”} variable should be `set to 0`{:class=”blockdata”}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class=”blockevents”}, the `score`{:class=”blockdata”} should be `changed by 1`{:class=”blockdata”}.
+`When the green flag is clicked`{:class="blockevents"}, your `score`{:class="blockdata"} variable should be `set to 0`{:class="blockdata"}. The Stage is the best place to add this code. `When the ghost sprite is clicked`{:class="blockevents"}, the `score`{:class="blockdata"} should be `changed by 1`{:class="blockdata"}.
 --- /hint ---
 --- hint ---
 Here are the code blocks you will need to use:

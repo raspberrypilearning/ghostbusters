@@ -8,7 +8,7 @@ Can you add code to your ghost so that, instead of staying in the same position,
 
 --- hints ---
 --- hint ---
-You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time.
+You want your ghost to `go to`{:class="blockmotion"} a random position on the stage before appearing each time.
 --- /hint ---
 --- hint ---
 There are two sets of code blocks you can use.
