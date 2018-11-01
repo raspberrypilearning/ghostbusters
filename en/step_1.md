@@ -30,7 +30,7 @@ title: What you will need
 
 ### Downloads
 
-[downloads can be found here](http://rpf.io/ghostbusters-go)
+[downloads can be found here](http://rpf.io/p/en/ghostbusters-go)
 
 --- /collapse ---
 
@@ -46,6 +46,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 --- /collapse ---
 
+--- collapse ---
 ---
 title: Additional notes for educators
 ---
@@ -56,6 +57,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-[If you need the solution to this project, you can find it here](http://rpf.io/ghostbusters-get).
+[If you need the solution to this project, you can find it here](http://rpf.io/p/en/ghostbusters-get).
 
 --- /collapse ---
