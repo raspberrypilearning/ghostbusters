@@ -1,14 +1,14 @@
-## Challenge: more objects
+## Challenge: more sprites
 
-Can you add other objects to your game?
+Can you add other sprites to your game?
 
 ![screenshot](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+You need to think about some things for each sprites you want to add:
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ How big should the sprite be?
++ Should it appear more or less often than the ghost sprite?
++ What does it look/sound like when it gets caught?
++ How many points does the player win (or lose) for catching the sprite?
 
-If you need help adding another object, you can reuse the steps above!
+If you need help, you can back through to the instructions in the previous steps.
