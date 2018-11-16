@@ -1,3 +1,3 @@
-## Challenge: adding a sound
+## Challenge: add a sound
 
-Can you get your ghost to make a sound each time it's caught?
+Can you add code to your ghost so that the ghost makes a sound when it's caught?

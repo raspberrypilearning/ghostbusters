@@ -1,4 +1,6 @@
-## Adding a timer
+## Add a timer
+
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
 --- task ---
 
@@ -8,7 +10,7 @@ Create a new variable called 'time'.
 
 --- task ---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
 Your timer should:
 
@@ -45,7 +47,7 @@ when flag clicked
 ```
 --- /hint ---
 --- hint ---
-Here's how to add the timer to your game:
+Here is the code you should add to create a timer:
 ![backdrop icon](images/ghost-backdrop.png)
 ``` blocks
 when flag clicked
@@ -75,6 +77,6 @@ If your game is too easy, you can:
 
 --- task ---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 --- /task ---
