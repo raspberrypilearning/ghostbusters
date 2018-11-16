@@ -32,7 +32,7 @@ Once the `green flag is clicked`{:class="blockevents"}, your ghost should `hide`
 --- hint ---
 
 Here are the code blocks you need:
-![ghost-sprite](images/ghost_sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 ```blocks
 hide
 

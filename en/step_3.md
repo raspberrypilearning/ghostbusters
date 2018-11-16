@@ -17,16 +17,14 @@ Each time before your ghost appears, it should `go to`{:class="blockmotion"} a r
 
 There are two sets of code blocks you could use here. Choose the set you prefer.
 
-Either add this set of blocks to your ghost sprite:
-
 ![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
 
 ``` blocks
 go to (random position)
 ```
 Or add this one to your sprite:
-
-![ghost-sprite](images/ghost-sprite.png)
 
 ``` blocks
 go to x: (14) y: (50)
