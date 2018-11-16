@@ -1,4 +1,4 @@
-## Animating a ghost
+## Animate a ghost
 
 --- task ---
 
