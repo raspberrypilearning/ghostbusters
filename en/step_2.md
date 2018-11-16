@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 --- task ---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Add in a new ghost sprite and a suitable Stage backdrop.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,14 +22,16 @@ Add in a new ghost sprite and a suitable stage backdrop.
 
 --- task ---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag.
+Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
 
 --- hints ---
 --- hint ---
-Once the `green flag is clicked`{:class="blockevents"}, you'll need to make your ghost `hide`{:class="blocklooks"} for `one second`{:class="blockcontrol"} and then `show`{:class="blocklooks"} for `one second`{:class="blockcontrol"}. It will need to do this `forever`{:class="blockcontrol"}.
+
+Once the `green flag is clicked`{:class="blockevents"}, your ghost should `hide`{:class="blocklooks"} for `one second`{:class="blockcontrol"} and then `show`{:class="blocklooks"} for `one second`{:class="blockcontrol"}. It needs to do this `forever`{:class="blockcontrol"}.
 --- /hint ---
 --- hint ---
-Here are the code blocks you'll need:
+
+Here are the code blocks you need:
 ![ghost-sprite](images/ghost_sprite.png)
 ```blocks
 hide
