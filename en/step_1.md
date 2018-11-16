@@ -57,6 +57,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-[If you need the solution to this project, you can find it here](http://rpf.io/p/en/ghostbusters-get).
+Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
 
 --- /collapse ---
