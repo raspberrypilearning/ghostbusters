@@ -11,7 +11,7 @@ steps:
   - title: Random ghosts
   - title: 'Challenge: more randomness'
     challenge: true
-  - title: Code for ctching ghosts
+  - title: Code for catching ghosts
   - title: 'Challenge: add a sound'
     challenge: true
   - title: Add a score
