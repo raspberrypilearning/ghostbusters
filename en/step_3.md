@@ -4,21 +4,30 @@ Your ghost is really easy to catch at the moment, because it doesn't move!
 
 --- task ---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
 --- hints ---
+
 --- hint ---
-You want your ghost to `go to`{:class="blockmotion"} a random position on the stage before appearing each time.
+
+Each time before your ghost appears, it should `go to`{:class="blockmotion"} a random position on the Stage.
+
 --- /hint ---
 --- hint ---
-There are two sets of code blocks you can use.
-This one:
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+Either add this set of blocks to your ghost sprite:
+
 ![ghost-sprite](images/ghost-sprite.png)
+
 ``` blocks
 go to (random position)
 ```
-Or this one:
+Or add this one to your sprite:
+
 ![ghost-sprite](images/ghost-sprite.png)
+
 ``` blocks
 go to x: (14) y: (50)
 
@@ -26,10 +35,15 @@ pick random (1) to (10)
 
 pick random (1) to (10)
 ```
+
 --- /hint ---
+
 --- hint ---
-Your code should look either like this:
+
+Your code could look either like this:
+
 ![ghost-sprite](images/ghost-sprite.png)
+
 ``` blocks
 when flag clicked
 forever
@@ -39,8 +53,11 @@ go to (random position)
 show
 wait (1) secs
 ```
-Or it can look like this:
+
+Or it could look like this:
+
 ![ghost-sprite](images/ghost-sprite.png)
+
 ``` blocks
 when flag clicked
 forever
