@@ -1,5 +1,7 @@
 ## Adding a timer
 
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+
 --- task ---
 
 Create a new variable called 'time'.
@@ -8,7 +10,7 @@ Create a new variable called 'time'.
 
 --- task ---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
 Your timer should:
 
@@ -22,8 +24,10 @@ The game should stop when the timer gets to 0.
 `When the green flag is clicked`{:class="blockevents"}, your `time`{:class="blockdata"} variable should be `set to 10`{:class="blockdata"}. It should then `change by -1`{:class="blockdata"} every second `until it reaches 0`{:class="blockcontrol"}.
 --- /hint ---
 --- hint ---
-Here are the code blocks you will need to use:
+Here are the code blocks you need:
+
 ![ghost-sprite](images/ghost-resize.png)
+
 ``` blocks
 stop [all]
 
@@ -45,7 +49,9 @@ when flag clicked
 ```
 --- /hint ---
 --- hint ---
-Here's how to add the timer to your game:
+
+Here is the code you should add to create a timer:
+
 ``` blocks
 when flag clicked
 set [time] to [10]
@@ -57,6 +63,7 @@ stop [all]
 ```
 
 And this is how to create the `time = 0` block:
+
 ``` blocks
 when flag clicked
 set [time] to 10
@@ -81,6 +88,6 @@ If your game is too easy, you can:
 
 --- task ---
 
-Change and test your game a few times until you're happy that it's the right level of difficulty.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 --- /task ---
