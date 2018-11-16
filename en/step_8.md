@@ -24,7 +24,7 @@ The game should stop when the timer gets to 0.
 `When the green flag is clicked`{:class="blockevents"}, your `time`{:class="blockdata"} variable should be `set to 10`{:class="blockdata"}. It should then `change by -1`{:class="blockdata"} every second `until it reaches 0`{:class="blockcontrol"}.
 --- /hint ---
 --- hint ---
-Here are the code blocks you will need to use:
+Here are the code blocks you need to use:
 ![ghost-sprite](images/ghost-backdrop.png)
 ``` blocks
 stop [all]
