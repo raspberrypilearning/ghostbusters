@@ -21,7 +21,7 @@ The game should stop when the timer gets to 0.
 
 --- hints ---
 --- hint ---
-`When the green flag is clicked`{:class="blockevents"}, your `time`{:class="blockdata"} variable should be `set to 10`{:class="blockdata"}. It should then `change by -1`{:class="blockdata"} every second `until it reaches 0`{:class="blockcontrol"}.
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
 --- /hint ---
 --- hint ---
 Here are the code blocks you need to use:

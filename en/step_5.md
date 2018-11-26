@@ -13,7 +13,7 @@ If you test your game and find catching ghosts difficult, you can play the game 
 --- hints ---
 --- hint ---
 
-`When clicked`{:class="blockevents"}, your ghost sprite should `hide`{:class="blocklooks"}.
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
 
 --- /hint ---
 --- hint ---

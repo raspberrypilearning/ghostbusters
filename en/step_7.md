@@ -6,7 +6,7 @@ Now you're going to make your game more interesting by keeping score!
 
 Create a new variable called `score`.
 
-[[[generic-scratch-add-variable]]]
+[[[generic-scratch3-add-variable]]]
 
 --- /task ---
 
@@ -21,9 +21,9 @@ Each time a player clicks on a ghost, their score should increase.
 --- hints ---
 --- hint ---
 
-`When the green flag is clicked`{:class="blockevents"}, your `score`{:class="blockdata"} variable should be `set to 0`{:class="blockdata"}. The Stage is the best place to add this code.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
 
-`When the ghost sprite is clicked`{:class="blockevents"}, the `score`{:class="blockdata"} variable should be `changed by 1`{:class="blockdata"}.
+`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
 --- /hint ---
 --- hint ---
