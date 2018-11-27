@@ -51,7 +51,8 @@ when flag clicked
 --- hint ---
 This is what your code should look like:
 ![ghost-sprite](images/ghost-sprite.png)
-``` blocks
+
+```blocks3
 when flag clicked
 forever
 hide

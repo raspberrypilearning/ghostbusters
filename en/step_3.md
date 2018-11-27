@@ -21,12 +21,12 @@ There are two sets of code blocks you could use here. Choose the set you prefer.
 
 Either add this set of blocks to your ghost sprite:
 
-``` blocks
+```blocks3
 go to (random position)
 ```
 Or add this one to your sprite:
 
-``` blocks
+```blocks3
 go to x: (14) y: (50)
 
 pick random (1) to (10)
@@ -42,28 +42,30 @@ Your code could look either like this:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-``` blocks
+```blocks3
 when flag clicked
 forever
 hide
-wait 1 secs
+wait (1) secs
 go to (random position)
 show
 wait (1) secs
+end
 ```
 
 Or it could look like this:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-``` blocks
+```blocks3
 when flag clicked
 forever
 hide
 wait (1) secs
-goto x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
 show
 wait (1) secs
+end
 ```
 --- /hint ---
 --- /hints ---

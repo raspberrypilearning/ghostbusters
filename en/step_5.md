@@ -8,7 +8,7 @@ Can you make your ghost disappear when it's been caught? The player should be ab
 
 If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![screenshot](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
 --- hints ---
 --- hint ---
@@ -20,7 +20,7 @@ If you test your game and find catching ghosts difficult, you can play the game 
 
 Your code should look like this:
 ![ghost-sprite](images/ghost-sprite.png)
-``` blocks
+```blocks3
 when this sprite clicked
 hide
 ```
