@@ -34,10 +34,6 @@ title: What you will need
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
-
-[downloads can be found here](http://rpf.io/p/en/ghostbusters-go)
-
 --- /collapse ---
 
 --- collapse ---
