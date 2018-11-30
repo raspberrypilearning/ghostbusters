@@ -42,9 +42,9 @@ title: What you will need
 title: What you will learn
 ---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ How to use random numbers to animate sprites
++ How to react to mouse clicks
++ How to create a timer
 
 --- /collapse ---
 

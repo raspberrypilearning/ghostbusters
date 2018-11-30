@@ -51,7 +51,6 @@ set [score] to (0)
 ```blocks3
 When this sprite clicked
 hide
-play sound [pop]
 + change [score] by (1)
 ```
 --- /hint ---
