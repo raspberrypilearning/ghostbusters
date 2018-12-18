@@ -35,7 +35,7 @@ set [time] to [10]
 
 change [time] by (-1)
 
-time
+(time)
 
 wait (1) secs
 

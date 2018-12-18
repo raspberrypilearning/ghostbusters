@@ -22,7 +22,7 @@ There are two sets of code blocks you could use here. Choose the set you prefer.
 Either add this set of blocks to your ghost sprite:
 
 ```blocks3
-go to (random position)
+go to (random position v)
 ```
 Or add this one to your sprite:
 
@@ -47,7 +47,7 @@ when flag clicked
 forever
 hide
 wait (1) secs
-go to (random position)
+go to (random position v)
 show
 wait (1) secs
 end
