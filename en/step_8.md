@@ -37,7 +37,7 @@ change [time] by (-1)
 
 (time)
 
-wait (1) secs
+wait (1) seconds
 
 repeat until < >
 end
@@ -53,7 +53,7 @@ Here is the code you should add to create a timer:
 when flag clicked
 set [time] to [10]
 repeat until < (time) = [0] >
-wait (1) secs
+wait (1) seconds
 change [time] by (-1)
 end
 stop [all]

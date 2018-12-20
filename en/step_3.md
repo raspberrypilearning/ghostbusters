@@ -46,10 +46,10 @@ Your code could look either like this:
 when flag clicked
 forever
 hide
-wait (1) secs
+wait (1) seconds
 go to (random position v)
 show
-wait (1) secs
+wait (1) seconds
 end
 ```
 
@@ -61,10 +61,10 @@ Or it could look like this:
 when flag clicked
 forever
 hide
-wait (1) secs
+wait (1) seconds
 go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
 show
-wait (1) secs
+wait (1) seconds
 end
 ```
 --- /hint ---

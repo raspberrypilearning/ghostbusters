@@ -41,9 +41,9 @@ show
 forever
 end
 
-wait (1) secs
+wait (1) seconds
 
-wait (1) secs
+wait (1) seconds
 
 when flag clicked
 ```
@@ -56,9 +56,9 @@ This is what your code should look like:
 when flag clicked
 forever
 hide
-wait (1) secs
+wait (1) seconds
 show
-wait (1) secs
+wait (1) seconds
 end
 ```
 --- /hint ---
