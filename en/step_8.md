@@ -26,38 +26,12 @@ The game should stop when the timer gets to 0.
 --- hint ---
 Here are the code blocks you need to use:
 ![ghost-sprite](images/ghost-backdrop.png)
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time] to [10]
-
-change [time] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
+![blocks_1545295403_7331138](images/blocks_1545295403_7331138.png)
 --- /hint ---
 --- hint ---
 Here is the code you should add to create a timer:
 ![backdrop icon](images/ghost-backdrop.png)
-```blocks3
-when flag clicked
-set [time] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time] by (-1)
-end
-stop [all]
-```
+![blocks_1545295404_845073](images/blocks_1545295404_845073.png)
 --- /hint ---
 --- /hints ---
 
