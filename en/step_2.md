@@ -1,40 +1,45 @@
-## Animating a ghost
+## Animate a ghost
 
 --- task ---
 
 Open a new empty Scratch project.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 --- /task ---
 
 --- task ---
 
-Add in a new ghost sprite and a suitable stage backdrop.
+Add in a new ghost sprite and a suitable Stage backdrop.
 
 ![screenshot](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
 
-Add code to your ghost so that it appears and disappears forever when you click the flag. 
+Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
 
 --- hints ---
 --- hint ---
-Once the `green flag is clicked`{:class=”blockevents”}, you'll need to make your ghost `hide`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”} and then `show`{:class=”blocklooks”} for `one second`{:class=”blockcontrol”}. It will need to do this `forever`{:class=”blockcontrol”}.
+
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
 --- /hint ---
 --- hint ---
-Here are the code blocks you'll need:
-![screenshot](images/ghost-appear-blocks.png)
+
+Here are the code blocks you need:
+![ghost-sprite](images/ghost-sprite.png)
+![blocks_1545295390_6050084](images/blocks_1545295390_6050084.png)
 --- /hint ---
 --- hint ---
 This is what your code should look like:
-![screenshot](images/ghost-appear-code.png)
+![ghost-sprite](images/ghost-sprite.png)
+
+![blocks_1545295392_7492528](images/blocks_1545295392_7492528.png)
 --- /hint ---
 --- /hints ---
 
@@ -44,7 +49,6 @@ This is what your code should look like:
 
 Test and save your project.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---
-
