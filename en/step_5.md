@@ -20,7 +20,10 @@ If you test your game and find catching ghosts difficult, you can play the game 
 
 Your code should look like this:
 ![ghost-sprite](images/ghost-sprite.png)
-![blocks_1545295398_231738](images/blocks_1545295398_231738.png)
+```blocks3
+when this sprite clicked
+hide
+```
 --- /hint ---
 --- /hints ---
 

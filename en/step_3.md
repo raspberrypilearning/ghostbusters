@@ -21,10 +21,18 @@ There are two sets of code blocks you could use here. Choose the set you prefer.
 
 Either add this set of blocks to your ghost sprite:
 
-![blocks_1545295393_828886](images/blocks_1545295393_828886.png)
+```blocks3
+go to (random position v)
+```
 Or add this one to your sprite:
 
-![blocks_1545295394_8934085](images/blocks_1545295394_8934085.png)
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
 
 --- /hint ---
 
@@ -34,13 +42,31 @@ Your code could look either like this:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-![blocks_1545295395_9685948](images/blocks_1545295395_9685948.png)
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 Or it could look like this:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-![blocks_1545295397_0649676](images/blocks_1545295397_0649676.png)
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
 --- /hint ---
 --- /hints ---
 
