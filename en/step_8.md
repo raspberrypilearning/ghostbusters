@@ -31,9 +31,9 @@ stop [all]
 
 < [ ] = [ ] >
 
-set (time) to [10]
+set [time v] to [10]
 
-change (time) by (-1)
+change [time v] by (-1)
 
 (time)
 
@@ -51,10 +51,10 @@ Here is the code you should add to create a timer:
 ![backdrop icon](images/ghost-backdrop.png)
 ```blocks3
 when flag clicked
-set (time) to [10]
+set [time v] to [10]
 repeat until < (time) = [0] >
 wait (1) seconds
-change (time) by (-1)
+change [time v] by (-1)
 end
 stop [all]
 ```
