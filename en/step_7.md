@@ -29,17 +29,30 @@ Each time a player clicks on a ghost, their score should increase.
 --- hint ---
 Here are the code blocks you need:
 ![backdrop icon](images/ghost-backdrop.png)
-![blocks_1545295399_3485494](images/blocks_1545295399_3485494.png)
+```blocks3
+set [score] to (0)
+
+when flag clicked
+```
 
 ![ghost-sprite](images/ghost-sprite.png)
-![blocks_1545295400_461942](images/blocks_1545295400_461942.png)
+```blocks3
+change [score] by (1)
+```
 --- /hint ---
 --- hint ---
 ![backdrop icon](images/ghost-backdrop.png)
 
-![blocks_1545295401_5663896](images/blocks_1545295401_5663896.png)
+```blocks3
+when flag clicked
+set [score] to (0)
+```
 ![ghost-sprite](images/ghost-sprite.png)
-![blocks_1545295402_655537](images/blocks_1545295402_655537.png)
+```blocks3
+When this sprite clicked
+hide
++ change [score] by (1)
+```
 --- /hint ---
 --- /hints ---
 
