@@ -1,18 +1,25 @@
-## परिचय
+\--- no-print \---
 
-आप एक भूत-पकड़ने वाला गेम बनाने जा रहे हैं!
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
-### आप क्या बनाएँगे
+\--- /no-print \---
+
+## Introduction
+
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
-![शोकेस](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![शोकेस](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -20,15 +27,15 @@
 
 * * *
 
-## title: आपको किन चीजों की आवश्यकता होगी
+## title: What you will need
 
-### हार्डवेयर
+### Hardware
 
-+ एक कंप्यूटर
++ A computer
 
-### सॉफ्टवेयर
+### Software
 
-+ Scratch 2.0 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -36,16 +43,24 @@
 
 * * *
 
-## title: आप क्या सीखेंगे
+## title: What you will learn
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
-
-+ [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
++ How to use random numbers to animate sprites
++ How to react to mouse clicks
++ How to create a timer
 
 \--- /collapse \---
 
+## \--- collapse \---
+
+## title: Additional notes for educators
+
 \--- no-print \---
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/ghostbusters/print) का उपयोग करें।
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
+
+Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+
+\--- /collapse \---
