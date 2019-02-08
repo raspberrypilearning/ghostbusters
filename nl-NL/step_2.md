@@ -1,6 +1,6 @@
-## Animate a ghost
+## Beweeg een spook
 
-\--- task \---
+\--- task \----
 
 Open een nieuw leeg Scratch-project.
 
@@ -8,7 +8,7 @@ Open een nieuw leeg Scratch-project.
 
 \--- /task \---
 
-\--- task \---
+\--- task \----
 
 Add in a new ghost sprite and a suitable Stage backdrop.
 
@@ -61,9 +61,9 @@ end
 
 \--- /task \---
 
-\--- task \---
+\--- task \----
 
-Test and save your project.
+Test en sla je project op.
 
 [[[generic-scratch3-saving]]]
 
