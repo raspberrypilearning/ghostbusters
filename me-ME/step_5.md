@@ -1,23 +1,28 @@
-## Dodavanje rezultata
+## Code for catching ghosts
 
-Napravimo igru zanimljivijom tako što ćemo dodati rezultat!
-
-\--- task \---
-
-Kreiraj novu promjenljivu (variable) pod nazivom 'rezultat'.
-
-[[[generic-scratch-add-variable]]]
-
-\--- /task \---
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task \---
 
-Da li možeš da pratiš igračev rezultat? Igrači bi trebalo da dobijaju bodove kada kliknu na duhove i uhvate ih.
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-Svaki put kada igrač klikne na duha, njegov rezultat treba da se poveća.
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![Povećavanje rezultata](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `Kada je kliknuto na zelenu zastavicu` {:class=”blockevents”} (when the green flag is clicked), tvoja promjenljiva `rezultat`{:class=”blockdata”} treba da bude `postavljena na 0`{:class=”blockdata”} (set to 0). Pozornica (stage) je najbolje mjesto za dodavanje ovog kôda. `Kada je kliknuto na lik duha`{:class=”blockevents”} (when the ghost sprite is clicked), `rezultat`{:class=”blockdata”} treba da bude `uvećan za 1`{:class=”blockdata”} (changed by 1). \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koje treba da koristiš: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Ovako se dobijaju bodovi kada se klikne na duhove: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
