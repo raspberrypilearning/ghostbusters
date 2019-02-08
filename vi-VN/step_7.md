@@ -1,14 +1,59 @@
-## Thách thức: nhiều đối tượng hơn
+## Add a score
 
-Bạn có thể thêm các đối tượng khác vào trò chơi của mình không?
+Now you're going to make your game more interesting by keeping score!
 
-![ảnh chụp màn hình](images/ghost-final.png)
+\--- task \---
 
-Khi thêm một đối tượng, bạn cần phải suy nghĩ về những điều sau đây.
+Create a new variable called `score`{:class="block3variables"}.
 
-+ Nó sẽ to đến mức nào?
-+ Nó sẽ xuất hiện thường xuyên hơn hay ít thường xuyên hơn con ma?
-+ Nó sẽ trông như thế nào/phát ra âm thanh gì khi nó bị bắt?
-+ Người chơi sẽ ghi được (hay để mất) bao nhiêu điểm khi bắt được nó?
+[[[generic-scratch3-add-variable]]]
 
-Nếu bạn cần trợ giúp khi thêm đối tượng khác, bạn có thể sử dụng lại các bước ở trên!
+\--- /task \---
+
+\--- task \---
+
+Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+
+`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+set [score v] to (0)
+
+when flag clicked
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+change [score v] by (1)
+```
+
+\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
+
++ change [score v] by (1)
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
