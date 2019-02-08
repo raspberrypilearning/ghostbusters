@@ -4,20 +4,20 @@ Now you're going to add a timer so that the player only has ten seconds to catch
 
 \--- task \---
 
-Create a new variable called 'time'.
+Maak een nieuwe variabele met de naam 'time'.
 
 \--- /task \---
 
-\--- task \---
+\--- task \----
 
 Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Your timer should:
+Je timer zou moeten:
 
-+ Start at 10 seconds
-+ Count down every second
++ Beginnen met 10 seconden
++ Elke seconde aftellen
 
-The game should stop when the timer gets to 0.
+Het spel zou moeten stoppen als de timer op 0 komt.
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -55,19 +55,19 @@ stop [all]
 
 \--- /hint \--- \--- /hints \---
 
-\--- /task \---
+-- /task \---
 
-\--- task \---
+\--- task \----
 
 Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Als je spel te gemakkelijk is, kun je:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ De speler minder tijd geven
++ De spoken minder vaak laten verschijnen
++ De spoken kleiner maken
 
 \--- task \---
 
