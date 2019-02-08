@@ -1,8 +1,8 @@
-## Code for catching ghosts
+## Een score toevoegen
 
 Now you're going to add code to your game so that the player to catch ghosts!
 
-\--- task \---
+\--- task \----
 
 Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
