@@ -1,4 +1,4 @@
-## Add a score
+## 도전 과제: 더 많은 목표물
 
 Now you're going to make your game more interesting by keeping score!
 
@@ -14,13 +14,13 @@ Create a new variable called `score`{:class="block3variables"}.
 
 Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
 
-Each time a player clicks on a ghost, their score should increase.
+플레이어가 유령을 클릭할 때마다 점수가 올라가야 합니다.
 
-![Increasing score](images/ghost-score-test.png)
+![점수 올리기](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. 무대는 이 코드를 추가하는 가장 좋은 곳입니다.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
