@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Menambahkan pengatur waktu
 
 Can you add code to your ghost so that the ghost makes a sound when it's caught?
