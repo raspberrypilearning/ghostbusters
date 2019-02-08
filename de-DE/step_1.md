@@ -4,9 +4,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Einleitung
+## Einführung
 
-You are going to make a ghost-catching game!
+Du wirst ein Gespensterjagd-Spiel machen!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![Vorschau](images/showcase-static.png)
 
 \--- /print-only \---
 
