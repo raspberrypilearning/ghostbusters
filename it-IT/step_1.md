@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introduzione
 
-You are going to make a ghost-catching game!
+Stai per creare un gioco di acchiappa-fantasmi!
 
 \--- no-print \---
 
@@ -49,7 +49,7 @@ You are going to make a ghost-catching game!
 + How to react to mouse clicks
 + How to create a timer
 
-\--- /collapse \---
+\--- / chiudi \---
 
 ## \--- collapse \---
 
@@ -63,4 +63,4 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
 
-\--- /collapse \---
+\--- / chiudi \---
