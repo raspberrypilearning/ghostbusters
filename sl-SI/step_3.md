@@ -4,14 +4,70 @@ Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to`{:class=”blockmotion”} a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- izziv \---
-
-## Challenge: more randomness
-
-Can you make your ghost `wait`{:class=”blockcontrol”} a random amount of time before appearing? Can you use the `set size`{:class=”blocklooks”} block to make your ghost a random size each time it appears? \--- / izziv \---
