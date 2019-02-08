@@ -1,14 +1,59 @@
-## 도전 과제: 더 많은 목표물
+## Add a score
 
-게임에 다른 물건을 추가할 수 있나요?
+Now you're going to make your game more interesting by keeping score!
 
-![screenshot](images/ghost-final.png)
+\--- task \---
 
-물건을 추가할 때 다음과 같은 사항들을 생각해 보세요.
+Create a new variable called `score`{:class="block3variables"}.
 
-+ 얼마나 큰가요?
-+ 유령보다 더 자주 나와야 할까요? 덜 나와야 할까요?
-+ 잡힐때 어떤 모양이어야 할까요? 어떤 소리를 낼까요?
-+ 잡으면 몇 점을 얻거나 잃게 할까요?
+[[[generic-scratch3-add-variable]]]
 
-물건을 추가하는 데 도움이 필요하면, 위에서 배운 것을 다시 활용해 보세요!
+\--- /task \---
+
+\--- task \---
+
+Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+
+`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+set [score v] to (0)
+
+when flag clicked
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+change [score v] by (1)
+```
+
+\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
+
++ change [score v] by (1)
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
