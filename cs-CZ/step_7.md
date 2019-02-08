@@ -14,13 +14,13 @@ Create a new variable called `score`{:class="block3variables"}.
 
 Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
 
-Each time a player clicks on a ghost, their score should increase.
+Pokaždé, když hráč klikne na ducha, by se jeho skóre mělo zvýšit.
 
-![Increasing score](images/ghost-score-test.png)
+![Zvýšení skóre](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Scéna je nejlepším místem pro přidání tohoto kódu.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
