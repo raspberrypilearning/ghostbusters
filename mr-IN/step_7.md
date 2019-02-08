@@ -1,14 +1,59 @@
-## आव्हान: अधिक वस्तू
+## Add a score
 
-आपण आपल्या गेममध्ये इतर वस्तू जोडू शकता?
+Now you're going to make your game more interesting by keeping score!
 
-![स्क्रीनशॉट](images/ghost-final.png)
+\--- task \---
 
-जेव्हा आपण एखादा ऑब्जेक्ट जोडत असतो, तेव्हा आपण खालील गोष्टींबद्दल विचार करण्याची गरज आहे.
+Create a new variable called `score`{:class="block3variables"}.
 
-+ तो किती मोठा आहे?
-+ ते भूत पेक्षा अधिक किंवा कमी वेळा दिसून येईल?
-+ ते पकडले गेल्यावर काय दिसेल / ध्वनी येईल?
-+ खेळाडू पकडण्यासाठी किती गुण (किंवा गमावले जातील)?
+[[[generic-scratch3-add-variable]]]
 
-आपल्याला इतर ऑब्जेक्ट जोडताना मदतीची आवश्यकता असल्यास, आपण वरील चरण पुन्हा वापरू शकता!
+\--- /task \---
+
+\--- task \---
+
+Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+
+Each time a player clicks on a ghost, their score should increase.
+
+![Increasing score](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+
+`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+set [score v] to (0)
+
+when flag clicked
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+change [score v] by (1)
+```
+
+\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
+
++ change [score v] by (1)
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
