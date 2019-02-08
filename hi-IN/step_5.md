@@ -1,23 +1,28 @@
-## स्कोर जोड़ना
+## Code for catching ghosts
 
-चलो स्कोर जोड़ कर चीजों को और अधिक रोचक बनाएं!
-
-\--- task \---
-
-'score' नामक एक नया वेरिएबल बनाएँ।
-
-[[[generic-scratch-add-variable]]]
-
-\--- /task \---
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task \---
 
-क्या आप खिलाड़ी के स्कोर पर नज़र रख सकते हैं? स्कोर बनाने के लिए खिलाड़ी को भूत पर क्लिक करना होगा।
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-हर बार खिलाड़ी भूत पर क्लिक करें, तो उनके स्कोर बढ़ने चाहिए।
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![स्कोर बढ़ाना](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `जब हरा झंडा क्लिक किया जाए` </code>{:class=”blockevents”}, तो आपका `score` {: class = "blockdata"} वेरिएबल `0 पर सेट हो जाना चाहिए</0>{:class=”blockdata”}। इस कोड को जोड़ने के लिए स्टेज सबसे बढ़िया स्थान है। <code>जब भूत स्प्राइट क्लिक किया जाए` {:class=”blockevents”}, `स्कोर` {: class = "blockdata"} `1 से बदल जाना चाहिए` {: वर्ग = "blockdata"}। \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- यहाँ भूत पर क्लिक करके अंक स्कोर बनाने का तरीका बताया गया है: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
