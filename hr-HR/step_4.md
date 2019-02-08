@@ -1,21 +1,5 @@
-## Hvatanje duhova
+## Izazov: više nasumičnosti
 
-Dopustimo igraču da hvata duhove!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-Možeš li napraviti da duh nestane kada je uhvaćen?
-
-Trebaš kliknuti na duhove kako bi ih ulovio. Ako ti je teško hvatati duhove možeš igrati igru na cijelom zaslonu klikom na ovaj gumb:
-
-![screenshot](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `Kada klikneš na duha`{:class=”blockevents”} on se mora `sakriti`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Tvoj kôd bi trebao izgledati ovako: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- challenge \---
-
-## Izazov: dodavanje zvuka
-
-Možeš li dodati zvuk svaki puta kada je duh uhvaćen? \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
