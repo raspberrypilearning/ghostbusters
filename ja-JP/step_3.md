@@ -4,14 +4,70 @@
 
 \--- task \---
 
-同じ場所にいるのではなく、画面上でランダムにあらわれるよう、おばけにコードを入れてみましょう。
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- あらわれる前に、おばけをステージのランダムな位置に`動かす`{:class=”blockmotion”}必要があります。 \--- /hint \--- \--- hint \--- 使用できるコードブロックは2種類あります。 1つはこれです。 ![screenshot](images/ghost-random-blocks-1.png) もう1つはこれです。 ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-random-code-1.png) またはこちらです。 ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- challenge \---
-
-## チャレンジ: もっとランダムに
-
-おばけがあらわれる前の`待つ`{:class=”blockcontrol”}時間をランダムにできますか？ `大きさを　%にする`{:class=”blocklooks”}ブロックを使って、おばけがあらわれるたびに大きさをランダムにできますか？ \--- /challenge \---
