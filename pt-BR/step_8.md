@@ -4,7 +4,7 @@ Now you're going to add a timer so that the player only has ten seconds to catch
 
 \--- task \---
 
-Create a new variable called 'time'.
+Crie uma nova variável chamada 'tempo'.
 
 \--- /task \---
 
@@ -12,12 +12,12 @@ Create a new variable called 'time'.
 
 Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Your timer should:
+Seu cronômetro deve:
 
-+ Start at 10 seconds
-+ Count down every second
++ Começar em 10 segundos
++ Contar cada segundo
 
-The game should stop when the timer gets to 0.
+O jogo deve parar quando o cronômetro chegar a 0.
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -53,7 +53,7 @@ end
 stop [all]
 ```
 
-\--- /hint \--- \--- /hints \---
+\---/hints \--- \--- /hint \---
 
 \--- /task \---
 
@@ -63,11 +63,11 @@ Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Se o seu jogo estiver muito fácil, você pode:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dar ao jogador menos tempo
++ Fazer os fantasmas aparecerem com menos frequência
++ Diminuir o tamanho dos fantasmas
 
 \--- task \---
 
