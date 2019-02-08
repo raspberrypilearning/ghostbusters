@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Uvod
 
-You are going to make a ghost-catching game!
+Napravit ćeš igru o hvatanju duhova!
 
 \--- no-print \---
 
@@ -29,11 +29,11 @@ You are going to make a ghost-catching game!
 
 ## title: Trebat ćeš
 
-### Hardware
+### Hardver
 
 + Računalo
 
-### Software
+### Softver
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
