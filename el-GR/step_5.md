@@ -1,23 +1,28 @@
-## Προσθήκη βαθμολογίας
+## Code for catching ghosts
 
-Ας κάνουμε τα πράγματα πιο ενδιαφέροντα κρατώντας βαθμολογία!
-
-\--- task --
-
-Δημιούργησε μία νέα μεταβλητή που ονομάζεται 'σκορ'.
-
-[[[generic-scratch-add-variable]]]
-
-\--- /task \---
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task --
 
-Μπορείς να παρακολουθείς τη βαθμολογία του παίκτη; Οι παίκτες πρέπει να κερδίζουν πόντους όταν πιάνουν φαντάσματα κάνοντας κλικ πάνω τους.
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-Κάθε φορά που ένας παίκτης κάνει κλικ σε ένα φάντασμα, η βαθμολογία πρέπει να αυξάνεται.
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![Αυξάνοντας τη βαθμολογία](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `Όταν πατηθεί η πράσινη σημαία`{:class=”blockevents”}, η μεταβλητή σου `σκορ`{:class=”blockdata”} πρέπει να `οριστεί σε 0`{:class=”blockdata”}. Το Σκηνικό (Stage) είναι το καλύτερο μέρος για να προσθέσεις αυτόν τον κώδικα. `Κάθε φορά που στο φάντασμα γίνει κλικ`{:class=”blockevents”}, η μεταβλητή σου `σκορ`{:class=”blockdata”} πρέπει να `αυξάνεται κατά 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Να πως κερδίζεις πόντους κάνοντας κλικ στα φαντάσματα: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
