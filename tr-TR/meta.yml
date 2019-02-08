@@ -1,34 +1,32 @@
 ---
-title: Hayalet Avcıları
-hero_image: images / ghostbusters.png
-description: Hayaletleri yakalama oyunu yapın!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: yeşil
+title: Ghostbusters
+hero_image: images/ghostbusters.png
+description: Make a game about catching ghosts!
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projeler
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
-    title: Bir hayaletin animasyonu
+    title: Animate a ghost
   - 
-    title: Rastgele hayaletler
+    title: Random ghosts
   - 
-    title: Hayaletleri yakalamak
-  - 
-    title: Skor göstergesi eklemek
-  - 
-    title: Süre eklemek
-  - 
-    title: 'Meydan Okuma: Daha fazla nesne'
+    title: 'Challenge: more randomness'
     challenge: true
+  - 
+    title: Code for catching ghosts
+  - 
+    title: 'Challenge: add a sound'
+    challenge: true
+  - 
+    title: Add a score
+  - 
+    title: Add a timer
+  - 
+    title: 'Challenge: more sprites'
+    challenge: true
+  - 
+    title: What next?
