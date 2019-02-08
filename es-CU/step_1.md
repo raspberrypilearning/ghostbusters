@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introducción
 
-You are going to make a ghost-catching game!
+¡Vas a hacer un juego de atrapar fantasmas!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![ejemplo](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -35,7 +35,7 @@ You are going to make a ghost-catching game!
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
 
 \--- /collapse \---
 
