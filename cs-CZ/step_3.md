@@ -4,14 +4,70 @@ Tvého ducha je v tuto chvíli opravdu snadné chytit, nehýbe se!
 
 \--- task \---
 
-Dokážeš přidat kód do svého ducha tak, aby se náhodně objevoval na různým místech na obrazovce, místo toho, aby zůstával stále na stejné pozici?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- Potřebuješ, aby tvůj duch provedl `skoč na`{:class=”blockmotion”} náhodnou pozici na scéně pokaždé, než se objeví. \--- /hint \--- \--- hint \--- Můžeš použít dvě sady bloků kódu. Tento: ![screenshot](images/ghost-random-blocks-1.png) nebo tento: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tvůj kód může vypadat takto: ![screenshot](images/ghost-random-code-1.png) Nebo pro změnu takto: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- challenge \---
-
-## Výzva: více náhodnosti
-
-Dokážeš svého ducha přimět `čekat` {: class="blockcontrol"} po náhodně dlouhou dobu předtím, než se znovu objeví? Dokážeš využít blok `nastav velikost na`{:class="blocklooks"} tak, aby tvůj duch změnil náhodně velikost pokaždé, když se znovu objeví? \--- /challenge \---
