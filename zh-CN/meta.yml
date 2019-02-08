@@ -1,34 +1,32 @@
 ---
-title: 捉鬼敢死队
+title: Ghostbusters
 hero_image: images/ghostbusters.png
-description: 制作一个捉鬼的游戏！
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
+description: Make a game about catching ghosts!
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: codeclub, scratch
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - 
-    title: 简介
+    title: Introduction
   - 
-    title: 你将需要什么
+    title: Animate a ghost
   - 
-    title: 制作鬼怪动画
+    title: Random ghosts
   - 
-    title: 随机鬼怪
-  - 
-    title: 捉鬼
-  - 
-    title: 添加分数
-  - 
-    title: '添加计时器'
+    title: 'Challenge: more randomness'
     challenge: true
+  - 
+    title: Code for catching ghosts
+  - 
+    title: 'Challenge: add a sound'
+    challenge: true
+  - 
+    title: Add a score
+  - 
+    title: Add a timer
+  - 
+    title: 'Challenge: more sprites'
+    challenge: true
+  - 
+    title: What next?
