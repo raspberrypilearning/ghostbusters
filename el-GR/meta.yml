@@ -14,7 +14,7 @@ steps:
   - 
     title: Τυχαία φαντάσματα
   - 
-    title: 'Πρόκληση: περισσότερη τυχαιότητα'
+    title: 'Πρόκληση: περισσότερη τυχαία'
     challenge: true
   - 
     title: Code for catching ghosts
@@ -29,4 +29,4 @@ steps:
     title: 'Challenge: more sprites'
     challenge: true
   - 
-    title: What next?
+    title: 'Πρόκληση: περισσότερα εμπόδια!'
