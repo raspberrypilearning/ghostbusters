@@ -1,23 +1,76 @@
-<div class="p-hero-buttons">
-  [离线版完整工程](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
-  [在线版完整工程](http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
-</div>
+## Add a timer
 
-\--- challenge \---
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
-## 挑战：更多元素
+\--- task \---
 
-你能为游戏加入其他元素吗？
+Create a new variable called 'time'.
 
-![截屏](images/ghost-final.png)
+\--- /task \---
 
-当你添加新的游戏元素时，需要考虑如下内容：
+\--- task \---
 
-+ 它有多大？
-+ 它比幽灵更频繁还是不频繁的出现？
-+ 当被捉到时它的外观/声音是怎样的？
-+ 当玩家捉到它时得到（或失去）多少分？
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-如果在添加其他游戏元素时需要帮助，你可以参考上面的步骤！
+Your timer should:
 
-\--- /challenge \---
++ Start at 10 seconds
++ Count down every second
+
+The game should stop when the timer gets to 0.
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+
+```blocks3
+stop [all]
+
+< [ ] = [ ] >
+
+set [time v] to [10]
+
+change [time v] by (-1)
+
+(time)
+
+wait (1) seconds
+
+repeat until < >
+end
+
+when flag clicked
+
+```
+
+\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [time v] to [10]
+repeat until < (time) = [0] >
+wait (1) seconds
+change [time v] by (-1)
+end
+stop [all]
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy with its level of difficulty.
+
+\--- /task \---
