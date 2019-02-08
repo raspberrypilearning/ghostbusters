@@ -1,21 +1,5 @@
-## भूत पकड़ना
+## Challenge: more randomness
 
-चलिए अपने खिलाड़ी को भूत पकड़ने की अनुमति दें!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-क्या आप ऐसा कर सकते हैं कि पकड़े जाने पर भूत गायब हो जाए?
-
-आप भूत पर क्लिक करके ही उन्हें पकड़ पाएंगे। यदि आपको पकड़ना मुश्किल लगे, तो आप इस बटन पर क्लिक करके गेम को फुल स्क्रीन मोड में चला सकते हैं:
-
-![स्क्रीनशॉट](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `क्लिक होने पर`, आपके भूत स्प्राइट को `छुप`जाना चाहिए। \--- /hint \--- \--- hint \--- आपका कोड इस तरह दिखना चाहिए: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- challenge \---
-
-## चुनौती: ध्वनि जोड़ना
-
-क्या आप ऐसा कर सकते हैं कि भूत के पकड़े जाने पर यह आवाज़ उत्पन्न करे? \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
