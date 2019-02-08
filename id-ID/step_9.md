@@ -2,7 +2,7 @@
 
 Can you add other sprites to your game?
 
-![tangkapan layar](images/ghost-final.png)
+![screenshot](images/ghost-final.png)
 
 You need to think about some things for each sprites you want to add:
 
