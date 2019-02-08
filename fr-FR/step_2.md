@@ -1,4 +1,4 @@
-## Animate a ghost
+## Animer un fantôme
 
 \--- task \---
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Teste et sauvegarde ton projet.
 
 [[[generic-scratch3-saving]]]
 
