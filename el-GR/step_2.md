@@ -1,4 +1,4 @@
-## Animate a ghost
+## Σχεδιάζοντας ένα φάντασμα
 
 \--- task --
 
@@ -63,7 +63,7 @@ end
 
 \--- task --
 
-Test and save your project.
+Δοκίμασε και αποθήκευσε το έργο σου.
 
 [[[generic-scratch3-saving]]]
 
