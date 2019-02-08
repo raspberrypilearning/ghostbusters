@@ -4,14 +4,70 @@ Ton fantôme est vraiment facile à attraper en ce moment, parce qu'il ne bouge 
 
 \--- task \---
 
-Peux-tu ajouter du code à ton fantôme de sorte que, au lieu de rester dans la même position, il apparaît à des positions aléatoires sur l'écran?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- Tu veux que ton fantôme `aille à`{:class=”blockmotion”} une position aléatoire sur la scène avant d'apparaître à chaque fois. \--- /hint \--- \--- hint \--- Il existe deux ensembles de blocs de codes que tu peux utiliser. Celui-ci : ![screenshot](images/ghost-random-blocks-1.png) Ou celui-ci : ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Ton code devrait ressembler à ceci : ![screenshot](images/ghost-random-code-1.png) Ou il peut ressembler à ceci : ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- challenge \---
-
-## Défi : plus aléatoire
-
-Peux-tu faire `attendre`{:class=”blockcontrol”} ton fantôme pendant un temps aléatoire avant de se montrer? Peux-tu utiliser le bloc `mettre à ___% de la taille initiale`{:class=”blocklooks”} pour rendre ton fantôme une taille aléatoire chaque fois qu'il apparaît? \--- /challenge \---
