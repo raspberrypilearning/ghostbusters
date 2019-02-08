@@ -1,37 +1,70 @@
-## Animacija duha
+## Animate a ghost
 
 \--- task \---
 
-Otvori novi prazan Scratch projekat.
+Open a new empty Scratch project.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 \--- /task \---
 
 \--- task \---
 
-Dodaj novi lik (sprite) duha i odgovarajuću pozadinu pozornice (stage backdrop).
+Add in a new ghost sprite and a suitable Stage backdrop.
 
 ![screenshot](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
-
-\--- /task \---
-
-\--- task \---
-
-Dodaj kôd svom duhu tako da se neprestano pojavljuje i nestaje kada klikneš na zastavicu.
-
-\--- hints \--- \--- hint \--- Kada je `kliknuto na zelenu zastavicu`{:class=”blockevents”} (green flag is clicked), treba da napraviš da se tvoj duh `sakrije`{:class=”blocklooks”} (hide) `jednu sekundu`{:class=”blockcontrol”}, a zatim da se `pojavi`{:class=”blocklooks”} (show) `jednu sekundu`{:class=”blockcontrol”}. Potrebno je da to radi `neprestano`{:class=”blockcontrol”} (forever). \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Ovako bi trebalo da izgleda tvoj kôd: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch3-backdrop-from-library]]]
 
 \--- /task \---
 
 \--- task \---
 
-Isprobaj i sačuvaj svoj projekat.
+Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
 
-[[[generic-scratch-saving]]]
+\--- hints \--- \--- hint \---
+
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+
+Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+hide
+
+show
+
+forever
+end
+
+wait (1) seconds
+
+wait (1) seconds
+
+when flag clicked
+```
+
+\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Test and save your project.
+
+[[[generic-scratch3-saving]]]
 
 \--- /task \---
