@@ -1,8 +1,8 @@
-## Animate a ghost
+## おばけを動かす
 
 \--- task \---
 
-新しいScratch (スクラッチ) のプロジェクトを開きましょう。
+新しいスクラッチのプロジェクトを開きましょう。
 
 [[[generic-scratch3-new-project]]]
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+テストして保存 (ほぞん) しましょう。
 
 [[[generic-scratch3-saving]]]
 
