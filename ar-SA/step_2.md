@@ -1,4 +1,4 @@
-## Animate a ghost
+## تحريك شبح
 
 \--- task \---
 
@@ -6,7 +6,7 @@
 
 [[[generic-scratch3-new-project]]]
 
-\---/task--
+\---/task\---
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
-\---/task--
+\---/task\---
 
 \--- task \---
 
@@ -63,8 +63,8 @@ end
 
 \--- task \---
 
-Test and save your project.
+إختبر واحفظ المشروع الخاص بك.
 
 [[[generic-scratch3-saving]]]
 
-\---/task--
+\--- /task \---
