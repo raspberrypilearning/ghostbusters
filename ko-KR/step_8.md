@@ -4,7 +4,7 @@ Now you're going to add a timer so that the player only has ten seconds to catch
 
 \--- task \---
 
-Create a new variable called 'time'.
+'시간'이라는 새 변수를 추가합니다.
 
 \--- /task \---
 
@@ -12,12 +12,12 @@ Create a new variable called 'time'.
 
 Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Your timer should:
+타이머는 이렇게 동작해야 해요.
 
-+ Start at 10 seconds
-+ Count down every second
++ 10초부터 시작합니다.
++ 매 초 숫자가 줄어듭니다.
 
-The game should stop when the timer gets to 0.
+타이머가 0이 되면 게임이 끝나야 합니다.
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -63,11 +63,11 @@ Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-If your game is too easy, you can:
+만약 게임이 너무 쉽다면 다음과 같이 바꿀 수 있습니다.
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ 플레이 시간을 줄여 보세요.
++ 유령이 덜 나타나게 바꿔 보세요.
++ 유령의 크기를 줄여 보세요.
 
 \--- task \---
 
