@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introduction
 
-You are going to make a ghost-catching game!
+Tu vas faire un jeu attrape-fantôme!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![démonstration](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -29,11 +29,11 @@ You are going to make a ghost-catching game!
 
 ## title: Ce qu'il faut avoir
 
-### Hardware
+### Matériel informatique
 
 + Un ordinateur
 
-### Software
+### Logiciel
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
