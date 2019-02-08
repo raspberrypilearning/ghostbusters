@@ -1,4 +1,4 @@
-## Animate a ghost
+## Ein Gespenst lebendig werden lassen
 
 \--- task \---
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Teste und speichere nun dein Projekt.
 
 [[[generic-scratch3-saving]]]
 
