@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Otestuj a ulož svůj projekt.
 
 [[[generic-scratch3-saving]]]
 
