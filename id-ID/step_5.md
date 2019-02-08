@@ -1,23 +1,28 @@
-## Menambahkan skor
+## Code for catching ghosts
 
-Mari kita jadikan game lebih menarik dengan mencatat skor!
-
-\--- task \---
-
-Buat variabel baru bernama 'skor'.
-
-[[[generic-scratch-add-variable]]]
-
-\--- /task \---
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task \---
 
-Dapatkah kamu mencatat skor pemain? Pemain harus mencetak poin dengan mengklik hantu untuk menangkap mereka.
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-Setiap kali pemain mengklik hantu, skor mereka harus meningkat.
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![Meningkatkan skor](images/ghost-score-test.png)
+![tangkapan layar](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `Ketika bendera hijau diklik`{:class=”blockevents”}, variabel `skor`{:class=”blockdata”} kamu harus di-`atur ke 0`{:class=”blockdata”}. Stage adalah tempat terbaik untuk menambahkan kode ini. `Ketika sprite hantu diklik`{:class=”blockevents”}, `skor`{:class=”blockdata”} harus di-`ubah sebesar 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Berikut adalah blok kode yang kamu perlu gunakan: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Berikut cara mencetak poin dengan mengklik hantu: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
