@@ -12,7 +12,7 @@ Abre un nuevo proyecto vacío de Scratch.
 
 Add in a new ghost sprite and a suitable Stage backdrop.
 
-![captura de pantalla](images/ghost-ghost.png)
+![Captura de pantalla](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Prueba y guarda tu proyecto.
 
 [[[generic-scratch3-saving]]]
 
