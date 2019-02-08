@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## 소개
 
-You are going to make a ghost-catching game!
+이제부터 유령 잡기 게임을 만들어 봅시다!
 
 \--- no-print \---
 
@@ -29,11 +29,11 @@ You are going to make a ghost-catching game!
 
 ## title: 준비물
 
-### Hardware
+### 하드웨어
 
 + 컴퓨터
 
-### Software
+### 소프트웨어
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -51,7 +51,7 @@ You are going to make a ghost-catching game!
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- 중간생략 \---
 
 ## title: Additional notes for educators
 
@@ -63,4 +63,4 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
 
-\--- /collapse \---
+\--- / collapse \---
