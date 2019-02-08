@@ -4,7 +4,7 @@ Now you're going to add a timer so that the player only has ten seconds to catch
 
 \--- task --
 
-Create a new variable called 'time'.
+Δημιούργησε μία νέα μεταβλητή που ονομάζεται 'χρόνος'.
 
 \--- /task \---
 
@@ -12,12 +12,12 @@ Create a new variable called 'time'.
 
 Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Your timer should:
+Το χρονόμετρό σου πρέπει να:
 
-+ Start at 10 seconds
-+ Count down every second
++ Ξεκινά από τα 10 δευτερόλεπτα
++ Μετρά κάθε δευτερόλεπτο
 
-The game should stop when the timer gets to 0.
+Το παιχνίδι πρέπει να σταματά όταν το χρονόμετρο φτάσει στο 0.
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -63,11 +63,11 @@ Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Αν το παιχνίδι σου είναι πολύ εύκολο, μπορείς να:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Δώσεις στον παίκτη λιγότερο χρόνο
++ Κάνεις τα φαντάσματα να εμφανίζονται λιγότερο συχνά
++ Κάνεις τα φαντάσματα μικρότερα
 
 \--- task --
 
