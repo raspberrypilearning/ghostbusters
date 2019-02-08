@@ -1,4 +1,4 @@
-## Animate a ghost
+## Animare un fantasma
 
 \--- task \---
 
@@ -12,7 +12,7 @@ Avvia un nuovo progetto Scratch.
 
 Add in a new ghost sprite and a suitable Stage backdrop.
 
-![screenshot](images/ghost-ghost.png)
+![schermata](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Prova il tuo progetto e salvalo.
 
 [[[generic-scratch3-saving]]]
 
