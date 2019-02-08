@@ -1,4 +1,4 @@
-## What next?
+## Desafío: ¡más obstáculos!
 
 Well done on completing the Ghostbusters project!
 
