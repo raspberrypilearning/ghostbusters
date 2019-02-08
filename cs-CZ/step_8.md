@@ -4,7 +4,7 @@ Now you're going to add a timer so that the player only has ten seconds to catch
 
 \--- task \---
 
-Create a new variable called 'time'.
+Vytvoř novou proměnnou nazvanou "čas".
 
 \--- /task \---
 
@@ -12,12 +12,12 @@ Create a new variable called 'time'.
 
 Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Your timer should:
+Tvůj časovač by měl:
 
-+ Start at 10 seconds
-+ Count down every second
++ Začínat na 10 vteřinách
++ Odpočítávat každou vteřinu
 
-The game should stop when the timer gets to 0.
+Hra by měla skončit, když se časovač dostane k 0.
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -63,11 +63,11 @@ Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Pokud je hra příliš snadná, můžeš:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dát hráči méně času
++ Zařídit, aby se duchové se objevovali méně často
++ Zmenšit duchy
 
 \--- task \---
 
