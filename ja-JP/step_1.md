@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## はじめに
 
-You are going to make a ghost-catching game!
+おばけをつかまえるゲームを作りましょう！
 
 \--- no-print \---
 
@@ -27,13 +27,13 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: 必要なもの
+## 必要なもの
 
-### Hardware
+### ハードウェア
 
 + コンピューター
 
-### Software
+### ソフトウェア
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -43,7 +43,7 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: 学習すること
+## あなたが学ぶもの
 
 + How to use random numbers to animate sprites
 + How to react to mouse clicks
