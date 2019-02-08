@@ -1,4 +1,4 @@
-## Animate a ghost
+## Menganimasikan satu hantu
 
 \--- task \---
 
@@ -6,7 +6,7 @@ Buka proyek Scratch kosong baru.
 
 [[[generic-scratch3-new-project]]]
 
-\--- /task \---
+\--- /tugas \---
 
 \--- task \---
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Uji dan simpan proyek kamu.
 
 [[[generic-scratch3-saving]]]
 
