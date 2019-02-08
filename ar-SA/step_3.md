@@ -34,7 +34,7 @@ pick random (1) to (10)
 pick random (1) to (10)
 ```
 
-\--- /hint \---
+\--- hint/ \---
 
 \--- hint \---
 
@@ -70,4 +70,4 @@ end
 
 \--- /hint \--- \--- /hints \---
 
-\---/task--
+\--- /task \---
