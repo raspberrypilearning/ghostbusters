@@ -1,21 +1,5 @@
-## Chytání duchů
+## Výzva: více náhodnosti
 
-Pojďme zařídit, aby hráč mohl ducha chytat!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-Dokážeš, aby tvůj duch zmizel, kdykoliv je uloven?
-
-Měl bys být schopen chytit ducha kliknutím na něj. Pokud zjistíš, že je chytání obtížné, můžeš hru hrát v režimu celé obrazovky. Přepneš do něj kliknutím na toto tlačítko:
-
-![screenshot](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `Po kliknutí`{:class=”blockevents”}, by se měla postava ducha `skrýt`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Tvůj kód by měl vypadat takto: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- challenge \---
-
-## Výzva: přidání zvuku
-
-Dokážeš zařídit, aby duch udělal zvuk, kdykoliv je chycen? \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
