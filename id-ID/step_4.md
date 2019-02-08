@@ -1,21 +1,5 @@
-## Menangkap hantu
+## Tantangan: perilaku acak tambahan
 
-Mari kita biarkan pemain menangkap hantu!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-Dapatkah kamu membuat hantu kamu lenyap ketika dia tertangkap?
-
-Kamu seharusnya mampu mengklik hantu untuk menangkap mereka. Jika kamu kesulitan dalam menangkap, kamu dapat memainkan game dalam mode layar-penuh dengan mengklik tombol ini:
-
-![tangkapan layar](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `Ketika diklik`{:class=”blockevents”}, sprite hantu kamu harus `sembunyi`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Kode kamu seharusnya terlihat seperti ini: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- challenge \---
-
-## Tantangan: menambahkan suara
-
-Dapatkah kamu membuat hantu kamu bersuara setiap kali dia tertangkap? \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
