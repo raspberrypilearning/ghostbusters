@@ -1,22 +1,76 @@
-<div class="p-hero-buttons">
-  [Offline Completed Project] (sumber daya / Ghostbusters-Finished.sb2) {: download = 'Ghostbusters-Finished.sb2'} [Proyek Selesai Online] (http://scratch.mit.edu/projects/60787262/#editor) { : target = "_ blank"}
-</div>
+## Add a timer
 
-\--- tantangan \---
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
-## Tantangan: lebih banyak objek
+\--- task \---
 
-Bisakah Anda menambahkan objek lain ke gim Anda?
+Create a new variable called 'time'.
 
-![tangkapan layar](images/ghost-final.png)
+\--- /task \---
 
-Saat Anda menambahkan objek, Anda perlu memikirkan hal-hal berikut.
+\--- task \---
 
-+ Seberapa besar itu?
-+ Akankah itu muncul lebih sering daripada hantu?
-+ Apa yang akan terlihat / terdengar seperti ketika telah ditangkap?
-+ Berapa poin yang akan skor pemain (atau kalah) untuk menangkapnya?
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Jika Anda perlu bantuan menambahkan objek lain, Anda dapat menggunakan kembali langkah-langkah di atas!
+Your timer should:
 
-\--- / tantangan \---
++ Start at 10 seconds
++ Count down every second
+
+The game should stop when the timer gets to 0.
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+
+```blocks3
+stop [all]
+
+< [ ] = [ ] >
+
+set [time v] to [10]
+
+change [time v] by (-1)
+
+(time)
+
+wait (1) seconds
+
+repeat until < >
+end
+
+when flag clicked
+
+```
+
+\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [time v] to [10]
+repeat until < (time) = [0] >
+wait (1) seconds
+change [time v] by (-1)
+end
+stop [all]
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy with its level of difficulty.
+
+\--- /task \---
