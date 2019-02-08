@@ -1,37 +1,70 @@
-## おばけを動かす
+## Animate a ghost
 
 \--- task \---
 
 新しいScratch (スクラッチ) のプロジェクトを開きましょう。
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 \--- /task \---
 
 \--- task \---
 
-新しくおばけのスプライトと、ふさわしい背景（はいけい）を追加します。
+Add in a new ghost sprite and a suitable Stage backdrop.
 
 ![スクリーンショット](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
-
-\--- /task \---
-
-\--- task \---
-
-旗をクリックすると、いつまでもおばけがあらわれたり消えたりするように、コードを入れてみましょう。
-
-\--- hints \--- \--- hint \--- `緑の旗がクリックされたとき`{:class=”blockevents”}、おばけを`1秒`{:class=”blockcontrol”}`隠す`{:class=”blocklooks”} (かくす)、そして`1秒`{:class=”blockcontrol”}`表示する`{:class=”blocklooks”} 必要があります。 これを`ずっと`{:class=”blockcontrol”}行います。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+[[[generic-scratch3-backdrop-from-library]]]
 
 \--- /task \---
 
 \--- task \---
 
-テストして保存 (ほぞん) しましょう。
+Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
 
-[[[generic-scratch-saving]]]
+\--- hints \--- \--- hint \---
+
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+
+Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+hide
+
+show
+
+forever
+end
+
+wait (1) seconds
+
+wait (1) seconds
+
+when flag clicked
+```
+
+\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Test and save your project.
+
+[[[generic-scratch3-saving]]]
 
 \--- /task \---
