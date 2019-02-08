@@ -1,21 +1,5 @@
-## Catching ghosts
+## Challenge: more randomness
 
-Let's allow the player to catch ghosts!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-Can you make your ghost disappear when it's been caught?
-
-You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
-
-![ekran görüntüsü](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `When clicked`{:class=”blockevents”}, your ghost sprite should `hide`{:class=”blocklooks”}. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- çağırış \---
-
-## Challenge: adding a sound
-
-Can you get your ghost to make a sound each time it's caught? \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
