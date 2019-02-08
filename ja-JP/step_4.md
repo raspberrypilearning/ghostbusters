@@ -1,21 +1,5 @@
-## おばけを捕まえる
+## チャレンジ: もっとランダムに
 
-プレーヤーがおばけをつかまえられるようにしましょう！
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-おばけがつかまったときに消えるようにすることはできますか？
-
-おばけをクリックしてつかまえましょう。むずかしければ、このボタンをクリックして全画面モードで遊ぶこともできます。
-
-![screenshot](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `クリックされたとき`{:class=”blockevents”}、おばけのスプライトを`かくす`{:class=”blocklooks”}必要があります。 \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- challenge \---
-
-## チャレンジ: 音を追加する
-
-おばけがつかまったときに音が出るようにできますか？ \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
