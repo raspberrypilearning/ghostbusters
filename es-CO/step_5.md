@@ -1,23 +1,28 @@
-## Añadir una puntuación
+## Code for catching ghosts
 
-¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
-
-\--- task \---
-
-Crea una nueva variable llamada 'puntuación'.
-
-[[[generic-scratch-add-variable]]]
-
-\--- /task \---
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task \---
 
-¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![Incrementar la puntuación](images/ghost-score-test.png)
+![captura de pantalla](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `Cuando hagas click en la bandera verde`{:class=”blockevents”}, tu variable `puntuación`{:class=”blockdata”} debería `ponerse a 0`{:class=”blockdata”}. El escenario es el mejor lugar para añadir este código. `Cuando hagas click en el sprite del fantasma`{:class=”blockevents”}, la `puntuación`{:class=”blockdata”} debería `incrementarse en 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Estos son los bloques de código que tendrás que usar: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Aquí ves cómo se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
