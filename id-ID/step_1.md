@@ -1,12 +1,19 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+
+\--- /no-print \---
+
 ## Pengantar
 
-Anda akan membuat game menangkap hantu!
-
-### Apa yang kamu akan buat
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
 \--- /no-print \---
 
@@ -22,13 +29,13 @@ Anda akan membuat game menangkap hantu!
 
 ## title: Apa yang kamu butuhkan
 
-### Perangkat Keras
+### Hardware
 
 + Komputer
 
-### Perangkat Lunak
+### Software
 
-+ Scratch 2.0 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -38,14 +45,22 @@ Anda akan membuat game menangkap hantu!
 
 ## title: Apa yang akan kamu pelajari
 
-Proyek ini mencakup unsur-unsur dari rangkaian [Kurikulum Digital Making Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana.](https://www.raspberrypi.org/curriculum/programming/creator)
++ How to use random numbers to animate sprites
++ How to react to mouse clicks
++ How to create a timer
 
 \--- /collapse \---
 
+## \--- collapse \---
+
+## title: Additional notes for educators
+
 \--- no-print \---
 
-Jika kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/ghostbusters/print){: target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
+
+Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+
+\--- /collapse \---
