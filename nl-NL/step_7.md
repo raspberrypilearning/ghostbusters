@@ -1,8 +1,8 @@
-## Add a score
+## Uitdaging: meer objecten
 
 Now you're going to make your game more interesting by keeping score!
 
-\--- task \---
+\--- task \----
 
 Create a new variable called `score`{:class="block3variables"}.
 
@@ -10,17 +10,17 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- /task \---
 
-\--- task \---
+\--- task \----
 
 Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
 
-Each time a player clicks on a ghost, their score should increase.
+Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
 
 ![Increasing score](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Het speelveld is de beste plaats om deze code neer te zetten.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
@@ -35,7 +35,7 @@ when flag clicked
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+verander [score v] met (1)
 ```
 
 \--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
