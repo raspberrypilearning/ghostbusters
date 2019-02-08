@@ -1,4 +1,4 @@
-## What next?
+## Και τώρα;
 
 Well done on completing the Ghostbusters project!
 
