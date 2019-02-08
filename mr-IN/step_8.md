@@ -1,22 +1,76 @@
-<div class="p-hero-buttons">
-  [ऑफलाइन पूर्ण झालेले प्रोजेक्ट] (संसाधने / घोस्टबस्टर्स-फिनिश्ड एसबी 2) {: डाउनलोड = 'घोस्टबस्टर-फिनिशस एसबी 2'} [ऑनलाइन पूर्ण झालेले प्रकल्प] (http://scratch.mit.edu/projects/60787262/#editor) { : target = "_ blank"}
-</div>
+## Add a timer
 
-\--- आव्हान \---
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
-## आव्हान: अधिक वस्तू
+\--- task \---
 
-आपण आपल्या गेममध्ये इतर वस्तू जोडू शकता?
+Create a new variable called 'time'.
 
-![स्क्रीनशॉट](images/ghost-final.png)
+\--- /task \---
 
-जेव्हा आपण एखादा ऑब्जेक्ट जोडत असतो, तेव्हा आपण खालील गोष्टींबद्दल विचार करण्याची गरज आहे.
+\--- task \---
 
-+ तो किती मोठा आहे?
-+ ते भूत पेक्षा अधिक किंवा कमी वेळा दिसून येईल?
-+ ते पकडले गेल्यावर काय दिसेल / ध्वनी येईल?
-+ खेळाडू पकडण्यासाठी किती गुण (किंवा गमावले जातील)?
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-आपल्याला इतर ऑब्जेक्ट जोडताना मदतीची आवश्यकता असल्यास, आपण वरील चरण पुन्हा वापरू शकता!
+Your timer should:
 
-\--- / आव्हान \---
++ Start at 10 seconds
++ Count down every second
+
+The game should stop when the timer gets to 0.
+
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+
+```blocks3
+stop [all]
+
+< [ ] = [ ] >
+
+set [time v] to [10]
+
+change [time v] by (-1)
+
+(time)
+
+wait (1) seconds
+
+repeat until < >
+end
+
+when flag clicked
+
+```
+
+\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [time v] to [10]
+repeat until < (time) = [0] >
+wait (1) seconds
+change [time v] by (-1)
+end
+stop [all]
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+If your game is too easy, you can:
+
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
+
+\--- task \---
+
+Change and test your game a few times until you're happy with its level of difficulty.
+
+\--- /task \---
