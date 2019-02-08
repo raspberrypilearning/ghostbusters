@@ -1,4 +1,4 @@
-## What next?
+## Wat nu?
 
 Well done on completing the Ghostbusters project!
 
