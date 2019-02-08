@@ -1,6 +1,6 @@
-## Zufällige Orte
+## Zufällige Gespenster
 
-Dein Gespenst ist im Moment wirklich leicht zu fangen, weil es sich nicht bewegt!
+Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
 
 \--- task \---
 
