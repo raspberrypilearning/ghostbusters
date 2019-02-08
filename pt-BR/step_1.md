@@ -1,12 +1,19 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+
+\--- /no-print \---
+
 ## Introdução
 
-Você vai criar um jogo de Caça-Fantasmas!
-
-### O que você vai fazer
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
-![showcase](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
 \--- /no-print \---
 
@@ -28,7 +35,7 @@ Você vai criar um jogo de Caça-Fantasmas!
 
 ### Software
 
-+ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -38,14 +45,22 @@ Você vai criar um jogo de Caça-Fantasmas!
 
 ## title: O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Use estruturas de programação básicas para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
++ How to use random numbers to animate sprites
++ How to react to mouse clicks
++ How to create a timer
 
 \--- /collapse \---
 
+## \--- collapse \---
+
+## title: Additional notes for educators
+
 \--- no-print \---
 
-Se você precisar imprimir este projeto, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
+
+Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+
+\--- /collapse \---
