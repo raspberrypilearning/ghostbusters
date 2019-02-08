@@ -1,4 +1,4 @@
-## Code for catching ghosts
+## 점수 추가하기
 
 Now you're going to add code to your game so that the player to catch ghosts!
 
