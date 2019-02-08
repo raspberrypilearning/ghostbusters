@@ -1,4 +1,4 @@
-## What next?
+## Herausforderung: Ändere das Kostüm deiner Trommel
 
 Well done on completing the Ghostbusters project!
 
