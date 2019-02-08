@@ -1,12 +1,12 @@
-\--- no-print \---
+\--- tidak-dicetak \---
 
 This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
-\--- /no-print \---
+\--- /tidak dicetak \---
 
 ## Pengantar
 
-You are going to make a ghost-catching game!
+Anda akan membuat game menangkap hantu!
 
 \--- no-print \---
 
@@ -21,7 +21,7 @@ You are going to make a ghost-catching game!
 
 ![showcase](images/showcase-static.png)
 
-\--- /print-only \---
+\--- /hanya-cetak \---
 
 \--- collapse \---
 
@@ -29,21 +29,21 @@ You are going to make a ghost-catching game!
 
 ## title: Apa yang kamu butuhkan
 
-### Hardware
+### Perangkat keras
 
 + Komputer
 
-### Software
+### Perangkat lunak
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-\--- /collapse \---
+\--- /menggulung \---
 
 \--- collapse \---
 
 * * *
 
-## title: Apa yang akan kamu pelajari
+## judul: Apa yang akan kamu pelajari
 
 + How to use random numbers to animate sprites
 + How to react to mouse clicks
@@ -55,12 +55,12 @@ You are going to make a ghost-catching game!
 
 ## title: Additional notes for educators
 
-\--- no-print \---
+\--- tidak-dicetak \---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
-\--- /no-print \---
+\--- /tidak-dicetak \---
 
 Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
 
-\--- /collapse \---
+\--- /menggulung \---
