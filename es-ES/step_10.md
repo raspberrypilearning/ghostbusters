@@ -1,4 +1,4 @@
-## What next?
+## ¿Qué sigue?
 
 Well done on completing the Ghostbusters project!
 
