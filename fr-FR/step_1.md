@@ -1,18 +1,25 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+
+\--- /no-print \---
+
 ## Introduction
 
-Tu vas faire un jeu attrape-fantôme!
-
-### Ce que tu feras
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
-![démonstration](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![démonstration](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -22,13 +29,13 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## title: Ce qu'il faut avoir
 
-### Matériel informatique
+### Hardware
 
 + Un ordinateur
 
-### Logiciels
+### Software
 
-+ Scratch 2.0 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -38,14 +45,22 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## title: Ce que tu vas apprendre
 
-Ce projet couvre les éléments suivantes des sections du curriculum [ Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
-
-+ [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
++ How to use random numbers to animate sprites
++ How to react to mouse clicks
++ How to create a timer
 
 \--- /collapse \---
 
+## \--- collapse \---
+
+## title: Additional notes for educators
+
 \--- no-print \---
 
-Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
+
+Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+
+\--- /collapse \---
