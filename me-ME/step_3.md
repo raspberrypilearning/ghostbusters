@@ -1,17 +1,73 @@
-## Nasumični duhovi
+## Random ghosts
 
-Tvog duha je trenutno zaista lako uhvatiti, zato što se ne pomjera!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- task \---
 
-Da li možeš da dodaš kôd svom duhu tako da se, umjesto da ostane na istom mjestu, nasumično pojavljuje na različitim mjestima na ekranu?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- Želiš da tvoj duh svaki put, prije nego što se pojavi, `ide na`{:class=”blockmotion”} (go to) nasumično izabrano mjesto na pozornici. \--- /hint \--- \--- hint \--- Ovdje su dvije grupe blokova kôda koje možeš da koristiš. Ova: ![screenshot](images/ghost-random-blocks-1.png) Ili ova: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tvoj kôd bi trebalo da izgleda ovako: ![screenshot](images/ghost-random-code-1.png) Ili može da izgleda ovako: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- challenge \---
-
-## Izazov: više nasumičnosti
-
-Da li možeš da napraviš da tvoj duh `čeka`{:class=”blockcontrol”} (wait) neko vrijeme prije nego što se pojavi? Možeš li da upotrijebiš blok `set size`{:class=”blocklooks”} (postavi veličinu) tako da tvoj duh bude različite veličine svaki put kada se pojavi? \--- /challenge \---
