@@ -1,4 +1,4 @@
-## Animate a ghost
+## Animacija duha
 
 \--- task \---
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Testiraj i spremi svoj projekt.
 
 [[[generic-scratch3-saving]]]
 
