@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Inleiding
 
-You are going to make a ghost-catching game!
+Je gaat een spookachtig spel maken!
 
 \--- no-print \---
 
