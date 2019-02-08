@@ -2,7 +2,7 @@
 
 Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
 
-\--- task \---
+\--- task \----
 
 Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
