@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## المقدمة
 
-You are going to make a ghost-catching game!
+سوف تقوم بصنع لعبة إصطياد أشباح!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![معرض](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -29,11 +29,11 @@ You are going to make a ghost-catching game!
 
 ## title: ما ستحتاج إليه
 
-### Hardware
+### الأجهزة
 
 + جهاز حاسب آلي
 
-### Software
+### البرمجيات
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
