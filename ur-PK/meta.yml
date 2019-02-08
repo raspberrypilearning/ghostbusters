@@ -1,34 +1,32 @@
 ---
-title: گھوسٹبسٹس
-hero_image: تصاویر / ghostbusters.png
-description: ماضی کو پکڑنے کے بارے میں ایک کھیل بنائیں!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: سبز
+title: Ghostbusters
+hero_image: images/ghostbusters.png
+description: Make a game about catching ghosts!
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: کھیل
-technologies: خرگوش
-site_areas: projects
-hardware: ''
-software: خرگوش
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - 
-    title: تعارف
+    title: Introduction
   - 
-    title: Animating a ghost
+    title: Animate a ghost
   - 
     title: Random ghosts
   - 
-    title: Catching ghosts
-  - 
-    title: Adding a score
-  - 
-    title: Adding a timer
-  - 
-    title: 'چیلنج: مزید اشیاء'
+    title: 'Challenge: more randomness'
     challenge: true
+  - 
+    title: Code for catching ghosts
+  - 
+    title: 'Challenge: add a sound'
+    challenge: true
+  - 
+    title: Add a score
+  - 
+    title: Add a timer
+  - 
+    title: 'Challenge: more sprites'
+    challenge: true
+  - 
+    title: What next?
