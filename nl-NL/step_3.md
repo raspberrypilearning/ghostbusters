@@ -4,14 +4,70 @@ Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
 
 \--- task \---
 
-Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het scherm verschijnt, in plaats van steeds op dezelfde plaats?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- Je wilt dat het spook met een `ga naar`{:class=”blockmotion”} naar een willekeurige plaats gaat voordat die elke keer verschijnt. \--- / hint \--- \--- hint \--- Er zijn twee sets codeblokken die je kunt gebruiken. Deze: ![screenshot](images/ghost-random-blocks-1.png) Of deze: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-random-code-1.png) Of het kan er zo uitzien: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- challenge \---
-
-## Uitdaging: meer willekeur
-
-Kun je je spook een willekeurige tijd laten wachten met `wacht`{:class=”blockcontrol”} voordat die verschijnt? Kun je met het `maak grootte`{:class=”blocklooks”} blok het spook een willekeurige grootte geven, elke keer dat deze verschijnt? \--- /challenge \---
