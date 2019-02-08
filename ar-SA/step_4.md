@@ -1,21 +1,5 @@
-## اصطياد الأشباح
+## التحدي: أكثر عشوائية
 
-لنمكِّن اللاعب من اصطياد الأشباح!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- task \---
-
-هل يمكنك أن تجعل الشبح يختفي إذا تم اصطياده؟
-
-يجب أن تتمكن من اصطياد الأشباح بالنقر عليهم. إذا وجدتَ اصطيادها صعبًا، فيمكنك أن تلعب اللعبة في وضع الشاشة الكاملة بالنقر فوق هذا الزر:
-
-![لقطة الشاشة](images/ghost-fullscreen.png)
-
-\--- hints \--- \--- hint \--- `عند النقر`{:class=”blockevents”}، يجب أن `يختفي`{:class=”blocklooks”} الشبح. \--- /hint \--- \--- hint \--- يجب ان يبدو التعليمة البرمجية الخاصة بك هكذا ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
-
-\---/task--
-
-\--- challenge \---
-
-## التحدي: إضافة صوت
-
-هل يمكنك أن تجعل الشبح يُصدر صوتًا في كل مرة يتم اصطياده؟ \--- /challenge \---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
