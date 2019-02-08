@@ -4,14 +4,70 @@
 
 \--- task \---
 
-¿Puedes agregar código a tu fantasma para que, en lugar de permanecer en la misma posición, aparezca en posiciones aleatorias en la pantalla?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- Quieres que tu fantasma `vaya a`{:class=”blockmotion”} una posición aleatoria en el escenario antes de aparecer cada vez. \--- /hint \--- \--- hint \--- Puedes usar dos conjuntos de bloques de código. Este: ![screenshot](images/ghost-random-blocks-1.png) O este otro: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tu código debería quedar así: ![screenshot](images/ghost-random-code-1.png) O puede quedar así: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
-
-\--- challenge \---
-
-## Desafío: más aleatoriedad
-
-¿Puedes hacer que tu fantasma `espere`{:class=”blockcontrol”} durante un tiempo aleatorio antes de aparecer? ¿Puedes utilizar el bloque `fijar tamaño`{:class=”blocklooks”} para hacer que tu fantasma tenga un tamaño aleatorio cada vez que aparece? \--- /challenge \---
