@@ -1,4 +1,4 @@
-## Code for catching ghosts
+## Προσθήκη βαθμολογίας
 
 Now you're going to add code to your game so that the player to catch ghosts!
 
