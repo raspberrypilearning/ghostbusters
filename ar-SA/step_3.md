@@ -4,14 +4,70 @@
 
 \--- task \---
 
-هل يمكنك إضافة تعليمة برمجية إلى الشبح بحيث يظهر في مواقع عشوائية على الشاشة بدلًا من البقاء في الموقع نفسه؟
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hints \--- \--- hint \--- تحتاج إلى برمجة الشبح باستخدام `انتقل إلى`{:class=”blockmotion”} موقع عشوائي على المنصة قبل كل مرة يظهر فيها. \--- /hint \--- \--- hint \--- توجد مجموعتان من القوالب البرمجية التي يمكنك استخدامها. هذا القالب: ![screenshot](images/ghost-random-blocks-1.png) أو هذا القالب: ![screenshot](images/ghost-random-blocks-2.png) \---/hint \--- \--- hint \--- يجب أن تبدو التعليمات البرمجية الخاصة بك إما مثل هذا: ![screenshot](images/ghost-random-code-1.png) أو يمكن أن تبدو كالتالي: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \---
+
+\--- hint \---
+
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+
+\--- /hint \--- \--- hint \---
+
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
 
 \---/task--
-
-\--- challenge \---
-
-## التحدي: أكثر عشوائية
-
-هل يمكنك برمجة الشبح باستخدام `انتظر`{:class=”blockcontrol”} لمدة عشوائية من الوقت قبل الظهور؟ وهل يمكنك استخدام القالب `عيِّن الحجم`{:class=”blocklooks”} لتجعل الشبح يظهر في كل مرة بحجم عشوائي؟ \--- /challenge \---
