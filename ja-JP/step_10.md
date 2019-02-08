@@ -1,4 +1,4 @@
-## What next?
+## 次は何をしますか？
 
 Well done on completing the Ghostbusters project!
 
