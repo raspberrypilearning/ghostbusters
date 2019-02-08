@@ -1,23 +1,28 @@
-## Přidání skóre
+## Code for catching ghosts
 
-Pojďme udělat věci zajímavější tím, že budeme sledovat skóre!
-
-\--- task \---
-
-Vytvoř novou proměnnou nazvanou "skóre".
-
-[[[generic-scratch-add-variable]]]
-
-\--- /task \---
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task \---
 
-Dokážeš sledovat skóre hráče? Hráči by měli získávat body chytáním duchů tím, že na ně budou klikat.
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-Pokaždé, když hráč klikne na ducha, by se jeho skóre mělo zvýšit.
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![Zvýšení skóre](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `Po kliknutí na zelený praporek`{:class=”blockevents”}, proměnnou `skóre`{:class=”blockdata”} inicializujeme `nastavením na 0`{:class=”blockdata”}. Scéna je nejlepším místem pro přidání tohoto kódu. `Po kliknutí na ducha`{:class=”blockevents”}, potřebujeme proměnnou `skóre`{:class=”blockdata”} `změnit o 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- Zde jsou bloky, které budeš potřebovat: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Zde je způsob, který zvyšuje skóre, když klikneš na ducha: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
