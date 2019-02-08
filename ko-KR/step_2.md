@@ -1,4 +1,4 @@
-## Animate a ghost
+## 유령 움직여 보기
 
 \--- task \---
 
@@ -12,7 +12,7 @@
 
 Add in a new ghost sprite and a suitable Stage backdrop.
 
-![screenshot](images/ghost-ghost.png)
+![스크린샷](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+프로젝트를 테스트해 보고 저장하세요.
 
 [[[generic-scratch3-saving]]]
 
