@@ -1,23 +1,28 @@
-## إضافة نتيجة
+## Code for catching ghosts
 
-لنجعل اللعبة أكثر تشويقًا بتسجيل النقاط!
-
-\--- task \---
-
-أنشئ متغيرًا جديدًا يُسمى 'النتيجة'.
-
-[[[generic-scratch-add-variable]]]
-
-\---/task--
+Now you're going to add code to your game so that the player to catch ghosts!
 
 \--- task \---
 
-هل يمكنك تسجيل نقاط اللاعب؟ يجب أن يتمكن اللاعبون من إحراز النقاط بالنقر فوق الأشباح لاصطيادها.
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-في كل مرة ينقر فيها اللاعب على الشبح، يجب ان تزيد عدد النقاط.
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![زيادة النقاط](images/ghost-score-test.png)
+![لقطة الشاشة](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \--- `عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `النتيجة`{:class=”blockdata”} يجب أن يكون `مساوي 0`{:class=”blockdata”}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية. `عندما يتم النقر على كائن الشبح`{:class=”blockevents”}، `النتيجة`{:class=”blockdata”} يجب أن`تتغير بمقدار 1`{:class=”blockdata”}. \--- /hint \--- \--- hint \--- فيما يلي التعليمات البرمجية التي ستقوم باستخدامها: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- إليك التعليمات البرمجية لكيفية تسجيل النقاط: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \---
+
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+
+\--- /hint \--- \--- hint \---
+
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /hint \--- \--- /hints \---
 
 \---/task--
