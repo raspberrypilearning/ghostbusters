@@ -12,7 +12,7 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
-  <img src="images/space-final.png">
+  <img src="images/showcase-static.png">
 </div>
 
 \--- /no-print \---
