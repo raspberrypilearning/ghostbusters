@@ -12,7 +12,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
-  <img src="images/space-final.png">
+  <img src="images/showcase-static.png">
 </div>
 
 \--- /no-print \---
