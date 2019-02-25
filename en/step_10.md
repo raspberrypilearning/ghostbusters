@@ -86,7 +86,7 @@ if (!("scramble" in Array.prototype)) {
             "explanation"   :   "The block should always contain the word random."
         },
         {
-            "question"      :   "Which of the scripts would start a sprites energy at 100 and reduce it by 5 each time it was clicked on?",
+            "question"      :   "Which of the scripts would start a sprites energy at 100 and reduce it by 2 each time it was clicked on?",
             "image"         :   "images/montage-3.png",
             "choices"       :   [
                                     "A",
@@ -95,7 +95,7 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "A",
-            "explanation"   :   "The energy variable should start at 100 and be reduced by 5 each time.",
+            "explanation"   :   "The energy variable should start at 100 and be reduced by 2 each time.",
         },
 
     ];
