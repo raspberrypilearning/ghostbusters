@@ -83,7 +83,7 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "D",
-            "explanation"   :   "The block should always contain the word random."
+            "explanation"   :   "The block should always contain the word random.",
         },
         {
             "question"      :   "Which of the scripts would start a sprites energy at 100 and reduce it by 2 each time it was clicked on?",
