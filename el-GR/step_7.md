@@ -1,4 +1,4 @@
-## Πρόκληση: περισσότερα αντικείμενα
+## Προσθήκη βαθμολογίας
 
 Now you're going to make your game more interesting by keeping score!
 
