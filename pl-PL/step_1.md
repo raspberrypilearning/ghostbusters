@@ -1,10 +1,10 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępny jest również [w wersji dla języka Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Wprowadzenie
 
 You are going to make a ghost-catching game!
 
@@ -27,15 +27,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: Czego będziesz potrzebować
 
-### Hardware
+### Sprzęt
 
-+ A computer
++ Komputer
 
-### Software
+### Oprogamowanie
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -43,21 +43,21 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: Czego się nauczysz
 
-+ How to use random numbers to animate sprites
-+ How to react to mouse clicks
++ Jak używać liczb losowych do animowania duszków
++ Jak reagować na kliknięcia myszą
 + How to create a timer
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Dodatkowe informacje dla edukatorów
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
