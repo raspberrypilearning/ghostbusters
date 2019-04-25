@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Это **Scratch 3** версия проекта. Существует также [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) версия проекта.
 
 \--- /no-print \---
 
