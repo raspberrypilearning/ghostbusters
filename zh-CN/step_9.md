@@ -1,4 +1,4 @@
-## Challenge: more sprites
+## 挑战：更多角色
 
 Can you add other sprites to your game?
 
