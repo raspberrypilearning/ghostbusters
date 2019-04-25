@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Wyzwanie: dodaj dźwięk
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Czy możesz dodać kod do swojego ducha, aby wydał dźwięk, gdy zostanie złapany?
