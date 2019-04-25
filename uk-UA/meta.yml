@@ -1,14 +1,14 @@
 ---
-title: Ghostbusters
+title: Мисливці за привидами
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: Зробіть гру про полювання на привидів!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
     title: Animate a ghost
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: Add a score
   - 
-    title: Add a timer
+    title: Додати таймер
   - 
-    title: 'Challenge: more sprites'
+    title: 'Виклик: більше спрайтів'
     challenge: true
   - 
-    title: What next?
+    title: Що далі?
