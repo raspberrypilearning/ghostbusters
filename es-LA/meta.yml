@@ -1,0 +1,32 @@
+---
+title: Cazafantasmas
+hero_image: images/ghostbusters.png
+description: '¡Haz un juego sobre atrapar fantasmas!'
+listed: true
+copyedit: true
+version: 4.1.0
+last_tested: 2018-11-01
+steps:
+  - 
+    title: Introducción
+  - 
+    title: Animate a ghost
+  - 
+    title: Fantasmas aleatorios
+  - 
+    title: 'Desafío: más aleatoriedad'
+    challenge: true
+  - 
+    title: Code for catching ghosts
+  - 
+    title: 'Challenge: add a sound'
+    challenge: true
+  - 
+    title: Add a score
+  - 
+    title: Add a timer
+  - 
+    title: 'Challenge: more sprites'
+    challenge: true
+  - 
+    title: 'Desafío: ¡más obstáculos!'
