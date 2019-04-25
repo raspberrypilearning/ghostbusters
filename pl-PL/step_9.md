@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Wyzwanie: więcej duszków
 
-Can you add other sprites to your game?
+Czy możesz dodać inne duszki do swojej gry?
 
-![screenshot](images/ghost-final.png)
+![zrzut ekranu](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Musisz pomyśleć o kilku rzeczach dla każdego duszka, które chcesz dodać:
 
-+ How big should the sprite be?
++ Jak duży powinien być duszek?
 + Should it appear more or less often than the ghost sprite?
 + What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Ile punktów zdobywa (lub traci) gracz za złapanie duszka?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Jeśli potrzebujesz pomocy, możesz wrócić do instrukcji z poprzednich kroków lub poprosić znajomego!
