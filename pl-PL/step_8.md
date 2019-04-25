@@ -1,4 +1,4 @@
-## Add a timer
+## Dodaj licznik czasu
 
 Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
@@ -14,8 +14,8 @@ Can you add a timer to your Stage to give your player only 10 seconds to catch g
 
 Your timer should:
 
-+ Start at 10 seconds
-+ Count down every second
++ Zacznij od 10 sekund
++ Odliczaj co sekundę
 
 The game should stop when the timer gets to 0.
 
@@ -59,18 +59,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Poproś znajomego, aby przetestował twoją grę. Ile punktów można zdobyć?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Jeśli Twoja gra jest zbyt łatwa, możesz:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dać graczowi mniej czasu
++ Sprawić, aby duchy pojawiały się rzadziej
++ Zmniejszyć duchy
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Zmień i przetestuj swoją grę kilka razy, aż będziesz zadowolony z poziomu trudności.
 
 \--- /task \---
