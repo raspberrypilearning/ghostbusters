@@ -1,4 +1,4 @@
-## Animate a ghost
+## 制作幽灵动画
 
 \--- task \---
 
