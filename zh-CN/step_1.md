@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+这个项目是基于**Scratch 3**版本的，另外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2)。
 
 \--- /no-print \---
 
-## Introduction
+## 简介
 
-You are going to make a ghost-catching game!
+你将开发一款捉鬼游戏！
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![展示](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,15 +27,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: 你需要准备什么
 
-### Hardware
+### 硬件
 
-+ A computer
++ 一台计算机
 
-### Software
+### 软件
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3（[在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
 
 \--- /collapse \---
 
@@ -43,24 +43,24 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: 你将学到什么
 
-+ How to use random numbers to animate sprites
-+ How to react to mouse clicks
-+ How to create a timer
++ 如何使用随机数对幽灵进行动画处理
++ 如何对鼠标点击做出反应
++ 如何创建一个倒计时器
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: 教师附加说明
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+如果您需要打印此项目，请使用[适合打印的版本](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+这里有[整个项目的解答](http://rpf.io/p/en/ghostbusters-get)
 
 \--- /collapse \---
