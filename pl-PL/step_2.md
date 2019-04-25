@@ -12,7 +12,7 @@ Open a new empty Scratch project.
 
 Add in a new ghost sprite and a suitable Stage backdrop.
 
-![screenshot](images/ghost-ghost.png)
+![zrzut ekranu](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,35 +26,35 @@ Add code to your ghost sprite so that the ghost appears and disappears forever w
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. -- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Oto potrzebne bloki kodu: ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-hide
+ukryj
 
-show
+pokaż
 
-forever
-end
+zawsze
+koniec
 
-wait (1) seconds
+czekaj (1) sekund
 
-wait (1) seconds
+czekaj (1) sekund
 
-when flag clicked
+gdy kliknięta flaga
 ```
 
 \--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+kiedy flaga kliknięta
+zawsze
+ukryj
+czekaj (1) sekundy
+pokaż
+czekaj (1) sekundy
+koniec
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Przetestuj i zapisz swój projekt.
 
 [[[generic-scratch3-saving]]]
 
