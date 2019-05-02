@@ -10,23 +10,23 @@ steps:
   - 
     title: Inleiding
   - 
-    title: Animate a ghost
+    title: Een spook laten bewegen
   - 
     title: Willekeurige spoken
   - 
     title: 'Uitdaging: meer willekeur'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Code voor het vangen van spoken
   - 
-    title: 'Challenge: add a sound'
+    title: 'Uitdaging: geluid toevoegen'
     challenge: true
   - 
-    title: Add a score
+    title: Een score toevoegen
   - 
-    title: Add a timer
+    title: Een tijdklok toevoegen
   - 
-    title: 'Challenge: more sprites'
+    title: 'Uitdaging: meer sprites'
     challenge: true
   - 
-    title: 'Uitdaging: meer obstakels!'
+    title: Wat nu?
