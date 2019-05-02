@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van het project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
@@ -35,7 +35,7 @@ Je gaat een spookachtig spel maken!
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -45,22 +45,22 @@ Je gaat een spookachtig spel maken!
 
 ## title: Wat ga je leren
 
-+ How to use random numbers to animate sprites
-+ How to react to mouse clicks
-+ How to create a timer
++ Hoe gebruik je willekeurige nummers om sprites te animeren
++ Hoe te reageren op muisklikken
++ Hoe maak je een tijdklok
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Aanvullende informatie voor docenten
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_ blank"}.
 
 \--- /no-print \---
 
-Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+De [oplossing voor dit project is hier](http://rpf.io/p/en/ghostbusters-get) te vinden.
 
 \--- /collapse \---
