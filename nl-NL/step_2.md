@@ -10,7 +10,7 @@ Open een nieuw leeg Scratch-project.
 
 \--- task \----
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,38 +22,38 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt als op de groene vlag wordt geklikt.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`t je spook {:class="block3looks"} gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-hide
+verdwijn
 
-show
+verschijn
 
-forever
+herhaal
 end
 
-wait (1) seconds
+wacht (1) sec.
 
-wait (1) seconds
+wacht (1) sec.
 
-when flag clicked
+wanneer groene vlag wordt aangeklikt
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- / hint \--- \--- hint \--- Hier is hoe je code eruit zou moeten zien: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+wanneer groene vlag wordt aangeklikt
+herhaal
+verdwijn
+wacht (1) sec.
+verschijn
+wacht (1) sec.
 end
 ```
 
