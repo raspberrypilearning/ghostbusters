@@ -4,67 +4,67 @@ Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
 
 \--- task \----
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het scherm verschijnt, in plaats van steeds op dezelfde plaats?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Elke keer voordat je spook verschijnt, moet deze `ga naar`{:class="block3motion"} een willekeurige positie in het speelveld.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Er zijn twee sets codeblokken die je hier kunt gebruiken. Kies zelf de set die je wilt gebruiken.
 
-![ghost-sprite](images/ghost-sprite.png)
+![spook-sprite](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Voeg deze set blokken toe aan je Ghost Sprite:
 
 ```blocks3
-go to (random position v)
+ga naar (willekeurige positie v)
 ```
 
-Or add this one to your sprite:
+Of voeg anders deze toe aan je sprite:
 
 ```blocks3
-go to x: (14) y: (50)
+ga naar x: (14) y: (50)
 
-pick random (1) to (10)
+willekeurig getal tussen (1) en (10)
 
-pick random (1) to (10)
+willekeurig getal tussen (1) en (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Je code zou er als volgt uit kunnen zien:
 
-![ghost-sprite](images/ghost-sprite.png)
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+wanneer groene vlag wordt aangeklikt
+herhaal
+verdwijn
+wacht (1) sec.
+ga naar (willekeurige positie v)
+verschijn
+wacht (1) sec.
 end
 ```
 
-Or it could look like this:
+Of het zou er als volgt uit kunnen zien:
 
-![ghost-sprite](images/ghost-sprite.png)
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+wanneer groene vlag wordt aangeklikt
+herhaal
+verdwijn
+wacht (1) sec.
+ga naar x: (willekeurig getal tussen (-150) en (150)) y: (willekeurig getal tussen (-150) en (150))
+verschijn
+wacht (1) sec.
 end
 ```
 
