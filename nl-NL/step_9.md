@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Uitdaging: meer sprites
 
-Can you add other sprites to your game?
+Kun je andere sprites aan je spel toevoegen?
 
 ![screenshot](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Je moet aan een aantal dingen denken voor elke sprite die je wilt toevoegen:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Hoe groot moet de sprite zijn?
++ Zal het meer of minder vaak verschijnen dan het spook?
++ Hoe ziet het eruit/klinkt het als het is gepakt?
++ Hoeveel punten scoort (of verliest) de speler om het te vangen?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Als je hulp nodig hebt, kun je teruggaan naar de instructies in de vorige stappen of een vriend vragen!
