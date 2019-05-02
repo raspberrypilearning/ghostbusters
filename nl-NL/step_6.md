@@ -1,3 +1,3 @@
-## Een tijdklok toevoegen
+## Uitdaging: geluid toevoegen
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Kun je code aan je spook toevoegen zodat het spook een geluid maakt wanneer het wordt gevangen?
