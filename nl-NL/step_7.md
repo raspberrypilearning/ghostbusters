@@ -1,10 +1,10 @@
-## Uitdaging: meer objecten
+## Een score toevoegen
 
-Now you're going to make your game more interesting by keeping score!
+Nu ga je je spel interessanter maken door de score bij te houden!
 
 \--- task \----
 
-Create a new variable called `score`{:class="block3variables"}.
+Maak een nieuwe variabele met de naam `score`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,46 +12,46 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \----
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Kun je de score van de spelers bijhouden? Spelers zouden punten moeten scoren als ze spoken vangen door er op te klikken.
 
 Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
 
-![Increasing score](images/ghost-score-test.png)
+![Score ophogen](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Het speelveld is de beste plaats om deze code neer te zetten.
+`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, moet de `score`{:class="block3variables"} variabele op `0`{:class="block3variables"} gezet worden. Het speelveld is de beste plaats om deze code neer te zetten.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Wanneer op de Spook Sprite wordt geklikt`{:class="block3events"}, moet de `score `{:class="block3variables"} `met 1 worden opgehoogd`{:class=”block3data"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt: ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+maak [score v] (0)
 
-when flag clicked
+wanneer groene vlag wordt aangeklikt
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 verander [score v] met (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+wanneer groene vlag wordt aangeklikt
+maak [score v] (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Wanneer op deze sprite wordt geklikt
+verdwijn
 
-+ change [score v] by (1)
++ verander [score v] met (1)
 ```
 
 \--- /hint \--- \--- /hints \---
