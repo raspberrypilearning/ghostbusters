@@ -1,16 +1,16 @@
-## Add a timer
+## Een tijdklok toevoegen
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Nu ga je een tijdklok toevoegen zodat de speler maar tien seconden heeft om zoveel mogelijk spoken te vangen.
 
 \--- task \---
 
-Maak een nieuwe variabele met de naam 'time'.
+Maak een nieuwe variabele met de naam 'tijd'.
 
 \--- /task \---
 
 \--- task \----
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Kun je een tijdklok toevoegen aan het speelveld zodat de speler maar 10 seconden de tijd heeft om zoveel mogelijk spoken te vangen?
 
 Je timer zou moeten:
 
@@ -19,38 +19,38 @@ Je timer zou moeten:
 
 Het spel zou moeten stoppen als de timer op 0 komt.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, zou de `tijd`{:class="block3variables"} variabele op `10`{:class =”block3data”} moeten worden gezet. Het zou dan elke seconde moeten `veranderen met -1`{:class="block3variables"} totdat deze `0 bereikt`{:class=”block3control"}. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+stop [alle]
 
 < [ ] = [ ] >
 
-set [time v] to [10]
+maak [tijd v] [10]
 
-change [time v] by (-1)
+verander [tijd v] met (-1)
 
-(time)
+(tijd)
 
-wait (1) seconds
+wacht (1) sec.
 
-repeat until < >
+herhaal tot < >
 end
 
-when flag clicked
+wanneer groene vlag wordt aangeklikt
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- / hint \--- \--- hint \--- Hier is de code die je moet toevoegen om een tijdklok te maken: ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+wanneer groene vlag wordt aangeklikt
+maak [tijd v] [10]
+herhaal tot < (tijd) = [0] >
+wacht (1) sec.
+verander [tijd v] met (-1)
 end
-stop [all]
+stop [alle]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,7 +59,7 @@ stop [all]
 
 \--- task \----
 
-Ask a friend to test your game. How many points can they score?
+Vraag een vriend om je spel te testen. Hoeveel punten kunnen ze scoren?
 
 \--- /task \---
 
@@ -71,6 +71,6 @@ Als je spel te gemakkelijk is, kun je:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Verander en test je spel een paar keer totdat je tevreden bent met de moeilijkheidsgraad.
 
 \--- /task \---
