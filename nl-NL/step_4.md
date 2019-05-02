@@ -1,5 +1,5 @@
 ## Uitdaging: meer willekeur
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Kun je code aan je spook sprite toevoegen om je spook een willekeurige hoeveelheid tijd te laten `wacht`{:class="block3control"}en terwijl het verborgen is?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Kun je met het `maak grootte`{:class=”block3looks”} blok het spook een willekeurige grootte geven, elke keer dat deze verschijnt?
