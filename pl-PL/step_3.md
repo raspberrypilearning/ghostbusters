@@ -24,14 +24,14 @@ Either add this set of blocks to your ghost sprite:
 idź do (losowa pozycja v)
 ```
 
-Or add this one to your sprite:
+Lub dodaj ten do swojego duszka:
 
 ```blocks3
-go to x: (14) y: (50)
+przejdź do x: (14) y: (50)
 
-pick random (1) to (10)
+wybierz losowo (1) do (10)
 
-pick random (1) to (10)
+wybierz losowo (1) do (10)
 ```
 
 \--- /hint \---
