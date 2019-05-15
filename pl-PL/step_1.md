@@ -6,7 +6,7 @@ Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępn
 
 ## Wprowadzenie
 
-You are going to make a ghost-catching game!
+Zrobisz upiorną grę!
 
 \--- no-print \---
 
@@ -47,7 +47,7 @@ You are going to make a ghost-catching game!
 
 + Jak używać liczb losowych do animowania duszków
 + Jak reagować na kliknięcia myszą
-+ How to create a timer
++ Jak stworzyć licznik czasu
 
 \--- /collapse \---
 
@@ -61,6 +61,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 \--- /no-print \---
 
-Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+Znajdź [rozwiązanie tego projektu tutaj](http://rpf.io/p/en/ghostbusters-get).
 
 \--- /collapse \---
