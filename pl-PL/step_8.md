@@ -4,20 +4,20 @@ Now you're going to add a timer so that the player only has ten seconds to catch
 
 \--- task \---
 
-Create a new variable called 'time'.
+Utwórz nową zmienną o nazwie "czas".
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Czy możesz dodać licznik czasu do sceny, aby dać graczowi tylko 10 sekund na złapanie duchów?
 
-Your timer should:
+Twój licznik czasu powinien:
 
 + Zacznij od 10 sekund
 + Odliczaj co sekundę
 
-The game should stop when the timer gets to 0.
+Gra powinna się zatrzymać, gdy czas dojdzie do 0.
 
 \--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
 
