@@ -2,26 +2,21 @@
 title: Spokenjagers
 hero_image: images/ghostbusters.png
 description: Maak een spel over het vangen van spoken!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - title: Inleiding
-  - title: Beweeg een spook
+  - title: Een spook laten bewegen
   - title: Willekeurige spoken
-  - title: Spoken vangen
+  - title: 'Uitdaging: meer willekeur'
+    challenge: true
+  - title: Code voor het vangen van spoken
+  - title: 'Uitdaging: geluid toevoegen'
+    challenge: true
   - title: Een score toevoegen
   - title: Een tijdklok toevoegen
-  - title: 'Uitdaging: meer objecten'
+  - title: 'Uitdaging: meer sprites'
     challenge: true
+  - title: Wat nu?
