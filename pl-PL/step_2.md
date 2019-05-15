@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Open a new empty Scratch project.
+Otwórz nowy projekt w Scratch-u.
 
 [[[generic-scratch3-new-project]]]
 
