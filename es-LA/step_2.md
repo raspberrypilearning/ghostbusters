@@ -1,4 +1,4 @@
-## Animate a ghost
+## Animando un fantasma
 
 \--- task \---
 
