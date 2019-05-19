@@ -4,7 +4,7 @@ Twój duch jest naprawdę łatwy do złapania, ponieważ się nie porusza!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Czy możesz dodać kod do swojego ducha, aby zamiast pozostawać w tej samej pozycji, duch pojawiał się w losowych miejscach na scenie?
 
 \--- hints \---
 
