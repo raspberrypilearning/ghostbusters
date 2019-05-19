@@ -1,6 +1,6 @@
 ## Dodaj licznik czasu
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Teraz dodamy zegar, aby gracz miał tylko dziesięć sekund na złapanie jak największej liczby duchów.
 
 \--- task \---
 
@@ -19,38 +19,38 @@ Twój licznik czasu powinien:
 
 Gra powinna się zatrzymać, gdy czas dojdzie do 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Kiedy kliknięta jest zielona flaga`{: class = "block3events"}, twoja zmienna `czas`{: class = "block3variables"} powinna być ustawiona na `na 10`{: class = "block3variables"}. Powinna następnie `zmień o -1`{: klasa = "block3variables"} co sekundę `, aż dojdzie do 0`{: klasa = "block3control"}. \--- /hint \--- \--- hint \--- Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
 
-< [ ] = [ ] >
+< [] = [] >
 
-set [time v] to [10]
+ustaw [czas v] na [10]
 
-change [time v] by (-1)
+zmień [czas v] o(-1)
 
-(time)
+(czas)
 
-wait (1) seconds
+czekaj (1) sekund
 
-repeat until < >
-end
+powtórzyć do < >
+koniec
 
-when flag clicked
+po kliknięciu flagi
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- / hint \--- \--- hint \--- Oto kod, który należy dodać, aby utworzyć zegar: ![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
+kiedy flaga kliknięta
+ustaw [czas v] na [10]
+powtarzaj, aż < (czas) = [0] >
+czekaj (1) sekund
+zmiań [czas v] o (-1)
+koniec
+zatrzymaj [all]
 ```
 
 \--- /hint \--- \--- /hints \---
