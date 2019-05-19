@@ -1,6 +1,6 @@
 ## Co dalej?
 
-Well done on completing the Ghostbusters project! Czy chcesz stworzyć coś trudniejszego?
+Dobrze Ci poszło z ukończeniem projektu! Czy chcesz stworzyć coś trudniejszego?
 
 Wypróbuj projekt [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
