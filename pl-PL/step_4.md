@@ -1,5 +1,5 @@
 ## Wyzwanie: większa losowość
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Czy możesz dodać kod do duszka, aby `czekał`{: klasa = "blok3control"} losowy czas, gdy jest ukryty?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Czy możesz użyć bloku `ustaw rozmiar`{: class = "block3looks"}, aby twój duch był losowo większy lub mniejszy za każdym razem, gdy się pojawi?
