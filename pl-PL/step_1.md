@@ -19,7 +19,7 @@ Zrobisz upiorną grę!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![prezentacja](images/showcase-static.png)
 
 \--- /print-only \---
 
