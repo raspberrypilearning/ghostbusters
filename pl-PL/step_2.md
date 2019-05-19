@@ -1,4 +1,4 @@
-## Animate a ghost
+## Animuj ducha
 
 \--- task \---
 
@@ -10,7 +10,7 @@ Otwórz nowy projekt w Scratch-u.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Dodaj nowego duszka przedstawiającego ducha i odpowiednie tło sceniczne.
 
 ![zrzut ekranu](images/ghost-ghost.png)
 
@@ -22,13 +22,13 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Dodaj kod do duszka ducha, aby pojawiał się i znikał na zawsze po kliknięciu zielonej flagi.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. -- /hint \--- \--- hint \---
+Po `zielona flaga kliknięciu`{class = "block3events"}, twój duch powinien `ukryj`{: class = "block3looks"} przez `jeden sekund`{class = "block3control"}, a następnie `pokaż`{: class = "block3looks"} przez `jedną sekundę`{: class = "block3control"}. Musi to zrobić `zawsze`{: class = "block3control"}. -- /hint \--- \--- hint \---
 
-Oto potrzebne bloki kodu: ![ghost-sprite](images/ghost-sprite.png)
+Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 ukryj
