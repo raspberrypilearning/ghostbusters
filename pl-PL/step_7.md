@@ -1,10 +1,10 @@
 ## Dodaj wynik
 
-Now you're going to make your game more interesting by keeping score!
+Teraz sprawisz, że twoja gra będzie bardziej interesująca dzięki zbieraniu punktów!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Utwórz nową zmienną o nazwie `wynik`{: class = "block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Czy możesz śledzić wynik gracza? Gracze powinni zdobywać punkty, łapiąc duchy poprzez kliknięcie na nie.
 
 Za każdym razem, gdy gracz kliknie na ducha, jego wynik powinien wzrosnąć.
 
@@ -20,38 +20,38 @@ Za każdym razem, gdy gracz kliknie na ducha, jego wynik powinien wzrosnąć.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Scena jest najlepszym miejscem do dodania tego kodu.
+`Po kliknięciu zielonej flagi`{: class = "block3events"} twoja zmienna `wynik`{: class = "block3variables"} powinna być `ustawiona na 0`{: class = "block3variables"}. Scena jest najlepszym miejscem do dodania tego kodu.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Po kliknięciu duszka ducha`{: class = "block3events"}, zmienna `wynik`{: class = "block3variables"} powinna być `zmieniona o 1`{: class = "block3variables"}.
 
-\--- /hint \--- \--- hint \--- Oto potrzebne bloki kodu: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Oto potrzebne bloki kodu: ![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+ustaw [wynik v] na (0)
 
-when flag clicked
+po kliknięciu flagi
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+zmienić [wynik v] o (1)
 ```
 
--- /hint \--- \--- hint \---![backdrop icon](images/ghost-backdrop.png)
+-- /hint \--- \--- hint \---![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+kiedy kliknięto zieloną flagę
+ustaw [wynik v] na (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Kiedy duszek kliknięty
+ukryj
 
-+ change [score v] by (1)
++ zmień [wynik v] o (1)
 ```
 
 \--- /hint \--- \--- /hints \---
