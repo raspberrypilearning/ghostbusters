@@ -1,12 +1,12 @@
 ## Kod do łapania duchów
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Teraz dodaj kod do swojej gry, aby gracz łapał duchy!
 
 \--- task \---
 
 Czy możesz sprawić, by twój duch zniknął, gdy zostanie złapany? Gracz powinien móc kliknąć duchy, aby je złapać.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Jeśli przetestujesz grę i sprawisz, że łapanie upiorów będą trudne, możesz zagrać w trybie pełnoekranowym, klikając ten przycisk:
 
 ![zrzut ekranu](images/ghost-fullscreen-annotated.png)
 
