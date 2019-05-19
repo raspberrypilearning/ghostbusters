@@ -12,11 +12,11 @@ If you test your game and find catching ghosts difficult, you can play the game 
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Po kliknięciu`{: class = "block3events"} twójduszek powinien się `ukryć`{: class = "block3looks"}.
 
 -- /hint \--- \--- hint \---
 
-Twój kod powinien wyglądać tak: ![ghost-sprite](images/ghost-sprite.png)
+Twój kod powinien wyglądać tak: ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 kiedy ten duszek kliknięty
