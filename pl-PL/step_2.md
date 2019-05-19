@@ -45,7 +45,7 @@ czekaj (1) sekund
 gdy kliknięta flaga
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Twój kod powinien wyglądać tak: ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 kiedy flaga kliknięta
