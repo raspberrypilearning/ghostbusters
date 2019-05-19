@@ -10,15 +10,15 @@ Czy możesz dodać kod do swojego ducha, aby zamiast pozostawać w tej samej poz
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Za każdym razem, zanim pojawi się twój duch, powinien `przejść`{: class = "block3motion"} do losowej pozycji na scenie.
 
 -- /hint \--- \--- hint \---
 
 Istnieją dwa zestawy bloków kodu, których możesz użyć tutaj. Wybierz zestaw, który preferujesz.
 
-![ghost-sprite](images/ghost-sprite.png)
+![duszek ducha](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Dodaj ten zestaw bloków do twojego duszka:
 
 ```blocks3
 idź do (losowa pozycja v)
@@ -40,7 +40,7 @@ wybierz losowo (1) do (10)
 
 Twój kod może wyglądać tak:
 
-![ghost-sprite](images/ghost-sprite.png)
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 kiedy flaga kliknięta
@@ -55,7 +55,7 @@ koniec
 
 Lub może wyglądać tak:
 
-![ghost-sprite](images/ghost-sprite.png)
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 kiedy flaga kliknięta
