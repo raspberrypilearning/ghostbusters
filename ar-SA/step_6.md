@@ -19,7 +19,7 @@
 
 --- hints --- 
 --- hint ---
-`عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `الوقت`{:class=”blockdata”} يجب أن يكون `مساوي 10`{:class=”blockdata”}. بعد ذالك يجب `تغيير الوقت بمقدار -1`{:class=”blockdata”} كل ثانية `حتى تصل إلى 0`{:class=”blockcontrol"}. 
+`عندما يتم النقر على العلم الأخضر`{:class="blockevents"}، متغير `الوقت`{:class="blockdata"} يجب أن يكون `مساوي 10`{:class="blockdata"}. بعد ذالك يجب `تغيير الوقت بمقدار -1`{:class="blockdata"} كل ثانية `حتى تصل إلى 0`{:class="blockcontrol"}. 
 --- /hint --- 
 --- hint --- 
 
