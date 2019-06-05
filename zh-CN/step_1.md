@@ -31,11 +31,11 @@
 
 ### 硬件
 
-+ 一台计算机
+- 一台计算机
 
 ### 软件
 
-+ Scratch 3（[在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
+- Scratch 3（[在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
 
 \--- /collapse \---
 
@@ -45,9 +45,9 @@
 
 ## title: 你将学到什么
 
-+ 如何使用随机数对幽灵进行动画处理
-+ 如何对鼠标点击做出反应
-+ 如何创建一个倒计时器
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
