@@ -21,7 +21,6 @@ Klik op de groene vlag en klik vervolgens op de chatbot om een ​​gesprek te 
 
 --- /print-only ---
 
-
 Door de community geleverde vertaling
 
 Dit project werd vertaald door Cor Groot en gecontroleerd door Robert-Jan Kempenaar.
