@@ -31,11 +31,11 @@ Je gaat een spookachtig spel maken!
 
 ### Hardware
 
-+ Een computer
+- Een computer
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -45,9 +45,9 @@ Je gaat een spookachtig spel maken!
 
 ## title: Wat ga je leren
 
-+ Hoe gebruik je willekeurige nummers om sprites te animeren
-+ Hoe te reageren op muisklikken
-+ Hoe maak je een tijdklok
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
