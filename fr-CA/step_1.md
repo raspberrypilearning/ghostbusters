@@ -31,11 +31,11 @@ Tu vas faire un jeu attrape-fantôme!
 
 ### Matériel informatique
 
-+ Un ordinateur
+- Un ordinateur
 
 ### Logiciel
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -45,9 +45,9 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## title: Ce que tu vas apprendre
 
-+ How to use random numbers to animate sprites
-+ How to react to mouse clicks
-+ How to create a timer
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
