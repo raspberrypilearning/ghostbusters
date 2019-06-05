@@ -58,7 +58,7 @@ stop [alle]
 
 --- /hint --- --- /hints ---
 
--- /task ---
+--- /task ---
 
 --- task ---
 
