@@ -31,11 +31,11 @@ Zrobisz upiorną grę!
 
 ### Sprzęt
 
-+ Komputer
+- Komputer
 
 ### Oprogamowanie
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -45,9 +45,9 @@ Zrobisz upiorną grę!
 
 ## title: Czego się nauczysz
 
-+ Jak używać liczb losowych do animowania duszków
-+ Jak reagować na kliknięcia myszą
-+ Jak stworzyć licznik czasu
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
