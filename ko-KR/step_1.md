@@ -31,11 +31,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### 하드웨어
 
-+ 컴퓨터
+- 컴퓨터
 
 ### 소프트웨어
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -45,9 +45,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: 배우게 될 것
 
-+ How to use random numbers to animate sprites
-+ How to react to mouse clicks
-+ How to create a timer
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
