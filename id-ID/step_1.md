@@ -31,11 +31,11 @@ Anda akan membuat game menangkap hantu!
 
 ### Perangkat keras
 
-+ Komputer
+- Komputer
 
 ### Perangkat lunak
 
-+ Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /menggulung \---
 
@@ -45,9 +45,9 @@ Anda akan membuat game menangkap hantu!
 
 ## judul: Apa yang akan kamu pelajari
 
-+ How to use random numbers to animate sprites
-+ How to react to mouse clicks
-+ How to create a timer
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
