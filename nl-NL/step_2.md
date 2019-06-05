@@ -1,6 +1,6 @@
 ## Beweeg een spook
 
---- task ----
+--- task ---
 
 Open een nieuw leeg Scratch-project.
 
@@ -48,7 +48,10 @@ wacht (1) sec.
 wanneer groene vlag wordt aangeklikt
 ```
 
---- / hint --- --- hint --- Hier is hoe je code eruit zou moeten zien: ![spook-sprite](images/ghost-sprite.png)
+--- /hint --- 
+--- hint --- 
+
+Hier is hoe je code eruit zou moeten zien: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -60,7 +63,8 @@ wacht (1) sec.
 end
 ```
 
---- /hint --- --- /hints ---
+--- /hint --- 
+--- /hints ---
 
 --- /task ---
 
