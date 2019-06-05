@@ -10,7 +10,16 @@ Trebaš kliknuti na duhove kako bi ih ulovio. Ako ti je teško hvatati duhove mo
 
 ![screenshot](images/ghost-fullscreen.png)
 
---- hints --- --- hint --- `Kada klikneš na duha`{:class=”blockevents”} on se mora `sakriti`{:class=”blocklooks”}. --- /hint --- --- hint --- Tvoj kôd bi trebao izgledati ovako: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
+--- hints --- 
+--- hint --- 
+
+`Kada klikneš na duha`{:class="blockevents"} on se mora `sakriti`{:class="blocklooks"}. 
+--- /hint --- 
+--- hint --- 
+
+Tvoj kôd bi trebao izgledati ovako: ![screenshot](images/ghost-catch-code.png) 
+--- /hint --- 
+--- /hints ---
 
 --- /task ---
 
@@ -18,4 +27,6 @@ Trebaš kliknuti na duhove kako bi ih ulovio. Ako ti je teško hvatati duhove mo
 
 ## Izazov: dodavanje zvuka
 
-Možeš li dodati zvuk svaki puta kada je duh uhvaćen? --- /challenge ---
+Možeš li dodati zvuk svaki puta kada je duh uhvaćen? 
+
+--- /challenge ---

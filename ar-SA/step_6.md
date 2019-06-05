@@ -17,9 +17,21 @@
 
 ستنتهي اللعبة عندما يصل الموقِت إلى 0.
 
---- hints --- --- hint --- `عندما يتم النقر على العلم الأخضر`{:class=”blockevents”}، متغير `الوقت`{:class=”blockdata”} يجب أن يكون `مساوي 10`{:class=”blockdata”}. بعد ذالك يجب `تغيير الوقت بمقدار -1`{:class=”blockdata”} كل ثانية `حتى تصل إلى 0`{:class=”blockcontrol"}. --- /hint --- --- hint --- فيما يلي التعليمات البرمجية التي ستقوم بإستخدامها: ![screenshot](images/ghost-timer-blocks.png) --- /hint --- --- hint --- إليك كيفية إضافة المؤقت إلى لعبتك: ![لقطة الشاشة](images/ghost-timer-code.png)
+--- hints --- 
+--- hint ---
+`عندما يتم النقر على العلم الأخضر`{:class="blockevents"}، متغير `الوقت`{:class="blockdata"} يجب أن يكون `مساوي 10`{:class="blockdata"}. بعد ذالك يجب `تغيير الوقت بمقدار -1`{:class="blockdata"} كل ثانية `حتى تصل إلى 0`{:class="blockcontrol"}. 
+--- /hint --- 
+--- hint --- 
 
-وهذه كيفية إنشاء قالب `الوقت = 0`: ![screenshot](images/ghost-timer-help.png) --- /hint --- --- /hints ---
+فيما يلي التعليمات البرمجية التي ستقوم بإستخدامها: ![screenshot](images/ghost-timer-blocks.png) 
+--- /hint --- 
+--- hint --- 
+
+إليك كيفية إضافة المؤقت إلى لعبتك: ![لقطة الشاشة](images/ghost-timer-code.png)
+
+وهذه كيفية إنشاء قالب `الوقت = 0`: ![screenshot](images/ghost-timer-help.png) 
+--- /hint --- 
+--- /hints ---
 
 --- /task ---
 
@@ -27,7 +39,7 @@
 
 اطلب من صديق أن يجرِّب اللعبة. كم عدد النقاط التي يمكنه إحرازها؟
 
----/task--
+--- /task ---
 
 إذا كانت اللعبة سهلة للغاية، فيمكنك:
 

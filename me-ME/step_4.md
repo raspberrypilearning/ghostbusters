@@ -19,3 +19,5 @@ Treba da klikneš na duhove kako bi ih uhvatio/uhvatila. Ako ti je teško da hva
 ## Izazov: dodavanje zvuka
 
 Da li možeš da napraviš da tvoj duh proizvodi zvuk svaki put kada je uhvaćen?
+
+--- /challenge ---
