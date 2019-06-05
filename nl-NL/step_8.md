@@ -44,7 +44,7 @@ wanneer groene vlag wordt aangeklikt
 
 ```
 
---- / hint --- --- hint --- Hier is de code die je moet toevoegen om een tijdklok te maken: ![achtergrond pictogram](images/ghost-backdrop.png)
+--- /hint --- --- hint --- Hier is de code die je moet toevoegen om een tijdklok te maken: ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -60,7 +60,7 @@ stop [alle]
 
 -- /task ---
 
---- task ----
+--- task ---
 
 Vraag een vriend om je spel te testen. Hoeveel punten kunnen ze scoren?
 
