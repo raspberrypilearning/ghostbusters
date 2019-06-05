@@ -8,7 +8,7 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - title: Inleiding
-  - title: Een spook laten bewegen
+  - title: Beweeg een spook
   - title: Willekeurige spoken
   - title: 'Uitdaging: meer willekeur'
     challenge: true

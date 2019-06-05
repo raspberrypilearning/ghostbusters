@@ -2,7 +2,7 @@
 
 Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
 
---- task ----
+--- task ---
 
 Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het scherm verschijnt, in plaats van steeds op dezelfde plaats?
 
@@ -13,8 +13,7 @@ Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het sc
 
 Elke keer voordat je spook verschijnt, moet deze `ga naar`{:class="block3motion"} een willekeurige positie in het speelveld.
 
---- /hint --- 
---- hint ---
+--- /hint --- --- hint ---
 
 Er zijn twee sets codeblokken die je hier kunt gebruiken. Kies zelf de set die je wilt gebruiken.
 
@@ -70,7 +69,6 @@ wacht (1) sec.
 end
 ```
 
---- /hint ---
---- /hints ---
+--- /hint --- --- /hints ---
 
 --- /task ---
