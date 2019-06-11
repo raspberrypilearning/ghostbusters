@@ -1,12 +1,12 @@
 ## Wat nu?
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+Goed gedaan met het voltooien van het Spokenjagers-project! Wil je iets maken dat een een beetje uitdagender is?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+Probeer het [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project eens uit.
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+Klik op de groene vlag en klik vervolgens op de chatbot om een ​​gesprek te starten. Wanneer de chatbot een vraag stelt, typ je jouw antwoord in het vak aan de onderkant van het speelveld en klik je op het blauwe vinkje aan de rechterkant (of druk op `Enter`) om het antwoord van de chatbot te zien.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![voltooid project](images/chatbot-preview.png)
 
 \--- /print-only \---
