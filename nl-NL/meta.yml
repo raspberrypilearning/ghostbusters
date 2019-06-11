@@ -24,11 +24,11 @@ steps:
   - 
     title: Een score toevoegen
   - 
-    title: Een tijdklok toevoegen
+    title: Een timer toevoegen
   - 
     title: 'Uitdaging: meer sprites'
     challenge: true
   - 
     title: Test yourself
   - 
-    title: Wat nu?
+    title: 'Uitdaging: Instructie scherm'
