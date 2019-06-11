@@ -1,4 +1,4 @@
-## Beweeg een spook
+## Een spook laten bewegen
 
 \--- task \----
 
@@ -12,7 +12,7 @@ Open een nieuw leeg Scratch-project.
 
 Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
-![screenshot](images/ghost-ghost.png)
+![schermafdruk](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -45,7 +45,7 @@ wacht (1) sec.
 wanneer groene vlag wordt aangeklikt
 ```
 
-\--- / hint \--- \--- hint \--- Hier is hoe je code eruit zou moeten zien: ![spook-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Zo zou je nieuwe code er uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
