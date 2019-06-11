@@ -35,7 +35,7 @@ when flag clicked
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+cambiar [puntuación v] por (1)
 ```
 
 \--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
