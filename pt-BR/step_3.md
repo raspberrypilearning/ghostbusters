@@ -68,6 +68,6 @@ wait (1) seconds
 end
 ```
 
-\---/hints \--- \--- /hint \---
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
