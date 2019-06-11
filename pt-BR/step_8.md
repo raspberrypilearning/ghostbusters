@@ -53,7 +53,7 @@ end
 stop [all]
 ```
 
-\---/hints \--- \--- /hint \---
+\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
