@@ -57,7 +57,7 @@ Você vai criar um jogo de Caça-Fantasmas!
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print){: target = "_ blank"}.
 
 \--- /no-print \---
 
