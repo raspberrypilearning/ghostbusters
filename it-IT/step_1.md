@@ -49,7 +49,7 @@ Stai per creare un gioco di acchiappa-fantasmi!
 - Use code to generate random numbers in Scratch
 - Add a variable to store a game score in Scratch
 
-\--- / chiudi \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -63,4 +63,4 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
 
-\--- / chiudi \---
+\--- /collapse \---
