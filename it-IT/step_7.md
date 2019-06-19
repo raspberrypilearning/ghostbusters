@@ -1,4 +1,4 @@
-## Sfida: Altri oggetti
+## Aggiungere un punteggio
 
 Now you're going to make your game more interesting by keeping score!
 
@@ -20,7 +20,7 @@ Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumen
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Aggiungi questo codice allo sfondo.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Lo sfondo è il posto più adatto dove inserire questo codice.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
