@@ -1,70 +1,70 @@
-## Random ghosts
+## Ysbrydion ar hap
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Mae dy ysbryd yn hawdd iawn i’w ddal ar hyn o bryd gan nad yw e’n symud!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Alli di ychwanegu côd i dy ysbryd fel ei fod - yn hytrach nag aros mewn un man - yn ymddangos mewn manau ar hap ar y Llwyfan?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Bob tro mae dy ysbryd yn ymddangos, fe ddylai `fynd i`{:class="block3motion"} fan ar hap ar y Llwyfan.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Mae dau set o flociau côd mae modd eu defnyddio yma. Dewisa'r rhai sydd well gyda ti.
 
-![ghost-sprite](images/ghost-sprite.png)
+![corlun-ysbryd](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Unai ychwanega'r blociau yma i gorlun dy ysbryd:
 
 ```blocks3
-go to (random position v)
+mynd i (random position v)
 ```
 
-Or add this one to your sprite:
+Neu yr un yma:
 
 ```blocks3
-go to x: (14) y: (50)
+mynd i x: (14) y: (50)
 
-pick random (1) to (10)
+(dewis ar hap (1) i (10))
 
-pick random (1) to (10)
+(dewis ar hap (1) i (10))
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Fe allai dy gôd edrych fel hyn:
 
-![ghost-sprite](images/ghost-sprite.png)
+![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+pan fo'r flag werdd yn cael ei glicio
+am byth 
+ cuddio
+ aros (1) eiliad
+ mynd i (random position v)
+ dangos
+ aros (1) eiliad
 end
 ```
 
-Or it could look like this:
+Neu fe allai edrych fel hyn:
 
-![ghost-sprite](images/ghost-sprite.png)
+![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+pan fo'r flag werdd yn cael ei glicio
+am byth 
+ cuddio
+ aros (1) eiliad
+ mynd i x: (dewis ar hap (-150) i (150)) y: (dewis ar hap (-150) i (150))
+ dangos
+ aros (1) eiliad
 end
 ```
 
