@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Dyma fersiwn **Scratch 3** y prosiect. Ceir hefyd [fersiwn Scratch 2 o'r prosiect](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Cyflwyniad
 
-You are going to make a ghost-catching game!
+Rwyt ti mynd i greu gêm i ddal ysbrydion!
 
 \--- no-print \---
 
@@ -19,23 +19,23 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![arddangos](images/showcase-static.png)
 
 \--- /print-only \---
 
-\--- collapse \---
+\---collapse\---
 
 * * *
 
-## title: What you will need
+## title: Beth fydd ei angen arno ti
 
-### Hardware
+### Caledwedd
 
-- A computer
+- Cyfrifiadur
 
-### Software
+### Meddalwedd
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -43,7 +43,7 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: Yr hyn byddi di'n ei ddysgu
 
 - Understand the need for pauses between actions within loops
 - Use code to generate random numbers in Scratch
@@ -53,14 +53,14 @@ You are going to make a ghost-catching game!
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Gwybodaeth ychwanegol i addysgwyr
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+Mae modd gweld y [prosiect gorffenedig yma](http://rpf.io/p/en/ghostbusters-get).
 
 \--- /collapse \---
