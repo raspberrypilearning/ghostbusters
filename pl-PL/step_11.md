@@ -17,6 +17,6 @@ Kliknij zieloną flagę, a następnie kliknij znak chatbota, aby rozpocząć roz
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![zrealizowane projekty](images/chatbot-preview.png)
 
 \--- /print-only \---
