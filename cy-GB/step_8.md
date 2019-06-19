@@ -1,56 +1,56 @@
-## Add a timer
+## Ychwanegu Amserydd
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Rwyt ti nawr am ychwanegu amserydd fel mai dim ond deg eiliad sydd gan y chwareuwr i ddal cymaint o ysbrydion ag sy'n bosib.
 
 \--- task \---
 
-Create a new variable called 'time'.
+Creu newidyn newydd o'r enw 'amser'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Alli di ychwanegu amserydd i'r Llwyfan sydd dim ond yn rhoi 10 eiliad i'r chwareuwr ddal ysbrydion?
 
-Your timer should:
+Fe ddylai dy amserydd:
 
-+ Start at 10 seconds
-+ Count down every second
++ Gychwyn ar 10 eiliad
++ Gyfrif i lawr bob eiliad
 
-The game should stop when the timer gets to 0.
+Fe ddylai’r gêm ddod i ben pan mae’r amserydd yn cyrraedd 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Pan fo'r faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai di newidyn `amser`{:class="block3variables"} fod wedi ei `osod i 10`{:class="block3variables"}. Fe ddylai wedyn `newid wrth -1`{:class="block3variables"} bob eiliad `tan ei fod yn cyrraedd 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+aros [all]
 
 < [ ] = [ ] >
 
-set [time v] to [10]
+gosod [amser v] i [10]
 
-change [time v] by (-1)
+newid [amser v] gan (-1)
 
-(time)
+(amser)
 
-wait (1) seconds
+aros (1) eiliad
 
-repeat until < >
+ailadrodd hyd at < >
 end
 
-when flag clicked
+pan fo'r flag werdd yn cael ei glicio
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Dyma'r côd sydd angen i greu amserydd: ![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+pan fo'r flag werdd yn cael ei glicio
+gosod [amser v] i [10]
+ailadrodd hyd at < (amser) = [0] >
+ aros (1) eiliad
+ newid [amser v] gan (-1)
 end
-stop [all]
+aros [all]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,18 +59,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Gofyna i ffrind brofi dy gêm. Faint o bwyntiau mae nhw'n gallu sgorio?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Os yw dy gêm yn rhy hawdd, mae modd iti:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Rhoi llai o amser i’r chwareuwr
++ Gwneud i’r ysbrydion ymddangos yn llai aml
++ Gwneud yr ysbrydion yn llai
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Profa dy gêm nifer o weithiau tan dy fod yn hapus gyda pa mor anodd yw e.
 
 \--- /task \---
