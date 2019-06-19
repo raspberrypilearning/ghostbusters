@@ -12,7 +12,7 @@ Avvia un nuovo progetto Scratch.
 
 Add in a new ghost sprite and a suitable Stage backdrop.
 
-![schermata](images/ghost-ghost.png)
+![screenshot](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
