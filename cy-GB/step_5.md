@@ -1,26 +1,26 @@
-## Code for catching ghosts
+## Côd i ddal ysbrydion
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Rwyt ti nawr am ychwanegu côd i dy gêm fel fod y chwareuwr yn dal ysbrydion!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Alli di wneud i'r ysbryd ddiflannu pan mae'n cael ei ddal? Fe ddylai'r chwareuwr allu glicio'r ysbrydion i'w dal nhw.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Os wyt ti'n profi dy gêm ac mae'n anodd dal yr ysbrydion, mae modd chwarae'r gêm ar ffurf sgrin lawn trwy glicio'r botwm yma:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![sgrinlun](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Pan mae'n cael ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+Fe ddylai dy gôd edrych fel hyn: ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+pan gaiff y ciplun yma ei glicio
+cuddio
 ```
 
 \--- /hint \--- \--- /hints \---
