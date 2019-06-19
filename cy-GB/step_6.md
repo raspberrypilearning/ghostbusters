@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Her: ychwanegu sain
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Alli di ychwanegu côd i dy ysbryd fel fod yr ysbryd yn gwneud sŵn pan mae'n cael ei ddal?
