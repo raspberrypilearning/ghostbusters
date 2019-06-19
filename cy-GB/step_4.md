@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## Her: mwy o bethau ar hap
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Alli di ychwanegu côd i gorlun dy ysbryd i wneud i'r ysbryd `aros`{:class="block3control"} amser ar hap tra ei fod wedi ei guddio?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Alli di ddefnyddio y bloc `gosod maint`{:class="block3looks"} i wneud i dy ysbryd ymddangos yn fwy neu llai ar hap bob tro mae'n ymddangos?
