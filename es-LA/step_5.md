@@ -8,7 +8,7 @@ Can you make your ghost disappear when it's been caught? The player should be ab
 
 If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![Captura de pantalla](images/ghost-fullscreen-annotated.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
