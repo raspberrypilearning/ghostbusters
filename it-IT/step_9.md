@@ -1,4 +1,4 @@
-## Challenge: more sprites
+## Sfida: più sprite
 
 Can you add other sprites to your game?
 
