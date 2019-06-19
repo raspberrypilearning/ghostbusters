@@ -6,7 +6,7 @@ Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
 
 Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
-\--- hint \---
+\--- hints \---
 
 \--- hint \---
 
