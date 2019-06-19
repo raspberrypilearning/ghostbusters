@@ -1,10 +1,10 @@
-## Add a score
+## Ychwanegu sgôr
 
-Now you're going to make your game more interesting by keeping score!
+Rwyt ti am wneud y gêm yn fwy diddorol trwy gadw sgôr!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Creu newidyn newydd o'r enw `sgôr`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,46 +12,46 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Alli di gadw sgôr y chwareuwr? Fe ddylai chwareuwyr sgorio pwyntio pan maent yn clicio ar ysbryd i'w dal nhw.
 
-Each time a player clicks on a ghost, their score should increase.
+Bob tro mae chwareuwr yn clicio ar ysbryd, fe ddylai'r sgôr fynd fyny.
 
-![Increasing score](images/ghost-score-test.png)
+![Sgôr cynyddol](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`Pan fo'r faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy newidyn `sgôr`{:class="block3variables"} `fod wedi ei osod i `{:class="block3variables"}. Y Llwyfan yw'r lle gorau i ychwanegu'r côd yma.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Pan fo'r corlun ysbryd wedi ei glicio`{:class="block3events"}, fe ddylai'r newidyn `sgôr`{:class="block3variables"} `newid gan 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen: ![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+gosod [sgôr v] i (0)
 
+pan fo'r flag werdd yn cael ei glicio
+```
+
+![corlun-ysbryd](images/ghost-sprite.png)
+
+```blocks3
+newid [sgôr v] gan (1)
+```
+
+\--- /hint \--- \--- hint \--- ![eicon cefnlen](images/ghost-backdrop.png)
+
+```blocks3
 when flag clicked
+set [sgôr v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
-```
+pan gaiff y ciplun yma ei glicio
+cuddio
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
-
-![ghost-sprite](images/ghost-sprite.png)
-
-```blocks3
-When this sprite clicked
-hide
-
-+ change [score v] by (1)
++ newid [sgôr v] gan (1)
 ```
 
 \--- /hint \--- \--- /hints \---
