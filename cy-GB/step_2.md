@@ -1,8 +1,8 @@
-## Animate a ghost
+## Animeiddio ysbryd
 
 \--- task \---
 
-Open a new empty Scratch project.
+Agora brosiect Scratch gwag newydd.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Ychwanega gorlun ysbryd newydd a chefnlen addas i'r Llwyfan.
 
-![screenshot](images/ghost-ghost.png)
+![sgrinlun](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,38 +22,38 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Ychwanega gôd at dy gorlun ysbryd fel bod yr ysbryd yn ymddangos ac yn diflannu am byth pan fydd y faner werdd yn cael ei glicio.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"} am `un eiliad`{:class="block3control"} yna `dangos`{:class="block3looks"} am `un eiliad`{:class="block3control"}. Mae angen iddo wneud hyn `am byth`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-hide
+cuddio
 
-show
+dangos
 
-forever
+am byth
 end
 
-wait (1) seconds
+aros (1) eiliad
 
-wait (1) seconds
+aros (1) eiliad
 
-when flag clicked
+pan fo'r flag werdd yn cael ei glicio
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Dyma sut dylai dy gôd edrych: ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+pan fo'r flag werdd yn cael ei glicio
+am byth 
+ cuddio
+ aros (1) eiliad
+ dangos
+ aros (1) eiliad
 end
 ```
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Profa ac arbed dy gôd.
 
 [[[generic-scratch3-saving]]]
 
