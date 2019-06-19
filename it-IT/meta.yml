@@ -1,5 +1,5 @@
 ---
-title: Ghostbusters
+title: Ghostbusters, gli acchiappafantasmi
 hero_image: images/ghostbusters.png
 description: Crea un gioco di acchiappa-fantasmi!
 listed: true
@@ -10,25 +10,25 @@ steps:
   - 
     title: Introduzione
   - 
-    title: Animate a ghost
+    title: Animare un fantasma
   - 
     title: Fantasmi a caso
   - 
     title: 'Sfida: più casualità'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Codice per catturare fantasmi
   - 
-    title: 'Challenge: add a sound'
+    title: 'Sfida: Aggiungere un suono'
     challenge: true
   - 
-    title: Add a score
+    title: Aggiungere un punteggio
   - 
-    title: Add a timer
+    title: Aggiungere un timer
   - 
-    title: 'Challenge: more sprites'
+    title: 'Sfida: più sprite'
     challenge: true
   - 
-    title: Test yourself
+    title: Valutati
   - 
     title: E poi?
