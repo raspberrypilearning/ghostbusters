@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Her: mwy o gorluniau
 
-Can you add other sprites to your game?
+Alli di ychwanegu corluniau eraill i dy gêm?
 
-![screenshot](images/ghost-final.png)
+![sgrinlun](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Fe fydd angen iti feddwl am bethau penodol ar gyfer pob corlun rwyt ei eisiau eu ychwanegu:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Pa mor fawr yw'r corlun?
++ A fydd e’n ymddangos mwy neu llai aml na’r ysbrydion?
++ Beth fydd e’n edrych/swnio fel pan fydd yn cael ei ddal?
++ Faint o bwyntiau byddi di’n ennill (neu golli) am ei ddal?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Os wyt ti angen cymorth, cer yn ôl trwy'r cyfarwyddiadau yn y camau diwethaf, neu gofyn i ffrind!
