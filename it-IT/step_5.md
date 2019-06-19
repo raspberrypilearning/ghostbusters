@@ -1,4 +1,4 @@
-## Aggiungere un punteggio
+## Codice per catturare fantasmi
 
 Now you're going to add code to your game so that the player to catch ghosts!
 
@@ -8,7 +8,7 @@ Can you make your ghost disappear when it's been caught? The player should be ab
 
 If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
-![schermata](images/ghost-fullscreen-annotated.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
