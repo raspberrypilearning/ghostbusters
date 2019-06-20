@@ -61,6 +61,6 @@
 
 \--- /no-print \---
 
-这里有[整个项目的解答](http://rpf.io/p/en/ghostbusters-get)
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
