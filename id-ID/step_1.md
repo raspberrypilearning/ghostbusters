@@ -61,6 +61,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 \--- /tidak-dicetak \---
 
-Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /menggulung \---
