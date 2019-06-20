@@ -61,6 +61,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](htt
 
 \--- /no-print \---
 
-De [oplossing voor dit project is hier](http://rpf.io/p/en/ghostbusters-get) te vinden.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
