@@ -61,6 +61,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 \--- /no-print \---
 
-Znajdź [rozwiązanie tego projektu tutaj](http://rpf.io/p/en/ghostbusters-get).
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
