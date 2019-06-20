@@ -61,6 +61,6 @@ Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https
 
 \--- /no-print \---
 
-Mae modd gweld y [prosiect gorffenedig yma](http://rpf.io/p/en/ghostbusters-get).
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
