@@ -21,7 +21,7 @@ Mae dau set o flociau côd mae modd eu defnyddio yma. Dewisa'r rhai sydd well gy
 Unai ychwanega'r blociau yma i gorlun dy ysbryd:
 
 ```blocks3
-mynd i (random position v)
+mynd i (safle ar hap v)
 ```
 
 Neu yr un yma:
@@ -47,7 +47,7 @@ pan fo'r flag werdd yn cael ei glicio
 am byth 
  cuddio
  aros (1) eiliad
- mynd i (random position v)
+ mynd i (safle ar hap v)
  dangos
  aros (1) eiliad
 end
