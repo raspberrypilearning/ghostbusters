@@ -41,7 +41,7 @@ newid [sgôr v] gan (1)
 \--- /hint \--- \--- hint \--- ![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
+pan fo'r flag werdd yn cael ei glicio
 set [sgôr v] to (0)
 ```
 
