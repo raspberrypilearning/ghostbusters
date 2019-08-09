@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Aceasta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducere
 
-You are going to make a ghost-catching game!
+Ești pe cale să faci un joc de vânat fantome!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![prezentare](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,15 +27,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: De ce vei avea nevoie
 
 ### Hardware
 
-- A computer
+- Un computer
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"} sau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -43,24 +43,24 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: Ce vei învăța
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Vei înțelege nevoia pauzelor între acțiunile din bucle
+- Vei folosi cod pentru a genera numere aleatorii în Scratch
+- Vei adăuga o variabilă pentru a stoca scorul unui joc în Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Informații suplimentare pentru educatori
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Dacă vrei să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
