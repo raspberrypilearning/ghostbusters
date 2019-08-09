@@ -1,26 +1,26 @@
-## Code for catching ghosts
+## Cod pentru prinderea fantomelor
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Acum vei adăuga cod la jocul tău pentru ca jucătorul să prindă fantome!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Poți să faci ca fantoma ta să dispară când a fost prinsă? Jucătorul ar trebui să dea click pe fantome pentru a le prinde.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Dacă îți testezi jocul și ți se pare că prinderea fantomelor este dificilă, poți juca jocul în ecran complet dând click pe acest buton:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![captură de ecran](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Când se dă click pe acest personaj`{:class="block3events"}, fantoma ta ar trebui să se `ascundă`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+Codul tău ar trebui să arate astfel: ![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+când se dă click pe acest personaj
+ascunde
 ```
 
 \--- /hint \--- \--- /hints \---
