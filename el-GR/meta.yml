@@ -10,25 +10,25 @@ steps:
   - 
     title: Εισαγωγή
   - 
-    title: Animate a ghost
+    title: Σχεδίασε ένα φάντασμα
   - 
     title: Τυχαία φαντάσματα
   - 
     title: 'Πρόκληση: περισσότερη τυχαία'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Κώδικας για να πιάνεις φαντάσματα
   - 
-    title: 'Challenge: add a sound'
+    title: 'Πρόκληση: πρόσθεσε ήχο'
     challenge: true
   - 
-    title: Add a score
+    title: Προσθήκη βαθμολογίας
   - 
-    title: Add a timer
+    title: Πρόσθεσε ένα χρονόμετρο
   - 
-    title: 'Challenge: more sprites'
+    title: 'Πρόκληση: περισσότεροι χαρακτήρες'
     challenge: true
   - 
-    title: Test yourself
+    title: Έλεγχος γνώσεων
   - 
     title: Και τώρα;
