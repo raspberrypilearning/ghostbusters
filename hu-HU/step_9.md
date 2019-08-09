@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Kihívás: többféle szereplő
 
-Can you add other sprites to your game?
+Tudnál más szereplőket hozzáadni a játékodhoz?
 
-![screenshot](images/ghost-final.png)
+![képernyőkép](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Gondold át a következőket minden új szereplő esetén:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Milyen nagy legyen a szereplő?
++ Ritkábban vagy gyakrabban jelenjen meg, mint a szellem szereplő?
++ Hogy nézzen ki/milyen hangja legyen, amikor elkapják?
++ Mennyi pontot kapjon (vagy veszítsen) a játékos a szereplő elkapásákor?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Ha segítségre van szükséged, akkor térj vissza a korábbi lépésekben található utasításokhoz, vagy kérdezd meg egy barátodat!
