@@ -1,12 +1,12 @@
-## What next?
+## Ce urmează?
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+Felicitări pentru finalizarea proiectului „Vânătorii de fantome”! Vrei să creezi ceva mai complicat?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+Încearcă proiectul nostru [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+Dă click pe steagul verde, iar apoi dă click pe chatbot pentru a începe o conversație. Atunci când chatbot-ul pune o întrebare, scrie răspunsul în caseta din partea de jos a Scenei, iar apoi dă click pe bifa albastră din dreapta (sau apasă `Enter`) pentru a vedea răspunsul chatbot-ului.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![proiectul finalizat](images/chatbot-preview.png)
 
 \--- /print-only \---
