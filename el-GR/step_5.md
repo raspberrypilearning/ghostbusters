@@ -1,26 +1,26 @@
 ## Κώδικας για να πιάνεις φαντάσματα
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Τώρα πρόκειται να προσθέσεις κώδικα στο παιχνίδι σου έτσι ώστε ο παίκτης να πιάσει φαντάσματα!
 
 \--- task --
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Μπορείς να κάνεις το φάντασμά σου να εξαφανιστεί όταν το πιάσεις; Ο παίκτης θα πρέπει να μπορεί να κάνει κλικ στα φαντάσματα για να τα πιάσει.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Εάν δοκιμάσεις το παιχνίδι σου και βρεις δύσκολο το να πιάσεις τα φαντάσματα, μπορείς να παίξεις το παιχνίδι σε λειτουργία πλήρους οθόνης κάνοντας κλικ σε αυτό το κουμπί:
 
 ![screenshot](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Όταν στο αντικείμενο γίνει κλικ`{:class=”blockevents”}, το φάντασμά σου πρέπει να `εξαφανίζεται`{:class=”blocklooks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+Ο κώδικας θα πρέπει να μοιάζει κάπως έτσι:![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+όταν γίνει κλικ σε αυτό το αντικείμενο,
+εξαφανίσου
 ```
 
 \--- /hint \--- \--- /hints \---
