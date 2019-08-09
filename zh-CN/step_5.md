@@ -1,26 +1,26 @@
-## Code for catching ghosts
+## 捉幽灵的代码
 
-Now you're going to add code to your game so that the player to catch ghosts!
+现在给你的游戏添加代码，使玩家可以抓住幽灵！
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+你可以使你的幽灵在被抓住时消失吗？玩家应该可以通过点击幽灵来抓住它们。
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+如果你的测试你的游戏时发现很难抓住幽灵，你可以按这个按钮在全屏模式下玩游戏：
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![截图](images/ghost-fullscreen-annotated.png)
 
-\--- hints \--- \--- hint \---
+\--- hint \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+当你的幽灵`被点击时`:class="block3events"}，它应该`被隐藏起来`:class="block3events"}。
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+你的代码应该像这样： ![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+当角色被点击
+隐藏
 ```
 
 \--- /hint \--- \--- /hints \---
