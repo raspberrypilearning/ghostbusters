@@ -1,34 +1,34 @@
 ---
-title: Ghostbusters
+title: Vânătorii de fantome
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: Creează un joc despre prinderea fantomelor!
 listed: true
 copyedit: true
 version: 4.1.0
-last_tested: 2018-11-01
+last_tested: 2018-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: Animate a ghost
+    title: Animează o fantomă
   - 
-    title: Random ghosts
+    title: Fantome la întâmplare
   - 
-    title: 'Challenge: more randomness'
+    title: 'Provocare: mai multă randomizare'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Cod pentru prinderea fantomelor
   - 
-    title: 'Challenge: add a sound'
+    title: 'Provocare: adaugă un sunet'
     challenge: true
   - 
-    title: Add a score
+    title: Adaugă un scor
   - 
-    title: Add a timer
+    title: Adaugă un cronometru
   - 
-    title: 'Challenge: more sprites'
+    title: 'Provocare: mai multe personaje'
     challenge: true
   - 
-    title: Test yourself
+    title: Testează-te
   - 
-    title: What next?
+    title: Ce urmează?
