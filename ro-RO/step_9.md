@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Provocare: mai multe personaje
 
-Can you add other sprites to your game?
+Poți să adaugi alte personaje la jocul tău?
 
-![screenshot](images/ghost-final.png)
+![captură de ecran](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Trebuie să te gândești la câteva lucruri pentru fiecare personaj pe care vrei să-l adaugi:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Cât de mare ar trebui să fie personajul?
++ Ar trebui să apară mai des sau mai rar decât fantomele?
++ Cum arată/sună atunci când este prins?
++ Câte puncte va primi (sau pierde) jucătorul pentru prinderea personajului?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Dacă ai nevoie de ajutor, poți merge înapoi la instrucțiunile de la pașii anteriori, sau poți întreba un prieten!
