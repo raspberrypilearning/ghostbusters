@@ -1,4 +1,4 @@
-## Test yourself
+## Έλεγχος γνώσεων
 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -8,7 +8,7 @@
   <meta name="viewport" content="initial-scale=1.0" />
   
   <title>
-    Quiz
+    Κουίζ
   </title>
   
   <!-- jquery for maximum compatibility -->
@@ -394,5 +394,5 @@ jQuery(document).ready(function($){
 </body>
 </html></p>
 
-<p><em>This quiz may not work in Internet Explorer. If you can't see the quiz then please try using another browser.</em></p>
+<p><em>Αυτό το κουίζ ενδέχεται να μην λειτουργεί στον Internet Explorer. Αν δεν μπορείς να δεις το κουίζ, δοκίμασε να χρησιμοποιήσεις άλλο πρόγραμμα περιήγησης.</em></p>
 </script>
