@@ -1,56 +1,56 @@
-## Add a timer
+## Időzítő hozzáadása
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Most adj hozzá egy időzítőt, hogy a játékosnak csak 10 másodperce legyen a lehető legtöbb szellem összegyűjtésére.
 
 \--- task \---
 
-Create a new variable called 'time'.
+Hozz létre egy "idő" nevű változót.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Hozzá tudsz adni egy olyan időzítőt a Játéktérhez, hogy a játékosnak csak 10 másodpercet adjon a szellemek elkapására?
 
-Your timer should:
+Az időzítődnek:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 másodpercről kell indulnia
++ minden másodpercben vissza kell számolnia
 
-The game should stop when the timer gets to 0.
+A játéknak le kell állnia, ha az időzítő 0-hoz ér.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Amikor a zöld zászlóra rákattintanak`{:class="block3events"}, az `idő`{:class="block3variables"} változót `10-re kell állítani`{:class="block3variables"}. Aztán `-1-gyel kell változnia`{:class="block3variables"} minden másodpercben, `amíg eléri a 0-t`{:class="block3control"}. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok: ![szellem-szereplő](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+álljon le [minden feladat]
 
 < [ ] = [ ] >
 
-set [time v] to [10]
+[idő v] legyen [10]
 
-change [time v] by (-1)
+[idő v] változzon (-1)
 
-(time)
+(idő)
 
-wait (1) seconds
+várj (1) mp-et
 
-repeat until < >
+ismételd eddig: < >
 end
 
-when flag clicked
+⚑ -ra kattintáskor
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Ez az időzítőhöz szükséges kód: ![háttér ikon](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+⚑ -ra kattintáskor
+[idő v] legyen [10]
+ismételd eddig: < (time) = [0] >
+várj (1) mp-et
+[idő v] változzon (-1)
 end
-stop [all]
+álljon le [minden feladat]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,18 +59,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Kérd meg egy barátod, hogy tesztelje a játékod. Mennyi pontot szerezhetnek?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Ha a játék túl könnyű, akkor:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ adj kevesebb időt a játékosnak
++ ritkábban jelenjenek meg a szellemek
++ legyenek kisebbek a szellemek
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Módosítsd és próbáld ki a játékod néhányszor, amíg elégedett leszel a nehézségi szintjével.
 
 \--- /task \---
