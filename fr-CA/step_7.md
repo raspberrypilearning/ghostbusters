@@ -1,10 +1,10 @@
-## Add a score
+## Ajouter un score
 
-Now you're going to make your game more interesting by keeping score!
+Maintenant, tu vas rendre ton jeu plus intéressant en gardant le score!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Crée une nouvelle variable appelée `score`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,46 +12,46 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Peux-tu suivre le score du joueur? Les joueurs doivent marquer des points lorsqu'ils cliquent sur des fantômes pour les attraper.
 
-Chaque fois qu'un joueur clique sur un fantôme, son pointage doit augmenter.
+Chaque fois qu'un joueur clique sur un fantôme, son score doit augmenter.
 
 ![Augmenter le score](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. La scène est le meilleur endroit pour ajouter ce code.
+`Lorsque le drapeau vert est cliqué`{:class="block3events"}, ta variable `score`{:class="block3variables"} doit être `définit sur 0`{:class="block3variables"}. La scène est le meilleur endroit pour ajouter ce code.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Lorsque le sprite fantôme est cliqué`{:class="block3events"}, la variable `score`{:class="block3variables"} devrait être `incrémentée de 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Voici les blocs de code dont tu as besoin : ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+mettre [score v] à (0)
 
-when flag clicked
+lorsque le drapeau est cliqué
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+ajouter (1) à [score v]
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+lorsque le drapeau est cliqué
+mettre [score v] à (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Lorsque ce sprite est cliqué
+cacher
 
-+ change [score v] by (1)
++ ajouter (1) à [score v]
 ```
 
 \--- /hint \--- \--- /hints \---
