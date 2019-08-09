@@ -1,26 +1,26 @@
-## Code for catching ghosts
+## A szellemek elfogásának kódja
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Most add hozzá a következő kódot a játékodhoz, hogy a játékos elkaphassa a szellemeket!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+El tudnád tűnteni a szellemed miután elkapták? A játékosnak tudnia kell kattintania a szellemeken, hogy elkaphassa őket.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Amikor a játékod teszteled, nehéznek tűnhet elkapni a szellemeket, ilyenkor teljes képernyős nézetre válthatsz erre a gombra kattintva:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![képernyőkép](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+A szellem szereplőre `kattintáskor`{:class="block3events"}, a szellemnek el kell `tűnnie`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+A kódodnak így kell kinéznie: ![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+ezen szereplőre kattintáskor
+tűnj el
 ```
 
 \--- /hint \--- \--- /hints \---
