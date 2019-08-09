@@ -4,68 +4,68 @@ Ton fantôme est vraiment facile à attraper en ce moment, parce qu'il ne bouge 
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Peux-tu ajouter du code à ton fantôme pour que, au lieu de rester dans la même position, le fantôme apparaisse à des positions aléatoires sur la scène?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Chaque fois avant que ton fantôme apparaît, il faut `aller à`{:class="block3motion"} une position aléatoire sur la scène.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Il y a deux ensembles de blocs de code que tu peux utiliser ici. Choisis le jeu que tu préfères.
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
-
-```blocks3
-go to (random position v)
-```
-
-Or add this one to your sprite:
+Soit ajoute cet ensemble de blocs à ton sprite fantôme:
 
 ```blocks3
-go to x: (14) y: (50)
-
-pick random (1) to (10)
-
-pick random (1) to (10)
+aller à (position aléatoire v)
 ```
 
-\--- /hint \---
+Ou ajoute celui-ci à ton sprite:
+
+```blocks3
+aller à x: (14) y: (50)
+
+choix aléatoire (1) à (10)
+
+choix aléatoire (1) à (10)
+```
+
+\--- /hint\---
 
 \--- hint \---
 
-Your code could look either like this:
+Ton code pourrait ressembler à ceci:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+lorsque le drapeau est cliqué
+répéter indéfiniment
+cacher
+attendre (1) secondes
+aller à (position aléatoire v)
+montrer
+attendre (1) secondes
+fin
 ```
 
-Or it could look like this:
+Ou pourrait ressembler à ceci:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+lorsque le drapeau est cliqué
+répéter indéfiniment
+cacher
+attendre (1) secondes
+aller à x: (choisir au hasard (-150) à (150)) y: (choisir au hasard (-150) à (150))
+montrer
+attendre (1 ) secondes
+fin
 ```
 
 \--- /hint \--- \--- /hints \---
