@@ -10,7 +10,7 @@
 
 \--- task --
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Πρόσθεσε ένα νέο αντικείμενο-φάντασμα και ένα κατάλληλο υπόβαθρο σκηνικού.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,38 +22,38 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task --
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Πρόσθεσε κώδικα στο χαρακτήρα φαντάσματος έτσι ώστε το φάντασμα να εμφανίζεται και να εξαφανίζεται για πάντα όταν πατηθεί η πράσινη σημαία.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Εδώ είναι τα μπλοκ που χρειάζεσαι:![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-hide
+εξαφανίσου
 
-show
+εμφανίσου
 
-forever
+για πάντα
 end
 
-wait (1) seconds
+περίμενε (1) δευτερόλεπτα
 
-wait (1) seconds
+περίμενε (1) δευτερόλεπτα
 
-when flag clicked
+Όταν στην πράσινη σημαία γίνει κλικ
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Έτσι πρέπει να μοιάζει με ο κώδικάς σου:![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+Όταν στην πράσινη σημαία γίνει κλικ
+για πάντα 
+  εξαφανίσου
+  περίμενε (1) δευτερόλεπτα
+  εμφανίσου
+  περίμενε (1) δευτερόλεπτα
 end
 ```
 
