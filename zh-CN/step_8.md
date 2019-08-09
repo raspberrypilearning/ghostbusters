@@ -1,56 +1,56 @@
-## Add a timer
+## 添加倒计时
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+现在你需要添加一个倒计时器，使玩家在只有10秒钟的时间内抓住尽可能多的幽灵。
 
 \--- task \---
 
-Create a new variable called 'time'.
+新建一个叫“time”的变量。
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+你能在舞台上添加一个倒计时器以只给玩家10秒的时间来抓幽灵吗？
 
-Your timer should:
+你的倒计时器应当：
 
-+ Start at 10 seconds
-+ Count down every second
++ 初始设置10秒
++ 按秒倒计时
 
-The game should stop when the timer gets to 0.
+当倒计时器为0时游戏结束。
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `当绿旗被点击`{:class="block3events"}，你的`time`{:class="block3variables"}变量应当被`设为10`{:class="block3variables"}。 然后它应该每秒被`增加 -1`{:class="block3variables"}`直到为0`:class="block3control"}。 \--- /hint \--- \--- hint \--- 这些是你需要使用的代码块： ![幽灵角色](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+停止 [all]
 
 < [ ] = [ ] >
 
-set [time v] to [10]
+将 [time v] 设为 [10]
 
-change [time v] by (-1)
+将 [time v] 增加 (-1)
 
 (time)
 
-wait (1) seconds
+等待 (1) 秒
 
-repeat until < >
-end
+重复执行直到 < >
+结束
 
-when flag clicked
+当绿旗被点击
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- 以下是创建倒计时器所需要的代码：![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
+当绿旗被点击
+将 [time v] 设为 [10]
+重复执行直到 < (time) = [0] >
+等待 (1) 秒
+将 [time v] 增加 (-1)
+结束
+停止 [all]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,18 +59,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+请一位朋友测试你的游戏。 他们可以等到几分？
 
 \--- /task \---
 
-If your game is too easy, you can:
+如果你的游戏太简单，你可以：
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ 给玩家更少的时间
++ 减少幽灵的出现频率
++ 让幽灵变小点
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+反复修改并测试你的游戏，直到你觉得难度适中为止。
 
 \--- /task \---
