@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Provocare: adaugă un sunet
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Poți să adaugi la codul tău ceva pentru a produce un sunet atunci când o fantomă este prinsă?
