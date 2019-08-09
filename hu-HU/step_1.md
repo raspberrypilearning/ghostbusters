@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Ez a projekt **Scratch 3** -as verziója. Elérhető [Scratch 2-es](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) változatban is.
 
 \--- /no-print \---
 
-## Introduction
+## Bevezetés
 
-You are going to make a ghost-catching game!
+Készíts szellemfogó játékot!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![bemutató](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,15 +27,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: Mire lesz szükséged
 
-### Hardware
+### Hardver
 
-- A computer
+- Egy számítógép
 
-### Software
+### Szoftver
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (vagy [online](http://rpf.io/scratchon){:target="_blank"} vagy [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -43,24 +43,24 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: Mit fogsz megtanulni
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- megérted hogyan használj szüneteket a műveleti ciklusokon belül
+- a véletlen számok használatát a Scratch-ban
+- hogyan használj változót a játék pontszámának tárolásához a Scratch-ban
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: További információk oktatóknak
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Ha ki szeretnéd nyomtatni a projektet, kérlek használd a [nyomtatóbarát verziót.](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Itt található a [befejezett projekt](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
