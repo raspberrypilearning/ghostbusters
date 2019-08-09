@@ -45,9 +45,9 @@ Je gaat een spookachtig spel maken!
 
 ## title: Wat ga je leren
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Begrijp de noodzaak van pauzes tussen acties binnen lussen
+- Gebruik code om willekeurige nummers te genereren in Scratch
+- Voeg een variabele toe om een spelscore op te slaan in Scratch
 
 \--- /collapse \---
 
@@ -61,6 +61,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](htt
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Je kunt het [voltooide project hier](http://rpf.io/p/en/ghostbusters-get)"{:target="_blank"} vinden.
 
 \--- /collapse \---
