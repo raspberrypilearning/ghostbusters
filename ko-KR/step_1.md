@@ -19,7 +19,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![쇼케이스](images/showcase-static.png)
 
 \--- /print-only \---
 
