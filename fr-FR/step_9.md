@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Défi: plus de sprites
 
-Can you add other sprites to your game?
+Peux-tu ajouter d'autres sprites à ton jeu?
 
 ![capture d'écran](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Tu dois penser à certaines choses pour chaque sprite que tu souhaites ajouter:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Quelle doit être la taille du sprite?
++ Devrait-il apparaître plus ou moins souvent que le sprite fantôme?
++ De quoi a-t-il l'air quand il est attrapé?
++ Combien de points le joueur gagne-t-il (ou perd-il) pour avoir attrapé le sprite?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Si tu as besoin d'aide, tu peux revenir aux instructions des étapes précédentes ou demander à un ami!
