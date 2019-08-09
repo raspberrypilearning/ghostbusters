@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## Provocare: mai multă randomizare
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Poți să adaugi la codul fantomei tale ceva pentru a o face să `aștepte`{:class="block3control"} o perioadă aleatorie cât timp e ascunsă?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Poți să folosești blocul `setează mărimea la`{:class="block3looks"} pentru a face ca fantoma să apară aleatoriu mai mare sau mai mică de fiecare dată când apare?
