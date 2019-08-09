@@ -1,10 +1,10 @@
-## Add a score
+## Adj hozzá eredményszámolálót
 
-Now you're going to make your game more interesting by keeping score!
+Tedd érdekesebbé a játékot az elkapott szellemek számolásával!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Hozz létre egy új változót, amelynek a neve legyen `eredmény`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,46 +12,46 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Nyomon tudod követni a játékos pontszámát? A játékosoknak pontokat kell kapniuk, amikor rákattintanak a szellemekre.
 
-Each time a player clicks on a ghost, their score should increase.
+Minden alkalommal, amikor a játékos rákattint egy szellemre, a pontszámnak növekednie kell.
 
-![Increasing score](images/ghost-score-test.png)
+![Az eredmény növelése](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`Ha a zöld zászlóra`{:class="block3events"} rákattintanak, akkor az `eredmény`{:class="block3variables"} értéke `változzon 0-ra`{:class="block3variables"}. A Játéktérhez add hozzá a következő kódot.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`A szellem szereplőre rákattintáskor`{:class="block3events"}, az `eredmény`{:class="block3variables"} értéke `változzon 1-gyel`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok: ![háttér ikon](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+[eredmény v] legyen (0)
 
-when flag clicked
+⚑ -ra kattintáskor
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+[eredmény v] változzon (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- ![háttér ikon](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+⚑ -ra kattintáskor
+[eredmény v] legyen (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+ezen szereplőre kattintáskor
+tűnj el
 
-+ change [score v] by (1)
+[eredmény v] változzon (1)
 ```
 
 \--- /hint \--- \--- /hints \---
