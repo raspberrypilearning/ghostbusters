@@ -34,7 +34,7 @@ pick random (1) to (10)
 pick random (1) to (10)
 ```
 
-\--- /귀뜸말 \---
+\--- /hint \---
 
 \--- hint \---
 
