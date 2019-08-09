@@ -1,26 +1,26 @@
 ## Ajouter un score
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Maintenant, tu vas ajouter du code à ton jeu pour que le joueur puisse attraper des fantômes!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Peux-tu faire disparaître ton fantôme quand il a été attrapé? Le joueur devrait pouvoir cliquer sur les fantômes pour les attraper.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux jouer au jeu en mode plein écran en cliquant sur ce bouton:
 
 ![capture d'écran](images/ghost-fullscreen-annotated.png)
 
 \--- hint \--- \--- /hints \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Lorsque tu cliques dessus`{:class="block3events"}, ton sprite fantôme doit `masquer`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+Ton code devrait ressembler à ceci: ![fantôme-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+lorsque ce sprite est cliqué
+cacher
 ```
 
 \--- /hint \--- \--- /hints \---
