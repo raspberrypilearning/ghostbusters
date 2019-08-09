@@ -2,7 +2,7 @@
 
 \--- task \---
 
-Open a new empty Scratch project.
+打开一个空白Scratch项目。
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+添加一个幽灵角色并选择一个合适的舞台背景。
 
-![screenshot](images/ghost-ghost.png)
+![截图](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,39 +22,39 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+添加代码，当点击绿旗后，你的幽灵就会地直重复不断地出现并消失。
 
-\--- hints \--- \--- hint \---
+\--- hint \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+当`绿旗被点击`{:class="block3events"}时，你的幽灵应当`隐藏`{:class="block3looks"}`一秒`{:class="block3control"}，然后再`出现`{:class="block3looks"}`一秒`{:class="block3control"}。 它需要`一直`:class="block3control"}重复这样。 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+以下是你需要的代码块：![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-hide
+隐藏
 
-show
+显示
 
-forever
-end
+重复执行
+结束
 
-wait (1) seconds
+等待（1）秒
 
-wait (1) seconds
+等待（1）秒
 
-when flag clicked
+当绿旗被点击时
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- 你的代码应该像这样：![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+当绿旗被点击
+重复执行
+隐藏
+等待（1）秒
+显示
+等待（1）秒
+结束
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+测试并保存项目。
 
 [[[generic-scratch3-saving]]]
 
