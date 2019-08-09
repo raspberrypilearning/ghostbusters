@@ -1,14 +1,14 @@
 ## 挑战：更多角色
 
-Can you add other sprites to your game?
+你能在你的游戏里添加更多的角色吗？
 
-![screenshot](images/ghost-final.png)
+![截屏](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+对于每个添加的角色，你要考虑以下事项：
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ 角色的大小应该是多少？
++ 它应该比幽灵出现的频率更高或更低？
++ 当它被捉到时，应该看上去或听上去如何？
++ 当玩家捉到它时应该得到（或者失去）多少分？
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+如果你需要帮助，你可以返回查看之前步骤中的说明，或者请教你的朋友！
