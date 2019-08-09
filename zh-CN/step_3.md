@@ -1,71 +1,69 @@
-## Random ghosts
+## 随机幽灵
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+目前你的幽灵实在是太容易抓住了，因为它不会移动！
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
-
-\--- hints \---
+你能为你的幽灵添加代码，使它出现时会在舞台上的任一随机位置出现，而不是待在同一个位置上吗？
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+\--- hint \---
+
+每次你的幽灵出现前，它应该`移到`{:class="block3motion"}舞台上的一个随机位置处。
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+你可以在此处使用两组代码块。你可以选择自己喜欢的一组。
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽灵角色](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+将这组代码块添加到你的幽灵角色上：
 
 ```blocks3
-go to (random position v)
+移到（随机位置）
 ```
 
-Or add this one to your sprite:
+或者使用这一组：
 
 ```blocks3
-go to x: (14) y: (50)
-
-pick random (1) to (10)
-
-pick random (1) to (10)
+移到 x: (14) y: (15)
+在 (1) 和 (10) 之间取随机数
+在 (1) 和 (10) 之间取随机数
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+现在你的代码应该像这样：
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+当绿旗被点击
+重复执行
+隐藏
+等待 (1) 秒
+移到 (随机位置）
+显示
+等待 (1) 秒
+结束
 ```
 
-Or it could look like this:
+或者像这样：
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+当绿旗被点击
+重复执行
+隐藏
+等待 (1) 秒
+移到 x: (在 (-150) 和 (150) 之间取随机数) y: (在 (-150) 和 (150) 之间取随机数)
+显示
+等待 (1) 秒
+结束
 ```
 
 \--- /hint \--- \--- /hints \---
