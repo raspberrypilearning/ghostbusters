@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Kihívás: hang hozzáadása
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Tudsz olyan kódot hozzáadni a szellemedhez, hogy a szellem hangot adjon, amikor elkapják?
