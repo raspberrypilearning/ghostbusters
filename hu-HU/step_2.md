@@ -1,8 +1,8 @@
-## Animate a ghost
+## Animálj egy szellemet
 
 \--- task \---
 
-Open a new empty Scratch project.
+Nyiss meg egy új üres Scratch projektet.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Adj hozzá egy új szellem szereplőt és egy megfelelő háttérképet.
 
-![screenshot](images/ghost-ghost.png)
+![képernyőkép](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,38 +22,38 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Adj hozzá olyan kódot a szellem szereplőhöz, hogy a szellem folyamatosan megjelenjen és eltűnjön, miután a zöld zászlóra kattintunk.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+A `zöld zászlóra kattintás`{:class="block3events"} után, a szellemednek `el kell tűnnie`{:class="block3looks"} `egy másodpercre`{:class="block3control"}, majd `megjelennie`{:class="block3looks"} `egy másodpercre`{:class="block3control"}. Ezt `mindig`{:class="block3control"} kell tennie. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Íme a szükséges kódblokkok: ![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-hide
+tűnj el
 
-show
+jelenj meg
 
-forever
+mindig
 end
 
-wait (1) seconds
+várj (1) mp-et
 
-wait (1) seconds
+várj (1) mp-et
 
-when flag clicked
+⚑ -ra kattintáskor
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Így kell kinéznie a kódodnak: ![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+⚑ -ra kattintáskor
+mindig
+tűnj el
+várj (1) mp-et
+jelenj meg
+várj (1) mp-et
 end
 ```
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Teszteld és mentsd el a projekted.
 
 [[[generic-scratch3-saving]]]
 
