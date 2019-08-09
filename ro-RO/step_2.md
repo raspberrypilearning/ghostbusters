@@ -1,8 +1,8 @@
-## Animate a ghost
+## Animează o fantomă
 
 \--- task \---
 
-Open a new empty Scratch project.
+Deschide un nou proiect Scratch.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Adaugă un nou personaj fantomă și un decor adecvat pentru Scenă.
 
-![screenshot](images/ghost-ghost.png)
+![captură de ecran](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,38 +22,38 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Adaugă cod personajului fantomă pentru ca aceasta să apară și dispară la infinit atunci când se dă click pe stegulețul verde.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+`când se dă click pe stegulețul verde`{:class="block3events"}, fantoma ta ar trebui să se `ascundă`{:class="block3looks"} pentru `o secundă`{:class="block3control"} iar apoi să `apară`{:class="block3looks"} pentru `o secundă`{:class="block3control"}. Trebuie să facă asta `la infinit`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Iată blocurile de care ai nevoie: ![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-hide
+ascunde
 
-show
+arată
 
-forever
+la infinit
 end
 
-wait (1) seconds
+așteaptă (1) secunde
 
-wait (1) seconds
+așteaptă (1) secunde
 
-when flag clicked
+cand se dă click pe stegulețul verde
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Așa ar trebui să arate codul: ![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+când se dă click pe stegulețul verde
+la infinit
+ascunde
+așteaptă (1) secunde
+arată
+așteaptă (1) secunde
 end
 ```
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Testează și salvează proiectul tău.
 
 [[[generic-scratch3-saving]]]
 
