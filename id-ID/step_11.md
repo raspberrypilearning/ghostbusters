@@ -1,10 +1,10 @@
-## Apa selanjutnya?
+## What next?
 
 Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
 Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
-\--- tidak-dicetak \---
+\--- no-print \---
 
 Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
 
@@ -13,10 +13,10 @@ Click on the green flag, and then click on the chatbot character to start a conv
   frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /tidak dicetak \---
+\--- /no-print \---
 
 \--- print-only \---
 
 ![complete project](images/chatbot-preview.png)
 
-\--- /hanya-cetak \---
+\--- /print-only \---
