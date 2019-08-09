@@ -1,70 +1,70 @@
-## Random ghosts
+## Véletlenül feltűnő szellemek
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Jelenleg a szellemed nagyon könnyű elkapni, mert nem mozog!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Tudnál hozzáadni olyan kódot, hogy a szellemed véletlenszerű pozíciókban jelenjen meg a játéktérben?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Minden alkalommal, amikor a szellemed megjelenik véletlenszerű pozícióba kell `mennie`{:class="block3motion"} a játéktéren.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+A kódblokkok két csoportját tudnád használni ebben az esetben. Válassz kedved szerint.
 
-![ghost-sprite](images/ghost-sprite.png)
+![szellem-szereplő](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Add hozzá ezt a blokkkészletet a szellem szerelőhöz:
 
 ```blocks3
-go to (random position v)
+ugorj (véletlen v) helyre
 ```
 
-Or add this one to your sprite:
+Vagy add hozzá ezt a szereplőhöz:
 
 ```blocks3
-go to x: (14) y: (50)
+ugorj ide: x: (14) y: (50)
 
-pick random (1) to (10)
+(véletlen (1) és (10) között)
 
-pick random (1) to (10)
+(véletlen (1) és (10) között)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+A kódod így nézhet ki:
 
-![ghost-sprite](images/ghost-sprite.png)
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+⚑ -ra kattintáskor
+mindig 
+tűnj el
+várj (1) mp-et
+ugorj (véletlen helyre v) helyére
+jelenj meg
+várj (1) mp-et
 end
 ```
 
-Or it could look like this:
+Vagy így nézhet ki:
 
-![ghost-sprite](images/ghost-sprite.png)
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+⚑ -ra kattintáskor
+mindig 
+tűnj el
+várj (1) mp-et
+ugorj ide: x: (véletlen (-150) és (150) között) y: (véletlen (-150) és (150) között)
+jelenj meg
+várj (1) mp-et
 end
 ```
 
