@@ -1,20 +1,23 @@
 ---
-title: Ghostbusters
+title: Vânătorii de fantome
 hero_image: images/ghostbusters.png
-description: Vei crea jocul ”Vânătorul de fantome”!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
+description: Creează un joc despre prinderea fantomelor!
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
+version: 4.1.0
 last_tested: 2018-01-01
-steps: 
-  - title: Ghostbusters
+steps:
+  - title: Introducere
+  - title: Animează o fantomă
+  - title: Fantome la întâmplare
+  - title: 'Provocare: mai multă randomizare'
+    challenge: true
+  - title: Cod pentru prinderea fantomelor
+  - title: 'Provocare: adaugă un sunet'
+    challenge: true
+  - title: Adaugă un scor
+  - title: Adaugă un cronometru
+  - title: 'Provocare: mai multe personaje'
+    challenge: true
+  - title: Testează-te
+  - title: Ce urmează?
