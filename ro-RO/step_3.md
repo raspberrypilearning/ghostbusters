@@ -1,70 +1,70 @@
-## Random ghosts
+## Fantome la întâmplare
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Fantoma ta e ușor de prins acum, deoarece nu se mișcă!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Poți să adaugi cod la fantoma ta astfel încât, în loc să stea nemișcată, aceasta să apară într-o poziție la întâmplare pe Scenă?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+De fiecare dată când fantoma ta apare, ar trebui să `meargă la`{:class="block3motion"} o poziție la întâmplare pe Scenă.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Sunt două seturi de blocuri de cod pe care le-ai putea folosi aici. Alege-l pe cel pe care îl preferi.
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Fie adaugi acest set de blocuri la fantoma ta:
 
 ```blocks3
-go to (random position v)
+mergi la (poziție aleatoare v)
 ```
 
-Or add this one to your sprite:
+Sau adaugi acesta la personajul tău:
 
 ```blocks3
-go to x: (14) y: (50)
+mergi la x: (14) y: (50)
 
-pick random (1) to (10)
+alege aleator între (1) și (10)
 
-pick random (1) to (10)
+alege aleator între (1) și (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Codul tău ar putea să arate astfel:
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+când se dă click pe stegulețul verde
+la infinit
+ascunde
+așteaptă (1) secunde
+mergi la (poziție aleatoare v)
+arată
+așteaptă (1) secunde
 end
 ```
 
-Or it could look like this:
+Sau ar putea arăta astfel:
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+când se dă click pe stegulețul verde
+la infinit
+ascunde
+așteaptă (1) secunde
+mergi la x: (alege aleator între (-150) și (150)) y: (alege aleator între (-150) și (150))
+arată
+așteaptă (1) secunde
 end
 ```
 
