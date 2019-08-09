@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## 挑战：添加音效
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+你能给你的幽灵添加代码，使它在被抓住时发出声音吗？
