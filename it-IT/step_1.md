@@ -45,22 +45,22 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 ## title: Cosa imparerai
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Comprendere la necessità di una pausa tra le azioni all'interno dei cicli
+- Usa il codice per generare numeri casuali in Scratch
+- Aggiungi una variabile per memorizzare un punteggio di gioco in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Note addizionali per gli educatori
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target = "_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Puoi trovare il [progetto completo qui](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
