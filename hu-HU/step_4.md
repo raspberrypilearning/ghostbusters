@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## Kihívás: több véletlenszerűség
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Tudnál olyan kódot hozzáadni a szellem szereplőhöz, hogy a szellem `várjon`{:class="block3control"} véletlen mennyiségű időt, amíg rejtve van?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Tudnád használni a `méret változzon`{:class="block3looks"} blokkot annak érdekében, hogy a szellemed véletlenszerűen nagyobb vagy kisebb legyen minden alkalommal, amikor megjelenik?
