@@ -1,4 +1,4 @@
-## 도전 과제: 더 많은 목표물
+## 점수 추가하기
 
 Now you're going to make your game more interesting by keeping score!
 
@@ -20,7 +20,7 @@ Can you keep track of the player's score? Players should score points when they 
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. 무대는 이 코드를 추가하는 가장 좋은 곳입니다.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. 무대는 이 코드를 추가하기에 가장 좋은 곳입니다.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
