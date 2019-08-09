@@ -1,3 +1,3 @@
 ## Πρόκληση: πρόσθεσε ήχο
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Μπορείς να προσθέσεις κώδικα στο φάντασμα σου έτσι ώστε το φάντασμα να κάνει έναν ήχο όταν πιαστεί;
