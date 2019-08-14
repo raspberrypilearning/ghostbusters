@@ -1,4 +1,4 @@
-## Wat nu?
+## Hoe nu verder?
 
 Goed gedaan met het voltooien van het Spokenjagers-project! Wil je iets maken dat een een beetje uitdagender is?
 
