@@ -257,7 +257,7 @@ jQuery(document).ready(function($){
     }
 
     /**
-     * Runs the first time and creates all of the elements for the quiz
+     * Viene eseguito la prima volta e crea tutti gli elementi del quiz
      */
     function init(){
         //add title
@@ -269,7 +269,7 @@ jQuery(document).ready(function($){
 
 <p>//          }</p>
 
-<pre><code>        //add pager and questions
+<pre><code>        //aggiungere pager e domande
         if(typeof quiz !== "undefined" &amp;&amp; $.type(quiz) === "array"){
             //add pager
             $(document.createElement('p')).addClass('pager').attr('id','pager').text('Question 1 of ' + quiz.length).appendTo('#frame');
@@ -282,13 +282,13 @@ jQuery(document).ready(function($){
 
             $(document.createElement('p')).addClass('explanation').attr('id','explanation').html('').appendTo('#frame');
 
-            //questions holder
+            //holder delle domande
             $(document.createElement('ul')).attr('id', 'choice-block').appendTo('#frame');
 
-            //add choices
+            //aggiunge scelte
             addChoices(quiz[0]['choices']);
 
-            //add submit button
+            //aggiunge pulsante di invio
             $(document.createElement('div')).addClass('btn-success choice-box').attr('id', 'submitbutton').text('- CHECK ANSWER -').css({'font-weight':'bold', 'color':'#fff','padding':'30px 0', 'border-radius':'10px'}).appendTo('#frame');
 
             setupButtons();
@@ -394,5 +394,5 @@ jQuery(document).ready(function($){
 </body>
 </html></p>
 
-<p><em>This quiz may not work in Internet Explorer. If you can't see the quiz then please try using another browser.</em></p>
+<p><em>Questo quiz potrebbe non funzionare in Internet Explorer. Se non riesci a vedere il quiz, prova ad usare un altro browser.</em></p>
 </script>
