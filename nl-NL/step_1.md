@@ -30,22 +30,22 @@ title: Wat heb je nodig
 
 ### Hardware
 
-+ Een computer
+- Een computer
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Wat ga je leren
+ title: Wat ga je leren
 ---
 
-+ Hoe gebruik je willekeurige nummers om sprites te animeren
-+ Hoe te reageren op muisklikken
-+ Hoe maak je een tijdklok
+- Begrijp de noodzaak van pauzes tussen acties binnen lussen
+- Gebruik code om willekeurige nummers te genereren in Scratch
+- Voeg een variabele toe om een spelscore op te slaan in Scratch
 
 --- /collapse ---
 
@@ -56,10 +56,10 @@ title: Aanvullende informatie voor docenten
 
 --- no-print ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/ghostbusters/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/ghostbusters/print){:target="_ blank"}.
 
 --- /no-print ---
 
-De [oplossing voor dit project is hier](http://rpf.io/p/nl-NL/ghostbusters-get) te vinden.
+Je kunt het [voltooide project hier](http://rpf.io/p/nl-NL/ghostbusters-get)"{:target="_blank"} vinden.
 
 --- /collapse ---
