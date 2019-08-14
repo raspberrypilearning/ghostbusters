@@ -28,21 +28,21 @@
 */
 </code></pre>
 
-<p>/**
-*Let's create the randomization of the questions!
+<p>/ **
+* Creiamo la casualità delle domande!
 */</p>
 
 <p>function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;</p>
 
-<p>// While there remain elements to shuffle...
+<p>// Mentre restano elementi da mescolare...
   while (0 !== currentIndex) {</p>
 
-<pre><code>// Pick a remaining element...
+<pre><code>// Scegli uno degli elementi rimasti...
 randomIndex = Math.floor(Math.random() * currentIndex);
 currentIndex -= 1;
 
-// And swap it with the current element.
+// E scambialo con l'elemento corrente.
 temporaryValue = array[currentIndex];
 array[currentIndex] = array[randomIndex];
 array[randomIndex] = temporaryValue;
@@ -110,37 +110,37 @@ array[randomIndex] = temporaryValue;
 ];
 </code></pre>
 
-<p>//use this for IE syntax error at => : ECMA script 6 not supported in IE 11 :(
-//quiz.forEach(function(q){ return q.choices.scramble()});</p>
+<p>// usa questo per l'errore di sintassi di IE in =>: script ECMA 6 non supportato in IE 11 :(
+//quiz.forEach (funzione (q) {return q.choices.scramble ()});</p>
 
-<p>//use this for ECMA script 6
-//quiz.forEach(q => q.choices.scramble());
+<p>// usa questo per lo script ECMA 6
+//quiz.forEach(q => q.choices.scramble ());
 //console.log(quiz[0].choices);</p>
 
 <p>quiz = shuffle(quiz);</p>
 
-<pre><code>/******* No need to edit below this line *********/
+<pre><code>/ ******* Non è necessario modificare sotto questa riga ********* /
 var currentquestion = 0, score = 0, submt=true, picked;
 
 jQuery(document).ready(function($){
 
-    /**
-     * HTML Encoding function for alt tags and attributes to prevent messy
-     * data appearing inside tag attributes.
-     */
-    function htmlEncode(value){
-      return $(document.createElement('div')).text(value).html();
+    / **
+     * Funzione di codifica HTML per tag alt e attributi per impedire che 
+     * dati disordinati appaiano all'interno degli attributi del tag.
+     * /
+    function htmlEncode (value) {
+      return $(document.createElement ('div')).text(value).html();
     }
 
-    /**
-     * This will add the individual choices for each question to the ul#choice-block
+    / **
+     * Questo aggiungerà le singole scelte per ogni domanda al blocco ul#choice-block
      *
-     * @param {choices} array The choices from each question
-     */
+     * @param {choices} array Le scelte da ogni domanda
+     * /
     function addChoices(choices){
-        if(typeof choices !== "undefined" &amp;&amp; $.type(choices) == "array"){
-            $('#choice-block').empty();
-            for(var i=0;i&lt;choices.length; i++){
+        if(typeof choices!=="undefined" &amp;&amp; $.type(choices) == "array") {
+            $('# choice-block').empty();
+            per(var i=0;i&lt;choices.length; i++){
             $(document.createElement('li')).addClass('choice choice-box btn').attr('data-index', i).text(choices[i]).appendTo('#choice-block');
             }
         }
