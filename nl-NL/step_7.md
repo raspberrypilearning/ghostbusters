@@ -23,7 +23,7 @@ Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
 
 `Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, moet de `score`{:class="block3variables"} variabele op `0`{:class="block3variables"} gezet worden. Het speelveld is de beste plaats om deze code neer te zetten.
 
-`Wanneer op de Spook Sprite wordt geklikt`{:class="block3events"}, moet de `score `{:class="block3variables"} `met 1 worden opgehoogd`{:class="block3data"}.
+`Wanneer op de Spook Sprite wordt geklikt`{:class="block3events"}, moet de `score`{:class="block3variables"} `met 1 worden opgehoogd`{:class=”block3data"}.
 
 --- /hint --- --- hint --- Dit zijn de codeblokken die je nodig hebt: ![achtergrond pictogram](images/ghost-backdrop.png)
 

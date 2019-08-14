@@ -20,10 +20,10 @@ Je timer zou moeten:
 Het spel zou moeten stoppen als de timer op 0 komt.
 
 --- hints ---
- --- hint --- `Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, zou de `tijd`{:class="block3variables"} variabele op `10`{:class ="block3data"} moeten worden gezet. Het zou dan elke seconde moeten `veranderen met -1`{:class="block3variables"} totdat deze `0 bereikt`{:class="block3control"}.
+ --- hint --- `Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, zou de `tijd`{:class="block3variables"} variabele op `10`{:class =”block3data”} moeten worden gezet. Het zou dan elke seconde moeten `veranderen met -1`{:class="block3variables"} totdat deze `0 bereikt`{:class=”block3control"}.
 --- /hint ---
  --- hint --- Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-backdrop.png)
- 
+
 ```blocks3
 stop [alle]
 

@@ -8,7 +8,7 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - title: Inleiding
-  - title: Beweeg een spook
+  - title: Een spook laten bewegen
   - title: Willekeurige spoken
   - title: 'Uitdaging: meer willekeur'
     challenge: true
@@ -19,4 +19,5 @@ steps:
   - title: Een tijdklok toevoegen
   - title: 'Uitdaging: meer sprites'
     challenge: true
-  - title: Wat nu?
+  - title: Test jezelf
+  - title: Hoe nu verder?
