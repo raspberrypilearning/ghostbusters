@@ -1,47 +1,66 @@
-## Einleitung
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+
+\--- /no-print \---
+
+## Einführung
 
 Du wirst ein Gespensterjagd-Spiel machen!
 
-### Was du machen wirst
+\--- no-print \---
 
---- no-print ---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/showcase-static.png">
+</div>
 
-![Vorschau](images/showcase.gif)
+\--- /no-print \---
 
---- /no-print ---
-
---- print-only ---
+\--- print-only \---
 
 ![Vorschau](images/showcase-static.png)
 
---- /print-only ---
+\--- /print-only \---
 
---- collapse ---
----
-title: Was du brauchen wirst
----
+\--- collapse \---
+
+* * *
+
+## title: Was du brauchen wirst
+
 ### Hardware
 
-+ Einen Computer
+- Einen Computer
 
 ### Software
 
-+ Scratch 2.0 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
---- /collapse ---
+\--- /collapse \---
 
---- collapse ---
----
-title: Was du lernen wirst
----
-Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}:
+\--- collapse \---
 
-+ [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
+* * *
 
---- /collapse ---
+## title: Was du lernen wirst
 
---- no-print ---
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
-Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/ghostbusters/print).
+\--- /collapse \---
 
---- /no-print ---
+## \--- collapse \---
+
+## title: Additional notes for educators
+
+\--- no-print \---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+
+\--- /no-print \---
+
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+
+\--- /collapse \---
