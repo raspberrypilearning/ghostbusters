@@ -1,13 +1,73 @@
 ## Animeiddio ysbryd
 
-+ Dechreua brosiect Scratch newydd, a galli di ddileu y ciplun o'r gath fel bod dy brosiect yn wag. Galli di ddod o hyd i'r golygydd Scratch yma <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
+--- task ---
 
-+ Ychwanega ciplun ysbryd newydd, a chefndir llwyfan addas.
+Agora brosiect Scratch gwag newydd.
 
-	![screenshot](images/ghost-ghost.png)
+[[[generic-scratch3-new-project]]]
 
-+ Ychwanega y côd yma i dy ysbryd, fel ei fod yn ail-adrodd ymddangos a diflannu;
+--- /task ---
 
-	![screenshot](images/ghost-first.png)
+--- task ---
 
-+ Profa côd yr ysbryd, trwy glicio ar y faner werdd.
+Ychwanega gorlun ysbryd newydd a chefnlen addas i'r Llwyfan.
+
+![sgrinlun](images/ghost-ghost.png)
+
+[[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Ychwanega gôd at dy gorlun ysbryd fel bod yr ysbryd yn ymddangos ac yn diflannu am byth pan fydd y faner werdd yn cael ei glicio.
+
+--- hints ---
+ --- hint ---
+
+Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"} am `un eiliad`{:class="block3control"} yna `dangos`{:class="block3looks"} am `un eiliad`{:class="block3control"}. Mae angen iddo wneud hyn `am byth`{:class="block3control"}.
+--- /hint ---
+ --- hint ---
+
+Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-sprite.png)
+
+```blocks3
+cuddio
+
+dangos
+
+am byth
+end
+
+aros (1) eiliad
+
+aros (1) eiliad
+
+pan fo'r flag werdd yn cael ei glicio
+```
+
+--- /hint --- --- hint --- Dyma sut dylai dy gôd edrych: ![corlun-ysbryd](images/ghost-sprite.png)
+
+```blocks3
+pan fo'r flag werdd yn cael ei glicio
+am byth 
+ cuddio
+ aros (1) eiliad
+ dangos
+ aros (1) eiliad
+end
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Profa ac arbed dy gôd.
+
+[[[generic-scratch3-saving]]]
+
+--- /task ---
