@@ -1,23 +1,28 @@
 ## Eine Punktzahl hinzufügen
 
-Lass uns die Dinge interessanter machen, indem wir Punkte zählen!
+Now you're going to add code to your game so that the player to catch ghosts!
 
---- task ---
+\--- task \---
 
-Erstelle eine neue Variable namens "Punkte".
+Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
 
-[[[generic-scratch-add-variable]]]
+If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
 
---- /task ---
+![screenshot](images/ghost-fullscreen-annotated.png)
 
---- task ---
+\--- hints \--- \--- hint \---
 
-Kannst du den Punktestand des Spielers mitschreiben? Die Spieler sollten Punkte bekommen, wenn sie auf Gespenster klicken, um sie zu fangen.
+`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
 
-Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erhöht werden.
+\--- /hint \--- \--- hint \---
 
-![Punktestand erhöhen](images/ghost-score-test.png)
+Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
 
---- hints --- --- hint --- `Wenn die grüne Flagge angeklickt wird`{:class=”blockevents”}, sollte die Variable `Punkte`{:class=”blockdata”} `auf 0 gesetzt`{:class=”blockdata”} werden. Am Besten ist dieser Code bei Bühne aufgehoben. `Wenn die Gespenst-Figur angeklickt wird`{:class=”blockevents”}, sollte sich der Wert der Variable `Punkte`{:class=”blockdata”} um `1 erhöhen`{:class=”blockdata”}. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die Du brauchen wirst: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- So sammelt man Punkte wenn man auf Geister klickt: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+```blocks3
+when this sprite clicked
+hide
+```
 
---- /task ---
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
