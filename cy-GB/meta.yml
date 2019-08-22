@@ -1,26 +1,34 @@
 ---
-title: Ghostbusters
+title: Dal ysbrydion
 hero_image: images/ghostbusters.png
-description: Dysga sut i wneud gêm i ddal ysbrydion!
-original_url: https://projects.raspberrypi.org/en/projects/ghostbusters
-theme: green
+description: Creu gêm i ddal ysbrydion!
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2018-01-01
-steps: 
-- title: Cyflwyniad
-- title: Animeiddio ysbryd
-- title: Ysbrydion ar hap
-- title: Dal ysbrydion
-- title: Ychwanegu sgôr
-- title: Ychwanegu amserydd
-- title: 'Her: Mwy o wrthrychau'
+version: 4.1.0
+last_tested: 2018-11-01
+steps:
+  - 
+    title: Cyflwyniad
+  - 
+    title: Animeiddio ysbryd
+  - 
+    title: Ysbrydion ar hap
+  - 
+    title: 'Her: mwy o bethau ar hap'
+    challenge: true
+  - 
+    title: Côd i ddal ysbrydion
+  - 
+    title: 'Her: ychwanegu sain'
+    challenge: true
+  - 
+    title: Ychwanegu sgôr
+  - 
+    title: Ychwanegu Amserydd
+  - 
+    title: 'Her: mwy o gorluniau'
+    challenge: true
+  - 
+    title: Profwch eich hun
+  - 
+    title: Beth nesaf?
