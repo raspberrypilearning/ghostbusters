@@ -1,20 +1,59 @@
 ## Herausforderung: mehr Objekte
 
-Kannst du deinem Spiel andere Objekte hinzufügen?
+Now you're going to make your game more interesting by keeping score!
 
-![Screenshot](images/ghost-final.png)
+\--- task \---
 
-Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
+Create a new variable called `score`{:class="block3variables"}.
 
-+ Wie groß ist es?
-+ Wird es öfter als der Geist erscheinen, oder seltener?
-+ Wie wird es aussehen / klingen, wenn es gefangen wurde?
-+ Wie viele Punkte erhält (oder verliert) der Spieler, wenn er es fängt?
+[[[generic-scratch3-add-variable]]]
 
-Wenn du Hilfe beim Hinzufügen eines zusätzlichen Objekts benötigst, kannst du einfach erneut durch die vorher genannten Schritte gehen!
-***
-### Von der Community übersetzt
+\--- /task \---
 
-Dieses Projekt wurde von Anastasia Heilmann/Karl Schuh übersetzt und von Thorsten Billib/Helmut Schlimper überprüft.
+\--- task \---
 
-Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translators](https://rpf.io/translators).
+Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+
+Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erhöht werden.
+
+![Punktestand erhöhen](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Am Besten fügst Du diesen Code der Bühne hinzu.
+
+`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+set [score v] to (0)
+
+when flag clicked
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+change [score v] by (1)
+```
+
+\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
+
++ change [score v] by (1)
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
