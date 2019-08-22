@@ -1,17 +1,73 @@
-## Zufällige Orte
+## Zufällige Gespenster
 
-Dein Gespenst ist im Moment wirklich leicht zu fangen, weil es sich nicht bewegt!
+Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
 
---- task ---
+\--- task \---
 
-Kannst du dein Gespenst so programmieren, dass es an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
---- hints --- --- hint --- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position auf der Bühne `zu gehen`{:class=”blockmotion”}. --- /hint --- --- hint --- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
+\--- hints \---
 
---- /task ---
+\--- hint \---
 
---- challenge ---
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
 
-## Herausforderung: Mehr Zufälligkeit
+\--- /hint \--- \--- hint \---
 
-Kannst du dein Gespenst eine zufällige Zeit `warten`{:class=”blockcontrol”} lassen, bevor es erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`{:class=”blocklooks”}-Block vor jedem Erscheinen eine zufällige Größe geben? --- /challenge ---
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
