@@ -1,27 +1,29 @@
-## Ychwanegu sgôr 
+## Côd i ddal ysbrydion
 
-Beth am wneud pethau yn fwy diddorol trwy gadw sgôr.
+Rwyt ti nawr am ychwanegu côd i dy gêm fel fod y chwareuwr yn dal ysbrydion!
 
-+ I gadw sgôr y chwareuwr, mae angen lle i'w roi e. Mae _newidyn_ yn fan i gadw data sydd yn newid, fel sgôr.
+--- task ---
 
-	I greu newidyn newydd, clicia ar y tab 'Sgriptiau', dewisa `Data`{:class="blockdata"} yna clica 'Creu Newidyn'
+Alli di wneud i'r ysbryd ddiflannu pan mae'n cael ei ddal? Fe ddylai'r chwareuwr allu glicio'r ysbrydion i'w dal nhw.
 
-	![screenshot](images/ghost-score.png)
+Os wyt ti'n profi dy gêm ac mae'n anodd dal yr ysbrydion, mae modd chwarae'r gêm ar ffurf sgrin lawn trwy glicio'r botwm yma:
 
-	Teipia 'Sgôr' fel enw y newidyn, gan wneud yn siwr ei fod ar gael ar gyfer pob ciplun, a clicia 'Iawn' i'w greu.  Fyddi di yn gweld llawer o flociau côd mae modd defnyddio gyda dy newidyn `sgôr`{:class="blockdata"}.
+![sgrinlun](images/ghost-fullscreen-annotated.png)
 
-	![screenshot](images/ghost-variable.png)
+--- hints ---
+ --- hint ---
 
-	Byddi di hefyd yn gweld y sgôr ar ochr top chwith y llwyfan.
+`Pan mae'n cael ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"}.
 
-	![screenshot](images/ghost-stage-score.png)
+--- /hint --- --- hint ---
 
-+ Pan mae gêm newydd yn dechrau (wrth glicio'r faner), fe ddylse ti osod sgôr y chwareuwr i 0:
+Fe ddylai dy gôd edrych fel hyn: ![corlun-ysbryd](images/ghost-sprite.png)
 
-	![screenshot](images/ghost-score-2.png)
-	
-+ Pryd bynnag mae ysbryd yn cael ei ddal, mae angen i ti ychwanegu 1 i sgôr y chwareuwr:
+```blocks3
+pan gaiff y ciplun yma ei glicio
+cuddio
+```
 
-	![screenshot](images/ghost-change-score.png)
+--- /hint --- --- /hints ---
 
-+ Rheda dy raglen eto i ddal rhai ysbrydion.  Ydy dy sgôr yn newid?
+--- /task ---
