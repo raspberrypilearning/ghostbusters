@@ -1,20 +1,34 @@
 ---
 title: Pogromcy duchów
 hero_image: images/ghostbusters.png
-description: Naucz się, jak zrobić grę w łapanie duchów!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
+description: Zrób grę o łapaniu duchów!
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
-steps: 
-  - title: Pogromcy duchów
+version: 4.1.0
+last_tested: 01 listopada 2018
+steps:
+  - 
+    title: Życzenia urodzinowe
+  - 
+    title: Animuj ducha
+  - 
+    title: Losowe duchy
+  - 
+    title: 'Wyzwanie: większa losowość'
+    challenge: true
+  - 
+    title: Kod do łapania duchów
+  - 
+    title: 'Wyzwanie: dodaj dźwięk'
+    challenge: true
+  - 
+    title: Dodaj wynik
+  - 
+    title: Dodaj licznik czasu
+  - 
+    title: 'Wyzwanie: więcej duszków'
+    challenge: true
+  - 
+    title: Test yourself
+  - 
+    title: Co dalej?
