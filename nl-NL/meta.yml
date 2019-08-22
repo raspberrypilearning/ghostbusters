@@ -7,17 +7,28 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: Inleiding
-  - title: Een spook laten bewegen
-  - title: Willekeurige spoken
-  - title: 'Uitdaging: meer willekeur'
+  - 
+    title: Inleiding
+  - 
+    title: Een spook laten bewegen
+  - 
+    title: Willekeurige spoken
+  - 
+    title: 'Uitdaging: meer willekeur'
     challenge: true
-  - title: Code voor het vangen van spoken
-  - title: 'Uitdaging: geluid toevoegen'
+  - 
+    title: Code voor het vangen van spoken
+  - 
+    title: 'Uitdaging: geluid toevoegen'
     challenge: true
-  - title: Een score toevoegen
-  - title: Een tijdklok toevoegen
-  - title: 'Uitdaging: meer sprites'
+  - 
+    title: Een score toevoegen
+  - 
+    title: Een timer toevoegen
+  - 
+    title: 'Uitdaging: meer sprites'
     challenge: true
-  - title: Test jezelf
-  - title: Hoe nu verder?
+  - 
+    title: Test jezelf
+  - 
+    title: 'Uitdaging: Instructie scherm'
