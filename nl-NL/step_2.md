@@ -1,14 +1,14 @@
 ## Een spook laten bewegen
 
---- task ---
+\--- task \----
 
 Open een nieuw leeg Scratch-project.
 
 [[[generic-scratch3-new-project]]]
 
---- /task ---
+\--- /task \---
 
---- task ---
+\--- task \----
 
 Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
@@ -18,18 +18,15 @@ Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
---- /task ---
+\--- /task \---
 
---- task ---
+\--- task \---
 
 Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt als op de groene vlag wordt geklikt.
 
---- hints ---
- --- hint ---
+\--- hints \--- \--- hint \---
 
-`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`t je spook {:class="block3looks"} gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok.
---- /hint ---
- --- hint ---
+`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`t je spook {:class="block3looks"} gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok. \--- /hint \--- \--- hint \---
 
 Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-sprite.png)
 
@@ -48,7 +45,7 @@ wacht (1) sec.
 wanneer groene vlag wordt aangeklikt
 ```
 
---- /hint --- --- hint --- Zo zou je nieuwe code er uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Zo zou je nieuwe code er uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -60,14 +57,14 @@ wacht (1) sec.
 end
 ```
 
---- /hint --- --- /hints ---
+\--- /hint \--- \--- /hints \---
 
---- /task ---
+\--- /task \---
 
---- task ---
+\--- task \----
 
 Test en sla je project op.
 
 [[[generic-scratch3-saving]]]
 
---- /task ---
+\--- /task \---
