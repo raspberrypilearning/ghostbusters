@@ -1,21 +1,5 @@
-## Gespenster fangen
+## Herausforderung: Mehr Zufälligkeit
 
-Nun wollen wir es dem Spieler ermöglichen, Gespenster zu fangen!
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
---- task ---
-
-Kannst du dein Gespenst verschwinden lassen, wenn es gefangen wurde?
-
-Du solltest auf die Geister klicken können, um sie zu fangen. Wenn dir das Fangen zu schwierig erscheint, kannst du das Spiel im Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
-
-![Screenshot](images/ghost-fullscreen.png)
-
---- hints --- --- hint --- `Wenn sie angeklickt wird`{:class=”blockevents”}, sollte sich die Geisterfigur `verstecken`{:class=”blocklooks”}. --- /hint --- --- hint --- Dein Code sollte so aussehen: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- challenge ---
-
-## Herausforderung: Einen Klang dazugeben
-
-Kannst du deinen Geist dazu bringen, jedes Mal ein Geräusch zu machen, wenn er gefangen wird? --- /challenge ---
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
