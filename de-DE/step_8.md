@@ -1,29 +1,76 @@
-<div class="p-hero-buttons">
-  [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
-  [vollständiges Scratch 2-Projekt Online](https://scratch.mit.edu/projects/227537779/#editor){:target="_blank"}
-</div>
+## Add a timer
 
---- challenge ---
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
-## Herausforderung: mehr Objekte
+\--- task \---
 
-Kannst du deinem Spiel andere Objekte hinzufügen?
+Erstelle eine neue Variable und nenne sie "Zeit".
 
-![screenshot](images/ghost-final.png)
+\--- /task \---
 
-Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
+\--- task \---
 
-+ Wie groß ist es?
-+ Wird es öfter als der Geist erscheinen, oder seltener?
-+ Wie wird es aussehen / klingen, wenn es gefangen wurde?
-+ Wie viele Punkte erhält (oder verliert) der Spieler, wenn er es fängt?
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Wenn du Hilfe beim Hinzufügen eines anderen Objekts benötigst, kannst du die oben genannten Schritte erneut verwenden!
+Dein Timer sollte:
 
---- /challenge ---
-***
-### Von der Community übersetzt 
++ Bei 10 Sekunden beginnen
++ Jede Sekunde herunterzählen
 
-Dieses Projekt wurde von **Anastasia Heilmann/Karl Schuh** übersetzt und von **Thorsten Billib/Helmut Schlimper** überprüft.
+Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
-Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translators](https://rpf.io/translators).
+\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+
+```blocks3
+stop [all]
+
+< [ ] = [ ] >
+
+set [time v] to [10]
+
+change [time v] by (-1)
+
+(time)
+
+wait (1) seconds
+
+repeat until < >
+end
+
+when flag clicked
+
+```
+
+\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [time v] to [10]
+repeat until < (time) = [0] >
+wait (1) seconds
+change [time v] by (-1)
+end
+stop [all]
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+\--- task \---
+
+Ask a friend to test your game. How many points can they score?
+
+\--- /task \---
+
+Wenn dein Spiel zu einfach ist, kannst du:
+
++ Dem Spieler weniger Zeit geben
++ die Gespenster weniger oft erscheinen lassen
++ die Gespenster kleiner machen
+
+\--- task \---
+
+Change and test your game a few times until you're happy with its level of difficulty.
+
+\--- /task \---
