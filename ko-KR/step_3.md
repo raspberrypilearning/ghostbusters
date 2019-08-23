@@ -1,17 +1,73 @@
-## 무작위 유령들
+## 신출귀몰한 유령
 
-유령들이 움직이지 않아서 너무 잡기 쉬워요!
+유령이 움직이지 않아서 너무 잡기 쉬워요!
 
---- task ---
+\--- task \---
 
-유령들이 가만히 있는 대신 화면의 임의의 위치에서 나오도록 코드를 추가할 수 있나요?
+Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
 
---- hints --- --- hint --- 유령이 나타날 때 마다 임의의 위치로 `이동하도록`{:class="blockmotion"} 만들고 싶어요. --- /hint --- --- hint --- 사용할 수 있는 코드 블럭의 종류가 두 가지 있어요. 이것이나 ![screenshot](images/ghost-random-blocks-1.png) 아니면 이것이에요. ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- 코드는 이런 형태가 되거나 ![screenshot](images/ghost-random-code-1.png) 혹은 이런 형태가 될 거에요. ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
+\--- hints \---
 
---- /task ---
+\--- hint \---
 
---- challenge ---
+Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
 
-## 도전 과제: 더 랜덤하게
+\--- /hint \--- \--- hint \---
 
-유령이 나타나기 전에 임의의 시간 동안 `기다리게`{:class="blockcontrol}할 수 있나요? `크기 정하기`{:class=”blocklooks”}블럭을 사용해 유령이 나올 때마다 임의의 크기로 나오게 할 수 있나요? --- /challenge ---
+There are two sets of code blocks you could use here. Choose the set you prefer.
+
+![ghost-sprite](images/ghost-sprite.png)
+
+Either add this set of blocks to your ghost sprite:
+
+```blocks3
+go to (random position v)
+```
+
+Or add this one to your sprite:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code could look either like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+Or it could look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
