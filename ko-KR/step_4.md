@@ -1,5 +1,5 @@
 ## 도전 과제: 더 랜덤하게
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+유령이 숨어서 기다릴 때 임의의 시간 동안 ` 대기` {: class = "block3control"} 하도록 만들 수 있나요?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+`크기 정하기`{:class=”blocklooks”}블럭을 사용해 유령이 나타날 때마다 임의의 크기로 나타나게 할 수 있나요?
