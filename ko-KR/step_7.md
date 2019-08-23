@@ -1,21 +1,59 @@
-## 도전 과제: 더 많은 목표물
+## 점수 추가하기
 
-게임에 다른 물건을 추가할 수 있나요?
+Now you're going to make your game more interesting by keeping score!
 
-![screenshot](images/ghost-final.png)
+\--- task \---
 
-물건을 추가할 때 다음과 같은 사항들을 생각해 보세요.
+Create a new variable called `score`{:class="block3variables"}.
 
-+ 얼마나 큰가요?
-+ 유령보다 더 자주 나와야 할까요? 덜 나와야 할까요?
-+ 잡힐때 어떤 모양이어야 할까요? 어떤 소리를 낼까요?
-+ 잡으면 몇 점을 얻거나 잃게 할까요?
+[[[generic-scratch3-add-variable]]]
 
-물건을 추가하는 데 도움이 필요하면, 위에서 배운 것을 다시 활용해 보세요!
+\--- /task \---
 
-***
-### 커뮤니티 기여 번역
+\--- task \---
 
-이 프로젝트는 **노영진** 가 번역하였고 **이성원** 가 검토하였습니다. 
+Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
 
-우리의 놀라운 번역 자원 봉사자들은 전 세계의 어린이들에게 코딩을 배울 수 있는 기회를 제공합니다. 우리 프로젝트 번역에 참여하여 더 많은 아이들에게 도움을 줄 수 있습니다. 자세한 내용은 [rpf.io/translators](https://rpf.io/translators)에서 확인하세요.
+플레이어가 유령을 클릭할 때마다 점수가 올라가야 합니다.
+
+![점수 올리기](images/ghost-score-test.png)
+
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. 무대가 위의 코드를 추가하기 가장 합당한 곳이겠죠.
+
+`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+set [score v] to (0)
+
+when flag clicked
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+change [score v] by (1)
+```
+
+\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+```
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
+
++ change [score v] by (1)
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
