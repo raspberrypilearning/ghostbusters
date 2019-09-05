@@ -51,7 +51,7 @@ cand se dă click pe stegulețul verde
 --- /hint --- --- hint --- Așa ar trebui să arate codul: ![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-când se dă click pe stegulețul verde
+când se face click pe stegulețul verde
 la infinit
 ascunde
 așteaptă (1) secunde
