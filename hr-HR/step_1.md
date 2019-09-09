@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Uvod
 
-Napravit ćeš igru o hvatanju duhova!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -35,7 +35,7 @@ Napravit ćeš igru o hvatanju duhova!
 
 ### Softver
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff) verziju{:target="_blank"})
 
 \--- /collapse \---
 
