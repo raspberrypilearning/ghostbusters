@@ -1,6 +1,6 @@
-## Duh se pojavljuje na nasumičnim mjestima
+## Random ghosts
 
-Ovog duha je jako lako uhvatiti jer je nepomičan!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- task \---
 
