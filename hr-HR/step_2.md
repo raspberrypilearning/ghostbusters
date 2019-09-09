@@ -1,8 +1,8 @@
-## Animacija duha
+## Animate a ghost
 
 \--- task \---
 
-Započni novi Scratch projekt.
+Open a new empty Scratch project.
 
 [[[generic-scratch3-new-project]]]
 
