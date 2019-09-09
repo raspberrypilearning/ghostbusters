@@ -1,23 +1,23 @@
 ---
 title: Istjerivači duhova
 hero_image: images/ghostbusters.png
-description: Napravi igru​ o hvatanja duhova!
+description: Napravi igru​ hvatanja duhova!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Sretan rođendan
+    title: Uvod
   - 
     title: Animate a ghost
   - 
-    title: Duh se pojavljuje na nasumičnim mjestima
+    title: Random ghosts
   - 
     title: 'Izazov: više nasumičnosti'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Kôd za hvatanje duhova
   - 
     title: 'Challenge: add a sound'
     challenge: true
@@ -29,6 +29,6 @@ steps:
     title: 'Challenge: more sprites'
     challenge: true
   - 
-    title: Test yourself
+    title: Testiraj se
   - 
     title: What next?
