@@ -2,7 +2,7 @@
 
 Da iawn ar gwblhau prosiect Dal Ysbrydion! Wyt ti eisiau creu rhywbeth sydd yn ychydig mwy o her?
 
-Rho gynnig ar y prosiect [Sgwrsfot](https://projects.raspberrypi.org/cy-GB/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
+Rho gynnig ar y prosiect [SgwrsBot](https://projects.raspberrypi.org/cy-GB/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
 --- no-print ---
 
