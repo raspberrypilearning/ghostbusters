@@ -1,10 +1,10 @@
 ## Herausforderung: mehr Objekte
 
-Now you're going to make your game more interesting by keeping score!
+Jetzt wirst du dein Spiel interessanter machen, indem du Punkte sammelst!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Erstelle eine neue Variable namens `Punkte`{:class='block3variable'}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Kannst du die Punktzahl des Spielers verfolgen? Die Spieler sollten Punkte bekommen, wenn sie auf Geister klicken und sie fangen.
 
 Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erhöht werden.
 
@@ -20,38 +20,38 @@ Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erh
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Am Besten fügst Du diesen Code der Bühne hinzu.
+`Wenn die grüne Flagge angeklickt wird`{:class=”block3events”}, sollte deine `Punkte`{:class=”block3variables”} Variable `auf 0 gesetzt`{:class=”block3variables”} werden. Am Besten fügst Du diesen Code der Bühne hinzu.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Wenn die Geist-Figur angeklickt wird`{:class=”block3events”}, sollte sich der Wert der Variable `Punkte`{:class=”block3variables"} um `1 ändern`{:class=”block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst: ![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+setze [Punkte v] auf (0)
 
-when flag clicked
+Wenn die Flagge angeklickt wird
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+ändere [Punkte v] um (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- ![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+Wenn die Flagge angeklickt wird
+setze [Punkte v] auf (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Wenn diese Figur angeklickt wird
+verstecke dich
 
-+ change [score v] by (1)
++ändere [Punkte v] um (1)
 ```
 
 \--- /hint \--- \--- /hints \---
