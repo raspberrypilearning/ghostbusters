@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Wähle eine neue Gespenster-Figur und einen passenden Bühnenhintergrund aus.
 
 ![Screenshot](images/ghost-ghost.png)
 
@@ -22,39 +22,39 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Füge deiner Gespenster-Figur solche Code hinzu, dass der Geist immerwieder auftaucht und verschwindet, wenn die grüne Flagge angeklickt wird.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Sobald die `grüne Flagge angeklickt wird`{:class="block3events"}, sollte sich dein Geist für `eine Sekunde`{:class="block3control"} `verstecken`{:class="block3looks"} und sich dann für `eine Sekunde`{:class="block3control"} `zeigen`{:class="block3looks"}. Das muss er `fortlaufend`{:class=”block3control”} wiederholen. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-hide
+verstecke dich
 
-show
+zeige dich
 
-forever
-end
+wiederhole fortlaufend
+ende
 
-wait (1) seconds
+warte (1) Sekunden
 
-wait (1) seconds
+warte (1) Sekunden
 
-when flag clicked
+Wenn die Flagge angeklickt wird
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- So sollte dein Code aussehen: ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+Wenn die Flagge angeklickt wird
+wiederhole fortlaufend
+verstecke dich
+warte (1) Sekunden
+zeige dich
+warte (1) Sekunden
+ende
 ```
 
 \--- /hint \--- \--- /hints \---
