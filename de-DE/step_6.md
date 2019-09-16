@@ -1,3 +1,3 @@
 ## Hinzufügen eines Timers
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Kannst du Code zu deinem Geist hinzufügen, damit der Geist ein Geräusch macht, wenn er gefangen wird?
