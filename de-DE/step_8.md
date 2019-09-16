@@ -1,6 +1,6 @@
-## Add a timer
+## Eine Stoppuhr hinzufügen
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Jetzt wirst du eine Stoppuhr hinzufügen, sodass die Spieler nur zehn Sekunden haben, um so viele Geister wie möglich zu fangen.
 
 \--- task \---
 
@@ -10,7 +10,7 @@ Erstelle eine neue Variable und nenne sie "Zeit".
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Kannst du deiner Bühne eine Stoppuhr hinzufügen, um deinem Spieler nur 10 Sekunden Zeit zu geben, um so viele Geister wie möglich zu fangen?
 
 Dein Timer sollte:
 
@@ -19,38 +19,38 @@ Dein Timer sollte:
 
 Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Wenn die grüne Flagge angeklickt wird`{:class=”block3events”}, sollte deine `Zeit`{:class=”block3variables”}-Variable `auf 10 gesetzt`{:class=”block3variables”} werden. Sie sollte dann jede Sekunde `um -1 geändert werden`{:class=”block3variables”} `bis sie den Wert 0 erreicht`{:class=”block3control"}. \--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+stoppe [alles]
 
-< [ ] = [ ] >
+<[ ] = [ ]>
 
-set [time v] to [10]
+setze [Zeit v] auf [10]
 
-change [time v] by (-1)
+ändere [Zeit v] um (-1)
 
-(time)
+(Zeit)
 
-wait (1) seconds
+warte (1) Sekunden
 
-repeat until < >
-end
+wiederhole bis < >
+ende
 
-when flag clicked
+Wenn die Flagge angeklickt wird
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Hier ist der Code, den du hinzufügen solltest, um eine Stoppuhr zu erstellen: ![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
+Wenn die Flagge angeklickt wird
+setze [Zeit v] auf [10]
+wiederhole bis < (Zeit) = [0] >
+warte (1) Sekunden
+ändere [Zeit v] um (-1)
+ende
+stoppe [alles]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,7 +59,7 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Bitte deine Freunde dein Spiel zu testen. Wie viele Punkte schaffen sie?
 
 \--- /task \---
 
@@ -71,6 +71,6 @@ Wenn dein Spiel zu einfach ist, kannst du:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Verändere und teste dein Spiel ein paar Mal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
 
 \--- /task \---
