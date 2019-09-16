@@ -25,7 +25,7 @@ Fe ddylai’r gêm ddod i ben pan mae’r amserydd yn cyrraedd 0.
  --- hint --- Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-backdrop.png)
 
 ```blocks3
-aros [all]
+aros [y cyfan]
 
 < [ ] = [ ] >
 
@@ -53,7 +53,7 @@ ailadrodd hyd at < (amser) = [0] >
  aros (1) eiliad
  newid [amser v] gan (-1)
 end
-aros [all]
+aros [y cyfan]
 ```
 
 --- /hint --- --- /hints ---

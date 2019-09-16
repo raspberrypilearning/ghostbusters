@@ -51,7 +51,6 @@ set [sgôr v] to (0)
 ```blocks3
 pan gaiff y ciplun yma ei glicio
 cuddio
-
 + newid [sgôr v] gan (1)
 ```
 
