@@ -10,25 +10,25 @@ steps:
   - 
     title: Einleitung
   - 
-    title: Animate a ghost
+    title: Animiere ein Gespenst
   - 
     title: Zufällige Orte
   - 
     title: 'Herausforderung: Mehr Zufälligkeit'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Code für eine Geisterjagd
   - 
-    title: 'Challenge: add a sound'
+    title: 'Herausforderung: Ein Geräusch hinzufügen'
     challenge: true
   - 
-    title: Add a score
+    title: Eine Punktzahl hinzufügen
   - 
-    title: Add a timer
+    title: Eine Stoppuhr hinzufügen
   - 
-    title: 'Challenge: more sprites'
+    title: 'Herausforderung: Mehr Figuren'
     challenge: true
   - 
-    title: Test yourself
+    title: Teste dich selbst
   - 
     title: 'Herausforderung: Ändere das Kostüm deiner Trommel'
