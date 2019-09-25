@@ -32,7 +32,7 @@ set [score v] to (0)
 when flag clicked
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 cambia [punteggio v] di (1)
@@ -45,7 +45,7 @@ when flag clicked
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 When this sprite clicked
