@@ -1,4 +1,4 @@
-## Test yourself
+## Mettiti alla prova
 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -19,11 +19,11 @@
  <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
  <script></p>
 
-<pre><code>var quiztitle// = "Bobby's Sample Quiz";
+<pre><code>var quiztitle// = "Quiz d'esempio di Bobby";
 
 /**
-* Set the information about your questions here. The correct answer string needs to match
-* the correct choice exactly, as it does string matching. (case sensitive)
+* Imposta qui le informazioni sulle tue domande. La stringa di risposta corretta deve corrispondere esattamente a
+* la scelta corretta, poiché esegue la corrispondenza delle stringhe. (differenzia tra MAIUSCOLE e minuscole)
 *
 */
 </code></pre>
@@ -71,40 +71,40 @@ array[randomIndex] = temporaryValue;
 
 <pre><code>var quiz = [
     {
-        "question"      :   "Which of the scripts would keep turning a light on for one second and then turn it off for one second?",
-        "image"         :   "images/montage-1.png",
-        "choices"       :   [
+        "question" : "Quale script continuerebbe a accendere una luce per un secondo e poi spegnerlo per un secondo?",
+        "image" :  "images/montage-1.png" ,
+        "choices" :  [
                                 "A",
                                 "B",
                                 "C",
                                 "D"
                             ],
-        "correct"       :   "B",
-        "explanation"   :   "The wait blocks need to come after each action within the loop.",
+        "correct" :  "B",
+        "explanation" :  "I blocchi di attesa devono venire dopo ogni azione all'interno del ciclo. ",
     },
     {
-        "question"      :   "Which of the scripts would not make the sprite move to a random position on the screen?",
-        "image"         :   "images/montage-2.png",
-        "choices"       :   [
-                                "A",
-                                "B",
-                                "C",
-                                "D"
+        " question ":" Quale degli script non sposta lo sprite in una posizione casuale sullo schermo? ",
+        " immagine ":" immagini/montaggio- 2.png ",
+        " choices" :  [
+                                " A ",
+                                " B ",
+                                " C ",
+                                " D "
                             ],
-        "correct"       :   "D",
-        "explanation"   :   "The block should always contain the word random.",
+        " correct " : " D ",
+        " explanation ":" Il blocco deve sempre contenere la parola random. ",
     },
     {
-        "question"      :   "Which of the scripts would start a sprites energy at 100 and reduce it by 2 each time it was clicked on?",
-        "image"         :   "images/montage-3.png",
-        "choices"       :   [
+        " question" : "Quale codice assegnerebbe un'energia pari a 100 allo sprite riducendolo di 2 ogni volta che viene cliccato? ",
+        " image" : "images/montage-3.png",
+        "choices" :  [
                                 "A",
                                 "B",
                                 "C",
                                 "D"
                             ],
-        "correct"       :   "A",
-        "explanation"   :   "The energy variable should start at 100 and be reduced by 2 each time.",
+        "correct" :  "A",
+        "explanation" : "La variabile energia dovrebbe iniziare a 100 ed essere ridotta di 2 ogni volta.",
     },
 
 ];
@@ -189,9 +189,9 @@ jQuery(document).ready(function($){
     }
 
     /**
-     * After a selection is submitted, checks if its the right answer
+     * Dopo aver confermato la scelta, controlla se è la risposta giusta
      *
-     * @param {choice} number The li zero-based index of the choice picked
+     * @param {choice} numera l'indice li base-zero della scelta fatta
      */
     function processQuestion(choice){
         if(quiz[currentquestion]['choices'][choice] == quiz[currentquestion]['correct']){
@@ -225,7 +225,7 @@ jQuery(document).ready(function($){
     }
 
     /**
-     * Sets up the event listeners for each button.
+     * Imposta il listener degli eventi per ogni pulsante.
      */
     function setupButtons(){
         $('.choice').on('click', function(){
@@ -244,7 +244,7 @@ jQuery(document).ready(function($){
     }
 
     /**
-     * Quiz ends, display a message.
+     * Il Quiz finisce, mostra un messaggio.
      */
     function endQuiz(){
         $('#explanation').empty();
@@ -346,7 +346,7 @@ jQuery(document).ready(function($){
 <p>/*      .rsform-block-placecontent                              { display:none; } */
         #submit                                                 { margin:0 auto; display:block; }</p>
 
-<pre><code>    /* QUIZ STYLES */
+<pre><code>    /* STILI DEL QUIZ */
     ol                          { list-style:none; }
     ul#choice-block  {columns: 4; -webkit-columns: 4; -moz-columns: 4;}
     strong                                                  { font-weight:700; }
