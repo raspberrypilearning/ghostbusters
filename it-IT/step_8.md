@@ -41,7 +41,7 @@ when flag clicked
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
