@@ -10,7 +10,7 @@ Avvia un nuovo progetto Scratch.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Aggiungi un nuovo sprite di un fantasma e uno scenario adatto a questo personaggio.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,13 +22,13 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Aggiungi codice al tuo fantasma in modo che appaia e scompaia per sempre quando viene cliccata la bandiera verde.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+`quando si clicca sulla bandiera verde`{:class="block3events"}, il tuo fantasma dovrebbe `nascondi`{:class="block3looks"} per `attendi (1) secondi`{:class="block3control"} e poi `mostra`{:class="block3looks"} per `attendi (1) secondi`{:class="block3control"}. Questo lo deve fare `per sempre`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Ecco i blocchi di codice che ti serviranno: ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -45,7 +45,7 @@ wait (1) seconds
 when flag clicked
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice: ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
