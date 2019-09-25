@@ -1,10 +1,10 @@
 ## Aggiungere un punteggio
 
-Now you're going to make your game more interesting by keeping score!
+Ora renderai il tuo gioco più interessante aggiungendo il punteggio!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Crea una nuova variabile chiamata `punteggio`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
