@@ -28,7 +28,7 @@ Aggiungi codice al tuo fantasma in modo che appaia e scompaia per sempre quando 
 
 `quando si clicca sulla bandiera verde`{:class="block3events"}, il tuo fantasma dovrebbe `nascondi`{:class="block3looks"} per `attendi (1) secondi`{:class="block3control"} e poi `mostra`{:class="block3looks"} per `attendi (1) secondi`{:class="block3control"}. Questo lo deve fare `per sempre`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
-Ecco i blocchi di codice che ti serviranno: ![ghost-sprite](images/ghost-sprite.png)
+Ecco i blocchi di codice che ti serviranno: ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -45,7 +45,7 @@ wait (1) seconds
 when flag clicked
 ```
 
-\--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice: ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
