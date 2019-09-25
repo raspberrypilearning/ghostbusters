@@ -4,27 +4,27 @@ Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Puoi aggiungere del codice per fare in modo che il tuo fantasma, invece di stare fermo nello stesso punto, compaia sullo schermo in punti a caso?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Ogni volta prima che il tuo fantasma appare, dovrebbe `andare`{:class="block3motion"} in una posizione casuale sullo schermo.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Ci sono due serie di blocchi di codice che puoi usare. Scegli quello che preferisci.
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Aggiungi questo set di blocchi allo sprite del fantasma:
 
 ```blocks3
-go to (random position v)
+raggiungi (random position v)
 ```
 
-Or add this one to your sprite:
+Oppure aggiungi questo allo sprite:
 
 ```blocks3
 go to x: (14) y: (50)
@@ -38,9 +38,9 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+Il tuo codice ora dovrebbe apparire così:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -53,9 +53,9 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+Oppure potrebbe apparire così:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
