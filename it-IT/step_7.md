@@ -12,7 +12,7 @@ Crea una nuova variabile chiamata `punteggio`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
 
 Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
 
@@ -20,16 +20,14 @@ Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumen
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. Lo sfondo è il posto più adatto dove inserire questo codice.
+`Quando si clicca sulla bandierina verde`{:class=”block3events”}, la tua variabile `punteggio`{:class=”block3variables”} dovrebbe `essere azzerata`{:class="block3variables"}. Lo sfondo è il posto più adatto dove inserire questo codice.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Quando l'immagine del fantasma è cliccata`{:class=”block3events”}, la tua variabile `punteggio`{:class=”block3variables”} dovrebbe `essere aumentata di 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Qui ci sono i blocchi di codice che ti serviranno: ![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
-
-when flag clicked
 ```
 
 ![sprite del fantasma](images/ghost-sprite.png)
@@ -38,7 +36,7 @@ when flag clicked
 cambia [punteggio v] di (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- ![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -48,10 +46,10 @@ set [score v] to (0)
 ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Quando si clicca questo sprite
+nascondi
 
-+ change [score v] by (1)
++ cambia [score v] di (1)
 ```
 
 \--- /hint \--- \--- /hints \---
