@@ -1,4 +1,4 @@
-## Eine Punktzahl hinzufügen
+## Code zum Fangen von Geistern
 
 Jetzt wirst du deinem Spiel Code hinzufügen, damit der Spieler Geister fangen kann!
 
