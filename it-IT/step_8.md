@@ -33,7 +33,7 @@ porta [tempo v] a [10]
 
 cambia [tempo v] di (-1)
 
-(tempo) :: variables
+tempo :: variables
 
 attendi (1) secondi
 
