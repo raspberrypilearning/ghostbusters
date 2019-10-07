@@ -51,7 +51,6 @@ warte (1) Sekunden
 gehe zu (Zufallsposition v)
 zeige dich
 warte (1) Sekunden
-end
 ```
 
 Oder er könnte so aussehen:

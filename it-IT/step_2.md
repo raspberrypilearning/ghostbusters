@@ -39,6 +39,7 @@ nascondi
 mostra
 
 per sempre
+end
 
 attendi (1) secondi
 

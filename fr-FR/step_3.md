@@ -66,7 +66,6 @@ attendre (1) secondes
 aller à x: (nombre aléatoire entre (-150) et (150)) y: (nombre aléatoire entre (-150) et (150))
 montrer
 attendre (1) secondes
-end
 ```
 
 --- /hint --- --- /hints ---

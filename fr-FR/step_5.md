@@ -11,7 +11,7 @@ Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux joue
 ![capture d'écran](images/ghost-fullscreen-annotated.png)
 
 --- hints --- 
---- /hint ---
+--- hint ---
 
 `Lorsque tu cliques dessus`{:class="block3events"}, ton sprite fantôme doit `masquer`{:class="block3looks"}.
 
