@@ -4,7 +4,7 @@ Ora aggiungerai un timer in modo che il giocatore abbia solo 10 secondi per catt
 
 --- task ---
 
-Crea una nuova variabile chiamata 'Tempo'.
+Crea una nuova variabile chiamata 'tempo'.
 
 --- /task ---
 
@@ -47,8 +47,8 @@ quando si clicca sulla bandiera verde
 
 ```blocks3
 quando si clicca sulla bandiera verde
-porta [tempo v] :: variables a [10]
-ripeti fino a quando < (tempo) = [0]>
+porta [tempo v] a [10]
+ripeti fino a quando < (tempo :: variables) = [0]>
 attendi (1) secondi
 cambia [tempo v] di (-1)
 ferma [tutto]
