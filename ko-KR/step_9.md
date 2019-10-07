@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## 도전과제: 좀 더 많은 스프라이트 만들기
 
-Can you add other sprites to your game?
+게임에 다른 스프라이트를 추가할 수 있나요?
 
 ![스크린샷](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+스프라이트를 추가하려고 할 때 다음과 같은 사항을 고려해야 합니다.
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ 스프라이트는 얼마나 커야합니까?
++ 유령보다 더 자주 나와야 할까요? 덜 나와야 할까요?
++ 잡힐때 어떤 모양이어야 할까요? 어떤 소리를 낼까요?
++ 잡으면 몇 점을 얻거나 (혹은 잃게) 할까요?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+도움이 필요하면 이전 단계의 지침으로 돌아가 다시 살펴보거나 친구에게 물어보십시오!
