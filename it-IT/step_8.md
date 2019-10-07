@@ -29,11 +29,11 @@ ferma [tutto]
 
 < [ ] = [ ] >
 
-porta [Tempo v] a [10]
+porta [tempo v] a [10]
 
-cambia [Tempo v] di (-1)
+cambia [tempo v] di (-1)
 
-(Tempo)
+(tempo)
 
 attendi (1) secondi
 
@@ -48,9 +48,9 @@ quando si clicca sulla bandiera verde
 ```blocks3
 quando si clicca sulla bandiera verde
 porta [tempo v] a [10]
-ripeti fino a quando <(Tempo) = [0]>
+ripeti fino a quando <(tempo) = [0]>
 attendi (1) secondi
-cambia [Tempo v] di (-1)
+cambia [tempo v] di (-1)
 ferma [tutto]
 ```
 
