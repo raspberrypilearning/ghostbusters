@@ -1,6 +1,6 @@
-## Add a timer
+## Agregar un temporizador
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Ahora vas a agregar un temporizador para que el jugador solo tenga diez segundos para capturar tantos fantasmas como sea posible.
 
 \--- task \---
 
@@ -10,47 +10,45 @@ Crea una nueva variable llamada 'tiempo'.
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+¿Puedes añadir un temporizador a tu escenario para darle a tu jugador solo 10 segundos para atrapar tantos fantasmas como sea posible?
 
-Tu temporizador debe:
+Tu temporizador debería:
 
 + Comenzar en 10 segundos
 + Contar para atrás cada segundo
 
 El juego debería detenerse cuando el temporizador llegue a 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Al hacer clic en la bandera verde`{:class=”blockevents”}, debes `dar el valor 10`{:class=”blockdata"} a tu variable `tiempo`{:class=”blockdata”}. Después, se deberías `sumar -1`{:class=”blockdata”} cada segundo `hasta que llegue a 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Los bloques de código que necesitará se encuentran a continuación: ![sprite fantasma](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+detener [todos]
 
-< [ ] = [ ] >
+< [] = [] >
 
-set [time v] to [10]
+dar a [tiempo v] el valor [10]
 
-change [time v] by (-1)
+sumar a [tiempo v] (-1)
 
-(time)
+(tiempo)
 
-wait (1) seconds
+esperar (1) segundos
 
-repeat until < >
-end
+repetir hasta < >
 
-when flag clicked
+al hacer clic en la bandera
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Aquí está el código que debes agregar para crear un temporizador: ![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
+al hacer clic en la bandera
+dar a [tiempo v] el valor [10]
+repetir hasta que < (tiempo) = [0] >
+esperar (1) segundos
+sumar a [tiempo v] (-1)
+detener [todos]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,7 +57,7 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Pídele a un amigo que pruebe tu juego. ¿Cuántos puntos pueden anotar?
 
 \--- /task \---
 
@@ -71,6 +69,6 @@ Si tu juego es demasiado fácil, puedes:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Modifica y prueba tu juego varias veces hasta que creas que tiene el nivel de dificultad adecuado.
 
 \--- /task \---
