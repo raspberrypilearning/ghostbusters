@@ -40,12 +40,13 @@ mostra
 
 per sempre
 
-
 attendi (1) secondi
 
 quando si clicca sulla bandiera verde
 
 attendi (1) secondi
+
+per sempre
 ```
 
 --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![sprite del fantasma](images/ghost-sprite.png)
