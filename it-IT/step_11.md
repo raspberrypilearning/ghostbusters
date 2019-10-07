@@ -6,7 +6,7 @@ Prova il progetto [Chatbot](https://projects.raspberrypi.org/it-IT/projects/chat
 
 --- no-print ---
 
-Clicca sulla bandierina verde, e poi clicca sul chatbot-robot per iniziare una conversazione. Quando il chatbot fa una domanda, digita la tua risposta nella casella in fondo, quindi fai clic sul segno blu a destra (o premi ` Invio `) per vedere la risposta del chatbot.
+Clicca sulla bandierina verde, e poi clicca sul chatbot-robot per iniziare una conversazione. Quando il chatbot fa una domanda, digita la tua risposta nella casella in fondo, quindi fai clic sul segno blu a destra (o premi `Invio`) per vedere la risposta del chatbot.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 

@@ -31,7 +31,7 @@ mettre [temps v] à [10]
 
 ajouter (-1) à [temps v]
 
-(time)
+(temps)
 
 attendre (1) secondes
 
@@ -47,7 +47,7 @@ quand le drapeau vert pressé
 ```blocks3
 quand le drapeau vert pressé
 mettre [heure v] à [10]
-répéter jusqu'à ce que < (time) = [0] >
+répéter jusqu'à ce que < (temps) = [0] >
 attendre (1) secondes
 ajouter (-1) à [temps v]
 fin
