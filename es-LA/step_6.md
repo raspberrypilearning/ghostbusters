@@ -1,3 +1,3 @@
-## Añadir un temporizador
+## Desafío: añadir un sonido
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+¿Puedes añadir código a tu fantasma para que haga un sonido cuando lo capturas?
