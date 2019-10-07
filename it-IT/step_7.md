@@ -1,21 +1,59 @@
-## Sfida: Altri oggetti
+## Aggiungere un punteggio
 
-Puoi aggiungere altri oggetti al tuo gioco?
+Ora renderai il tuo gioco più interessante aggiungendo il punteggio!
 
-![screenshot](images/ghost-final.png)
+--- task ---
 
-Rifletti sull’oggetto da aggiungere. Pensa a:
+Crea una nuova variabile chiamata `punteggio`{:class="block3variables"}.
 
-+ Quanto è grande?
-+ Apparirà più o meno spesso rispetto ai fantasmi?
-+ Che costume/suono avrà quando verrà acchiappato?
-+ Quanti punti guadagnerai (o perderai) per averlo acchiappato?
+[[[generic-scratch3-add-variable]]]
 
-Se hai bisogno di aiuto per aggiungere un altro oggetto, riutilizza le indicazioni qui sopra!
+--- /task ---
 
-***
-### Traduzioni della Community 
+--- task ---
 
-Questo progetto è stato tradotto da **Silvia Caponio** e revisionato da **Alejandro Michetti**. 
+Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
 
-Il nostro straordinario team di traduttori volontari ci permette di dare ai bambini di tutto il mondo la possibilità di imparare a programmare. Puoi aiutarci a raggiungere più bambini traducendo i nostri progetti - scopri di più su [rpf.io/translators](https://rpf.io/translators).
+Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
+
+![Aumentare il punteggio](images/ghost-score-test.png)
+
+--- hints ---
+ --- hint ---
+
+`Quando si clicca sulla bandierina verde`{:class="block3events"}, la tua variabile `punteggio`{:class="block3variables"} dovrebbe `essere azzerata`{:class="block3variables"}. Lo sfondo è il posto più adatto dove inserire questo codice.
+
+`Quando l'immagine del fantasma è cliccata`{:class="block3events"}, la tua variabile `punteggio`{:class="block3variables"} dovrebbe `essere aumentata di 1`{:class="block3variables"}.
+
+--- /hint --- --- hint --- Qui ci sono i blocchi di codice che ti serviranno: ![icona scenario](images/ghost-backdrop.png)
+
+```blocks3
+porta [punteggio v] a (0)
+
+quando si clicca sulla bandiera verde
+```
+
+![sprite del fantasma](images/ghost-sprite.png)
+
+```blocks3
+cambia [punteggio v] di (1)
+```
+
+--- /hint --- --- hint --- ![icona scenario](images/ghost-backdrop.png)
+
+```blocks3
+quando si clicca sulla bandiera verde
+porta [punteggio v] a (0)
+```
+
+![sprite del fantasma](images/ghost-sprite.png)
+
+```blocks3
+quando si clicca questo sprite
+nascondi
++ cambia [punteggio v] di (1)
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---

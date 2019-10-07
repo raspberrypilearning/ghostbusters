@@ -1,21 +1,59 @@
-## Défi : plus d'objets
+## Ajouter un score
 
-Peux-tu ajouter d'autres objets à ton jeu ?
+Maintenant, tu vas rendre ton jeu plus intéressant en gardant le score!
 
-![capture d'écran](images/ghost-final.png)
+--- task ---
 
-Quand tu ajoutes un objet, tu dois penser aux éléments suivants.
+Crée une nouvelle variable appelée `score`{:class="block3variables"}.
 
-+ Quelle est sa taille ?
-+ Apparaîtra-t-il plus ou moins souvent que le fantôme ?
-+ À quoi ressemblera-t-il / comment sonnera-t-il quand il sera attrapé ?
-+ Combien de points va le joueur marquer (ou perdre) pour l'avoir attrapé ?
+[[[generic-scratch3-add-variable]]]
 
-Si tu as besoin d'aide pour ajouter un autre objet, tu peux réutiliser les étapes en haute ici !
+--- /task ---
 
-***
-### Traduction de la communauté
+--- task ---
 
-Ce projet a été traduit par Josie Houg/David Debaire/Simon Gleises  et vérifié par Sarah-Jane Hubbard/Mohamed Ali Chelbi. 
+Peux-tu suivre le score du joueur? Les joueurs doivent marquer des points lorsqu'ils cliquent sur des fantômes pour les attraper.
 
-Nos incroyables bénévoles de traduction nous aident à donner aux enfants du monde entier la chance d'apprendre à coder. Vous pouvez nous aider à atteindre plus d'enfants en traduisant nos projets - en savoir plus sur [rpf.io/translators](https://rpf.io/translators).
+Chaque fois qu'un joueur clique sur un fantôme, son score doit augmenter.
+
+![Augmenter le score](images/ghost-score-test.png)
+
+--- hints ---
+ --- hint ---
+
+`Lorsque le drapeau vert est cliqué`{:class="block3events"}, ta variable `score`{:class="block3variables"} doit être `définit sur 0`{:class="block3variables"}. La scène est le meilleur endroit pour ajouter ce code.
+
+`Lorsque le sprite fantôme est cliqué`{:class="block3events"}, la variable `score`{:class="block3variables"} devrait être `incrémentée de 1`{:class="block3variables"}.
+
+--- /hint --- --- hint --- Voici les blocs de code dont tu as besoin : ![icône de l'arrière-plan](images/ghost-backdrop.png)
+
+```blocks3
+mettre [score v] à (0)
+
+lorsque le drapeau est cliqué
+```
+
+![sprite-fantôme](images/ghost-sprite.png)
+
+```blocks3
+ajouter (1) à [score v]
+```
+
+--- /hint --- --- hint --- ![icône de l'arrière-plan](images/ghost-backdrop.png)
+
+```blocks3
+lorsque le drapeau est cliqué
+mettre [score v] à (0)
+```
+
+![sprite-fantôme](images/ghost-sprite.png)
+
+```blocks3
+Lorsque ce sprite est cliqué
+cacher
++ ajouter (1) à [score v]
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---

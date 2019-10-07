@@ -1,23 +1,29 @@
-## Aggiungere un punteggio
+## Codice per catturare fantasmi
 
-Rendiamo il gioco più interessante tenendo il punteggio!
-
---- task ---
-
-Crea una nuova variabile chiamata 'punteggio'.
-
-[[[generic-scratch-add-variable]]]
-
---- /task ---
+Ora aggiungerai del codice al tuo gioco in modo che il giocatore possa catturare i fantasmi!
 
 --- task ---
 
-Puoi tenere traccia del punteggio del giocatore? I giocatori dovrebbero guadagnare punti facendo click sui fantasmi per catturarli.
+Puoi far sparire il fantasma quando è stato catturato? Il giocatore dovrebbe essere in grado di fare clic sui fantasmi per catturarli.
 
-Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumentare.
+Se mentre provi il gioco trovi difficile catturare i fantasmi, puoi giocare in modalità schermo intero facendo clic su questo pulsante:
 
-![Aumentare il punteggio](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
---- hints --- --- hint --- `Quando si clicca su ⚑`{:class="blockevents"}, la tua variabile `punteggio`{:class="blockdata"} dovrebbe `essere portata a 0`{:class="blockdata"}. Aggiungi questo codice allo sfondo. `Quando si clicca sullo sprite del fantasma`{:class="blockevents"}, la tua variabile `punteggio`{:class="blockdata"} dovrebbe `aumentare di 1`{:class="blockdata"}. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Ecco come fare punti cliccando sui fantasmi: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+`Quando cliccato`{:class="block3events"},il fantasma dovrebbe `sparire`{:class="block3looks"}.
+
+--- /hint --- --- hint ---
+
+Il tuo codice dovrebbe assomigliare a questo: ![sprite del fantasma](images/ghost-sprite.png)
+
+```blocks3
+quando si clicca questo sprite
+nascondi
+```
+
+--- /hint --- --- /hints ---
 
 --- /task ---

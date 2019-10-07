@@ -4,27 +4,63 @@
 
 Ouvre un nouveau projet Scratch vide.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 --- /task ---
 
 --- task ---
 
-Ajoute un nouveau lutin fantôme et un arrière plan appropriée.
+Ajoute un nouveau sprite fantôme et un arrière-plan de scène appropriée.
 
 ![capture d'écran](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
 
-Ajoute du code à ton fantôme afin qu'il apparaisse et disparaisse indéfiniment quand tu cliques sur le drapeau.
+Ajoute du code à ton sprite fantôme afin que celui-ci apparaisse et disparaisse à tout jamais lorsque tu cliques sur le drapeau vert.
 
---- hints --- --- hint --- Quand le `drapeau vert est cliqué`{:class=”blockevents”}, tu dois faire `disparaître`{:class=”blocklooks”} ton fantôme pendant `une seconde`{:class=”blockcontrol”} et ensuite le l'`afficher`{:class=”blocklooks”} pendant `une seconde`{:class=”blockcontrol”}. Il devra le faire `pour toujours`{:class="blockcontrol"}. --- /hint --- --- hint --- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Ton code devrait ressembler à ceci: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+Une fois que le `drapeau vert est cliqué`{:class="block3events"}, ton fantôme devrait `se cacher`{:class="block3looks"} pendant `une seconde`{:class="block3control"} puis `se montrer`{:class="block3looks"} pendant `une seconde`{:class="block3control"}. Il doit faire cela `pour toujours`{:class="block3control"}.
+--- /hint ---
+ --- hint ---
+
+Voici les blocs de code dont tu as besoin: ![sprite-fantôme](images/ghost-sprite.png)
+
+```blocks3
+cacher
+
+montrer
+
+répéter indéfiniment
+fin
+
+attendre (1) secondes
+
+attendre (1) secondes
+
+lorsque le drapeau est cliqué
+```
+
+--- /hint --- --- hint --- Voici a quoi devrait ressembler ton code: ![sprite-fantôme](images/ghost-sprite.png)
+
+```blocks3
+lorsque le drapeau est cliqué
+répéter indéfiniment
+cacher
+attendre (1) secondes
+montrer
+attendre (1) secondes
+fin
+```
+
+--- /hint --- --- /hints ---
 
 --- /task ---
 
@@ -32,6 +68,6 @@ Ajoute du code à ton fantôme afin qu'il apparaisse et disparaisse indéfinimen
 
 Teste et sauvegarde ton projet.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---
