@@ -10,25 +10,25 @@ steps:
   - 
     title: 소개
   - 
-    title: Animate a ghost
+    title: 유령 움직여 보기
   - 
     title: 무작위 유령들
   - 
     title: '도전 과제: 더 랜덤하게'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: 점수 추가하기
   - 
-    title: 'Challenge: add a sound'
+    title: '타이머 추가하기'
     challenge: true
   - 
-    title: Add a score
+    title: '도전 과제: 더 많은 목표물'
   - 
-    title: Add a timer
+    title: 타이머 추가하기
   - 
-    title: 'Challenge: more sprites'
+    title: '도전과제: 여러 스프라이트 만들기'
     challenge: true
   - 
-    title: Test yourself
+    title: 도전해 보기
   - 
     title: 더 나아가기
