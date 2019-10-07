@@ -68,6 +68,6 @@ fin
 
 Teste et sauvegarde ton projet.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---
