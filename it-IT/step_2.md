@@ -38,8 +38,6 @@ nascondi
 
 mostra
 
-per sempre
-
 attendi (1) secondi
 
 quando si clicca sulla bandiera verde
