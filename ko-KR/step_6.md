@@ -1,3 +1,3 @@
-## 타이머 추가하기
+## 도전과제: 타이머 추가하기
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+유령을 붙잡았을 때 유령이 소리를 내도록 할 수 있나요?
