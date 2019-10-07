@@ -10,9 +10,9 @@ Abre un nuevo proyecto vacío de Scratch.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Añade una nueva figura de un fantasma y un fondo de escenario adecuado.
 
-![Captura de pantalla](images/ghost-ghost.png)
+![captura de pantalla](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,46 +22,44 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Agrega código a tu fantasma para que siempre aparezca y desaparezca cuando se haga clic en la bandera verde.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+`al hacer clic en la bandera verde`{:class=”blockevents”}, tendrás que hacer `esconder`{:class=”blocklooks”} a tu fantasma, `esperar un segundo`{:class=”blockcontrol”} y después ` mostrar`{:class=”blocklooks”} y `esperar un segundo`{:class=”blockcontrol"}. Tendrá que hacer esto `por siempre`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Aquí están los bloques de código que necesitas: ![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
-hide
+esconder
 
-show
+mostrar
 
-forever
-end
+por siempre
 
-wait (1) seconds
+esperar (1) segundos
 
-wait (1) seconds
+esperar (1) segundos
 
-when flag clicked
+al hacer clic en la bandera
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Tu código debe parecerse a esto: ![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+al hacer clic en la bandera
+por siempre
+esconder
+esperar (1) segundos
+mostrar
+esperar (1) segundos
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
 Prueba y guarda tu proyecto.
 
