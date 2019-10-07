@@ -33,7 +33,7 @@ porta [tempo v] a [10]
 
 cambia [tempo v] di (-1)
 
-(tempo)
+(tempo) :: variables
 
 attendi (1) secondi
 
@@ -47,8 +47,8 @@ quando si clicca sulla bandiera verde
 
 ```blocks3
 quando si clicca sulla bandiera verde
-porta [tempo v] a [10]
-ripeti fino a quando <(tempo) = [0]>
+porta [tempo v] :: variables a [10]
+ripeti fino a quando < (tempo) = [0]>
 attendi (1) secondi
 cambia [tempo v] di (-1)
 ferma [tutto]
