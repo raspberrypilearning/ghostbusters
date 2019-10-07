@@ -1,29 +1,77 @@
-<div class="p-hero-buttons">
-  [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
-  [vollständiges Scratch 2-Projekt Online](https://scratch.mit.edu/projects/227537779/#editor){:target="_blank"}
-</div>
+## Eine Stoppuhr hinzufügen
 
---- challenge ---
+Jetzt wirst du eine Stoppuhr hinzufügen, sodass die Spieler nur zehn Sekunden haben, um so viele Geister wie möglich zu fangen.
 
-## Herausforderung: mehr Objekte
+--- task ---
 
-Kannst du deinem Spiel andere Objekte hinzufügen?
+Erstelle eine neue Variable und nenne sie "Zeit".
 
-![screenshot](images/ghost-final.png)
+--- /task ---
 
-Wenn du ein Objekt hinzufügst, musst du über folgende Dinge nachdenken.
+--- task ---
 
-+ Wie groß ist es?
-+ Wird es öfter als der Geist erscheinen, oder seltener?
-+ Wie wird es aussehen / klingen, wenn es gefangen wurde?
-+ Wie viele Punkte erhält (oder verliert) der Spieler, wenn er es fängt?
+Kannst du deiner Bühne eine Stoppuhr hinzufügen, um deinem Spieler nur 10 Sekunden Zeit zu geben, um so viele Geister wie möglich zu fangen?
 
-Wenn du Hilfe beim Hinzufügen eines anderen Objekts benötigst, kannst du die oben genannten Schritte erneut verwenden!
+Dein Timer sollte:
 
---- /challenge ---
-***
-### Von der Community übersetzt 
++ Bei 10 Sekunden beginnen
++ Jede Sekunde herunterzählen
 
-Dieses Projekt wurde von **Anastasia Heilmann/Karl Schuh** übersetzt und von **Thorsten Billib/Helmut Schlimper** überprüft.
+Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
-Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translators](https://rpf.io/translators).
+--- hints ---
+ --- hint --- `Wenn die grüne Flagge angeklickt wird`{:class=”block3events”}, sollte deine `Zeit`{:class=”block3variables”}-Variable `auf 10 gesetzt`{:class=”block3variables”} werden. Sie sollte dann jede Sekunde `um -1 geändert werden`{:class=”block3variables”} `bis sie den Wert 0 erreicht`{:class=”block3control"}.
+--- /hint ---
+ --- hint --- Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-backdrop.png)
+
+```blocks3
+stoppe [alles]
+
+<[ ] = [ ]>
+
+setze [Zeit v] auf [10]
+
+ändere [Zeit v] um (-1)
+
+(Zeit)
+
+warte (1) Sekunden
+
+wiederhole bis < >
+
+Wenn die grüne Flagge angeklickt
+
+```
+
+--- /hint --- --- hint --- Hier ist der Code, den du hinzufügen solltest, um eine Stoppuhr zu erstellen: ![Hintergrund-Symbol](images/ghost-backdrop.png)
+
+```blocks3
+Wenn die grüne Flagge angeklickt
+setze [Zeit v] auf [10]
+wiederhole bis < (Zeit) = [0] >
+warte (1) Sekunden
+ändere [Zeit v] um (-1)
+stoppe [alles]
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Bitte deine Freunde dein Spiel zu testen. Wie viele Punkte schaffen sie?
+
+--- /task ---
+
+Wenn dein Spiel zu einfach ist, kannst du:
+
++ Dem Spieler weniger Zeit geben
++ die Gespenster weniger oft erscheinen lassen
++ die Gespenster kleiner machen
+
+--- task ---
+
+Verändere und teste dein Spiel ein paar Mal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
+
+--- /task ---

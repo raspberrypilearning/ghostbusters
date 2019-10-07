@@ -2,26 +2,22 @@
 title: Geisterjäger
 hero_image: images/ghostbusters.png
 description: Mache ein Spiel über Gespensterjagd!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - title: Einleitung
-  - title: Ein Gespenst lebendig werden lassen
-  - title: Zufällige Orte
-  - title: Gespenster fangen
-  - title: Eine Punktzahl hinzufügen
-  - title: Hinzufügen eines Timers
-  - title: 'Herausforderung: mehr Objekte'
+  - title: Animiere ein Gespenst
+  - title: Zufällige Gespenster
+  - title: 'Herausforderung: Mehr Zufälligkeit'
     challenge: true
+  - title: Code zum Fangen von Geistern
+  - title: 'Herausforderung: Ein Geräusch hinzufügen'
+    challenge: true
+  - title: Eine Punktzahl hinzufügen
+  - title: Eine Stoppuhr hinzufügen
+  - title: 'Herausforderung: Mehr Figuren'
+    challenge: true
+  - title: Teste dich selbst
+  - title: Wie geht es weiter?

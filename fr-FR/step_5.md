@@ -1,23 +1,31 @@
-## Ajouter un score
+## Code pour capturer les fantômes
 
-Rendons les choses plus intéressantes en comptant les points !
-
---- task ---
-
-Créez une nouvelle variable appelée « score ».
-
-[[[generic-scratch-add-variable]]]
-
---- /task ---
+Maintenant, tu vas ajouter du code à ton jeu pour que le joueur puisse attraper des fantômes!
 
 --- task ---
 
-Peux-tu garder le score du joueur ? Les joueurs doivent marquer des points en cliquant sur les fantômes pour les attraper.
+Peux-tu faire disparaître ton fantôme quand il a été attrapé? Le joueur devrait pouvoir cliquer sur les fantômes pour les attraper.
 
-Chaque fois qu'un joueur clique sur un fantôme, son score devrait augmenter.
+Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux jouer au jeu en mode plein écran en cliquant sur ce bouton:
 
-![Augmenter le score](images/ghost-score-test.png)
+![capture d'écran](images/ghost-fullscreen-annotated.png)
 
---- hints --- --- hint --- `quand le drapeau vert est cliqué`{:class=”blockevents”}, ta variable `score`{:class=”blockdata”} doit `être définie sur 0`{:class=”blockdata”}. La scène est le meilleur endroit pour ajouter ce code. `Quand le lutin fantôme est cliqué`{:class=”blockevents”}, `ajouter à score 1`{:class=”blockdata”}. --- /hint --- --- hint --- Voici les blocs de code dont tu auras besoin: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Ton code devrait ressembler à ceci: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+--- hints --- 
+--- hint ---
+
+`Lorsque tu cliques dessus`{:class="block3events"}, ton sprite fantôme doit `masquer`{:class="block3looks"}.
+
+--- /hint --- 
+--- hint ---
+
+Ton code devrait ressembler à ceci: ![fantôme-sprite](images/ghost-sprite.png)
+
+```blocks3
+quand ce sprite est cliqué
+cacher
+```
+
+--- /hint --- 
+--- /hints ---
 
 --- /task ---

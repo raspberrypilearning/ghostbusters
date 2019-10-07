@@ -1,12 +1,19 @@
+--- no-print ---
+
+Dies ist die **Scratch 3** Version des Projekts. Es gibt auch eine [Scratch-2-Version des Projekts](https://projects.raspberrypi.org/de-DE/projects/ghostbusters-scratch2).
+
+--- /no-print ---
+
 ## Einleitung
 
 Du wirst ein Gespensterjagd-Spiel machen!
 
-### Was du machen wirst
-
 --- no-print ---
 
-![Vorschau](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/showcase-static.png">
+</div>
 
 --- /no-print ---
 
@@ -20,13 +27,14 @@ Du wirst ein Gespensterjagd-Spiel machen!
 ---
 title: Was du brauchen wirst
 ---
+
 ### Hardware
 
-+ Einen Computer
+- Einen Computer
 
 ### Software
 
-+ Scratch 2.0 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -34,14 +42,24 @@ title: Was du brauchen wirst
 ---
 title: Was du lernen wirst
 ---
-Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
+- Die Notwendigkeit von Pausen zwischen Aktionen innerhalb von Schleifen verstehen
+- Code verwenden, um Zufallszahlen in Scratch zu generieren
+- Eine Variable hinzufügen um einen Punktestand in Scratch zu speichern
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Zusätzliche Hinweise für Pädagogen
+---
+
 --- no-print ---
 
-Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/ghostbusters/print).
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/ghostbusters/print){:target="_blank"}.
 
 --- /no-print ---
+
+Du findest das [abgeschlossene Projekt hier](http://rpf.io/p/de-DE/ghostbusters-get){:target="_blank"}.
+
+--- /collapse ---

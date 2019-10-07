@@ -1,23 +1,29 @@
-## Eine Punktzahl hinzufügen
+## Code zum Fangen von Geistern
 
-Lass uns die Dinge interessanter machen, indem wir Punkte zählen!
-
---- task ---
-
-Erstelle eine neue Variable namens "Punkte".
-
-[[[generic-scratch-add-variable]]]
-
---- /task ---
+Jetzt wirst du deinem Spiel Code hinzufügen, damit der Spieler Geister fangen kann!
 
 --- task ---
 
-Kannst du den Punktestand des Spielers mitschreiben? Die Spieler sollten Punkte bekommen, wenn sie auf Gespenster klicken, um sie zu fangen.
+Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde? Der Spieler sollte in der Lage sein, auf die Geister zu klicken, um sie zu fangen.
 
-Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erhöht werden.
+Wenn du dein Spiel testest und es schwierig findest Geister zu fangen, kannst du das Spiel auch in Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
 
-![Punktestand erhöhen](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
---- hints --- --- hint --- `Wenn die grüne Flagge angeklickt wird`{:class=”blockevents”}, sollte die Variable `Punkte`{:class=”blockdata”} `auf 0 gesetzt`{:class=”blockdata”} werden. Am Besten ist dieser Code bei Bühne aufgehoben. `Wenn die Gespenst-Figur angeklickt wird`{:class=”blockevents”}, sollte sich der Wert der Variable `Punkte`{:class=”blockdata”} um `1 erhöhen`{:class=”blockdata”}. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die Du brauchen wirst: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- So sammelt man Punkte wenn man auf Geister klickt: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+`Wenn sie angeklickt wird`{:class="block3events"}, sollte sich die Geisterfigur `verstecken`{:class="block3looks"}.
+
+--- /hint --- --- hint ---
+
+Dein Code sollte so aussehen: ![Geist-Figur](images/ghost-sprite.png)
+
+```blocks3
+Wenn diese Figur angeklickt wird
+verstecke dich
+```
+
+--- /hint --- --- /hints ---
 
 --- /task ---

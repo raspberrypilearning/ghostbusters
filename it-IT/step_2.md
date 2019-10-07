@@ -4,27 +4,61 @@
 
 Avvia un nuovo progetto Scratch.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 --- /task ---
 
 --- task ---
 
-Aggiungi un nuovo sprite fantasma e uno scenario adatto a questo personaggio.
+Aggiungi un nuovo sprite di un fantasma e uno scenario adatto a questo personaggio.
 
 ![screenshot](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
 
-Aggiungi dei codici al tuo fantasma, in modo che appaia e scompaia ripetutamente quando fai click sulla bandierina.
+Aggiungi codice al tuo fantasma in modo che appaia e scompaia per sempre quando viene cliccata la bandiera verde.
 
---- hints --- --- hint --- `Quando clicchi su ⚑`{:class="blockevents"}, dovrai fare in modo che il tuo fantasma `sparisca`{:class="blocklooks"} per `un secondo`{:class="blockcontrol"} e poi `ricompaia`{:class="blocklooks"} per `un secondo`{:class="blockcontrol"}. Dovrà fare ciò `per sempre`{:class="blockcontrol"}. --- /hint --- --- hint --- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+`quando si clicca sulla bandiera verde`{:class="block3events"}, il tuo fantasma dovrebbe `nascondi`{:class="block3looks"} per `attendi (1) secondi`{:class="block3control"} e poi `mostra`{:class="block3looks"} per `attendi (1) secondi`{:class="block3control"}. Questo lo deve fare `per sempre`{:class="block3control"}.
+--- /hint ---
+ --- hint ---
+
+Ecco i blocchi di codice che ti serviranno: ![sprite del fantasma](images/ghost-sprite.png)
+
+```blocks3
+nascondi
+
+mostra
+
+attendi (1) secondi
+
+quando si clicca sulla bandiera verde
+
+attendi (1) secondi
+
+per sempre
+```
+
+--- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![sprite del fantasma](images/ghost-sprite.png)
+
+```blocks3
+quando si clicca sulla bandiera verde
+per sempre 
+nascondi
+attendi (1) secondi
+mostra
+attendi (1) secondi
+```
+
+--- /hint --- --- /hints ---
 
 --- /task ---
 
@@ -32,6 +66,6 @@ Aggiungi dei codici al tuo fantasma, in modo che appaia e scompaia ripetutamente
 
 Prova il tuo progetto e salvalo.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---
