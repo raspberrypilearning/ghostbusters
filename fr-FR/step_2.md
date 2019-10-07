@@ -45,13 +45,13 @@ attendre (1) secondes
 
 attendre (1) secondes
 
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 ```
 
 --- /hint --- --- hint --- Voici a quoi devrait ressembler ton code: ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 répéter indéfiniment
 cacher
 attendre (1) secondes

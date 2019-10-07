@@ -39,7 +39,6 @@ nascondi
 mostra
 
 per sempre
-end
 
 attendi (1) secondi
 
@@ -57,7 +56,6 @@ nascondi
 attendi (1) secondi
 mostra
 attendi (1) secondi
-end
 ```
 
 --- /hint --- --- /hints ---

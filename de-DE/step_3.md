@@ -49,7 +49,7 @@ wiederhole fortlaufend
 verstecke dich
 warte (1) Sekunden
 gehe zu (Zufallsposition v)
-eige dich
+zeige dich
 warte (1) Sekunden
 end
 ```
@@ -66,7 +66,6 @@ warte (1) Sekunden
 gehe zu x: (Zufallszahl von (-150) bis (150)) y: (Zufallszahl von (-150) bis (150))
 zeige dich
 warte (1) Sekunden
-end
 ```
 
 --- /hint --- --- /hints ---

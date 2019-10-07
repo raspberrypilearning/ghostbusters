@@ -30,9 +30,9 @@ Ou ajoute celui-ci à ton sprite:
 ```blocks3
 aller à x: (14) y: (50)
 
-choix aléatoire (1) à (10)
+(nombre aléatoire entre (1) et (10))
 
-choix aléatoire (1) à (10)
+(nombre aléatoire entre (1) et (10))
 ```
 
 --- /hint---
@@ -44,7 +44,7 @@ Ton code pourrait ressembler à ceci:
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 répéter indéfiniment
 cacher
 attendre (1) secondes
@@ -59,14 +59,14 @@ Ou pourrait ressembler à ceci:
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
-répéter indéfiniment
+quand le drapeau vert pressé
+répéter indéfiniment 
 cacher
 attendre (1) secondes
-aller à x: (choisir au hasard (-150) à (150)) y: (choisir au hasard (-150) à (150))
+aller à x: (nombre aléatoire entre (-150) et (150)) y: (nombre aléatoire entre (-150) et (150))
 montrer
-attendre (1 ) secondes
-fin
+attendre (1) secondes
+end
 ```
 
 --- /hint --- --- /hints ---

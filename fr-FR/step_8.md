@@ -38,14 +38,14 @@ attendre (1) secondes
 répéter jusqu'à ce que < >
 fin
 
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 
 ```
 
 --- /hint --- --- hint --- Voici le code que tu dois ajouter pour créer une minuterie: ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 mettre [heure v] à [10]
 répéter jusqu'à ce que < (temps) = [0] >
 attendre (1) secondes

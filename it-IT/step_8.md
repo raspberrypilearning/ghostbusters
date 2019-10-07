@@ -38,7 +38,6 @@ cambia [tempo v] di (-1)
 attendi (1) secondi
 
 ripeti fino a quando < >
-end
 
 quando si clicca sulla bandiera verde
 
@@ -52,7 +51,6 @@ porta [tempo v] a [10]
 ripeti fino a quando <(tempo) = [0]>
 attendi (1) secondi
 cambia [tempo v] di (-1)
-end
 ferma [tutto]
 ```
 

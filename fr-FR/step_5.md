@@ -10,19 +10,22 @@ Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux joue
 
 ![capture d'écran](images/ghost-fullscreen-annotated.png)
 
---- hint --- --- /hints ---
+--- hints --- 
+--- /hint ---
 
 `Lorsque tu cliques dessus`{:class="block3events"}, ton sprite fantôme doit `masquer`{:class="block3looks"}.
 
---- /hint --- --- hint ---
+--- /hint --- 
+--- hint ---
 
 Ton code devrait ressembler à ceci: ![fantôme-sprite](images/ghost-sprite.png)
 
 ```blocks3
-lorsque ce sprite est cliqué
+quand ce sprite est cliqué
 cacher
 ```
 
---- /hint --- --- /hints ---
+--- /hint --- 
+--- /hints ---
 
 --- /task ---

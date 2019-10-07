@@ -51,7 +51,6 @@ attendi (1) secondi
 raggiungi (posizione a caso v)
 mostra
 attendi (1) secondi
-end
 ```
 
 Oppure potrebbe apparire così:
@@ -66,7 +65,6 @@ attendi (1) secondi
 vai a x: (numero a caso tra (-150) e (150)) y: (numero a caso tra (-150) e (150))
 mostra
 attendi (1) secondi
-end
 ```
 
 --- /hint --- --- /hints ---

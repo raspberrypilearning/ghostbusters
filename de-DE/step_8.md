@@ -38,7 +38,6 @@ setze [Zeit v] auf [10]
 warte (1) Sekunden
 
 wiederhole bis < >
-end
 
 Wenn die grüne Flagge angeklickt
 
@@ -52,7 +51,6 @@ setze [Zeit v] auf [10]
 wiederhole bis < (Zeit) = [0] >
 warte (1) Sekunden
 ändere [Zeit v] um (-1)
-end
 stoppe [alles]
 ```
 
