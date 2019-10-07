@@ -1,71 +1,71 @@
-## 무작위 유령들
+## 신출귀몰한 유령
 
-유령들이 움직이지 않아서 너무 잡기 쉬워요!
+유령이 움직이지 않아서 너무 잡기 쉬워요!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+유령이 가만히 있는 대신 화면의 임의의 위치에서 나오도록 할 수 있나요?
 
-\--- hints \---
+\--- 힌트 \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+유령이 나타날 때 유령의 위치는 매번 스테이지의 임의의 위치로`이동` {: class = "block3motion"} 해야 합니다.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+참고할 코드 블록 두개가 있습니다. 취향에 맞게 정해서 사용하세요.
 
-![ghost-sprite](images/ghost-sprite.png)
+![유령 스프라이트](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+유령 스프라이트에 다음 블록 세트를 추가하십시오.
 
 ```blocks3
-go to (random position v)
+(random position v) 로 이동하기
 ```
 
-Or add this one to your sprite:
+또는 스프라이트에 다음을 추가하십시오:
 
 ```blocks3
-go to x: (14) y: (50)
+x: (14) y: (50) 로 이동하기
 
-pick random (1) to (10)
+(1) 부터 (10) 사이의 난수
 
-pick random (1) to (10)
+(1) 부터 (10) 사이의 난수
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+작업한 코드는 다음과 같을 것입니다.
 
-![ghost-sprite](images/ghost-sprite.png)
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+flag 클릭했을 때
+무한 반복
+숨기기
+(1) 초 기다리기
+(random position v) (으)로 이동하기
+보이기
+(1) 초 기다리기
+끝
 ```
 
-Or it could look like this:
+혹은 다음 코드와 같을 수도 있습니다.
 
-![ghost-sprite](images/ghost-sprite.png)
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+flag 클릭했을 떄
+무한 반복
+숨기기
+(1) 초 기다리기
+x: ((-150) 부터 (150) 사이의 난수) y: ((-150) 부터 (150) 사이의 난수)
+보이기
+(1) 초 기다리기
+끝
 ```
 
 \--- /hint \--- \--- /hints \---
