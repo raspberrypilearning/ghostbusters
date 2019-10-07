@@ -4,68 +4,66 @@
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+¿Puedes agregar código a tu fantasma para que, en lugar de permanecer en la misma posición, aparezca en posiciones aleatorias en la pantalla?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Cada vez que aparezca tu fantasma, debería `ir a`{:class="block3motion"} una posición aleatoria en el Escenario.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Hay dos conjuntos de bloques de código que puedes usar aquí. Elige el conjunto que prefieras.
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Añade este conjunto de bloques a tu sprite fantasma:
 
 ```blocks3
-go to (random position v)
+ir a (posición aleatoria v)
 ```
 
-Or add this one to your sprite:
+O añade este a tu sprite:
 
 ```blocks3
-go to x: (14) y: (50)
+ir a x: (14) y: (50)
 
-pick random (1) to (10)
+número aleatorio entre (1) y (10)
 
-pick random (1) to (10)
+número aleatorio entre (1) y (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Tu código debería verse así:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+al hacer clic en bandera verde
+por siempre
+esconder
+esperar (1) segundos
+ir a (posición aleatoria v)
+mostrar
+esperar (1) segundos
 ```
 
-Or it could look like this:
+O podría parecerse a esto:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+al hacer clic en bandera verde
+por siempre
+esconder
+esperar (1) segundos
+ir a x: (número aleatorio entre (1) y (10)) y: (número aleatorio entre (1) y (10))
+mostrar
+esperar (1) segundos
 ```
 
 \--- /hint \--- \--- /hints \---
