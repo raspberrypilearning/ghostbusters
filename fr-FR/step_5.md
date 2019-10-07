@@ -1,4 +1,4 @@
-## Ajouter un score
+## Code pour capturer les fantômes
 
 Maintenant, tu vas ajouter du code à ton jeu pour que le joueur puisse attraper des fantômes!
 
