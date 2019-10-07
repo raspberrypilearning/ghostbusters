@@ -1,4 +1,4 @@
-## Herausforderung: mehr Objekte
+## Eine Punktzahl hinzufügen
 
 Jetzt wirst du dein Spiel interessanter machen, indem du Punkte sammelst!
 
