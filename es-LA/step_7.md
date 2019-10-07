@@ -1,57 +1,57 @@
-## Add a score
+## Añade una puntuación
 
-Now you're going to make your game more interesting by keeping score!
+¡Ahora vas a hacer que tu juego sea más interesante añadiendo un sistema de puntuación!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Crea una nueva variable llamada `puntaje` {: class = "block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
 
-Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
+Cada vez que un jugador hace clic en un fantasma, su puntuación debe aumentar.
 
 ![Incrementar la puntuación](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. El escenario es el mejor lugar para añadir este código.
+`Al hacer clic en la bandera verde`{:class=”blockevents”}, debes dar a tu variable `puntaje`{:class=”blockdata”} `el valor 0`{:class=”blockdata"}. El escenario es el mejor lugar para añadir este código.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Al hacer clic en el fantasma`{:class=”blockevents”}, deberías `sumar 1`{:class=”blockdata"} a la variable `puntaje`{:class=”blockdata”}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+Estos son los bloques de código que necesitarás: ![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+dar a [puntaje v] el valor (0)
 
-when flag clicked
+al hacer clic en la bandera
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
-cambiar [puntuación v] por (1)
+sumar a [puntaje v] (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- /hints \--- ![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+al hacer clic en bandera verde
+dar a [puntaje v] el valor (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Al hacer clic en este objeto
+esconder
 
-+ change [score v] by (1)
++ sumar a [puntaje v] (1)
 ```
 
 \--- /hint \--- \--- /hints \---
