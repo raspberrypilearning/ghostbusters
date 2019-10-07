@@ -31,7 +31,7 @@ mettre [temps v] à [10]
 
 ajouter (-1) à [temps v]
 
-(temps) :: variables
+temps :: variables
 
 attendre (1) secondes
 
