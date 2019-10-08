@@ -9,7 +9,7 @@ Rho gynnig ar y prosiect [SgwrsBot](https://projects.raspberrypi.org/cy-GB/proje
 Clicia'r faner werdd, yna clicia ar y cymeriad sgwrsfot i gychwyn sgwrs. Pan mae'r sgwrsfot yn gofyn cwestiwn, teipia dy ateb i'r bocs ar waelod y Llwyfan, yna clicia'r marc glas ar y dde (neu gwasga `Enter`) i weld ateb y sgwrsfot.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/334705435/?autostart=false" 
   frameborder="0" scrolling="no"></iframe>
 </div>
 
