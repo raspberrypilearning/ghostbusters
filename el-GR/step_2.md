@@ -26,7 +26,7 @@
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}. \--- /hint \--- \--- hint \---
+Μόλις `πατηθεί η πράσινη σημαία`{:class= "blockevents"}, θα πρέπει να `εξαφανίζεται`{:class="blocklooks"} το φάντασμά σου για `ένα δευτερόλεπτο`{:class="blockcontrol"} και στη συνέχεια να `εμφανίζεται`{:class="blocklooks"} για `ένα δευτερόλεπτο`{:class="blockcontrol"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}. \--- /hint \--- \--- hint \---
 
 Εδώ είναι τα μπλοκ που χρειάζεσαι:![ghost-sprite](images/ghost-sprite.png)
 
