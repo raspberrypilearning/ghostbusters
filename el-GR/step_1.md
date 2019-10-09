@@ -1,12 +1,19 @@
+--- no-print ---
+
+Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/el-GR/projects/ghostbusters-scratch2) του έργου.
+
+--- /no-print ---
+
 ## Εισαγωγή
 
 Πρόκειται να φτιάξεις ένα παιχνίδι για κυνήγι φαντασμάτων!
 
-### Τι θα κάνεις
-
 --- no-print ---
 
-![showcase](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/334999165/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/showcase-static.png">
+</div>
 
 --- /no-print ---
 
@@ -20,13 +27,14 @@
 ---
 title: Τι θα χρειαστείς
 ---
+
 ### Υλικό
 
-+ Υπολογιστής
+- Υπολογιστής
 
 ### Λογισμικό
 
-+ Scratch 2.0 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -34,14 +42,24 @@ title: Τι θα χρειαστείς
 ---
 title: Τι θα μάθεις
 ---
-Αυτό το έργο περιλαμβάνει στοιχεία από το παρακάτω μάθημα του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
+- Κατανόησε την ανάγκη για παύσεις μεταξύ των ενεργειών εντός των βρόχων
+- Χρησιμοποίησε τον κώδικα για δημιουργήσεις τυχαίους αριθμούς στο Scratch
+- Πρόσθεσε μια μεταβλητή για να αποθηκεύσεις ένα σκορ παιχνιδιού στο Scratch
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Πρόσθετες σημειώσεις για εκπαιδευτικούς
+---
+
 --- no-print ---
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/ghostbusters/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/ghostbusters/print){:target="_blank"}.
 
 --- /no-print ---
+
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/el-GR/ghostbusters-get){:target="_blank"}.
+
+--- /collapse ---

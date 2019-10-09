@@ -4,34 +4,70 @@
 
 Άνοιξε ένα νέο έργο στο Scratch.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 --- /task ---
 
---- task ---
+--- task --
 
-Πρόσθεσε ένα νέο αντικείμενο-φάντασμα και ένα κατάλληλο σκηνικό.
+Πρόσθεσε ένα νέο αντικείμενο-φάντασμα και ένα κατάλληλο υπόβαθρο σκηνικού.
 
 ![screenshot](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
-
---- /task ---
-
---- task ---
-
-Πρόσθεσε κώδικα στο φάντασμά σου ώστε να εμφανίζεται και να εξαφανίζεται για πάντα όταν κάνεις κλικ στη σημαία.
-
---- hints --- --- hint --- Μόλις `πατηθεί η πράσινη σημαία`{:class= "blockevents"}, θα πρέπει να `εξαφανίζεται`{:class="blocklooks"} το φάντασμά σου για `ένα δευτερόλεπτο`{:class="blockcontrol"} και στη συνέχεια να `εμφανίζεται`{:class="blocklooks"} για `ένα δευτερόλεπτο`{:class="blockcontrol"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}. --- /hint --- --- hint --- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Έτσι πρέπει να είναι ο κώδικάς σου: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
---- task ---
+--- task --
+
+Πρόσθεσε κώδικα στο χαρακτήρα φαντάσματος έτσι ώστε το φάντασμα να εμφανίζεται και να εξαφανίζεται για πάντα όταν πατηθεί η πράσινη σημαία.
+
+--- hints ---
+ --- hint ---
+
+Μόλις `πατηθεί η πράσινη σημαία`{:class="blockevents"}, θα πρέπει να `εξαφανίζεται`{:class="blocklooks"} το φάντασμά σου για `ένα δευτερόλεπτο`{:class="blockcontrol"} και στη συνέχεια να `εμφανίζεται`{:class="blocklooks"} για `ένα δευτερόλεπτο`{:class="blockcontrol"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}.
+--- /hint ---
+ --- hint ---
+
+Εδώ είναι τα μπλοκ που χρειάζεσαι:![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+εξαφανίσου
+
+εμφανίσου
+
+για πάντα
+end
+
+περίμενε (1) δευτερόλεπτα
+
+περίμενε (1) δευτερόλεπτα
+
+Όταν στην πράσινη σημαία γίνει κλικ
+```
+
+--- /hint --- --- hint --- Έτσι πρέπει να μοιάζει με ο κώδικάς σου:![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+Όταν στην πράσινη σημαία γίνει κλικ
+για πάντα 
+  εξαφανίσου
+  περίμενε (1) δευτερόλεπτα
+  εμφανίσου
+  περίμενε (1) δευτερόλεπτα
+end
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---
+
+--- task --
 
 Δοκίμασε και αποθήκευσε το έργο σου.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---
