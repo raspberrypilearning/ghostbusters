@@ -4,68 +4,68 @@
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+هل تستطيع اضافة تعليمة برمجية الى كائن الشبح بحيث يظهر الشبح في مواقع عشوائية من المنصة بدلاً من البقاء في الموقع نفسه؟
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+في كل مرة قبل ظهور الشبح، يجب أن `يذهب الى`{:class="block3motion"}مكان عشوائي على المنصة.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+هناك مجموعتين من التعليمات البرمجية التي بامكانك استخدامها هنا. اختر المجموعة التي تفضلها.
 
-![ghost-sprite](images/ghost-sprite.png)
+![كائن الشبح](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+إما أن تضيف هذه المجموعة من القوائم الى كائن الشبح:
 
 ```blocks3
-go to (random position v)
+اذهب الى (موضع عشوائي v)
 ```
 
-Or add this one to your sprite:
+أو تضيف هذه المجموعة الى كائن الشبح:
 
 ```blocks3
-go to x: (14) y: (50)
+اذهب الى الموضع س: (14) ص:(50)
 
-pick random (1) to (10)
+حدد عدد عشوائي بين (1) الى (10) 
 
-pick random (1) to (10)
+حدد عدد عشوائي بين (1) الى (10)
 ```
 
 \--- hint/ \---
 
 \--- hint \---
 
-Your code could look either like this:
+يمكن أن تبدو التعليمات البرمجية خاصتك إما بهذا الشكل:
 
-![ghost-sprite](images/ghost-sprite.png)
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+عند نقر العلم
+كرر باستمرار
+اختف
+انتظر (1) ثانية
+اذهب الى (موضع عشوائي v)
+اظهر
+انتظر (1) ثانية
+انتهاء
 ```
 
-Or it could look like this:
+أو يمكن أن تبدو بهذا الشكل:
 
-![ghost-sprite](images/ghost-sprite.png)
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+عند نقر العلم
+كرر باستمرار
+اختف
+انتظر (1) ثانية
+اذهب الى س:(عدد عشوائي بين (-150) الى (150)) ص:(عدد عشوائي بين (-150) الى (150))
+اظهر
+انتظر (1) ثانية
+انتهاء
 ```
 
 \--- /hint \--- \--- /hints \---
