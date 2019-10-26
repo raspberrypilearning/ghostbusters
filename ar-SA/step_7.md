@@ -1,10 +1,10 @@
 ## التحدي: كائنات أخرى
 
-Now you're going to make your game more interesting by keeping score!
+والان سنجعل من لعبتك أكثر تشويقاً بتسجيل نقاط!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+إنشاء متغير جديد يدعى`نتيجة` {:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+هل تستطيع تتبع نقاط الاعب؟ يجب أن يتمكن اللاعبين من إحراز النقاط عند النقر فوق الاشباح لاصطيادها.
 
 في كل مرة ينقر فيها اللاعب على الشبح، يجب ان تزيد عدد النقاط.
 
@@ -20,19 +20,19 @@ Can you keep track of the player's score? Players should score points when they 
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية.
+`عند نقر العلم الاخضر`{:class="block3events"} فإن متغير `نتيجة`{:class="block3variables"} يجب أن `يساوي 0`{:class="block3variables"}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`عند نقر كائن الشبح`{:class="block3events"} فان متغير `نتيجة`{:class="block3variables"} يجب أن `تتغير بمقدار 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+فيما يلي التعليمات البرمجية التي سوف تحتاجها: ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+اجعل [نتيجة v] مساوياً (0)
 
-when flag clicked
+عند نقر العلم
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
 غيِّر [score v] بمقدار (1)
@@ -41,17 +41,17 @@ when flag clicked
 \--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+عند نقر العلم
+اجعل [نتيجة v] مساوياً (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+عند نقر هذا الكائن
+اختف
 
-+ change [score v] by (1)
++غيّر [نتيجة v] بمقدار (1)
 ```
 
 \--- /hint \--- \--- /hints \---
