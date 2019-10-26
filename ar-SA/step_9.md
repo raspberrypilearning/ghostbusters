@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## تحدي: كائنات اخرى
 
-Can you add other sprites to your game?
+هل تستطيع إضافة كائنات أخرى الى اللعبة؟
 
 ![لقطة شاشة](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+تحتاج أن تفكر في بعض الاشياء عند اضافة كل كائن:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ كم يجب ان يكون حجم الكائن ؟
++ هل ستكون مرّات ظهوره أكثر أم أقل من مرّات ظهور الأشباح؟
++ كيف سيكون مظهره/صوته إذا تم اصطياده؟
++ كم عدد النقاط التي سيحرزها اللاعب (أو يخسرها) عندما يحاول اصطياده؟
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+إذا كنتَ تحتاج إلى مساعدة عند إضافة كائن آخر، فيمكنك استخدام الخطوات السابقة، أو اسأل صديقك!
