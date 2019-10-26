@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+أضف كائن شبح جديد وخلفية مناسبة.
 
 ![لقطة الشاشة](images/ghost-ghost.png)
 
@@ -22,39 +22,39 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+أضف تعليمة برمجية إلى كائن الشبح بحيث يظهر ويختفي باستمرار عندما تنقر فوق العلم الاخضر.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+بمجرد النقر فوق `العلم الاخضر`، {:class="block3events"}، ستحتاج الى `اخفاء` {:class="block3looks"} الشبح لمدة `ثانية واحدة` {:class="block3control"} ثم `تظهره` {:class="block3looks"} لمدة `ثانية واحدة`{:class="block3control"}. ستحتاج أن تقوم بهذا `الى الابد`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+هنا التعليمات البرمجية التي ستحتاج اليها: ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-hide
+اختف
 
-show
+اظهر
 
-forever
-end
+الى الابد
+انتهاء
 
-wait (1) seconds
+انتظر (1) ثانية
 
-wait (1) seconds
+انتظر (1) ثانية
 
-when flag clicked
+عند نقر العلم الاخضر
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+هذا ما يجب أن تبدو عليه تعليمات البرمجة خاصتك: ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+عند نقر العلم الاخضر
+الى الابد
+اختف
+انتظر (1) ثانية
+اظهر
+انتظر (1) ثانية
+انتهاء
 ```
 
 \--- /hint \--- \--- /hints \---
