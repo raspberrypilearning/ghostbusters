@@ -59,7 +59,7 @@ stop [all]
 
 \--- task \---
 
-Demande à un ami de tester ton jeu. Combien de points peuvent-ils marquer?
+Demande à un ami de tester ton jeu. Combien de points peut-il marquer?
 
 \--- /task \---
 
