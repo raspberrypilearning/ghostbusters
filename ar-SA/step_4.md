@@ -1,5 +1,5 @@
 ## التحدي: أكثر عشوائية
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+هل تستطيع اضافة تعليمات برمجية الى كائن الشبح لجعل الشبح `ينتظر` {:class="block3control"} مقدار عشوائي من الوقت اثناء اختفاءه؟
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+هل تستطيع أن تستخدم قالب `عيّن الحجم` {:class="block3looks"} لتجعل الشبح يظهر في كل مرة بحجم عشوائي؟
