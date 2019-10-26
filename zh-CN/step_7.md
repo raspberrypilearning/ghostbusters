@@ -1,6 +1,6 @@
-## 添加计分
+## 添加计分功能
 
-现在你将通过计分来使你的游戏更加有趣！
+现在你将通过计分功能来使你的游戏更加有趣！
 
 \--- task \---
 
@@ -20,11 +20,11 @@
 
 \--- hints \--- \--- hint \---
 
-`当点击绿旗时`{:class="block3events"}，你的`score`{:class="block3variables"}变量应当被`置为0`{:class="block3variables"}。 舞台是添加此代码的最佳位置。
+`当点击绿旗时`{:class="block3events"}，你的分数变量`score`{:class="block3variables"}变量应当被`置为0`{:class="block3variables"}。 舞台是添加此代码的最佳位置。
 
-`当幽灵角色被点击到时`{:class="block3events"}，变量`score`{:class="block3variables"}的值应当`增加1`{:class="block3variables"}。
+`当幽灵角色被点击到时`{:class="block3events"}，分数变量`score`{:class="block3variables"}的值应当`增加1`{:class="block3variables"}。
 
-\--- /hint \--- \--- hint \--- 这些是你所需要的代码块： ![背景图标](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- 以下是您需要的代码块：![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
 将[score v]设为(0)
