@@ -10,25 +10,23 @@ steps:
   - 
     title: المقدمة
   - 
-    title: Animate a ghost
+    title: تحريك الشبح
   - 
     title: أشباح عشوائية
   - 
     title: 'التحدي: أكثر عشوائية'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: اصطياد الأشباح
   - 
-    title: 'Challenge: add a sound'
+    title: 'تحدي: إضافة صوت'
     challenge: true
   - 
-    title: Add a score
+    title: إضافة نتيجة
   - 
-    title: Add a timer
+    title: اضافة مؤقت
   - 
-    title: 'Challenge: more sprites'
+    title: 'تحدي: كائنات اخرى'
     challenge: true
-  - 
-    title: Test yourself
   - 
     title: ما التالي؟
