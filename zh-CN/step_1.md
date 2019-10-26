@@ -45,9 +45,9 @@
 
 ## title: 你将学到什么
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- 了解循环中操作之间暂停的必要性
+- 使用代码在Scratch中生成随机数
+- 添加变量以在Scratch中存储游戏分数
 
 \--- /collapse \---
 
@@ -61,6 +61,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+你可以在这里找到 [完成的项目](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}。
 
 \--- /collapse \---
