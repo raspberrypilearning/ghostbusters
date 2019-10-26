@@ -1,26 +1,26 @@
 ## إضافة نتيجة
 
-Now you're going to add code to your game so that the player to catch ghosts!
+والان ستقوم باضافة تعليمات برمجية الى لعبتك حتى يتمكن اللاعب من اصطياد الاشباح!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+هل تستطيع أن تجعل الشبح يختفي اذا تم اصطياده؟ يجب على اللاعب أن يكون قادراً على النقر على الاشباح ليصطادها.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+اذا قمت باختبار اللعبة خاصتك ووجدت أن اصطياد الاشباح صعباً، يمكنك أن تلعب اللعبة في وضع الشاشة الكاملة بالنقر فوق هذا الزر:
 
 ![لقطة الشاشة](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`عند نقر الكائن` {:class="block3events"} يجب على كائن الشبح ان `يختفي`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this: ![ghost-sprite](images/ghost-sprite.png)
+يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي: ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+عند نقر هذا الكائن
+اختف
 ```
 
 \--- /hint \--- \--- /hints \---
