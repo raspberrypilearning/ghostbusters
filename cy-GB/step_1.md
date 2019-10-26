@@ -45,9 +45,9 @@ Rwyt ti mynd i greu gêm i ddal ysbrydion!
 
 ## title: Yr hyn byddi di'n ei ddysgu
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Deall yr angen am seibiannau rhwng gweithredoedd o fewn dolenni
+- Defnyddio côd i gynhyrchu rhifau ar hap yn Scratch
+- Ychwanegu newidyn i storio sgôr gêm yn Scratch
 
 \--- /collapse \---
 
