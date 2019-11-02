@@ -45,9 +45,9 @@ Zrobisz upiorną grę!
 
 ## title: Czego się nauczysz
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Zrozumiesz działanie przerw pomiędzy czynnościami w pętli
+- Wykorzystasz kod do generowania losowych liczb w Scratch
+- Stworzysz zmienną, aby przechować wynik gry w Scratch
 
 \--- /collapse \---
 
@@ -61,6 +61,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Możesz znaleźć [ukończoną wersję projektu tutaj](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
