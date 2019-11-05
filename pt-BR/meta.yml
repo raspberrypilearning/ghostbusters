@@ -5,14 +5,14 @@ description: Criar um jogo de caça-fantasmas!
 listed: true
 copyedit: true
 version: 4.1.0
-last_tested: 2018-11-01
+last_tested: 01-11-2018
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
     title: Animando um fantasma
   - 
-    title: Random ghosts
+    title: Fantasmas aleatórios
   - 
     title: 'Desafio: mais aleatoriedade'
     challenge: true
@@ -29,4 +29,4 @@ steps:
     title: 'Desafio: Mais fantasmas'
     challenge: true
   - 
-    title: What next?
+    title: O que se segue?
