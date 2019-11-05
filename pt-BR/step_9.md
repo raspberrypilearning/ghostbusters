@@ -1,14 +1,14 @@
-## Desafio: Mais fantasmas
+## Desafio: mais fantasmas
 
-Can you add other sprites to your game?
+Você consegue adicionar outros fantasmas no seu jogo?
 
 ![screenshot](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Você precisa pensar em algumas coisas para cada um dos fantasmas que você deseja adicionar:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Qual o tamanho do fantasma?
++ Ele deve aparecer com mais ou menos frequência que o ator fantasma?
++ Qual vai ser a aparência ou som quando ele é capturado?
++ Quantos pontos o jogador ganha (ou perde) por capturar o fantasma?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Se precisar de ajuda, você pode voltar às instruções dos passos anteriores, ou perguntar a um amigo!
