@@ -1,4 +1,4 @@
-## Challenge: more sprites
+## Desafio: Mais fantasmas
 
 Can you add other sprites to your game?
 
