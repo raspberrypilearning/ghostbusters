@@ -1,32 +1,32 @@
 ---
-title: Caça-Fantasmas
+title: Caça-fantasmas
 hero_image: images/ghostbusters.png
-description: Crie um jogo de Caça-Fantasmas!
+description: Criar um jogo de caça-fantasmas!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introdução
+    title: Introduction
   - 
-    title: Animate a ghost
+    title: Animando um fantasma
   - 
-    title: Fantasmas aleatórios
+    title: Random ghosts
   - 
-    title: 'Desafio: Mais aleatoriedade'
+    title: 'Desafio: mais aleatoriedade'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Código para capturar fantasmas
   - 
-    title: 'Challenge: add a sound'
+    title: 'Desafio: adicionar um som'
     challenge: true
   - 
-    title: Add a score
+    title: Adicionar uma pontuação
   - 
-    title: Add a timer
+    title: Adicionar um cronômetro
   - 
-    title: 'Challenge: more sprites'
+    title: 'Desafio: Mais fantasmas'
     challenge: true
   - 
-    title: E agora?
+    title: What next?
