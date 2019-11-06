@@ -26,35 +26,35 @@ Adicione código no seu fantasma para que o fantasma apareça e desapareça semp
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Uma vez que a `bandeira verde é clicada`{:class="block3events"}, seu fantasma deve se `esconder`{:class="block3look"} por `um segundo`{:class="block3control"} e então `mostrar`{:class="block3look"} por `um segundo`{:class="block3control"}. Ele precisa fazer isso para`sempre`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ator do fantasma](images/ghost-sprite.png)
+Aqui estão os blocos de código que você precisa:![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-hide
+esconda
 
-show
+mostre
 
-forever
-end
+sempre
+fim
 
-wait (1) seconds
+esperar (1) segundos
 
-wait (1) seconds
+esperar (1) segundos
 
-when flag clicked
+quando a bandeira é clicada
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ator do fantasma](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Seu código deve ficar assim: ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+quando a bandeira for clicada
+sempre
+esconda
+espere (1) segundos
+mostre
+espere (1) segundos
+fim
 ```
 
 \--- /hint \--- \--- /hints \---
