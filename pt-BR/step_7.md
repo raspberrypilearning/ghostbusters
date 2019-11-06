@@ -1,10 +1,10 @@
-## Desafio: Mais objetos
+## Adicionando uma pontuação
 
-Now you're going to make your game more interesting by keeping score!
+Agora você vai tornar seu jogo mais interessante marcando a pontuação!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Crie uma nova variável chamada de `pontuação`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Você consegue acompanhar a pontuação do jogador? Os jogadores marcam pontos ao clicar nos fantasmas para capturá-los.
 
 Cada vez que um jogador clicar em um fantasma, sua pontuação deve aumentar.
 
@@ -20,29 +20,29 @@ Cada vez que um jogador clicar em um fantasma, sua pontuação deve aumentar.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. O Palco é o melhor lugar para adicionar esse código.
+`Quando bandeira verde for clicada`{:class="block3events"}, sua variável da `pontuação`{:class="block3variables"} deve `mudar para 0`{:class="block3variables"}. O Palco é o melhor lugar para adicionar esse código.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Quando o fantasma for clicado`{:class="block3events"}, a variável da `pontuação`{:class="block3variables"} `deverá ser somada em 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Aqui estão os blocos de código que você precisa: ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+mude [pontuação v] para (0)
 
-when flag clicked
+quando a bandeira verde for clicada
 ```
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-adicione a [placar v] (1)
+adicione (1) a [pontuação v]
 ```
 
 \--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+quando a bandeira verde for clicada
+mude [pontuação v] para (0)
 ```
 
 ![ghost-sprite](images/ghost-sprite.png)
