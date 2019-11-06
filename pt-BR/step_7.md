@@ -16,7 +16,7 @@ Você consegue acompanhar a pontuação do jogador? Os jogadores marcam pontos a
 
 Cada vez que um jogador clicar em um fantasma, sua pontuação deve aumentar.
 
-![Pontuação crescente](images/ghost-score-test.png)
+![Aumentando a pontuação](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
@@ -48,10 +48,10 @@ mude [pontuação v] para (0)
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+Quando este fantasma for clicado
+esconda
 
-+ change [score v] by (1)
++ adicione (1) a [pontuação v]
 ```
 
 \--- /hint \--- \--- /hints \---
