@@ -10,7 +10,7 @@ Abra um novo projeto no Scratch.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Adicione um novo fantasma e um pano de fundo adequado.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,7 +22,7 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Adicione código no seu fantasma para que o fantasma apareça e desapareça sempre quando a bandeira verde for clicada.
 
 \--- hints \--- \--- hint \---
 
