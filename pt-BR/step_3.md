@@ -16,7 +16,7 @@ Each time before your ghost appears, it should `go to`{:class="block3motion"} a 
 
 There are two sets of code blocks you could use here. Choose the set you prefer.
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator do fantasma](images/ghost-sprite.png)
 
 Either add this set of blocks to your ghost sprite:
 
@@ -40,7 +40,7 @@ pick random (1) to (10)
 
 Your code could look either like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -55,7 +55,7 @@ end
 
 Or it could look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
