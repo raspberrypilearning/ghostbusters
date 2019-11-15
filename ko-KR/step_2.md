@@ -25,9 +25,6 @@
 유령이 나타났다 사라졌다는 반복하도록 코드를 추가해 보세요.
 
 --- hints ---
- --- hint ---
-
---- hints ---
 --- hint ---`녹색 깃발이 클릭되면`{:class=”blockevents”}, 유령을 `1초 동안`{:class=”blockcontrol”} `숨기기`{:class=”blocklooks”} 로 숨겼다가 `1초 동안`{:class=”blockcontrol”} `보이기`{:class=”blocklooks”} 로 보여줘야 합니다. 위의 작업을 `무한 반복하기`{:class=”blockcontrol”} 로 반복해 봅시다.
 --- /hint ---
  --- hint ---
