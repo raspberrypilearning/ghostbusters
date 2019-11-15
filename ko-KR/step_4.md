@@ -1,21 +1,5 @@
-## 유령 잡기
+## 도전 과제: 더 랜덤하게
 
-플레이어가 유령을 잡을 수 있게 해 봐요!
+유령이 숨어서 기다릴 때 임의의 시간 동안 `대기`{:class="block3control"} 하도록 만들 수 있나요?
 
---- task ---
-
-유령이 잡히면 사라지게 만들 수 있나요?
-
-유령을 클릭해서 잡을 수 있어야 합니다. 만약 잡기 어려우면 다음 버튼을 클릭해서 게임을 전체 화면으로 플레이해 보세요.
-
-![screenshot](images/ghost-fullscreen.png)
-
---- hints --- --- hint --- `클릭되면`{:class="blockevents"}, 유령 스프라이트는 `숨기기`{:class="blocklooks"} 되어야 합니다. --- /hint --- --- hint --- 코드는 다음과 같아야 합니다. ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- challenge ---
-
-## 도전과제: 소리 추가하기
-
-유령이 잡힐 때 마다 소리가 나게 할 수 있나요? --- /challenge ---
+`크기 정하기`{:class=”blocklooks”}블럭을 사용해 유령이 나타날 때마다 임의의 크기로 나타나게 할 수 있나요?

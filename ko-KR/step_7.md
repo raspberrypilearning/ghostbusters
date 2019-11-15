@@ -1,21 +1,60 @@
-## 도전 과제: 더 많은 목표물
+## 점수 추가하기
 
-게임에 다른 물건을 추가할 수 있나요?
+이제 점수 기능을 추가하여 게임을 더욱 재미있게 만들 것입니다!
 
-![screenshot](images/ghost-final.png)
+--- task ---
 
-물건을 추가할 때 다음과 같은 사항들을 생각해 보세요.
+먼저, `score`{:class="block3variables"}라는 이름의 새 변수를 추가 해 보세요.
 
-+ 얼마나 큰가요?
-+ 유령보다 더 자주 나와야 할까요? 덜 나와야 할까요?
-+ 잡힐때 어떤 모양이어야 할까요? 어떤 소리를 낼까요?
-+ 잡으면 몇 점을 얻거나 잃게 할까요?
+[[[generic-scratch3-add-variable]]]
 
-물건을 추가하는 데 도움이 필요하면, 위에서 배운 것을 다시 활용해 보세요!
+--- /task ---
 
-***
-### 커뮤니티 기여 번역
+--- task ---
 
-이 프로젝트는 **노영진** 가 번역하였고 **이성원** 가 검토하였습니다. 
+플레이어의 점수를 기록할 수 있나요? 플레이어는 유령을 잡을 때마다 점수를 얻어야 합니다.
 
-우리의 놀라운 번역 자원 봉사자들은 전 세계의 어린이들에게 코딩을 배울 수 있는 기회를 제공합니다. 우리 프로젝트 번역에 참여하여 더 많은 아이들에게 도움을 줄 수 있습니다. 자세한 내용은 [rpf.io/translators](https://rpf.io/translators)에서 확인하세요.
+플레이어가 유령을 클릭할 때마다 점수가 올라가야 합니다.
+
+![점수 올리기](images/ghost-score-test.png)
+
+--- hints ---
+ --- hint ---
+
+`녹색 깃발이 클릭되면`{:class=”block3events”}, `점수`{:class=”block3variables”} 변수는 `0으로 정하기`{:class=”block3variables"}로 초기화 되어야 합니다.. 무대가 위의 코드를 추가하기 가장 합당한 곳이겠죠.
+
+-`유령 스프라이트가 클릭되면`{:class=”block3events”}, `점수`{:class=”block3variables”} 변수는 `1만큼 변화하기`{:class=”block3variables"}를 사용하여 값이 변해야 합니다..
+
+--- /hint --- --- hint --- 참고할 코드 블럭 종류은 다음과 같습니다: ![백드롭 아이콘](images/ghost-backdrop.png)
+
+```blocks3
+[score v] 를 (0) 로 정하기
+
+flag 클릭했을 때
+```
+
+![유령 스프라이트](images/ghost-sprite.png)
+
+```blocks3
+[score v] 를 (1) 만큼 바꾸기
+```
+
+--- /hint --- --- hint --- ![백드롭 아이콘](images/ghost-backdrop.png)
+
+```blocks3
+flag 클릭했을 때
+[score v] 를 (0) 으로 설정하기
+```
+
+![유령 스프라이트](images/ghost-sprite.png)
+
+```blocks3
+이 스프라이트를 클릭했을 때
+숨기기
+
++ [score v] 를 (1) 만큼 바꾸기
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---

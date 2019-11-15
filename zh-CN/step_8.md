@@ -1,23 +1,79 @@
-<div class="p-hero-buttons">
-  [离线完整项目](resources/Ghostbusters-Finished.sb2){:download='Ghostbusters-Finished.sb2'}
-  [在线完整项目](http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
-</div>
+## 添加倒计时
 
---- challenge ---
+现在你需要添加一个倒计时器，使玩家在只有10秒钟的时间内抓住尽可能多的幽灵。
 
-## 挑战：更多对象
+--- task ---
 
-你能否向你的游戏添加其他对象？
+新建一个叫“time”的变量。
 
-![screenshot](images/ghost-final.png)
+--- /task ---
 
-你在添加对象时，需要考虑以下方面。
+--- task ---
 
-+ 它有多大？
-+ 它比鬼怪出现得更加频繁还是不频繁？
-+ 它被捉住时看起来／听起来是怎样的？
-+ 玩家抓住它能得到（或失去）多少分？
+你能在舞台上添加一个倒计时器以只给玩家10秒的时间来抓幽灵吗？
 
-如果你在添加另一个对象时需要帮助，你可以重复使用上述步骤！
+你的倒计时器应当：
 
---- /challenge ---
++ 初始设置10秒
++ 按秒倒计时
+
+当倒计时器为0时游戏结束。
+
+--- hints ---
+ --- hint --- `当绿旗被点击`{:class="block3events"}，你的`time`{:class="block3variables"}变量应当被`设为10`{:class="block3variables"}。 然后它应该每秒被`增加 -1`{:class="block3variables"}`直到为0`{:class="block3control"}。
+--- /hint ---
+ --- hint --- 这些是你需要使用的代码块： ![幽灵角色](images/ghost-backdrop.png)
+
+```blocks3
+停止 [all]
+
+< [ ] = [ ] >
+
+将 [time v] 设为 [10]
+
+将 [time v] 增加 (-1)
+
+(time)
+
+等待 (1) 秒
+
+重复执行直到 < >
+结束
+
+当绿旗被点击
+
+```
+
+--- /hint --- --- hint --- 以下是创建倒计时器所需要的代码：![背景图标](images/ghost-backdrop.png)
+
+```blocks3
+当绿旗被点击
+将 [time v] 设为 [10]
+重复执行直到 < (time) = [0] >
+等待 (1) 秒
+将 [time v] 增加 (-1)
+结束
+停止 [all]
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
+
+--- task ---
+
+请一位朋友测试你的游戏。 他们可以等到几分？
+
+--- /task ---
+
+如果你的游戏太简单，你可以：
+
++ 给玩家更少的时间
++ 减少幽灵的出现频率
++ 让幽灵变小点
+
+--- task ---
+
+反复修改并测试你的游戏，直到你觉得难度适中为止。
+
+--- /task ---
