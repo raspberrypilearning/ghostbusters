@@ -10,9 +10,9 @@
 
 ![截图](images/ghost-fullscreen-annotated.png)
 
---- hint --- --- hint ---
+--- hints --- --- hint ---
 
-当你的幽灵`被点击时`{:class="block3events"}，它应该`被隐藏起来`{:class="block3events"}。
+当你的幽灵`被点击时`{:class="block3events"}，它应该`被隐藏起来`{:class="block3looks"}。
 
 --- /hint --- --- hint ---
 

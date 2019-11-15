@@ -27,7 +27,7 @@ Adicione código no seu fantasma para que o fantasma apareça e desapareça semp
 --- hints ---
  --- hint ---
 
-Uma vez que a `bandeira verde é clicada`{:class="block3events"}, seu fantasma deve se `esconder`{:class="block3look"} por `um segundo`{:class="block3control"} e então `mostrar`{:class="block3look"} por `um segundo`{:class="block3control"}. Ele precisa fazer isso para `sempre`{:class="block3control"}.
+Uma vez que a `bandeira verde é clicada`{:class="block3events"}, seu fantasma deve se `esconder`{:class="block3looks"} por `um segundo`{:class="block3control"} e então `mostrar`{:class="block3looks"} por `um segundo`{:class="block3control"}. Ele precisa fazer isso para `sempre`{:class="block3control"}.
 --- /hint ---
  --- hint ---
 
@@ -45,18 +45,18 @@ esperar (1) segundos
 
 esperar (1) segundos
 
-quando a bandeira é clicada
+quando ⚑ for clicado
 ```
 
 --- /hint --- --- hint --- Seu código deve ficar assim: ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando a bandeira for clicada
+quando ⚑ for clicado
 sempre
 esconda
-espere (1) segundos
+esperar (1) segundos
 mostre
-espere (1) segundos
+esperar (1) segundos
 fim
 ```
 

@@ -30,9 +30,9 @@ Ou adicione este a seu fantasma:
 ```blocks3
 ir para x: (14) y: (50)
 
-escolher aleatório (1) para (10)
+(número aleatório entre (1) e (10))
 
-escolher aleatório (1) para (10)
+(número aleatório entre (1) e (10))
 ```
 
 --- /hint ---
@@ -44,13 +44,13 @@ Seu código deve ficar assim:
 ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando a bandeira é clicada
+quando ⚑ for clicado
 para sempre
 ocultar
-espera (1) segundos
+esperar (1) segundos
 vá para(posição aleatória v)
 mostrar
-espera (1) segundos
+esperar (1) segundos
 fim
 ```
 
@@ -59,11 +59,11 @@ Ou poderia ser assim:
 ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando a bandeira clicada
+quando ⚑ for clicado
 para sempre
 ocultar
-espera (1) segundos
-vá para x: (escolha aleatório (-150) para (150)) y: (escolha aleatório (-150) para (150))
+esperar (1) segundos
+vá para x: (número aleatório entre (-150) e (150)) y: (número aleatório entre (-150) e (150))
 mostrar
 esperar (1) segundos
 fim

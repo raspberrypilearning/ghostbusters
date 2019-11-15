@@ -20,3 +20,10 @@
 ![完成项目](images/chatbot-preview.png)
 
 --- /print-only ---
+
+
+**社区贡献的翻译**
+
+该项目由**齐琨** 翻译并通过**Sikaxn** 审查。
+
+我们出色的翻译志愿者帮助我们为世界各地的儿童提供学习编码的机会。通过翻译我们的项目，您可以帮助我们覆盖更多的儿童 - 更多详情请阅读[rpf.io/translate](https://rpf.io/translate)。

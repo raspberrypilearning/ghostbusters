@@ -13,14 +13,14 @@ Se você testar seu jogo e achar que capturar os fantasmas está difícil, você
 --- hints ---
  --- hint ---
 
-`Quando for clicado`{:class="block3events"}, o seu fantasma deve se `esconder`{:class="block3look"}.
+`Quando for clicado`{:class="block3events"}, o seu fantasma deve se `esconder`{:class="block3looks"}.
 
 --- /hint --- --- hint ---
 
 Seu código deve ficar assim: ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando este fantasma for clicado
+quando este ator for clicado
 esconda
 ```
 

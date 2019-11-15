@@ -37,21 +37,21 @@ zmień [czas v] o(-1)
 
 czekaj (1) sekund
 
-powtórzyć do < >
+powtarzaj aż < >
 koniec
 
-po kliknięciu flagi
+kiedy kliknięto zieloną flagę
 
 ```
 
---- / hint --- --- hint --- Oto kod, który należy dodać, aby utworzyć zegar: ![ikona tła](images/ghost-backdrop.png)
+--- /hint --- --- hint --- Oto kod, który należy dodać, aby utworzyć zegar: ![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 ustaw [czas v] na [10]
 powtarzaj, aż < (czas) = [0] >
 czekaj (1) sekund
-zmiań [czas v] o (-1)
+zmień [czas v] o (-1)
 koniec
 zatrzymaj [all]
 ```

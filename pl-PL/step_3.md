@@ -28,11 +28,11 @@ idź do (losowa pozycja v)
 Lub dodaj ten do swojego duszka:
 
 ```blocks3
-przejdź do x: (14) y: (50)
+Idź do x: (14) y: (50)
 
-wybierz losowo (1) do (10)
+(losuj liczbę od (1) do (10))
 
-wybierz losowo (1) do (10)
+(losuj liczbę od (1) do (10))
 ```
 
 --- /hint ---
@@ -44,13 +44,13 @@ Twój kod może wyglądać tak:
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy flaga kliknięta
-zawsze
+kiedy kliknięto zieloną flagę
+zawsze 
 ukryj
-czekaj (1) sekundy
-idź do (losowa pozycja v)
+czekaj (1) sekund
+Idź do (losowa pozycja v)
 pokaż
-czekaj (1) sekundy
+czekaj (1) sekund
 koniec
 ```
 
@@ -59,11 +59,11 @@ Lub może wyglądać tak:
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy flaga kliknięta
-zawsze
+kiedy kliknięto zieloną flagę
+zawsze 
 ukryj
-czekaj (1) sekundy
-przejdź do x: (wybierz losowo (-150) do (150)) y: (wybierz losowo (-150) do (150))
+czekaj (1) sekund
+Idź do x: (losuj liczbę od (-150) do (150)) y: (losuj liczbę od (-150) do (150))
 pokaż
 czekaj (1) sekund
 koniec

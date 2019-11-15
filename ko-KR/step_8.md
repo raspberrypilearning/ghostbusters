@@ -20,40 +20,40 @@
 타이머가 0이 되면 게임이 끝나야 합니다.
 
 --- hints ---
- --- hint ---`녹색 깃발이 클릭되면`{:class=”block3events”}, `시간`{:class=”block3variables”} 변수를 `10으로 정하기`{:class=”block3variables"}로 초기화합니다. 그 후 매 초마다 `-1만큼 바꾸기`{:class="block3variables"}로 `0이 되기 전까지`{:class="block3control"}까지 값을 줄여 나갑니다.
+ --- hint ---`녹색 깃발이 클릭되면`{:class="block3events"}, `시간`{:class="block3variables"} 변수를 `10으로 정하기`{:class="block3variables"}로 초기화합니다. 그 후 매 초마다 `-1만큼 바꾸기`{:class="block3variables"}로 `0이 되기 전까지`{:class="block3control"}까지 값을 줄여 나갑니다.
 --- /hint ---
  --- hint --- 사용할 수 있는 코드 블럭을 살펴보겠습니다: ![유령 스프라이트](images/ghost-backdrop.png)
 
 ```blocks3
-정지 [all]
+멈추기 [모두]
 
 < [ ] = [ ] >
 
-[time v] 를 [10] 로 정하기
+[시간 v] 을\(를\) [10] 로 정하기
 
-[time v] 를 (-1) 만큼 바꾸기
+[시간 v] 을\(를\) (-1) 만큼 바꾸기
 
-(time)
+(시간)
 
 (1) 초 기다리기
 
-반복하기 < >
+< > 까지 반복하기
 끝
 
-flag 클릭했을 때
+⚑ 클릭했을 때
 
 ```
 
 --- /hint --- --- hint --- 다음은 추가해야 할 코드입니다.![백드롭 아이콘](images/ghost-backdrop.png)
 
 ```blocks3
-flag 클릭했을 때
-[time v] 를 [10] 로 정하기
-< (time) = [0] > 까지 반복하기
+⚑ 클릭했을 때
+[시간 v] 을\(를\) [10] 로 정하기
+<(시간) = [0]> 까지 반복하기 
 (1) 초 기다리기
-[time v] 를 (-1) 만큼 바꾸기
+[시간 v] 을\(를\) (-1) 만큼 바꾸기
 끝
-정지 [all]
+멈추기 [모두]
 ```
 
 --- /hint --- --- /hints ---

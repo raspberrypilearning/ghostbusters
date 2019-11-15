@@ -24,7 +24,7 @@
 
 添加代码，当点击绿旗后，你的幽灵就会一直重复不断地出现并消失。
 
---- hint --- --- hint ---
+--- hints --- --- hint ---
 
 当`绿旗被点击`{:class="block3events"}时，你的幽灵应当`隐藏`{:class="block3looks"}`一秒`{:class="block3control"}，然后再`出现`{:class="block3looks"}`一秒`{:class="block3control"}。 它需要`一直`{:class="block3control"}重复这样。
 --- /hint ---
@@ -40,22 +40,22 @@
 重复执行
 结束
 
-等待（1）秒
+等待 (1) 秒
 
-等待（1）秒
+等待 (1) 秒
 
-当绿旗被点击时
+当 ⚑ 被点击
 ```
 
 --- /hint --- --- hint --- 你的代码应该像这样：![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-当绿旗被点击
-重复执行
+当 ⚑ 被点击
+重复执行 
 隐藏
-等待（1）秒
+等待 (1) 秒
 显示
-等待（1）秒
+等待 (1) 秒
 结束
 ```
 

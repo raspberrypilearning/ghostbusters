@@ -27,7 +27,7 @@ Dodaj kod do duszka ducha, aby pojawiał się i znikał na zawsze po kliknięciu
 --- hints ---
  --- hint ---
 
-Po `zielona flaga kliknięciu`{:class="block3events"}, twój duch powinien `ukryj`{:class="block3looks"} przez `jeden sekund`{class="block3control"}, a następnie `pokaż`{:class="block3looks"} przez `jedną sekundę`{:class="block3control"}. Musi to zrobić `zawsze`{:class="block3control"}. --- /hint --- --- hint ---
+Po `zielona flaga kliknięciu`{:class="block3events"}, twój duch powinien `ukryj`{:class="block3looks"} przez `jeden sekund`{:class="block3control"}, a następnie `pokaż`{:class="block3looks"} przez `jedną sekundę`{:class="block3control"}. Musi to zrobić `zawsze`{:class="block3control"}. --- /hint --- --- hint ---
 
 Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-sprite.png)
 
@@ -43,18 +43,18 @@ czekaj (1) sekund
 
 czekaj (1) sekund
 
-gdy kliknięta flaga
+kiedy kliknięto zieloną flagę
 ```
 
 --- /hint --- --- hint --- Twój kod powinien wyglądać tak: ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 zawsze
 ukryj
-czekaj (1) sekundy
+czekaj (1) sekund
 pokaż
-czekaj (1) sekundy
+czekaj (1) sekund
 koniec
 ```
 

@@ -13,7 +13,7 @@
 --- hints ---
  --- hint ---
 
-`클릭`{:class=”blockevents”}하면, 유령 스프라이트는 `숨기기`{:class=”blocklooks"} 상태가 되어야 합니다..
+`클릭`{:class="block3events"}하면, 유령 스프라이트는 `숨기기`{:class="block3looks"} 상태가 되어야 합니다.
 
 --- /hint --- --- hint ---
 

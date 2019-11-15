@@ -1,8 +1,8 @@
-## Co następne?
+## Co dalej?
 
 Dobrze Ci poszło z ukończeniem projektu! Czy chcesz stworzyć coś trudniejszego?
 
-Wypróbuj projekt [Chatbot](https://projects.raspberrypi.org/pl-PL/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
+Wypróbuj projekt [Robot gaduła](https://projects.raspberrypi.org/pl-PL/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
 --- no-print ---
 

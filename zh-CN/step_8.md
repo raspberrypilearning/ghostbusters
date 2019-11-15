@@ -4,7 +4,7 @@
 
 --- task ---
 
-新建一个叫“time”的变量。
+新建一个叫“时间”的变量。
 
 --- /task ---
 
@@ -20,40 +20,39 @@
 当倒计时器为0时游戏结束。
 
 --- hints ---
- --- hint --- `当绿旗被点击`{:class="block3events"}，你的`time`{:class="block3variables"}变量应当被`设为10`{:class="block3variables"}。 然后它应该每秒被`增加 -1`{:class="block3variables"}`直到为0`{:class="block3control"}。
+ --- hint --- `当绿旗被点击`{:class="block3events"}，你的`时间`{:class="block3variables"}变量应当被`设为10`{:class="block3variables"}。 然后它应该每秒被`增加 -1`{:class="block3variables"}`直到为0`{:class="block3control"}。
 --- /hint ---
  --- hint --- 这些是你需要使用的代码块： ![幽灵角色](images/ghost-backdrop.png)
 
 ```blocks3
-停止 [all]
+当 ⚑ 被点击
+
+停止 [全部脚本]
 
 < [ ] = [ ] >
 
-将 [time v] 设为 [10]
+将 [时间 v] 设为 [10]
 
-将 [time v] 增加 (-1)
+将 [时间 v] 增加 (-1)
 
-(time)
+(时间)
 
 等待 (1) 秒
 
 重复执行直到 < >
 结束
-
-当绿旗被点击
-
 ```
 
 --- /hint --- --- hint --- 以下是创建倒计时器所需要的代码：![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
-当绿旗被点击
-将 [time v] 设为 [10]
-重复执行直到 < (time) = [0] >
+当 ⚑ 被点击
+将 [时间 v] 设为 [10]
+重复执行直到 < (时间) = [0] >
 等待 (1) 秒
-将 [time v] 增加 (-1)
+将 [时间 v] 增加 (-1)
 结束
-停止 [all]
+停止 [全部脚本]
 ```
 
 --- /hint ------ /hints ---

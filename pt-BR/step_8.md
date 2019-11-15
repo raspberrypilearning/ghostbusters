@@ -19,9 +19,11 @@ Seu cronômetro deve:
 
 O jogo deve parar quando o cronômetro chegar a 0.
 
+--- hints ---
+--- hint ---
 `quando a bandeira verde for clicada`{:class="block3events"}, sua variável de `tempo`{:class="block3variables"} deve `mudar para 10`{:class="block3variables"}. Deverá então `mudar em -1`{:class="block3variables"} a cada segundo `até que chegue em 0`{:class="block3control"}.
 --- /hint ---
- --- hint --- Aqui estão os blocos que você vai precisar: ![ghost-sprite](images/ghost-backdrop.png)
+--- hint --- Aqui estão os blocos que você vai precisar: ![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 pare [todos]
@@ -32,23 +34,23 @@ mude [tempo v] para [10]
 
 adicione (-1) a [tempo v]
 
-(tempo)
+tempo :: variables
 
 espere (1) seg
 
 repita até que < >
 fim
 
-quando badeira verde for clicado
+quando ⚑ for clicado
 
 ```
 
 --- /hint --- --- hint --- Aqui está o código que você vai precisar para criar o cronômetro: ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-quando bandeira verde for clicada
+quando ⚑ for clicado
 mude [tempo v] para [10]
-repita até que < (tempo) = [0] >
+repita até que < (tempo :: variables) = [0] >
 espere (1) segundo
 adicione (-1) a [tempo v]
 fim
