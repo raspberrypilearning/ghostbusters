@@ -25,7 +25,7 @@ Gra powinna się zatrzymać, gdy czas dojdzie do 0.
  --- hint --- Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+zatrzymaj [wszystko]
 
 < [] = [] >
 
@@ -53,7 +53,7 @@ powtarzaj, aż < (czas) = [0] >
 czekaj (1) sekund
 zmień [czas v] o (-1)
 koniec
-zatrzymaj [all]
+zatrzymaj [wszystko]
 ```
 
 --- /hint --- --- /hints ---

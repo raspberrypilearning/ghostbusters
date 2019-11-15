@@ -44,7 +44,6 @@
 当 ⚑ 被点击
 
 重复执行
-结束
 ```
 
 --- /hint --- --- hint --- 你的代码应该像这样：![幽灵角色](images/ghost-sprite.png)
