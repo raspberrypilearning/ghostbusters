@@ -1,3 +1,3 @@
-## Adicionando um cronômetro
+## Desafio: adicionar um som
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Será que você consegue adicionar código ao seu fantasma para que faça um som quando for capturado?
