@@ -1,12 +1,19 @@
+--- no-print ---
+
+Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/pt-BR/projects/ghostbusters-scratch2).
+
+--- /no-print ---
+
 ## Introdução
 
 Você vai criar um jogo de Caça-Fantasmas!
 
-### O que você vai fazer
-
 --- no-print ---
 
-![showcase](images/showcase.gif)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/345409823/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/showcase-static.png">
+</div>
 
 --- /no-print ---
 
@@ -20,13 +27,14 @@ Você vai criar um jogo de Caça-Fantasmas!
 ---
 title: O que você vai precisar
 ---
+
 ### Hardware
 
-+ Um computador
+- Um computador
 
 ### Software
 
-+ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -34,14 +42,24 @@ title: O que você vai precisar
 ---
 title: O que você vai aprender
 ---
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use estruturas de programação básicas para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+- Compreender a necessidade de pausas entre ações dentro de laços
+- Usar código de programação para gerar números aleatórios no Scratch
+- Adicionar uma variável para armazenar uma pontuação do jogo no Scratch
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Notas adicionais para educadores
+---
+
 --- no-print ---
 
-Se você precisar imprimir este projeto, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/ghostbusters/print).
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/ghostbusters/print){:target="_blank"}.
 
 --- /no-print ---
+
+Você pode encontrar o [projeto concluído aqui](http://rpf.io/p/pt-BR/ghostbusters-get){:target="_blank"}.
+
+--- /collapse ---

@@ -4,27 +4,63 @@
 
 Abra um novo projeto no Scratch.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 --- /task ---
 
 --- task ---
 
-Adicione um novo ator de fantasma e um pano de fundo adequado para o seu palco.
+Adicione um novo fantasma e um pano de fundo adequado.
 
 ![screenshot](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
 
-Adicione código ao seu fantasma para que ele apareça e desapareça quando você clicar na bandeira.
+Adicione código no seu fantasma para que o fantasma apareça e desapareça sempre quando a bandeira verde for clicada.
 
---- hints --- --- hint --- Assim que a `bandeira for clicada`{:class=”blockevents”}, você precisará fazer o seu fantasma `se esconder`{:class=”blocklooks”} por `um segundo`{:class=”blockcontrol”} e então `aparecer`{:class=”blocklooks”} por `um segundo`{:class=”blockcontrol”}. Será necessário fazer isso `sempre`{:class = "blockcontrol"}. --- /hint --- --- hint --- Aqui estão os blocos de códigos que você vai precisar: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- Veja como seu código deve ficar: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+Uma vez que a `bandeira verde é clicada`{:class="block3events"}, seu fantasma deve se `esconder`{:class="block3looks"} por `um segundo`{:class="block3control"} e então `mostrar`{:class="block3looks"} por `um segundo`{:class="block3control"}. Ele precisa fazer isso para `sempre`{:class="block3control"}.
+--- /hint ---
+ --- hint ---
+
+Aqui estão os blocos de código que você precisa:![ator do fantasma](images/ghost-sprite.png)
+
+```blocks3
+esconda
+
+mostre
+
+sempre
+fim
+
+esperar (1) segundos
+
+esperar (1) segundos
+
+quando ⚑ for clicado
+```
+
+--- /hint --- --- hint --- Seu código deve ficar assim: ![ator do fantasma](images/ghost-sprite.png)
+
+```blocks3
+quando ⚑ for clicado
+sempre
+esconda
+esperar (1) segundos
+mostre
+esperar (1) segundos
+fim
+```
+
+--- /hint ------ /hints ---
 
 --- /task ---
 
@@ -32,6 +68,6 @@ Adicione código ao seu fantasma para que ele apareça e desapareça quando voc�
 
 Teste e salve seu projeto.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---

@@ -2,25 +2,21 @@
 title: 고스트버스터즈
 hero_image: images/ghostbusters.png
 description: 유령 잡기 게임을 만들어 봐요!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - title: 소개
   - title: 유령 움직여 보기
-  - title: 무작위 유령들
-  - title: 유령 잡기
+  - title: 신출귀몰한 유령
+  - title: '도전 과제: 더 랜덤하게'
+    challenge: true
+  - title: 유령을 잡아볼까요
+  - title: '도전과제: 타이머 추가하기'
+    challenge: true
   - title: 점수 추가하기
   - title: 타이머 추가하기
-  - title: '도전 과제: 더 많은 목표물'
+  - title: '도전과제: 좀 더 많은 스프라이트 만들기'
+    challenge: true
+  - title: 더 나아가기
