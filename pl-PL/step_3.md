@@ -22,7 +22,7 @@ Istnieją dwa zestawy bloków kodu, których możesz użyć tutaj. Wybierz zesta
 Dodaj ten zestaw bloków do twojego duszka:
 
 ```blocks3
-idź do (losowa pozycja v)
+Idź do (losowa pozycja v)
 ```
 
 Lub dodaj ten do swojego duszka:

@@ -51,7 +51,7 @@ quando ⚑ for clicado
 quando ⚑ for clicado
 mude [tempo v] para [10]
 repita até que < (tempo :: variables) = [0] >
-espere (1) segundo
+espere (1) seg
 adicione (-1) a [tempo v]
 fim
 pare [todos]
