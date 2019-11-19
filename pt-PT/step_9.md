@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Desafio: Mais atores
 
-Can you add other sprites to your game?
+Consegues adicionar mais atores ao teu jogo?
 
 ![screenshot](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Vais necessitar pensar sobre algumas coisas para cada ator que desejes adicionar:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Que tamanho deve ter o ator?
++ Deveria aparecer com mais ou menos frequência que o ator fantasma?
++ O que é que acontece/qual o som, quando é apanhado?
++ Quantos pontos ganha (ou perde) o jogador por apanhar o ator?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Se precisares de ajuda, podes voltar às instruções das etapas anteriores ou pedir a um amigo!
