@@ -1,56 +1,56 @@
-## Add a timer
+## Adiciona um cronómetro
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Agora vais adicionar um cronómetro de formam a que o jogador tenha apenas dez segundos para capturar o maior número possível de fantasmas.
 
 \--- task \---
 
-Create a new variable called 'time'.
+Cria uma nova variável chamada 'tempo'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Consegues adicionar um cronómetro ao teu Palco para dar ao teu jogador apenas 10 segundos para capturar fantasmas?
 
-Your timer should:
+O teu cronómetro deve:
 
-+ Start at 10 seconds
-+ Count down every second
++ Iniciar com 10 segundos
++ Contar de forma regressiva todos os segundos
 
-The game should stop when the timer gets to 0.
+O jogo deve parar quando o cronómetro chegar a 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- ` Quando a bandeira verde é clicada ` {: class = "block3events"}, a tua variável ` tempo ` {: class = "block3variables"} deve ser ` alterada para 10 ` {: class = "block3variables"}. Deve então ` mudar em -1 ` {: class = "block3variables"} a cada segundo ` até chegar a 0 ` {: class = "block3control"}. \--- /hint \--- \--- hint \--- Aqui estão os blocos de que precisas: ![ator fantasma](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+pára [all]
 
-< [ ] = [ ] >
+<[ ] = [ ]>
 
-set [time v] to [10]
+altera [time v] para [10]
 
-change [time v] by (-1)
+adiciona a [time v] o valor (-1)
 
 (time)
 
-wait (1) seconds
+espera (1) s
 
-repeat until < >
+até que < > , repete
 end
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- / hint \--- \--- hint \--- Aqui está o código de que necessitas: ![ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+quando alguém clicar na bandeira verde
+altera [time v] para [10]
+até que <(time) = [0]>, repete 
+ espera (1) s
+ adiciona a [time v] o valor (-1)
 end
-stop [all]
+pára [all]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,18 +59,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Pede a um amigo para testar o teu jogo. Quantos pontos conseguem eles fazer?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Se o teu jogo é muito fácil, podes:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Dá menos tempo ao jogador
++ Faz com que os fantasmas apareçam com menos frequência
++ Faz os fantasmas mais pequenos
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Muda e testa o teu jogo algumas vezes até ficares satisfeito com o nível de dificuldade.
 
 \--- /task \---
