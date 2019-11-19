@@ -1,70 +1,70 @@
-## Random ghosts
+## Fantasmas aleatórios
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+O teu fantasma é realmente fácil de apanhar neste momento, porque não se move!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Consegues adicionar código ao seu fantasma para que, em vez de permanecer na mesma posição, o apareça em posições aleatórias no Palco?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Sempre que o teu fantasma aparecer, ele deve ` ir para ` {: class = "block3motion"} uma posição aleatória no palco.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Existem dois conjuntos de blocos de código que podes utilizar aqui. Escolhe o conjunto que preferires.
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Adiciona este conjunto de blocos ao teu sprite fantasma:
 
 ```blocks3
-go to (random position v)
+vai para (random position v)
 ```
 
-Or add this one to your sprite:
+Ou adiciona este ao seu sprite:
 
 ```blocks3
-go to x: (14) y: (50)
+vai para a posição x: (14) y: (50)
 
-pick random (1) to (10)
+um valor ao acaso entre (1) e (10)
 
-pick random (1) to (10)
+um valor ao acaso entre (1) e (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+O teu código deverá ter este aspeto:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+quando alguém clicar na bandeira verde
+repete para sempre 
+esconde-te
+espera (1) s
+vai para (random position v)
+mostra-te
+espera (1) s
 end
 ```
 
-Or it could look like this:
+O teu código deverá ter este aspeto:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+quando alguém clicar na bandeira verde
+repete para sempre 
+esconde-te
+espera (1) s
+vai para a posição x: (um valor ao acaso entre (-150) e (150)) y: (um valor ao acaso entre (-150) e (150))
+mostra-te
+espera (1) s
 end
 ```
 
