@@ -2,7 +2,7 @@
 
 Consegues adicionar mais atores ao teu jogo?
 
-![screenshot](images/ghost-final.png)
+![captura de ecrã](images/ghost-final.png)
 
 Vais necessitar pensar sobre algumas coisas para cada ator que desejes adicionar:
 
