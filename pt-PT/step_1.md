@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introdução
 
-You are going to make a ghost-catching game!
+Vais fazer um jogo onde podes capturar fantasmas!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![mostruário](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,15 +27,15 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will need
+## title: O que vais precisar
 
 ### Hardware
 
-- A computer
+- Um computador
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (ou [online](http://rpf.io/scratchon){:target="_ blank"} ou [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
 \--- /collapse \---
 
@@ -43,24 +43,24 @@ You are going to make a ghost-catching game!
 
 * * *
 
-## title: What you will learn
+## title: O que vais aprender
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Entender a necessidade de pausas entre ações dentro de ciclos
+- Usar código para gerar números aleatórios no Scratch
+- Adicionar uma variável para armazenar uma pontuação do jogo no Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Notas adicionais para educadores
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Se for necessário imprimir este projeto, por favor usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target = blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/ghostbusters-get){: target = "_ blank"}.
 
 \--- /collapse \---
