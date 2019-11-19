@@ -1,8 +1,8 @@
-## Animate a ghost
+## Animar um fantasma
 
 \--- task \---
 
-Open a new empty Scratch project.
+Abra um novo projeto Scratch vazio.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Adiciona um novo ator fantasma e um cenário de palco adequado.
 
-![screenshot](images/ghost-ghost.png)
+![captura de ecrã](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,38 +22,38 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Adiciona código ao teu ator fantasma para que ele apareça e desapareça sempre, quando a bandeira verde for clicada.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Quando a ` bandeira verde for clicada ` {: class = "block3events"}, o teu fantasma deve ` ocultar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"} e, depois, ` mostrar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"}. É necessário que o fantasma faço isto ` para sempre ` {: class = "block3control"}. \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+Estes são os blocos de que necessitas: ![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
-hide
+esconde-te
 
-show
+mostra-te
 
-forever
+repete para sempre
 end
 
-wait (1) seconds
+espera (1) s
 
-wait (1) seconds
+espera (1) s
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \--- Aqui está o aspeto que o teu código deve ter: ![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+quando alguém clicar na bandeira verde
+repete para sempre 
+esconde-te
+espera (1) s
+mostra-te
+espera (1) s
 end
 ```
 
@@ -63,7 +63,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Testa e salva o teu código.
 
 [[[generic-scratch3-saving]]]
 
