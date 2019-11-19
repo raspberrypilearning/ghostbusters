@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Desafio: adiciona um som
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Consegues acrescentar código ao teu tambor para que ele emita um som ao ser clicado?
