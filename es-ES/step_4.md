@@ -1,5 +1,5 @@
 ## Desafío: más aleatoriedad
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+¿Puedes agregar código a tu objeto fantasma para hacer que el fantasma `espere` {:class="block3control"} una cantidad aleatoria de tiempo mientras está oculto?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+¿Puedes utilizar el bloque `fijar tamaño`{:class=”blocklooks”} para hacer que tu fantasma tenga un tamaño aleatorio cada vez que aparezca?
