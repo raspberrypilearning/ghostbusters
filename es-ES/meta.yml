@@ -24,9 +24,9 @@ steps:
   - 
     title: Añadir una puntuación
   - 
-    title: Add a timer
+    title: Añadir un temporizador
   - 
-    title: 'Challenge: more sprites'
+    title: 'Desafío: más sprites'
     challenge: true
   - 
     title: 'Desafío: más colores'
