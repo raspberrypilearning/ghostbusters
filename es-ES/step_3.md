@@ -1,6 +1,6 @@
 ## Fantasmas aleatorios
 
-¡Tu fantasma es muy fácil de atrapar en este momento, porque no se mueve!
+Tu fantasma es muy fácil de capturar en este momento, ¡porque no se mueve!
 
 \--- task \---
 
