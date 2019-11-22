@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+¿Puedes agregar código a tu fantasma para que, en lugar de permanecer en la misma posición, el fantasma aparezca en posiciones aleatorias en el escenario?
 
 \--- hints \---
 
@@ -16,7 +16,7 @@ Each time before your ghost appears, it should `go to`{:class="block3motion"} a 
 
 There are two sets of code blocks you could use here. Choose the set you prefer.
 
-![ghost-sprite](images/ghost-sprite.png)
+![objeto fantasma](images/ghost-sprite.png)
 
 Either add this set of blocks to your ghost sprite:
 
@@ -40,7 +40,7 @@ pick random (1) to (10)
 
 Your code could look either like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -55,7 +55,7 @@ end
 
 Or it could look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
