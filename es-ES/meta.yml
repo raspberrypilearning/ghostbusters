@@ -10,19 +10,19 @@ steps:
   - 
     title: Introducción
   - 
-    title: Animate a ghost
+    title: Animando un fantasma
   - 
     title: Fantasmas aleatorios
   - 
     title: 'Desafío: más aleatoriedad'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Código para atrapar fantasmas
   - 
-    title: 'Challenge: add a sound'
+    title: 'Desafío: añadir un sonido'
     challenge: true
   - 
-    title: Add a score
+    title: Añadir una puntuación
   - 
     title: Add a timer
   - 
