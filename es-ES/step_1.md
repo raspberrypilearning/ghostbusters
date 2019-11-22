@@ -45,22 +45,22 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ## title: Lo que aprenderás
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Comprender la necesidad de pausas entre las acciones dentro de bucles
+- Usar código para generar números aleatorios en Scratch
+- Añadir una variable para almacenar una puntuación de juego en Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Información adicional para educadores
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/en/ghostbusters-get){:target ="_blank"}.
 
 \--- /collapse \---
