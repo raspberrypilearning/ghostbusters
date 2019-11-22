@@ -26,7 +26,7 @@ Añade código a tu objeto fantasma para que el fantasma aparezca y desaparezca 
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Una vez que `hagas clic en la bandera verde` {:class="block3events"}, tu fantasma debería `esconderse` {:class ="block3looks"} durante `un segundo` {:class="block3control"} y después `mostrarse` {:class="block3looks"} durante `un segundo` {:class="block3control"}. Tendrá que hacer esto `por siempre`{:class="block3control"}. \--- /hint \--- \--- hint \---
 
 Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
 
