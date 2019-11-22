@@ -10,62 +10,62 @@
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Cada vez que tu fantasma aparezca, debería `ir a` {:class="block3motion"} una posición aleatoria en el escenario.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Hay dos conjuntos de bloques de código que puedes usar aquí. Elige el conjunto que prefieras.
 
 ![objeto fantasma](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Puedes agregar este conjunto de bloques a tu fantasma:
 
 ```blocks3
-go to (random position v)
+ir a (posición aleatoria v)
 ```
 
-Or add this one to your sprite:
+O agregar este a tu objeto:
 
 ```blocks3
-go to x: (14) y: (50)
+ir a x: (14) y: (50)
 
-pick random (1) to (10)
+número aleatorio entre (1) y (10)
 
-pick random (1) to (10)
+número aleatorio entre (1) y (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Tu código podría verse así:
 
 ![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+al hacer clic en la bandera
+por siempre
+esconder
+esperar (1) segundos
+ir a (posición aleatoria v)
+mostrar
+esperar (1) segundos
+fin
 ```
 
-Or it could look like this:
+O podría verse así:
 
 ![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+al hacer clic en la bandera
+por siempre
+esconder
+esperar (1) segundos
+ir a x: (número aleatorio entre (-150) y (150)) y: (número aleatorio entre (-150) y (150))
+mostrar
+esperar (1) segundos
+fin
 ```
 
 \--- /hint \--- \--- /hints \---
