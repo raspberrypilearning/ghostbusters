@@ -20,16 +20,16 @@ Cada vez que un jugador hace clic en un fantasma, su puntuación debería aument
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. El escenario es el mejor lugar para añadir este código.
+`Al hacer clic en la bandera verde`{:class="block3events"}, debes `dar a` {:class="block3variables"} tu variable `puntuación` {:class="block3variables"} el valor 0. El escenario es el mejor lugar para añadir este código.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Al hacer clic en el objeto fantasma`{:class="block3events"}, debes `sumar 1` {:class="block3variables"} a la variable `puntuación` {:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitas: ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+dar a [puntuación v] el valor (0)
 
-when flag clicked
+al hacer clic en la bandera
 ```
 
 ![ghost-sprite](images/ghost-sprite.png)
@@ -41,8 +41,8 @@ cambiar [puntuación v] por (1)
 \--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+al hacer clic en la bandera
+dar a [puntuación v] el valor (0)
 ```
 
 ![ghost-sprite](images/ghost-sprite.png)
