@@ -1,6 +1,6 @@
-## Add a timer
+## Añadir un temporizador
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Ahora vas a añadir un temporizador para que el jugador sólo tenga diez segundos para capturar tantos fantasmas como sea posible.
 
 \--- task \---
 
@@ -10,16 +10,16 @@ Crea una nueva variable llamada 'tiempo'.
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+¿Puedes añadir un temporizador a tu escenario para darle a tu jugador solo 10 segundos para atrapar fantasmas?
 
 Tu temporizador debe:
 
 + Comenzar en 10 segundos
-+ Contar para atrás cada segundo
++ Contar hacia atrás cada segundo
 
 El juego debería detenerse cuando el temporizador llegue a 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![objeto fantasma](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \--- `Al hacer clic en la bandera verde`{:class=”block3events”}, tu variable `tiempo`{:class=”block3variables”} debería `tomar el valor 10`{:class=”block3variables"}. Después, se debe `sumar -1`{:class=”block3variables”} cada segundo `hasta que llegue a 0`{:class=”block3control"}. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitas usar: ![objeto fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
