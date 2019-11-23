@@ -1,10 +1,10 @@
-## Desafío: más objetos
+## Añadir una puntuación
 
-Now you're going to make your game more interesting by keeping score!
+¡Ahora vas a hacer tu juego más interesante manteniendo la puntuación!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Crea una nueva variable llamada `puntuación`{:class="blockdata"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+¿Puedes hacer un seguimiento de la puntuación del jugador? Los jugadores deben ganar puntos cuando hacen clic en fantasmas para atraparlos.
 
 Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
 
