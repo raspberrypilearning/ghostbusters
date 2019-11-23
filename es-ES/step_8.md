@@ -22,35 +22,34 @@ El juego debería detenerse cuando el temporizador llegue a 0.
 \--- hints \--- \--- hint \--- `Al hacer clic en la bandera verde`{:class=”block3events”}, tu variable `tiempo`{:class=”block3variables”} debería `tomar el valor 10`{:class=”block3variables"}. Después, se debe `sumar -1`{:class=”block3variables”} cada segundo `hasta que llegue a 0`{:class=”block3control"}. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitas usar: ![objeto fantasma](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+detener [all]
 
-< [ ] = [ ] >
+< [] = [] >
 
-set [time v] to [10]
+dar a [tiempo v] el valor [10]
 
-change [time v] by (-1)
+sumar a [tiempo v] (-1)
 
-(time)
+(tiempo)
 
-wait (1) seconds
+esperar (1) segundos
 
-repeat until < >
-end
+repetir hasta que < >
+fin
 
-when flag clicked
+al hacer clic en la bandera verde
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![icono de fondo](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \--- Aquí está el código que debes agregar para crear un temporizador: ![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
+al hacer clic en la bandera verde
+dar a [tiempo v] el valor [10]
+repetir hasta que < (tiempo) = [0]>
+esperar (1) segundos
+sumar a [tiempo v] (-1)
+detener [all]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -59,7 +58,7 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Pídele a un amigo que pruebe tu juego. ¿Cuántos puntos pueden anotar?
 
 \--- /task \---
 
@@ -71,6 +70,6 @@ Si tu juego es demasiado fácil, puedes:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Cambia y prueba tu juego unas cuantas veces hasta que estés contento con su nivel de dificultad.
 
 \--- /task \---
