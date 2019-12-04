@@ -20,12 +20,12 @@ Tu temporizador debe:
 El juego debería detenerse cuando el temporizador llegue a 0.
 
 --- hints ---
- --- hint --- `Al hacer clic en la bandera verde`{:class="block3events"}, tu variable `tiempo`{:class="block3variables"} debería `tomar el valor 10`{:class="block3variables"}. Después, se debe `sumar -1`{:class="block3variables"} cada segundo `hasta que llegue a 0`{:class="block3control"}.
+ --- hint --- `Al presionar bandera verde`{:class="block3events"}, tu variable `tiempo`{:class="block3variables"} debería `tomar el valor 10`{:class="block3variables"}. Después, se debe `sumar -1`{:class="block3variables"} cada segundo `hasta que llegue a 0`{:class="block3control"}.
 --- /hint ---
  --- hint --- Aquí están los bloques de código que necesitas usar: ![objeto fantasma](images/ghost-backdrop.png)
 
 ```blocks3
-detener [all]
+detener [todos]
 
 < [] = [] >
 
@@ -40,19 +40,19 @@ esperar (1) segundos
 repetir hasta que < >
 fin
 
-al hacer clic en la bandera verde
+al presionar bandera verde
 
 ```
 
 --- /hint --- --- hint --- Aquí está el código que debes agregar para crear un temporizador: ![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
-al hacer clic en la bandera verde
+al presionar bandera verde
 dar a [tiempo v] el valor [10]
 repetir hasta que < (tiempo) = [0]>
 esperar (1) segundos
 sumar a [tiempo v] (-1)
-detener [all]
+detener [todos]
 ```
 
 --- /hint ------ /hints ---

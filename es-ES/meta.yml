@@ -17,6 +17,6 @@ steps:
     challenge: true
   - title: Añadir una puntuación
   - title: Añadir un temporizador
-  - title: 'Desafío: más sprites'
+  - title: 'Desafío: más objetos'
     challenge: true
-  - title: 'Desafío: más colores'
+  - title: ¿Qué sigue?

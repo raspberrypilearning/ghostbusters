@@ -1,4 +1,4 @@
-## ¿Qué hacer a continuación?
+## ¿¿Qué sigue?
 
 ¡Enhorabuena por completar el proyecto Cazafantasmas! ¿Quieres crear algo un poco más desafiante?
 
@@ -24,6 +24,6 @@ Haz clic en la bandera verde y después haz clic en el chatbot para iniciar una 
 
 **Traducción aportada por la comunidad**
 
-Este proyecto fue traducido por **Pablo COllado**/**Helmut Schlimper**/**Laura Lurati** y revisado por **Luis J. Sanz**.
+Este proyecto fue traducido por **Pablo Collado**/**Helmut Schlimper**/**Laura Lurati** y revisado por **Luis J. Sanz**.
 
 Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translate](https://rpf.io/translate).

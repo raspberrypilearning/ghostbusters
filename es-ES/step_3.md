@@ -44,7 +44,7 @@ Tu código podría verse así:
 ![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
-al hacer clic en la bandera
+al presionar bandera verde
 por siempre
 esconder
 esperar (1) segundos
@@ -59,7 +59,7 @@ O podría verse así:
 ![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
-al hacer clic en la bandera
+al presionar bandera verde
 por siempre
 esconder
 esperar (1) segundos
