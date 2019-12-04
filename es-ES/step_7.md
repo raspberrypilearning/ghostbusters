@@ -1,22 +1,60 @@
-## Desafío: más objetos
+## Añadir una puntuación
 
-¿Puedes añadir otros objetos a tu juego?
+¡Ahora vas a hacer tu juego más interesante manteniendo la puntuación!
 
-![captura de pantalla](images/ghost-final.png)
+--- task ---
 
-Cuando estás añadiendo un objeto, necesitas tener en cuenta lo siguiente:
+Crea una nueva variable llamada `puntuación`{:class="blockdata"}.
 
-+ ¿Cómo es de grande?
-+ ¿Aparecerá con más o menos frecuencia que el fantasma?
-+ ¿Qué aspecto tendrá y qué sonido hará cuando lo atrapen?
-+ ¿Cuántos puntos ganará (o perderá) el jugador por atraparlo?
+[[[generic-scratch3-add-variable]]]
 
-Si necesitas ayuda para añadir otro objeto ¡puedes reutilizar los pasos anteriores!
+--- /task ---
 
-***
-### Traducción aportada por la comunidad
+--- task ---
 
-Este proyecto fue traducido por Ellie Buckler/María Alejandra Aguada/Montse Verdaguer y revisado por Pablo Collado/Helmut Schlimper/Laura Lurati/Luis Javier Sanz.
+¿Puedes hacer un seguimiento de la puntuación del jugador? Los jugadores deben ganar puntos cuando hacen clic en fantasmas para atraparlos.
 
-Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translators](https://rpf.io/translators).
+Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
 
+![Incrementar la puntuación](images/ghost-score-test.png)
+
+--- hints ---
+ --- hint ---
+
+`Al hacer clic en la bandera verde`{:class="block3events"}, debes `dar a`{:class="block3variables"} tu variable `puntuación`{:class="block3variables"} el valor 0. El escenario es el mejor lugar para añadir este código.
+
+`Al hacer clic en el objeto fantasma`{:class="block3events"}, debes `sumar 1`{:class="block3variables"} a la variable `puntuación`{:class="block3variables"}.
+
+--- /hint --- --- hint --- Aquí están los bloques de código que necesitas: ![icono de fondo](images/ghost-backdrop.png)
+
+```blocks3
+dar a [puntuación v] el valor (0)
+
+al hacer clic en la bandera
+```
+
+![objeto fantasma](images/ghost-sprite.png)
+
+```blocks3
+cambiar [puntuación v] por (1)
+```
+
+--- /hint --- --- hint --- ![icono de fondo](images/ghost-backdrop.png)
+
+```blocks3
+al hacer clic en la bandera
+dar a [puntuación v] el valor (0)
+```
+
+![objeto fantasma](images/ghost-sprite.png)
+
+```blocks3
+Al hacer clic en este objeto
+esconder
+
++ sumar a [puntuación v] (1)
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
