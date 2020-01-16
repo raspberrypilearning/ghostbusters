@@ -23,11 +23,9 @@ Anda akan membuat game menangkap hantu!
 
 \--- /hanya-cetak \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Apa yang kamu butuhkan
+## title: What you will need
 
 ### Perangkat keras
 
@@ -39,17 +37,15 @@ Anda akan membuat game menangkap hantu!
 
 \--- /menggulung \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## judul: Apa yang akan kamu pelajari
+## title: What you will learn
 
 - Understand the need for pauses between actions within loops
 - Use code to generate random numbers in Scratch
 - Add a variable to store a game score in Scratch
 
-\--- /collapse \---
+\--- /menggulung \---
 
 ## \--- collapse \---
 
@@ -59,7 +55,7 @@ Anda akan membuat game menangkap hantu!
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
-\--- /tidak-dicetak \---
+\--- /tidak dicetak \---
 
 You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
