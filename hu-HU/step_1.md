@@ -23,11 +23,9 @@ Készíts szellemfogó játékot!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Mire lesz szükséged
+## title: What you will need
 
 ### Hardver
 
@@ -39,11 +37,9 @@ Készíts szellemfogó játékot!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Mit fogsz megtanulni
+## title: What you will learn
 
 - megérted hogyan használj szüneteket a műveleti ciklusokon belül
 - a véletlen számok használatát a Scratch-ban
@@ -53,14 +49,14 @@ Készíts szellemfogó játékot!
 
 ## \--- collapse \---
 
-## title: További információk oktatóknak
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Ha ki szeretnéd nyomtatni a projektet, kérlek használd a [nyomtatóbarát verziót.](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Itt található a [befejezett projekt](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
