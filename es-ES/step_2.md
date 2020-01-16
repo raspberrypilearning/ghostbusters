@@ -26,9 +26,13 @@ Añade código a tu objeto fantasma para que el fantasma aparezca y desaparezca 
 
 \--- hints \--- \--- hint \---
 
-Una vez que `hagas clic en la bandera verde` {:class="block3events"}, tu fantasma debería `esconderse` {:class ="block3looks"} durante `un segundo` {:class="block3control"} y después `mostrarse` {:class="block3looks"} durante `un segundo` {:class="block3control"}. Tendrá que hacer esto `por siempre`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Una vez que `hagas clic en la bandera verde` {:class="block3events"}, tu fantasma debería `esconderse` {:class ="block3looks"} durante `un segundo` {:class="block3control"} y después `mostrarse` {:class="block3looks"} durante `un segundo` {:class="block3control"}. Tendrá que hacer esto `por siempre`{:class="block3control"}.
 
-Aquí están los bloques de código que necesitas: ![objeto fantasma](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 esconder
@@ -45,7 +49,11 @@ esperar (1) segundos
 al hacer clic en la bandera
 ```
 
-\--- /hint \--- \--- hint \--- Así es cómo debería verse tu código: ![objeto fantasma](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en la bandera
@@ -63,7 +71,7 @@ fin
 
 \--- task \---
 
-Prueba y guarda tu proyecto.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
