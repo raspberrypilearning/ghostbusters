@@ -16,7 +16,7 @@ Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux joue
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Ton code devrait ressembler à ceci :
 
 ![sprite-fantôme](images/ghost-sprite.png)
 
