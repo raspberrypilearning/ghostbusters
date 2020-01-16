@@ -24,7 +24,11 @@ Za każdym razem, gdy gracz kliknie na ducha, jego wynik powinien wzrosnąć.
 
 `Po kliknięciu duszka ducha`{: class = "block3events"}, zmienna `wynik`{: class = "block3variables"} powinna być `zmieniona o 1`{: class = "block3variables"}.
 
-\--- /hint \--- \--- hint \--- Oto potrzebne bloki kodu: ![ikona tła](images/ghost-backdrop.png)
+-- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
 ustaw [wynik v] na (0)
@@ -38,7 +42,9 @@ po kliknięciu flagi
 zmienić [wynik v] o (1)
 ```
 
--- /hint \--- \--- hint \---![ikona tła](images/ghost-backdrop.png)
+-- /hint \--- \--- hint \---
+
+![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
 kiedy kliknięto zieloną flagę
