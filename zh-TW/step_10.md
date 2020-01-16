@@ -1,12 +1,12 @@
-## What next?
+## 然後呢？
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+做得好！ 你想要做些更有挑戰性的玩意兒嗎？
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+試試[聊天機器人](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)專案。
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+點擊綠旗運行程式，然後點一下畫面中的聊天機器人開始對話。 當聊天機器人問你問題時，把你回答的內容輸入到畫面底部的對話框，然後點擊右側的藍色勾勾圖示（或是按下 `Enter` 鍵），就可以看到機器人的回應。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![完成專案](images/chatbot-preview.png)
 
 \--- /print-only \---
