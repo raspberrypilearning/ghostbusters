@@ -24,7 +24,11 @@ Setiap kali pemain mengklik hantu, skor mereka harus meningkat.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -38,7 +42,9 @@ when flag clicked
 change [score v] by (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
