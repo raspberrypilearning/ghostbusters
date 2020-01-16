@@ -19,7 +19,15 @@ Cronometrul tău ar trebui:
 
 Jocul ar trebui să se oprească când timpul ajunge la 0.
 
-\--- hints \--- \--- hint \--- `Când se dă click pe stegulețul verde`{:class="block3events"}, variabila `timp`{:class="block3variables"} va trebui să fie `setată la 10`{:class="block3variables"}. Apoi, ar trebui să se `modifice cu -1`{:class="block3variables"} în fiecare secundă `până când ajunge la 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Iată blocurile de cod de care ai nevoie: ![fantomă](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![fantomă](images/ghost-backdrop.png)
 
 ```blocks3
 stop [totul]
@@ -41,7 +49,11 @@ când se dă click pe stegulețul verde
 
 ```
 
-\--- /hint \--- \--- hint \--- Iată codul pe care trebuie să îl adaugi pentru a crea un cronometru: ![decor](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![decor](images/ghost-backdrop.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
@@ -59,11 +71,11 @@ stop [totul]
 
 \--- task \---
 
-Cere-i unui prieten să îți testeze jocul. Câte puncte poate să adune?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Dacă jocul e prea ușor, ai putea:
+If your game is too easy, you can:
 
 + Micșora timpul de joc
 + Aranja ca fantomele să apară mai rar
@@ -71,6 +83,6 @@ Dacă jocul e prea ușor, ai putea:
 
 \--- task \---
 
-Modifică și testează-ți jocul de mai multe ori până când ești mulțumit de gradul lui de dificultate.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
