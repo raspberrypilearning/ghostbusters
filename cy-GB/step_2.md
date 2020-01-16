@@ -26,9 +26,13 @@ Ychwanega gôd at dy gorlun ysbryd fel bod yr ysbryd yn ymddangos ac yn diflannu
 
 \--- hints \--- \--- hint \---
 
-Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"} am `un eiliad`{:class="block3control"} yna `dangos`{:class="block3looks"} am `un eiliad`{:class="block3control"}. Mae angen iddo wneud hyn `am byth`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"} am `un eiliad`{:class="block3control"} yna `dangos`{:class="block3looks"} am `un eiliad`{:class="block3control"}. Mae angen iddo wneud hyn `am byth`{:class="block3control"}.
 
-Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
 cuddio
@@ -45,7 +49,11 @@ aros (1) eiliad
 pan fo'r flag werdd yn cael ei glicio
 ```
 
-\--- /hint \--- \--- hint \--- Dyma sut dylai dy gôd edrych: ![corlun-ysbryd](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -63,7 +71,7 @@ end
 
 \--- task \---
 
-Profa ac arbed dy gôd.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
