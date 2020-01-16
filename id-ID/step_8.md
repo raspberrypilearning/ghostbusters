@@ -19,7 +19,15 @@ Pengatur waktu kamu harus:
 
 Game harus berhenti saat pengatur waktu menjadi 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -41,7 +49,11 @@ when flag clicked
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -61,9 +73,9 @@ stop [all]
 
 Ask a friend to test your game. How many points can they score?
 
-\--- /task \---
+\--- /tugas \---
 
-Jika game kamu terlalu mudah, kamu dapat:
+If your game is too easy, you can:
 
 + Berikan pemain pengurangan waktu
 + Membuat hantu lebih jarang muncul
@@ -73,4 +85,4 @@ Jika game kamu terlalu mudah, kamu dapat:
 
 Change and test your game a few times until you're happy with its level of difficulty.
 
-\--- /task \---
+\--- /tugas \---
