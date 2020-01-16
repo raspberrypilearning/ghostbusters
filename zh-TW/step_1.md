@@ -25,7 +25,7 @@
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 你會用到
 
 ### 硬體
 
@@ -39,7 +39,7 @@
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 你會學到
 
 - 了解迴圈（loop）內兩個動作之間必須暫停一下
 - 用 Scratch 程式產生隨機（random）的數字
@@ -49,14 +49,14 @@
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: 給教師的其它資訊
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}。
 
 \--- /collapse \---
