@@ -26,9 +26,13 @@ Adiciona código ao teu ator fantasma para que ele apareça e desapareça sempre
 
 \--- hints \--- \--- hint \---
 
-Quando a ` bandeira verde for clicada ` {: class = "block3events"}, o teu fantasma deve ` ocultar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"} e, depois, ` mostrar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"}. É necessário que o fantasma faço isto ` para sempre ` {: class = "block3control"}. \--- /hint \--- \--- hint \---
+Quando a ` bandeira verde for clicada ` {: class = "block3events"}, o teu fantasma deve ` ocultar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"} e, depois, ` mostrar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"}. É necessário que o fantasma faço isto ` para sempre ` {: class = "block3control"}.
 
-Estes são os blocos de que necessitas: ![ator fantasma](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 esconde-te
@@ -45,7 +49,11 @@ espera (1) s
 Quando alguém clicar na bandeira verde
 ```
 
-\--- /hint \--- \--- hint \--- Aqui está o aspeto que o teu código deve ter: ![ator fantasma](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -63,7 +71,7 @@ end
 
 \--- task \---
 
-Testa e salva o teu código.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
