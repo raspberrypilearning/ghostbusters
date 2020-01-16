@@ -23,11 +23,9 @@ Zrobisz upiorną grę!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Czego będziesz potrzebować
+## title: What you will need
 
 ### Sprzęt
 
@@ -39,11 +37,9 @@ Zrobisz upiorną grę!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Czego się nauczysz
+## title: What you will learn
 
 - Zrozumiesz działanie przerw pomiędzy czynnościami w pętli
 - Wykorzystasz kod do generowania losowych liczb w Scratch
@@ -53,14 +49,14 @@ Zrobisz upiorną grę!
 
 ## \--- collapse \---
 
-## title: Dodatkowe informacje dla edukatorów
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Możesz znaleźć [ukończoną wersję projektu tutaj](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
