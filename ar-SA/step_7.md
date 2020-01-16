@@ -24,7 +24,11 @@
 
 `عند نقر كائن الشبح`{:class="block3events"} فان متغير `نتيجة`{:class="block3variables"} يجب أن `تتغير بمقدار 1`{:class="block3variables"}.
 
-فيما يلي التعليمات البرمجية التي سوف تحتاجها: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 اجعل [نتيجة v] مساوياً (0)
@@ -38,7 +42,9 @@
 غيِّر [score v] بمقدار (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 عند نقر العلم
@@ -56,4 +62,4 @@
 
 \--- /hint \--- \--- /hints \---
 
-\--- /task \---
+\---/task\---
