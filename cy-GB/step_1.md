@@ -23,11 +23,9 @@ Rwyt ti mynd i greu gêm i ddal ysbrydion!
 
 \--- /print-only \---
 
-\---collapse\---
+## \--- collapse \---
 
-* * *
-
-## title: Beth fydd ei angen arno ti
+## title: What you will need
 
 ### Caledwedd
 
@@ -39,11 +37,9 @@ Rwyt ti mynd i greu gêm i ddal ysbrydion!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Yr hyn byddi di'n ei ddysgu
+## title: What you will learn
 
 - Deall yr angen am seibiannau rhwng gweithredoedd o fewn dolenni
 - Defnyddio côd i gynhyrchu rhifau ar hap yn Scratch
@@ -53,14 +49,14 @@ Rwyt ti mynd i greu gêm i ddal ysbrydion!
 
 ## \--- collapse \---
 
-## title: Gwybodaeth ychwanegol i addysgwyr
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Gallwch chi ddod o hyd i'r [ateb ar gyfer y prosiect hwn yma](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
