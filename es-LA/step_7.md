@@ -24,7 +24,11 @@ Cada vez que un jugador hace clic en un fantasma, su puntuación debe aumentar.
 
 `Al hacer clic en el fantasma`{:class=”blockevents”}, deberías `sumar 1`{:class=”blockdata"} a la variable `puntaje`{:class=”blockdata”}.
 
-Estos son los bloques de código que necesitarás: ![icono de fondo](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
 dar a [puntaje v] el valor (0)
@@ -38,7 +42,9 @@ al hacer clic en la bandera
 sumar a [puntaje v] (1)
 ```
 
-\--- /hint \--- \--- /hints \--- ![icono de fondo](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
 al hacer clic en bandera verde
