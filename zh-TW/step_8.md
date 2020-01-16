@@ -21,11 +21,11 @@
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`在點擊綠旗後`{:class="block3events"}，遊戲的`時間`{:class="block3variables"}變數應該被`設定成 10`{:class="block3variables"}。 然後它應該每等 1 秒就`改變 -1`{:class="block3variables"}，`直到它到 0 為止`{:class="block3control"}。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+這裡是你需要的程式積木：
 
 ![幽靈角色](images/ghost-backdrop.png)
 
@@ -51,7 +51,7 @@ end
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+這裡是你創建計時器的程式：
 
 ![背景圖示](images/ghost-backdrop.png)
 
@@ -71,11 +71,11 @@ end
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+讓朋友測試你的遊戲。 他們最高可以得多少分？
 
 \--- /task \---
 
-If your game is too easy, you can:
+如果你覺得遊戲太簡單了，你可以：
 
 + 給玩家更少的時間
 + 讓鬼出現的頻率降低
@@ -83,6 +83,6 @@ If your game is too easy, you can:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+修改並測試你的遊戲，改到你對遊戲的難度滿意為止。
 
 \--- /task \---
