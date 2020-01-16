@@ -26,9 +26,13 @@ Dodaj kod do duszka ducha, aby pojawiał się i znikał na zawsze po kliknięciu
 
 \--- hints \--- \--- hint \---
 
-Po `zielona flaga kliknięciu`{class = "block3events"}, twój duch powinien `ukryj`{: class = "block3looks"} przez `jeden sekund`{class = "block3control"}, a następnie `pokaż`{: class = "block3looks"} przez `jedną sekundę`{: class = "block3control"}. Musi to zrobić `zawsze`{: class = "block3control"}. -- /hint \--- \--- hint \---
+Po `zielona flaga kliknięciu`{class = "block3events"}, twój duch powinien `ukryj`{: class = "block3looks"} przez `jeden sekund`{class = "block3control"}, a następnie `pokaż`{: class = "block3looks"} przez `jedną sekundę`{: class = "block3control"}. Musi to zrobić `zawsze`{: class = "block3control"}.
 
-Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-sprite.png)
+-- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 ukryj
@@ -45,7 +49,11 @@ czekaj (1) sekund
 gdy kliknięta flaga
 ```
 
-\--- /hint \--- \--- hint \--- Twój kod powinien wyglądać tak: ![duszek ducha](images/ghost-sprite.png)
+-- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 kiedy flaga kliknięta
@@ -63,7 +71,7 @@ koniec
 
 \--- task \---
 
-Przetestuj i zapisz swój projekt.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
