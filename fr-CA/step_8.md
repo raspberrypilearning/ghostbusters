@@ -19,7 +19,15 @@ Ton chronomètre devrait:
 
 Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
 
-\--- hints \--- \--- hint \--- `Lorsque le drapeau vert est cliqué`{:class="block3events"}, ta variable `temps`{:class="block3variables"} devrait être `définie à 10`{:class="block3variables"}. Il devrait alors `diminuer de 1`{:class="block3variables"} toutes les secondes `jusqu'à ce qu'il atteigne 0`{:class="block3control"}. \--- / hint \--- \--- hint \--- Voici les blocs de code que tu dois utiliser: ![sprite-fantôme](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![sprite-fantôme](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -41,7 +49,11 @@ lorsque le drapeau est cliqué
 
 ```
 
-\--- /hint \--- \--- hint \--- Voici le code que tu dois ajouter pour créer une minuterie: ![icône de l'arrière-plan](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
@@ -59,11 +71,11 @@ stop [all]
 
 \--- task \---
 
-Demande à un ami de tester ton jeu. Combien de points peut-il marquer?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Si ton jeu est trop facile, tu peux:
+If your game is too easy, you can:
 
 + Donner au joueur moins de temps
 + Faire apparaître les fantômes moins souvent
@@ -71,6 +83,6 @@ Si ton jeu est trop facile, tu peux:
 
 \--- task \---
 
-Change et teste ton jeu plusieurs fois jusqu'à ce que tu sois satisfait de son niveau de difficulté.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
