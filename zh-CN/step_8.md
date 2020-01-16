@@ -19,7 +19,15 @@
 
 当倒计时器为0时游戏结束。
 
-\--- hints \--- \--- hint \--- `当绿旗被点击`{:class="block3events"}，你的`time`{:class="block3variables"}变量应当被`设为10`{:class="block3variables"}。 然后它应该每秒被`增加 -1`{:class="block3variables"}`直到为0`:class="block3control"}。 \--- /hint \--- \--- hint \--- 这些是你需要使用的代码块： ![幽灵角色](images/ghost-backdrop.png)
+\--- hint \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![幽灵角色](images/ghost-backdrop.png)
 
 ```blocks3
 停止 [all]
@@ -41,7 +49,11 @@
 
 ```
 
-\--- /hint \--- \--- hint \--- 以下是创建倒计时器所需要的代码：![背景图标](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
 当绿旗被点击
@@ -59,11 +71,11 @@
 
 \--- task \---
 
-请一位朋友测试你的游戏。 他们可以等到几分？
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-如果你的游戏太简单，你可以：
+If your game is too easy, you can:
 
 + 给玩家更少的时间
 + 减少幽灵的出现频率
@@ -71,6 +83,6 @@
 
 \--- task \---
 
-反复修改并测试你的游戏，直到你觉得难度适中为止。
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
