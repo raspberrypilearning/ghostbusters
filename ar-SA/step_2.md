@@ -26,9 +26,13 @@
 
 \--- hints \--- \--- hint \---
 
-بمجرد النقر فوق `العلم الاخضر`، {:class="block3events"}، ستحتاج الى `اخفاء` {:class="block3looks"} الشبح لمدة `ثانية واحدة` {:class="block3control"} ثم `تظهره` {:class="block3looks"} لمدة `ثانية واحدة`{:class="block3control"}. ستحتاج أن تقوم بهذا `الى الابد`{:class="block3control"}. \--- /hint \--- \--- hint \---
+بمجرد النقر فوق `العلم الاخضر`، {:class="block3events"}، ستحتاج الى `اخفاء` {:class="block3looks"} الشبح لمدة `ثانية واحدة` {:class="block3control"} ثم `تظهره` {:class="block3looks"} لمدة `ثانية واحدة`{:class="block3control"}. ستحتاج أن تقوم بهذا `الى الابد`{:class="block3control"}.
 
-هنا التعليمات البرمجية التي ستحتاج اليها: ![كائن الشبح](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
 اختف
@@ -45,7 +49,11 @@
 عند نقر العلم الاخضر
 ```
 
-هذا ما يجب أن تبدو عليه تعليمات البرمجة خاصتك: ![كائن الشبح](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
 عند نقر العلم الاخضر
@@ -59,12 +67,12 @@
 
 \--- /hint \--- \--- /hints \---
 
-\---/task--
+\--- /task \---
 
 \--- task \---
 
-إختبر واحفظ المشروع الخاص بك.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
-\--- /task \---
+\---/task\---
