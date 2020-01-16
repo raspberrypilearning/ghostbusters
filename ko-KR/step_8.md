@@ -19,7 +19,15 @@
 
 타이머가 0이 되면 게임이 끝나야 합니다.
 
-\--- hints \--- \--- hint \---`녹색 깃발이 클릭되면`{:class=”block3events”}, `시간`{:class=”block3variables”} 변수를 `10으로 정하기`{:class=”block3variables"}로 초기화합니다. 그 후 매 초마다 `-1만큼 바꾸기`{:class="block3variables"}로 `0이 되기 전까지`{:class="block3control"}까지 값을 줄여 나갑니다. \--- /hint \--- \--- hint \--- 사용할 수 있는 코드 블럭을 살펴보겠습니다: ![유령 스프라이트](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![유령 스프라이트](images/ghost-backdrop.png)
 
 ```blocks3
 정지 [all]
@@ -41,7 +49,11 @@ flag 클릭했을 때
 
 ```
 
-\--- /hint \--- \--- hint \--- 다음은 추가해야 할 코드입니다.![백드롭 아이콘](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![백드롭 아이콘](images/ghost-backdrop.png)
 
 ```blocks3
 flag 클릭했을 때
@@ -59,11 +71,11 @@ flag 클릭했을 때
 
 \--- task \---
 
-여러분이 만든 게임을 친구에게 해 보라고 말해 보세요. 친구의 점수는 몇 점인가요?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-만약 게임이 너무 쉽다면, 다음을 고려해 난이도를 바꾸어 볼 수 있습니다.
+If your game is too easy, you can:
 
 + 플레이 시간을 줄여 보세요.
 + 유령이 나타나는 회수를 줄여 보세요.
@@ -71,6 +83,6 @@ flag 클릭했을 때
 
 \--- task \---
 
-게임의 난이도가 적절하다고 느껴질 때까지 게임을 바꿔 보세요.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
