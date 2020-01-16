@@ -26,9 +26,13 @@ Füge deiner Gespenster-Figur solche Code hinzu, dass der Geist immerwieder auft
 
 \--- hints \--- \--- hint \---
 
-Sobald die `grüne Flagge angeklickt wird`{:class="block3events"}, sollte sich dein Geist für `eine Sekunde`{:class="block3control"} `verstecken`{:class="block3looks"} und sich dann für `eine Sekunde`{:class="block3control"} `zeigen`{:class="block3looks"}. Das muss er `fortlaufend`{:class=”block3control”} wiederholen. \--- /hint \--- \--- hint \---
+Sobald die `grüne Flagge angeklickt wird`{:class="block3events"}, sollte sich dein Geist für `eine Sekunde`{:class="block3control"} `verstecken`{:class="block3looks"} und sich dann für `eine Sekunde`{:class="block3control"} `zeigen`{:class="block3looks"}. Das muss er `fortlaufend`{:class=”block3control”} wiederholen.
 
-Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 verstecke dich
@@ -45,7 +49,11 @@ warte (1) Sekunden
 Wenn die Flagge angeklickt wird
 ```
 
-\--- /hint \--- \--- hint \--- So sollte dein Code aussehen: ![Geist-Figur](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
@@ -63,7 +71,7 @@ ende
 
 \--- task \---
 
-Teste und speichere nun dein Projekt.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
