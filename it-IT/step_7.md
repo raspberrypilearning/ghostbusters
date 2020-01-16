@@ -24,7 +24,11 @@ Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumen
 
 `Quando l'immagine del fantasma è cliccata`{:class=”block3events”}, la tua variabile `punteggio`{:class=”block3variables”} dovrebbe `essere aumentata di 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Qui ci sono i blocchi di codice che ti serviranno: ![icona scenario](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -36,7 +40,9 @@ set [score v] to (0)
 cambia [punteggio v] di (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![icona scenario](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
