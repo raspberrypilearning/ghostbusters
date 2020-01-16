@@ -23,11 +23,9 @@
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: 你需要准备什么
+## title: What you will need
 
 ### 硬件
 
@@ -39,11 +37,9 @@
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: 你将学到什么
+## title: What you will learn
 
 - 了解循环中操作之间暂停的必要性
 - 使用代码在Scratch中生成随机数
@@ -53,14 +49,14 @@
 
 ## \--- collapse \---
 
-## title: 教师附加说明
+## title: Additional notes for educators
 
 \--- no-print \---
 
-如果您需要打印此项目，请使用[适合打印的版本](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-你可以在这里找到 [完成的项目](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}。
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
