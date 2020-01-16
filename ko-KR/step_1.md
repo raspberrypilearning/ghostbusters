@@ -23,11 +23,9 @@
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- 중간생략 \---
 
-* * *
-
-## title: 준비물
+## title: What you will need
 
 ### 하드웨어
 
@@ -39,11 +37,9 @@
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- 중간생략 \---
 
-* * *
-
-## title: 배우게 될 것
+## title: What you will learn
 
 - 루프 내에서 작업을 일시 중지해야 하는 상황에 대해 이해합니다.
 - 코드를 사용하여 스크래치에서 임의의 랜덤수를 생성하는 방법에 대해 알게 됩니다.
@@ -53,14 +49,14 @@
 
 ## \--- 중간생략 \---
 
-## title: 교육자를 위한 추가 정보
+## title: Additional notes for educators
 
 \--- no-print \---
 
-이 프로젝트를 인쇄한다면 [프린트용 버전](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}을 사용해 주십시오.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-여기서 [완료된 프로젝트를 확인할 수 있습니다](http://rpf.io/p/en/ghostbusters-get)"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
-\--- / collapse \---
+\--- /collapse \---
