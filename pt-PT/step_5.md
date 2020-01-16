@@ -16,7 +16,9 @@ Se ao testar o teu jogo achares difícil apanhar os fantasmas, poderás jogar no
 
 \--- /hint \--- \--- hint \---
 
-O teu código deverá ter este aspeto: ![ator fantasma](images/ghost-sprite.png)
+Your code should look like this:
+
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar em ti
