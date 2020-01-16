@@ -24,7 +24,11 @@ Chaque fois qu'un joueur clique sur un fantôme, son score doit augmenter.
 
 `Lorsque le sprite fantôme est cliqué`{:class="block3events"}, la variable `score`{:class="block3variables"} devrait être `incrémentée de 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Voici les blocs de code dont tu as besoin : ![icône de l'arrière-plan](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
 mettre [score v] à (0)
@@ -38,7 +42,9 @@ lorsque le drapeau est cliqué
 ajouter (1) à [score v]
 ```
 
-\--- /hint \--- \--- hint \--- ![icône de l'arrière-plan](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
