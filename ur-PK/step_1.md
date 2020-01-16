@@ -23,9 +23,7 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will need
 
@@ -39,9 +37,7 @@ You are going to make a ghost-catching game!
 
 \--- /collapse \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will learn
 
