@@ -26,9 +26,13 @@
 
 \--- hints \--- \--- hint \---
 
-\--- hints \---\--- hint \---`녹색 깃발이 클릭되면`{:class=”blockevents”}, 유령을 `1초 동안`{:class=”blockcontrol”} `숨기기`{:class=”blocklooks”} 로 숨겼다가 `1초 동안`{:class=”blockcontrol”} `보이기`{:class=”blocklooks”} 로 보여줘야 합니다. 위의 작업을 `무한 반복하기`{:class=”blockcontrol”} 로 반복해 봅시다. \--- /hint \--- \--- hint \---
+\--- hints \---\--- hint \---`녹색 깃발이 클릭되면`{:class=”blockevents”}, 유령을 `1초 동안`{:class=”blockcontrol”} `숨기기`{:class=”blocklooks”} 로 숨겼다가 `1초 동안`{:class=”blockcontrol”} `보이기`{:class=”blocklooks”} 로 보여줘야 합니다. 위의 작업을 `무한 반복하기`{:class=”blockcontrol”} 로 반복해 봅시다.
 
-필요한 코드 블록은 다음과 같습니다.![유령 스프라이트](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
 숨기기
@@ -45,7 +49,11 @@
 flag 클릭했을 때
 ```
 
-\--- /hint \--- \--- hint \--- 아래와 같이 코드를 설계할 수 있습니다: ![유령 스프라이트](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
 flag 클릭했을 때
@@ -63,7 +71,7 @@ flag 클릭했을 때
 
 \--- task \---
 
-프로젝트를 테스트해 보고 저장하세요.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
