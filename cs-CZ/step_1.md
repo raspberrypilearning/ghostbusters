@@ -23,11 +23,9 @@ Pojďme udělat hru o chytání duchů!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Co budeš potřebovat
+## title: What you will need
 
 ### Hardware
 
@@ -39,11 +37,9 @@ Pojďme udělat hru o chytání duchů!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Co se naučíš
+## title: What you will learn
 
 - Understand the need for pauses between actions within loops
 - Use code to generate random numbers in Scratch
