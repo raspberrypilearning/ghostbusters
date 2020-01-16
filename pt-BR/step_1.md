@@ -23,11 +23,9 @@ Você vai criar um jogo de Caça-Fantasmas!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: O que você vai precisar
+## title: What you will need
 
 ### Hardware
 
@@ -39,11 +37,9 @@ Você vai criar um jogo de Caça-Fantasmas!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: O que você vai aprender
+## title: What you will learn
 
 - Compreender a necessidade de pausas entre ações dentro de laços
 - Usar código de programação para gerar números aleatórios no Scratch
@@ -53,14 +49,14 @@ Você vai criar um jogo de Caça-Fantasmas!
 
 ## \--- collapse \---
 
-## title: Notas adicionais para educadores
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Você pode encontrar o [projeto concluído aqui](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
