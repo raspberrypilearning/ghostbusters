@@ -16,7 +16,9 @@ Si pruebas tu juego y encuentras que los fantasmas son difíciles de capturar, p
 
 \--- /hint \--- \--- hint \---
 
-Tu código debería verse así: ![objeto fantasma](images/ghost-sprite.png)
+Your code should look like this:
+
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en este objeto
