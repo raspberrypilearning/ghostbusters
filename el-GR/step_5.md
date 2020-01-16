@@ -16,7 +16,9 @@
 
 \--- /hint \--- \--- hint \---
 
-Ο κώδικας θα πρέπει να μοιάζει κάπως έτσι:![ghost-sprite](images/ghost-sprite.png)
+Your code should look like this:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 όταν γίνει κλικ σε αυτό το αντικείμενο,
