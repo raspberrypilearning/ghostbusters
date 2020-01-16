@@ -19,7 +19,15 @@
 
 ستنتهي اللعبة عندما يصل الموقِت إلى 0.
 
-\--- hints \--- \--- hint \--- `عند نقر العلم الاخضر` {:class="block3events"} فإن المتغير `الوقت` {:class="block3variables"} يجب أن `يساوي 10`{:class="block3variables"}. ثم `يتغير بمقدار -1` {:class="block3variables"} كل ثانية `حتى يصل الى 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- فيما يلي التعليمات البرمجية التي ستحتاجها: ![كائن الشبح](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![كائن الشبح](images/ghost-backdrop.png)
 
 ```blocks3
 أوقف [all]
@@ -41,7 +49,11 @@
 
 ```
 
-\--- hint/ \--- \--- hint \--- هنا التعليمات البرمجية التي تحتاج إضافتها لانشاء المؤقت: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 عند نقر العلم
@@ -53,17 +65,17 @@
 أوقف [all]
 ```
 
-\--- hint/ \--- \--- hints/ \---
+\--- /hint \--- \--- /hints \---
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
-إسال صديقك لاختبار لعبتك. كم نقطة ممكن أن تسجل؟
+Ask a friend to test your game. How many points can they score?
 
-\--- /task \---
+\---/task\---
 
-إذا كانت اللعبة سهلة للغاية، فيمكنك:
+If your game is too easy, you can:
 
 + منح اللاعب وقتًا أقل
 + اجعل ظهور الأشباح أقل
@@ -71,6 +83,6 @@
 
 \--- task \---
 
-غيِّر واختبر لعبتك عدد من المرات حتى تصل إلى مستوى الصعوبة الذي تريده.
+Change and test your game a few times until you're happy with its level of difficulty.
 
-\--- /task \---
+\---/task\---
