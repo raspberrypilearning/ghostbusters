@@ -26,9 +26,13 @@ Ajoute du code à ton sprite fantôme afin que celui-ci apparaisse et disparaiss
 
 \--- hints \--- \--- hint \---
 
-Une fois que le `drapeau vert est cliqué`{:class="block3events"}, ton fantôme devrait `se cacher`{:class="block3looks"} pendant `une seconde`{:class="block3control"} puis `se montrer`{:class="block3looks"} pendant `une seconde`{:class="block3control"}. Il doit faire cela `pour toujours`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Une fois que le `drapeau vert est cliqué`{:class="block3events"}, ton fantôme devrait `se cacher`{:class="block3looks"} pendant `une seconde`{:class="block3control"} puis `se montrer`{:class="block3looks"} pendant `une seconde`{:class="block3control"}. Il doit faire cela `pour toujours`{:class="block3control"}.
 
-Voici les blocs de code dont tu as besoin: ![sprite-fantôme](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
 cacher
@@ -45,7 +49,11 @@ attendre (1) secondes
 lorsque le drapeau est cliqué
 ```
 
-\---/hint\--- \---hint\--- Voici a quoi devrait ressembler ton code: ![sprite-fantôme](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
@@ -63,7 +71,7 @@ fin
 
 \--- task \---
 
-Teste et sauvegarde ton projet.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
