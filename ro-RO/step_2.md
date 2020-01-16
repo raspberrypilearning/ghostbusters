@@ -26,9 +26,13 @@ Adaugă cod personajului fantomă pentru ca aceasta să apară și dispară la i
 
 \--- hints \--- \--- hint \---
 
-`când se dă click pe stegulețul verde`{:class="block3events"}, fantoma ta ar trebui să se `ascundă`{:class="block3looks"} pentru `o secundă`{:class="block3control"} iar apoi să `apară`{:class="block3looks"} pentru `o secundă`{:class="block3control"}. Trebuie să facă asta `la infinit`{:class="block3control"}. \--- /hint \--- \--- hint \---
+`când se dă click pe stegulețul verde`{:class="block3events"}, fantoma ta ar trebui să se `ascundă`{:class="block3looks"} pentru `o secundă`{:class="block3control"} iar apoi să `apară`{:class="block3looks"} pentru `o secundă`{:class="block3control"}. Trebuie să facă asta `la infinit`{:class="block3control"}.
 
-Iată blocurile de care ai nevoie: ![fantomă](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 ascunde
@@ -45,7 +49,11 @@ așteaptă (1) secunde
 cand se dă click pe stegulețul verde
 ```
 
-\--- /hint \--- \--- hint \--- Așa ar trebui să arate codul: ![fantomă](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
@@ -63,7 +71,7 @@ end
 
 \--- task \---
 
-Testează și salvează proiectul tău.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
