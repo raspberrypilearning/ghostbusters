@@ -16,7 +16,9 @@ Wenn du dein Spiel testest und es schwierig findest Geister zu fangen, kannst du
 
 \--- /hint \--- \--- hint \---
 
-Dein Code sollte so aussehen: ![Geist-Figur](images/ghost-sprite.png)
+Your code should look like this:
+
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 Wenn diese Figur angeklickt wird
