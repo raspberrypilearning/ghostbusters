@@ -19,7 +19,15 @@ Dein Timer sollte:
 
 Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
-\--- hints \--- \--- hint \--- `Wenn die grüne Flagge angeklickt wird`{:class=”block3events”}, sollte deine `Zeit`{:class=”block3variables”}-Variable `auf 10 gesetzt`{:class=”block3variables”} werden. Sie sollte dann jede Sekunde `um -1 geändert werden`{:class=”block3variables”} `bis sie den Wert 0 erreicht`{:class=”block3control"}. \--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![Geist-Figur](images/ghost-backdrop.png)
 
 ```blocks3
 stoppe [alles]
@@ -41,7 +49,11 @@ Wenn die Flagge angeklickt wird
 
 ```
 
-\--- /hint \--- \--- hint \--- Hier ist der Code, den du hinzufügen solltest, um eine Stoppuhr zu erstellen: ![Hintergrund-Symbol](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
@@ -59,11 +71,11 @@ stoppe [alles]
 
 \--- task \---
 
-Bitte deine Freunde dein Spiel zu testen. Wie viele Punkte schaffen sie?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Wenn dein Spiel zu einfach ist, kannst du:
+If your game is too easy, you can:
 
 + Dem Spieler weniger Zeit geben
 + die Gespenster weniger oft erscheinen lassen
@@ -71,6 +83,6 @@ Wenn dein Spiel zu einfach ist, kannst du:
 
 \--- task \---
 
-Verändere und teste dein Spiel ein paar Mal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
