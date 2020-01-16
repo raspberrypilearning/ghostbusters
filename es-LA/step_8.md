@@ -52,7 +52,7 @@ al hacer clic en la bandera
 
 Here is the code you should add to create a timer:
 
-![icono de fondo](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 al hacer clic en la bandera
