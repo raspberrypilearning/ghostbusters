@@ -19,7 +19,15 @@ Seu cronômetro deve:
 
 O jogo deve parar quando o cronômetro chegar a 0.
 
-`quando a bandeira verde for clicada`{:class="block3events"}, sua variável de `tempo`{:class="block3variables"} deve `mudar para 10`{:class="block3variables"}. Deverá então `mudar em -1`{:class="block3variables"} a cada segundo `até que chegue em 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Aqui estão os blocos que você vai precisar: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![ator do fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 pare [todos]
@@ -41,7 +49,11 @@ quando badeira verde for clicado
 
 ```
 
-\--- /hint \--- \--- hint \--- Aqui está o código que você vai precisar para criar o cronômetro: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 quando bandeira verde for clicada
@@ -59,11 +71,11 @@ pare [todos]
 
 \--- task \---
 
-Peça a um amigo para testar seu jogo. Quantos pontos eles conseguem no placar?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Se o seu jogo estiver muito fácil, você pode:
+If your game is too easy, you can:
 
 + Dar ao jogador menos tempo
 + Fazer os fantasmas aparecerem com menos frequência
@@ -71,6 +83,6 @@ Se o seu jogo estiver muito fácil, você pode:
 
 \--- task \---
 
-Mude e teste seu jogo algumas vezes até que você esteja satisfeito com o nível de dificuldade.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
