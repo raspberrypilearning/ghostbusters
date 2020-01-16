@@ -19,7 +19,15 @@
 
 Το παιχνίδι πρέπει να σταματά όταν το χρονόμετρο φτάσει στο 0.
 
-\--- hints \--- \--- hint \--- `Όταν πατηθεί η πράσινη σημαία`{:class=”blockevents”}, η μεταβλητή σου `χρόνος`{:class=”blockdata”} πρέπει να `οριστεί σε 10`{:class=”blockdata"}. Στη συνέχεια πρέπει να `αλλάζει κατά -1`{:class="blockdata"} κάθε δευτερόλεπτο `έως ότου φτάσει στο 0`{:class="blockcontrol"}. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ που θα χρειαστείς: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 σταμάτησε [all]
@@ -41,7 +49,11 @@ end
 
 ```
 
-\--- /hint \--- \--- hint \--- Εδώ είναι ο κώδικας που πρέπει να προσθέσεις για να δημιουργήσεις ένα χρονόμετρο: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
@@ -57,20 +69,20 @@ end
 
 \--- /task \---
 
-\--- task --
+\--- task \---
 
-Ζήτησε από έναν φίλο να δοκιμάσει το παιχνίδι σου. Πόσους πόντους μπορεί να σκοράρει;
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Αν το παιχνίδι σου είναι πολύ εύκολο, μπορείς να:
+If your game is too easy, you can:
 
 + Δώσεις στον παίκτη λιγότερο χρόνο
 + Κάνεις τα φαντάσματα να εμφανίζονται λιγότερο συχνά
 + Κάνεις τα φαντάσματα μικρότερα
 
-\--- task --
+\--- task \---
 
-Άλλαξε και δοκίμασε το παιχνίδι σου μερικές φορές μέχρι να είσαι ευχαριστημένος ότι είναι το σωστό επίπεδο δυσκολίας.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
