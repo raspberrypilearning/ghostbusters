@@ -25,7 +25,7 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Ce que tu auras besoin
 
 ### Matériel informatique
 
@@ -39,7 +39,7 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Ce que tu vas apprendre
 
 - Comprendre la nécessité de pauses entre les actions dans les boucles
 - Utiliser du code pour générer des nombres aléatoires dans Scratch
@@ -49,14 +49,14 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Notes complémentaires pour les éducateurs
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
