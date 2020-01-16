@@ -1,56 +1,68 @@
-## Add a timer
+## 計時開始
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+現在我們來添加一個計時器，在限時 10 秒內看玩家能抓到多少鬼。
 
 \--- task \---
 
-Create a new variable called 'time'.
+建立一個名為「時間」的變數。
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+你可以在舞台裡添加一個計時工具，限定玩家只有 10 秒時間捉鬼嗎？
 
-Your timer should:
+你的計時器應該要：
 
-+ Start at 10 seconds
-+ Count down every second
++ 從 10 秒開始計算
++ 每秒倒數
 
-The game should stop when the timer gets to 0.
+遊戲應該在計時器算到 0 的時候就停止。
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![幽靈角色](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+停止 [全部 v]
 
 < [ ] = [ ] >
 
-set [time v] to [10]
+變數 [時間 v] 設為 (10)
 
-change [time v] by (-1)
+變數 [時間 v] 改變 (-1)
 
-(time)
+(時間)
 
-wait (1) seconds
+等待 (1) 秒
 
-repeat until < >
+重複直到 < >
 end
 
-when flag clicked
+當 @greenflag 被點擊
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![背景圖示](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+當 @greenflag 被點擊
+變數 [時間 v] 設為 (10)
+重複直到 < (時間) = [0] >
+等待 (1) 秒
+變數 [時間 v] 改變 (-1)
 end
-stop [all]
+停止 [全部 v]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -65,9 +77,9 @@ Ask a friend to test your game. How many points can they score?
 
 If your game is too easy, you can:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ 給玩家更少的時間
++ 讓鬼出現的頻率降低
++ 把鬼變小一點
 
 \--- task \---
 
