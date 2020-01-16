@@ -24,7 +24,11 @@ task \---Δημιούργησε μία νέα μεταβλητή με όνομα
 
 Όταν πατηθεί η πράσινη σημαία</code>{:class=”blockevents”}, η μεταβλητή σου `σκορ`{:class=”blockdata”} πρέπει να `αλλάξει κατά 1`{:class=”blockdata"}.
 
-\--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ που θα χρειαστείς:![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 όρισε [σκορ v] σε (0)
@@ -38,7 +42,9 @@ task \---Δημιούργησε μία νέα μεταβλητή με όνομα
 άλλαξε [σκορ v] κατά (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
