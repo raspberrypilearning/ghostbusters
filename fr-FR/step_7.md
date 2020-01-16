@@ -26,7 +26,7 @@ Chaque fois qu'un joueur clique sur un fantôme, son score doit augmenter.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Voici les blocs de code dont tu as besoin :
 
 ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
