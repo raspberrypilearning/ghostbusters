@@ -23,11 +23,9 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Di cosa avrai bisogno
+## title: What you will need
 
 ### Hardware
 
@@ -39,11 +37,9 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Cosa imparerai
+## title: What you will learn
 
 - Comprendere la necessità di una pausa tra le azioni all'interno dei cicli
 - Usa il codice per generare numeri casuali in Scratch
@@ -53,14 +49,14 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 ## \--- collapse \---
 
-## title: Note addizionali per gli educatori
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Puoi trovare il [progetto completo qui](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
