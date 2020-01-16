@@ -16,7 +16,9 @@ Dacă îți testezi jocul și ți se pare că prinderea fantomelor este dificil�
 
 \--- /hint \--- \--- hint \---
 
-Codul tău ar trebui să arate astfel: ![fantomă](images/ghost-sprite.png)
+Your code should look like this:
+
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 când se dă click pe acest personaj
