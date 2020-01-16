@@ -1,32 +1,32 @@
 ---
-title: Ghostbusters
+title: 捉鬼敢死隊
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: 做個人捉鬼的遊戲！
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: Animate a ghost
+    title: 讓鬼動起來
   - 
-    title: Random ghosts
+    title: 隨機出現的鬼魂
   - 
-    title: 'Challenge: more randomness'
+    title: '挑戰：更多隨機性'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: 抓鬼的程式
   - 
-    title: 'Challenge: add a sound'
+    title: '挑戰：加些音效'
     challenge: true
   - 
-    title: Add a score
+    title: 記錄得分
   - 
-    title: Add a timer
+    title: 計時開始
   - 
-    title: 'Challenge: more sprites'
+    title: '挑戰：更多的角色'
     challenge: true
   - 
-    title: What next?
+    title: 然後呢？
