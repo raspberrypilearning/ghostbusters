@@ -24,7 +24,11 @@
 
 `当幽灵角色被点击到时`{:class="block3events"}，分数变量`score`{:class="block3variables"}的值应当`增加1`{:class="block3variables"}。
 
-\--- /hint \--- \--- hint \--- 以下是您需要的代码块：![背景图标](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
 将[score v]设为(0)
@@ -36,7 +40,9 @@
 将[score v]增加(1)
 ```
 
-\--- /hint \--- \--- hint \--- ![背景图标](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
 当绿旗被点击
