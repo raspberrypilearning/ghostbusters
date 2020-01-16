@@ -26,9 +26,13 @@ Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt
 
 \--- hints \--- \--- hint \---
 
-`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`t je spook {:class="block3looks"} gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok. \--- /hint \--- \--- hint \---
+`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`t je spook {:class="block3looks"} gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok.
 
-Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 verdwijn
@@ -45,7 +49,11 @@ wacht (1) sec.
 wanneer groene vlag wordt aangeklikt
 ```
 
-\--- /hint \--- \--- hint \--- Zo zou je nieuwe code er uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -63,7 +71,7 @@ end
 
 \--- task \----
 
-Test en sla je project op.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
