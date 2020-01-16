@@ -23,11 +23,9 @@ Du wirst ein Gespensterjagd-Spiel machen!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Was du brauchen wirst
+## title: What you will need
 
 ### Hardware
 
@@ -39,11 +37,9 @@ Du wirst ein Gespensterjagd-Spiel machen!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Was du lernen wirst
+## title: What you will learn
 
 - Die Notwendigkeit von Pausen zwischen Aktionen innerhalb von Schleifen verstehen
 - Code verwenden, um Zufallszahlen in Scratch zu generieren
@@ -53,14 +49,14 @@ Du wirst ein Gespensterjagd-Spiel machen!
 
 ## \--- collapse \---
 
-## title: Zusätzliche Hinweise für Pädagogen
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Du findest das [abgeschlossene Projekt hier](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
