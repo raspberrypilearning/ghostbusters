@@ -1,8 +1,8 @@
-## Animate a ghost
+## Анимация приведения
 
 \--- task \---
 
-Open a new empty Scratch project.
+Открой новый пустой проект Scratch.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,7 +10,7 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Добавь новый спрайт приведение и подходящий фон для Сцены.
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -22,38 +22,46 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Добавь код к своему спрайту приведение, чтобы приведение появлялось и исчезало всё время, когда нажат зелёный флаг.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Когда `зелёный флаг нажат`{:class=”blockevents”}, твоё приведение должно `спрятаться`{:class=”blocklooks”} на `одну секунду`{:class=”blockcontrol”}, а затем `показаться`{:class=”blocklooks”} на `одну секунду`{:class=”blockcontrol”}<0>. Это нужно выполнять `всегда`{:class=”blockcontrol"}.
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-hide
+спрятаться
 
-show
+показаться
 
-forever
+повторять всегда
 end
 
-wait (1) seconds
+ждать (1) секунд
 
-wait (1) seconds
+ждать (1) секунд
 
-when flag clicked
+когда щёлкнут по зелёному флагу
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+когда щёлкнут по зелёному флагу
+повторять всегда 
+ спрятаться
+ ждать (1) секунд
+ показаться
+ ждать (1) секунд
 end
 ```
 
