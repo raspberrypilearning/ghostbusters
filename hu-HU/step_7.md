@@ -24,7 +24,11 @@ Minden alkalommal, amikor a játékos rákattint egy szellemre, a pontszámnak n
 
 `A szellem szereplőre rákattintáskor`{:class="block3events"}, az `eredmény`{:class="block3variables"} értéke `változzon 1-gyel`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok: ![háttér ikon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![háttér ikon](images/ghost-backdrop.png)
 
 ```blocks3
 [eredmény v] legyen (0)
@@ -38,7 +42,9 @@ Minden alkalommal, amikor a játékos rákattint egy szellemre, a pontszámnak n
 [eredmény v] változzon (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![háttér ikon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![háttér ikon](images/ghost-backdrop.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
