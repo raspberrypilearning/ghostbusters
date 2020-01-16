@@ -19,7 +19,15 @@ Il tuo timer dovrebbe:
 
 Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
 
-\--- hints \--- \--- hint \--- `quando si clicca sulla bandiera verde`{:class="block3events"}, la variabile `tempo`{:class="block3variables"} dovrebbe essere `impostata su 10`{:class="block3variables"}. Dovrebbe quindi `cambiare di -1`{:class="block3variabili"} ogni secondo `fino a quando non raggiunge 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Qui ci sono i blocchi di codice che ti serviranno: ![sprite del fantasma](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![sprite del fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 ferma [all]
@@ -41,7 +49,11 @@ quando si clicca sulla bandiera verde
 
 ```
 
-\--- /hint \--- \--- hint \--- Ecco il codice che dovrai aggiungere per creare il timer: ![icona scenario](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 quando si clicca sulla bandiera verde
@@ -59,11 +71,11 @@ ferma [all]
 
 \--- task \---
 
-Chiedi a un amico di provare il tuo gioco. Quanti punti possono segnare?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Se il gioco è troppo facile, puoi:
+If your game is too easy, you can:
 
 + Dare al giocatore meno tempo
 + Ridurre la frequenza con cui i fantasmi appaiono
@@ -71,6 +83,6 @@ Se il gioco è troppo facile, puoi:
 
 \--- task \---
 
-Prova il gioco un paio di volte fino a quando non sei soddisfatto del livello di difficoltà.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
