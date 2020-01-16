@@ -26,7 +26,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+這裡是你需要的程式積木：
 
 ![背景圖示](images/ghost-backdrop.png)
 
