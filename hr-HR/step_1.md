@@ -23,11 +23,9 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Trebat ćeš
+## title: What you will need
 
 ### Hardver
 
@@ -39,11 +37,9 @@ You are going to make a ghost-catching game!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Naučit ćeš
+## title: What you will learn
 
 - Understand the need for pauses between actions within loops
 - Use code to generate random numbers in Scratch
