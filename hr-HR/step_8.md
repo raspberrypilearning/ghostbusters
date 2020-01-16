@@ -19,7 +19,15 @@ Can you add a timer to your Stage to give your player only 10 seconds to catch g
 
 Igra prestaje kada vrijeme dođe do 0.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Here are the code blocks you need to use: ![ghost-sprite](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -41,7 +49,11 @@ when flag clicked
 
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code you should add to create a timer: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -63,7 +75,7 @@ Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Ako ti se igra čini prejednostavna možeš:
+If your game is too easy, you can:
 
 + Dati igraču manje vremena
 + Napraviti da se duhovi ne pojavljuju tako često
