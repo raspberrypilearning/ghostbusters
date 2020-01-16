@@ -24,7 +24,11 @@ De cada vez que um jogador clicar num fantasma, a sua pontuação deve aumentar.
 
 ` Quando a bandeira verde é clicada ` {: class = "block3events"}, a variável ` pontuação ` {: class = "block3variables"} deve ser ` alterada em 1 ` {: class = "block3variables"}.
 
-\--- /hint \--- \--- hint \--- Aqui estão os blocos de que vais necessitar: ![ícone de fundo](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
 altera [score v] para (0)
@@ -38,7 +42,9 @@ quando alguém clicar na bandeira verde
 adiciona a [score v] o valor (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![ícone de fundo](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
