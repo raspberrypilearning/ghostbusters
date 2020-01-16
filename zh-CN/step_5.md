@@ -16,7 +16,9 @@
 
 \--- /hint \--- \--- hint \---
 
-你的代码应该像这样： ![幽灵角色](images/ghost-sprite.png)
+Your code should look like this:
+
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
 当角色被点击
