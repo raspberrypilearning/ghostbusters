@@ -16,7 +16,9 @@ Als je je spel test en spoken vangen moeilijk vindt, kun je het spel in volledig
 
 \--- /hint \--- \--- hint \---
 
-Je code zou er als volgt uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
+Your code should look like this:
+
+![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
 wanneer op deze sprite wordt geklikt
