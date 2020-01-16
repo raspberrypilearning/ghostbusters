@@ -23,11 +23,9 @@ Ești pe cale să faci un joc de vânat fantome!
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: De ce vei avea nevoie
+## title: What you will need
 
 ### Hardware
 
@@ -39,11 +37,9 @@ Ești pe cale să faci un joc de vânat fantome!
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Ce vei învăța
+## title: What you will learn
 
 - Vei înțelege nevoia pauzelor între acțiunile din bucle
 - Vei folosi cod pentru a genera numere aleatorii în Scratch
@@ -53,14 +49,14 @@ Ești pe cale să faci un joc de vânat fantome!
 
 ## \--- collapse \---
 
-## title: Informații suplimentare pentru educatori
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Dacă vrei să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
