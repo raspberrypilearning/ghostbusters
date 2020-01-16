@@ -16,7 +16,9 @@
 
 \--- /hint \--- \--- hint \---
 
-다음과 같은 코드가 될 것입니다.:![유령 스프라이트](images/ghost-sprite.png)
+Your code should look like this:
+
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
 이 스프라이트를 클릭했을 때
