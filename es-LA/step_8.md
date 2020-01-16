@@ -19,7 +19,15 @@ Tu temporizador debería:
 
 El juego debería detenerse cuando el temporizador llegue a 0.
 
-\--- hints \--- \--- hint \--- `Al hacer clic en la bandera verde`{:class=”blockevents”}, debes `dar el valor 10`{:class=”blockdata"} a tu variable `tiempo`{:class=”blockdata”}. Después, se deberías `sumar -1`{:class=”blockdata”} cada segundo `hasta que llegue a 0`{:class=”blockcontrol"}. \--- /hint \--- \--- hint \--- Los bloques de código que necesitará se encuentran a continuación: ![sprite fantasma](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![sprite fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 detener [todos]
@@ -40,7 +48,11 @@ al hacer clic en la bandera
 
 ```
 
-\--- /hint \--- \--- hint \--- Aquí está el código que debes agregar para crear un temporizador: ![icono de fondo](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
 al hacer clic en la bandera
@@ -57,11 +69,11 @@ detener [todos]
 
 \--- task \---
 
-Pídele a un amigo que pruebe tu juego. ¿Cuántos puntos pueden anotar?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Si tu juego es demasiado fácil, puedes:
+If your game is too easy, you can:
 
 + Darle menos tiempo al jugador
 + Hacer que los fantasmas aparezcan con menos frecuencia
@@ -69,6 +81,6 @@ Si tu juego es demasiado fácil, puedes:
 
 \--- task \---
 
-Modifica y prueba tu juego varias veces hasta que creas que tiene el nivel de dificultad adecuado.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
