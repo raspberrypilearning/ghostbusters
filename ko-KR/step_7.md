@@ -24,7 +24,11 @@
 
 -`유령 스프라이트가 클릭되면`{:class=”block3events”}, `점수`{:class=”block3variables”} 변수는 `1만큼 변화하기`{:class=”block3variables"}를 사용하여 값이 변해야 합니다..
 
-\--- /hint \--- \--- hint \--- 참고할 코드 블럭 종류은 다음과 같습니다: ![백드롭 아이콘](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![백드롭 아이콘](images/ghost-backdrop.png)
 
 ```blocks3
 [score v] 를 (0) 로 정하기
@@ -38,7 +42,9 @@ flag 클릭했을 때
 [score v] 를 (1) 만큼 바꾸기
 ```
 
-\--- /hint \--- \--- hint \--- ![백드롭 아이콘](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![백드롭 아이콘](images/ghost-backdrop.png)
 
 ```blocks3
 flag 클릭했을 때
