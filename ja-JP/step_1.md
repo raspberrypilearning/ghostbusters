@@ -23,11 +23,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## 必要なもの
+## title: What you will need
 
 ### ハードウェア
 
@@ -39,11 +37,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## あなたが学ぶもの
+## title: What you will learn
 
 - Understand the need for pauses between actions within loops
 - Use code to generate random numbers in Scratch
