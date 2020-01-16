@@ -1,12 +1,12 @@
 \--- no-print \---
 
-Это **Scratch 3** версия проекта. Существует также [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) версия проекта.
+Это версия проекта **Скретч 3**. Существует также версия проекта [Скретч 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Введение
 
-You are going to make a ghost-catching game!
+Ты сделаешь игру о ловле приведений!
 
 \--- no-print \---
 
@@ -23,31 +23,27 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will need
 
-### Hardware
+### Оборудование
 
-- A computer
+- Компьютер
 
-### Software
+### Программное обеспечение
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [оффлайн редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will learn
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Понимать, зачем нужны паузы между действиями внутри циклов
+- Использовать код для генерации случайных чисел в Скретч
+- Добавлять переменную для сохранения результата игры в Скретч
 
 \--- /collapse \---
 
