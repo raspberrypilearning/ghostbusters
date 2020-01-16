@@ -16,7 +16,9 @@
 
 \--- /hint \--- \--- hint \---
 
-يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي: ![كائن الشبح](images/ghost-sprite.png)
+Your code should look like this:
+
+![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
 عند نقر هذا الكائن
@@ -25,4 +27,4 @@
 
 \--- /hint \--- \--- /hints \---
 
-\--- /task \---
+\---/task\---
