@@ -23,11 +23,9 @@
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Τι θα χρειαστείς
+## title: What you will need
 
 ### Υλικό
 
@@ -39,11 +37,9 @@
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Τι θα μάθεις
+## title: What you will learn
 
 - Κατανόησε την ανάγκη για παύσεις μεταξύ των ενεργειών εντός των βρόχων
 - Χρησιμοποίησε τον κώδικα για δημιουργήσεις τυχαίους αριθμούς στο Scratch
@@ -53,14 +49,14 @@
 
 ## \--- collapse \---
 
-## title: Πρόσθετες σημειώσεις για εκπαιδευτικούς
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/ghostbusters/print)"{:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
