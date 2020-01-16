@@ -26,9 +26,13 @@
 
 \--- hint \--- \--- hint \---
 
-当`绿旗被点击`{:class="block3events"}时，你的幽灵应当`隐藏`{:class="block3looks"}`一秒`{:class="block3control"}，然后再`出现`{:class="block3looks"}`一秒`{:class="block3control"}。 它需要`一直`:class="block3control"}重复这样。 \--- /hint \--- \--- hint \---
+当`绿旗被点击`{:class="block3events"}时，你的幽灵应当`隐藏`{:class="block3looks"}`一秒`{:class="block3control"}，然后再`出现`{:class="block3looks"}`一秒`{:class="block3control"}。 它需要`一直`:class="block3control"}重复这样。
 
-以下是你需要的代码块：![幽灵角色](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
 隐藏
@@ -45,7 +49,11 @@
 当绿旗被点击时
 ```
 
-\--- /hint \--- \--- hint \--- 你的代码应该像这样：![幽灵角色](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
 当绿旗被点击
@@ -63,7 +71,7 @@
 
 \--- task \---
 
-测试并保存项目。
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
