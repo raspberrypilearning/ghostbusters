@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## 挑戰：更多隨機性
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+你可以讓幽靈在消失後`等待`{:class="block3control"}隨機一段時間再出現嗎？
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+你有辦法用`尺寸設為`{:class="block3looks"}積木來讓幽靈在出現時忽大忽小的嗎？
