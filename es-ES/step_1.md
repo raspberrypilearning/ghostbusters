@@ -23,11 +23,9 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Lo que necesitarás
+## title: What you will need
 
 ### Hardware
 
@@ -39,11 +37,9 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: Lo que aprenderás
+## title: What you will learn
 
 - Comprender la necesidad de pausas entre las acciones dentro de bucles
 - Usar código para generar números aleatorios en Scratch
@@ -53,14 +49,14 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ## \--- collapse \---
 
-## title: Información adicional para educadores
+## title: Additional notes for educators
 
 \--- no-print \---
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/en/ghostbusters-get){:target ="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
