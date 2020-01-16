@@ -24,7 +24,11 @@ Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erh
 
 `Wenn die Geist-Figur angeklickt wird`{:class=”block3events”}, sollte sich der Wert der Variable `Punkte`{:class=”block3variables"} um `1 ändern`{:class=”block3variables"}.
 
-\--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst: ![Hintergrund-Symbol](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
 setze [Punkte v] auf (0)
@@ -38,7 +42,9 @@ Wenn die Flagge angeklickt wird
 ändere [Punkte v] um (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![Hintergrund-Symbol](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
