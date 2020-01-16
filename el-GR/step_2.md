@@ -26,9 +26,13 @@
 
 \--- hints \--- \--- hint \---
 
-Μόλις `πατηθεί η πράσινη σημαία`{:class= "blockevents"}, θα πρέπει να `εξαφανίζεται`{:class="blocklooks"} το φάντασμά σου για `ένα δευτερόλεπτο`{:class="blockcontrol"} και στη συνέχεια να `εμφανίζεται`{:class="blocklooks"} για `ένα δευτερόλεπτο`{:class="blockcontrol"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}. \--- /hint \--- \--- hint \---
+Μόλις `πατηθεί η πράσινη σημαία`{:class= "blockevents"}, θα πρέπει να `εξαφανίζεται`{:class="blocklooks"} το φάντασμά σου για `ένα δευτερόλεπτο`{:class="blockcontrol"} και στη συνέχεια να `εμφανίζεται`{:class="blocklooks"} για `ένα δευτερόλεπτο`{:class="blockcontrol"}. Θα χρειαστεί αυτό να γίνεται `για πάντα`{:class="blockcontrol"}.
 
-Εδώ είναι τα μπλοκ που χρειάζεσαι:![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 εξαφανίσου
@@ -45,7 +49,11 @@ end
 Όταν στην πράσινη σημαία γίνει κλικ
 ```
 
-\--- /hint \--- \--- hint \--- Έτσι πρέπει να μοιάζει με ο κώδικάς σου:![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
@@ -61,9 +69,9 @@ end
 
 \--- /task \---
 
-\--- task --
+\--- task \---
 
-Δοκίμασε και αποθήκευσε το έργο σου.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
