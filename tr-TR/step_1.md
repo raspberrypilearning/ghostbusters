@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) de vardır.
 
 \--- /no-print \---
 
-## Introduction
+## Giriş
 
-You are going to make a ghost-catching game!
+Bir hayalet yakalama oyunu yapacaksınız!
 
 \--- no-print \---
 
@@ -19,35 +19,31 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![vitrin](images/showcase-static.png)
 
 \--- /print-only \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will need
 
-### Hardware
+### Donanım
 
-- A computer
+- Bir bilgisayar
 
-### Software
+### Yazılım
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 'ü hem ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"}) kullanabilirsiniz
 
 \--- /collapse \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will learn
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Döngüler içindeki eylemler arasındaki duraklama gereksinimini anlayın
+- Scratch'te rastgele sayılar üretmek için bu kodu kullanın
+- Scratch'e oyun puanı saklamak için bir değişken ekleyin
 
 \--- /collapse \---
 
