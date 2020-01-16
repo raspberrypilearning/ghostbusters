@@ -26,9 +26,13 @@ Add code to your ghost sprite so that the ghost appears and disappears forever w
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -45,7 +49,11 @@ wait (1) seconds
 when flag clicked
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -63,8 +71,8 @@ end
 
 \--- task \---
 
-Uji dan simpan proyek kamu.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
-\--- /task \---
+\--- /tugas \---
