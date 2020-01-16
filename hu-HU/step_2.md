@@ -26,9 +26,13 @@ Adj hozzá olyan kódot a szellem szereplőhöz, hogy a szellem folyamatosan meg
 
 \--- hints \--- \--- hint \---
 
-A `zöld zászlóra kattintás`{:class="block3events"} után, a szellemednek `el kell tűnnie`{:class="block3looks"} `egy másodpercre`{:class="block3control"}, majd `megjelennie`{:class="block3looks"} `egy másodpercre`{:class="block3control"}. Ezt `mindig`{:class="block3control"} kell tennie. \--- /hint \--- \--- hint \---
+A `zöld zászlóra kattintás`{:class="block3events"} után, a szellemednek `el kell tűnnie`{:class="block3looks"} `egy másodpercre`{:class="block3control"}, majd `megjelennie`{:class="block3looks"} `egy másodpercre`{:class="block3control"}. Ezt `mindig`{:class="block3control"} kell tennie.
 
-Íme a szükséges kódblokkok: ![szellem-szereplő](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
 tűnj el
@@ -45,7 +49,11 @@ várj (1) mp-et
 ⚑ -ra kattintáskor
 ```
 
-\--- /hint \--- \--- hint \--- Így kell kinéznie a kódodnak: ![szellem-szereplő](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
@@ -63,7 +71,7 @@ end
 
 \--- task \---
 
-Teszteld és mentsd el a projekted.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
