@@ -30,7 +30,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+這裡是你需要的程式積木：
 
 ![幽靈角色](images/ghost-sprite.png)
 
@@ -51,7 +51,7 @@ end
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+你的程式看起來應該像這樣：
 
 ![幽靈角色](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+測試並儲存你的專案。
 
 [[[generic-scratch3-saving]]]
 
