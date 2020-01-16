@@ -19,7 +19,15 @@ Twój licznik czasu powinien:
 
 Gra powinna się zatrzymać, gdy czas dojdzie do 0.
 
-\--- hints \--- \--- hint \--- `Kiedy kliknięta jest zielona flaga`{: class = "block3events"}, twoja zmienna `czas`{: class = "block3variables"} powinna być ustawiona na `na 10`{: class = "block3variables"}. Powinna następnie `zmień o -1`{: klasa = "block3variables"} co sekundę `, aż dojdzie do 0`{: klasa = "block3control"}. \--- /hint \--- \--- hint \--- Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+-- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![duszek ducha](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -41,7 +49,11 @@ po kliknięciu flagi
 
 ```
 
-\--- / hint \--- \--- hint \--- Oto kod, który należy dodać, aby utworzyć zegar: ![ikona tła](images/ghost-backdrop.png)
+-- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
 kiedy flaga kliknięta
@@ -59,11 +71,11 @@ zatrzymaj [all]
 
 \--- task \---
 
-Poproś znajomego, aby przetestował twoją grę. Ile punktów można zdobyć?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Jeśli Twoja gra jest zbyt łatwa, możesz:
+If your game is too easy, you can:
 
 + Dać graczowi mniej czasu
 + Sprawić, aby duchy pojawiały się rzadziej
@@ -71,6 +83,6 @@ Jeśli Twoja gra jest zbyt łatwa, możesz:
 
 \--- task \---
 
-Zmień i przetestuj swoją grę kilka razy, aż będziesz zadowolony z poziomu trudności.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
