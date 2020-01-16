@@ -1,8 +1,8 @@
-## Animate a ghost
+## Bir hayaleti canlandırın
 
 \--- task \---
 
-Open a new empty Scratch project.
+Yeni bir boş Scratch projesi açın.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Projenize, uygun yeni bir hayalet kuklası ile Sahne arkaplan resmi ekleyin.
 
-![screenshot](images/ghost-ghost.png)
+![ekran görüntüsü](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,38 +22,46 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Yeşil bayrağa tıklatıldığında, hayaletinizin sonsuza dek görüneceği ve kaybolacağı kodu ekleyin.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}. \--- /hint \--- \--- hint \---
+Bir kez `yeşil bayrak tıklandığında`{:class="block3events"}, hayaletiniz `bir saniye`{:class="block3control"} boyunca `gizlenecek`{:class="block3looks"} ve sonrasında `bir saniye`{:class="block3control"} boyunca `gözükecektir`{:class="block3looks"}. Bunu da `sonsuz`{: class = "block3control"} bir döngüde yapması gerekir.
 
-Here are the code blocks you need: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-hide
+gizle
 
-show
+göster
 
-forever
+sürekli tekrarla
 end
 
-wait (1) seconds
+(1) saniye bekle
 
-wait (1) seconds
+(1) saniye bekle
 
-when flag clicked
+yeşil bayrak tıklandığında
 ```
 
-\--- /hint \--- \--- hint \--- This is what your code should look like: ![ghost-sprite](images/ghost-sprite.png)
+\--- /hint \--- \--- hint \---
+
+This is what your code should look like:
+
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
+yeşil bayrak tıklandığında
+sürekli tekrarla 
+ gizle
+ (1) saniye bekle
+ göster
+ (1) saniye bekle
 end
 ```
 
