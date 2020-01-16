@@ -1,70 +1,70 @@
-## Random ghosts
+## 隨機出現的鬼魂
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+這些鬼太容易被抓到了，因為它都固定在同一個地方出現！
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+你能不能加些程式，讓幽靈出現在舞台的隨機位置，而不是停在同個地方。
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+每次你的幽靈出現前，它會`定位`{:class="block3motion"}到舞台上一個隨機的位置。
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+這裡提供兩種方式，選一個你要用的。
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽靈角色](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+你可以在幽靈角色上使用這個積木：
 
 ```blocks3
-go to (random position v)
+定位到 (隨機 v) 位置
 ```
 
-Or add this one to your sprite:
+或是改成用底下這些積木：
 
 ```blocks3
-go to x: (14) y: (50)
+定位到 x:(0) y:(0)
 
-pick random (1) to (10)
+隨機取數 (1) 到 (10)
 
-pick random (1) to (10)
+隨機取數 (1) 到 (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+你的程式看起來應該會像這樣：
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽靈角色](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+當 @greenflag 被點擊
+重複無限次
+隱藏
+等待 (1) 秒
+定位到 (隨機 v) 位置
+顯示
+等待 (1) 秒
 end
 ```
 
-Or it could look like this:
+或者，程式會像這樣：
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽靈角色](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+當 @greenflag 被點擊
+重複無限次
+隱藏
+等待 (1) 秒
+定位到 x:(隨機取數 (-150) 到 (150)) y:(隨機取數 (-150) 到 (150))
+顯示
+等待 (1) 秒
 end
 ```
 
