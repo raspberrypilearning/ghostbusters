@@ -1,24 +1,24 @@
-## Random ghosts
+## Случайные призраки
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Сейчас твоё приведение очень легко поймать, потому что оно не двигается!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Можешь ли ты добавить к своему приведению код, который бы позволил ему появляться в случайных местах экрана, а не стоять на месте?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Каждый раз перед тем, как приведение появляется, оно должно `перейти в`{:class="block3motion"} случайное положение на Сцене.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Есть два набора блоков кода, которые ты можешь использовать. Выбери набор, который тебе нравится.
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Или добавь этот набор блоков к своему приведению:
 
 ```blocks3
 go to (random position v)
