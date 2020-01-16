@@ -24,6 +24,7 @@ Either add this set of blocks to your ghost sprite:
 ```blocks3
 go to (random position v)
 ```
+
 Or add this one to your sprite:
 
 ```blocks3
@@ -67,6 +68,7 @@ show
 wait (1) seconds
 end
 ```
+
 --- /hint ---
 --- /hints ---
 
