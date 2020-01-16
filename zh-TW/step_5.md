@@ -16,7 +16,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+你的程式應該會像這樣：
 
 ![幽靈角色](images/ghost-sprite.png)
 
