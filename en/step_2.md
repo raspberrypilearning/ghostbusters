@@ -28,11 +28,14 @@ Add code to your ghost sprite so that the ghost appears and disappears forever w
 --- hint ---
 
 Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+
 --- /hint ---
 --- hint ---
 
 Here are the code blocks you need:
+
 ![ghost-sprite](images/ghost-sprite.png)
+
 ```blocks3
 hide
 
@@ -47,9 +50,12 @@ wait (1) seconds
 
 when flag clicked
 ```
+
 --- /hint ---
 --- hint ---
+
 This is what your code should look like:
+
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
@@ -61,6 +67,7 @@ show
 wait (1) seconds
 end
 ```
+
 --- /hint ---
 --- /hints ---
 
