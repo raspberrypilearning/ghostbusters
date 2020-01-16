@@ -24,7 +24,11 @@ De fiecare dată când un jucător dă click pe o fantomă, scorul lui ar trebui
 
 `Când se dă click pe acest personaj`{:class="block3events"}, variabila `scor`{:class="block3variables"} ar trebui să fie `modificată cu 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Iată blocurile de cod de care ai nevoie: ![decor](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![decor](images/ghost-backdrop.png)
 
 ```blocks3
 setează [scor v] la (0)
@@ -38,7 +42,9 @@ când se dă click pe stegulețul verde
 modifică [scor v] cu (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![decor](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![decor](images/ghost-backdrop.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
