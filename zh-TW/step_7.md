@@ -1,10 +1,10 @@
-## Add a score
+## 記錄得分
 
-Now you're going to make your game more interesting by keeping score!
+現在，我們來記錄分數，讓遊戲變得更加有趣！
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+建立一個新的變數，名稱叫`得分`{:class="block3variables"}。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,46 +12,52 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+你可以記錄玩家的分數嗎？玩家抓到鬼時應該可以得分。
 
-Each time a player clicks on a ghost, their score should increase.
+玩家每次點擊幽靈時，得分都應該要增加。
 
-![Increasing score](images/ghost-score-test.png)
+![增加中的分數](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`在點擊綠旗後`{:class="block3events"}，遊戲的`得分`{:class="block3variables"}變數應該被`設定成 0`{:class="block3variables"}。 舞台是最適合寫這個程式的地方。
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`只要一抓到鬼`{:class="block3events"}，玩家的`得分`{:class="block3variables"}變數就會`改變 1`{:class="block3variables"}。
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need: ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![背景圖示](images/ghost-backdrop.png)
 
 ```blocks3
-set [score v] to (0)
+變數 [得分 v] 設為 (0)
 
-when flag clicked
+當 @greenflag 被點擊
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽靈角色](images/ghost-sprite.png)
 
 ```blocks3
-change [score v] by (1)
+變數 [得分 v] 改變 (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![backdrop icon](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![背景圖示](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+當 @greenflag 被點擊
+變數 [得分 v] 設為 (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽靈角色](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+當角色被點擊
+隱藏
 
-+ change [score v] by (1)
++ 變數 [得分 v] 改變 (1)
 ```
 
 \--- /hint \--- \--- /hints \---
