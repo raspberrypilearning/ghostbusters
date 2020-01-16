@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+這個專案是 **Scratch 3** 版本。另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) 版本。
 
 \--- /no-print \---
 
-## Introduction
+## 介紹
 
-You are going to make a ghost-catching game!
+你將製作一個人捉鬼的遊戲！
 
 \--- no-print \---
 
@@ -19,35 +19,31 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![演示](images/showcase-static.png)
 
 \--- /print-only \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will need
 
-### Hardware
+### 硬體
 
-- A computer
+- 一台電腦
 
-### Software
+### 軟體
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
 \--- /collapse \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will learn
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- 了解迴圈（loop）內兩個動作之間必須暫停一下
+- 用 Scratch 程式產生隨機（random）的數字
+- 用 Scratch 程式添加一個變數（variable）來儲存遊戲得分
 
 \--- /collapse \---
 
