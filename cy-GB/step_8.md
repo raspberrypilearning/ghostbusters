@@ -19,7 +19,15 @@ Fe ddylai dy amserydd:
 
 Fe ddylai’r gêm ddod i ben pan mae’r amserydd yn cyrraedd 0.
 
-\--- hints \--- \--- hint \--- `Pan fo'r faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai di newidyn `amser`{:class="block3variables"} fod wedi ei `osod i 10`{:class="block3variables"}. Fe ddylai wedyn `newid wrth -1`{:class="block3variables"} bob eiliad `tan ei fod yn cyrraedd 0`{:class="block3control"}. \--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-backdrop.png)
+\--- hints \--- \--- hint \---
+
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need to use:
+
+![corlun-ysbryd](images/ghost-backdrop.png)
 
 ```blocks3
 aros [all]
@@ -41,7 +49,11 @@ pan fo'r flag werdd yn cael ei glicio
 
 ```
 
-\--- /hint \--- \--- hint \--- Dyma'r côd sydd angen i greu amserydd: ![eicon cefnlen](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here is the code you should add to create a timer:
+
+![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -59,11 +71,11 @@ aros [all]
 
 \--- task \---
 
-Gofyna i ffrind brofi dy gêm. Faint o bwyntiau mae nhw'n gallu sgorio?
+Ask a friend to test your game. How many points can they score?
 
 \--- /task \---
 
-Os yw dy gêm yn rhy hawdd, mae modd iti:
+If your game is too easy, you can:
 
 + Rhoi llai o amser i’r chwareuwr
 + Gwneud i’r ysbrydion ymddangos yn llai aml
@@ -71,6 +83,6 @@ Os yw dy gêm yn rhy hawdd, mae modd iti:
 
 \--- task \---
 
-Profa dy gêm nifer o weithiau tan dy fod yn hapus gyda pa mor anodd yw e.
+Change and test your game a few times until you're happy with its level of difficulty.
 
 \--- /task \---
