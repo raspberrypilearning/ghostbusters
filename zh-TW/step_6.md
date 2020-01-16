@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## 挑戰：加些音效
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+你可以寫個程式，讓鬼在被抓到時發出些聲音嗎？
