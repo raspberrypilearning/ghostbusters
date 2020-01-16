@@ -23,11 +23,9 @@
 
 \--- /print-only \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: ما ستحتاج إليه
+## title: What you will need
 
 ### الأجهزة
 
@@ -39,11 +37,9 @@
 
 \--- /collapse \---
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
-
-## title: ما الذي ستتعلمه
+## title: What you will learn
 
 - فهم الحاجة الى التوقفات بين الاجراءات داخل الحلقات التكرارية
 - استخدام التعليمات البرمجية لإنشاء أرقام عشوائية في برنامج Scratch
@@ -53,14 +49,14 @@
 
 ## \--- collapse \---
 
-## عنوان: معلومات اضافية للمعلمين
+## title: Additional notes for educators
 
 \--- no-print \---
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [نسخة متوافقة مع الطابعة](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
