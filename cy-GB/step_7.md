@@ -24,7 +24,11 @@ Bob tro mae chwareuwr yn clicio ar ysbryd, fe ddylai'r sgôr fynd fyny.
 
 `Pan fo'r corlun ysbryd wedi ei glicio`{:class="block3events"}, fe ddylai'r newidyn `sgôr`{:class="block3variables"} `newid gan 1`{:class="block3variables"}.
 
-\--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen: ![eicon cefnlen](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
 gosod [sgôr v] i (0)
@@ -38,7 +42,9 @@ pan fo'r flag werdd yn cael ei glicio
 newid [sgôr v] gan (1)
 ```
 
-\--- /hint \--- \--- hint \--- ![eicon cefnlen](images/ghost-backdrop.png)
+\--- /hint \--- \--- hint \---
+
+![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
