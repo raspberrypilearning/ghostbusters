@@ -16,7 +16,9 @@ A szellem szereplőre `kattintáskor`{:class="block3events"}, a szellemnek el ke
 
 \--- /hint \--- \--- hint \---
 
-A kódodnak így kell kinéznie: ![szellem-szereplő](images/ghost-sprite.png)
+Your code should look like this:
+
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
 ezen szereplőre kattintáskor
