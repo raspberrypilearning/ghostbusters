@@ -30,7 +30,7 @@ Une fois que le `drapeau vert est cliqué`{:class="block3events"}, ton fantôme 
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Voici les blocs de code dont tu as besoin :
 
 ![sprite-fantôme](images/ghost-sprite.png)
 
@@ -51,7 +51,7 @@ lorsque le drapeau est cliqué
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Voici à quoi ton code devrait ressembler :
 
 ![sprite-fantôme](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ fin
 
 \--- task \---
 
-Test and save your project.
+Teste et sauvegarde ton projet.
 
 [[[generic-scratch3-saving]]]
 
