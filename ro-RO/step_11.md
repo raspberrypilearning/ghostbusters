@@ -21,9 +21,14 @@ Dă click pe steagul verde, iar apoi dă click pe chatbot pentru a începe o con
 
 --- /print-only ---
 
+***
 
-**Traducere realizată de comunitate**
+Acest proiect a fost tradus de voluntarii:
 
-Proiectul a fost tradus de **Nicolae Vranciu**/**Gelu Ungur** și verificat de **Catalina Toderita**.
+Nicolae Vranciu
 
-Traducătorii noștri voluntari ne ajută să oferim copiilor din întreaga lume șansa de a învăța să programeze. Ne poți ajuta să ajungem la mai mulți copii, ajutând la traducerea proiectelor noastre – află mai multe pe rpf.io/translators.
+Gelu Ungur
+
+Catalina Toderita
+
+Datorită voluntarilor, putem oferi oamenilor din întreaga lume șansa de a învăța în propria lor limbă. Ne poți ajuta să ajungem la mai multe persoane, ajutând la traducere ca și voluntar - mai multe informații la [rpf.io/translate](https://rpf.io/translate).
