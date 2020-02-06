@@ -1,4 +1,4 @@
-## Añade una puntuación
+## Add a score
 
 ¡Ahora vas a hacer que tu juego sea más interesante añadiendo un sistema de puntuación!
 
@@ -44,14 +44,14 @@ sumar a [puntaje v] (1)
 
 \--- /hint \--- \--- hint \---
 
-![icono de fondo](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 al hacer clic en bandera verde
 dar a [puntaje v] el valor (0)
 ```
 
-![sprite fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Al hacer clic en este objeto
