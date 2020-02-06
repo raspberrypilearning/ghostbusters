@@ -1,70 +1,70 @@
-## Random ghosts
+## Rastgele hayaletler
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Hayaletiniz şu anda kolayca yakalanabilir durumda çünkü hareket etmiyor!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Hayaletinize, aynı konumda kalmak yerine, Sahne Alanı'nda rastgele konumlarda görünecek şekilde kod ekleyebilir misiniz?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Hayaletiniz görünmeden önce her seferinde Sahne Alanı'nda rastgele bir konuma `gitmelidir`{:class="block3motion"}.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Burada kullanabileceğiniz iki grup kod bloğu vardır. Dilediğiniz kodlama setini seçin.
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Ya bu kod bloğunu hayalet kuklanıza ekleyin:
 
 ```blocks3
-go to (random position v)
+(rastgele konum v) 'e git
 ```
 
-Or add this one to your sprite:
+Ya da kuklanıza bu kodu ekleyin:
 
 ```blocks3
-go to x: (14) y: (50)
+x: (14) y: (50) konumuna git
 
-pick random (1) to (10)
+(1) ile (10) arasında rastgele sayı seç
 
-pick random (1) to (10)
+(1) ile (10) arasında rastgele sayı seç
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Kodunuz şunun gibi görünebilir:
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+yeşil bayrak tıklandığında
+sürekli tekrarla 
+ gizle
+ (1) saniye bekle
+ (rastgele konum v) 'e git
+ göster
+ (1) saniye bekle
 end
 ```
 
-Or it could look like this:
+Veya şöyle görünebilir:
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+yeşil bayrak tıklandığında
+sürekli tekrarla 
+ gizle
+ (1) saniye bekle
+ x: ((-150) ile (150) arasında rastgele sayı seç) y: ((-150) ile (150) arasında rastgele sayı seç) konumuna git
+ göster
+ (1) saniye bekle
 end
 ```
 
