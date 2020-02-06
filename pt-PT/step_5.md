@@ -8,7 +8,7 @@ Pode fazer com que o teu fantasma desapareça quando for apanhado? O jogador dev
 
 Se ao testar o teu jogo achares difícil apanhar os fantasmas, poderás jogar no modo de fullscreen clicando neste botão:
 
-![captura de ecrã](images/ghost-fullscreen-annotated.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
@@ -18,7 +18,7 @@ Se ao testar o teu jogo achares difícil apanhar os fantasmas, poderás jogar no
 
 Your code should look like this:
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar em ti
