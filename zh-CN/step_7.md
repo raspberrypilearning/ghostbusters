@@ -34,7 +34,7 @@ Here are the code blocks you need:
 将[score v]设为(0)
 ```
 
-![幽灵角色](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 将[score v]增加(1)
@@ -42,14 +42,14 @@ Here are the code blocks you need:
 
 \--- /hint \--- \--- hint \---
 
-![背景图标](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 当绿旗被点击
 将[score v]设为(0)
 ```
 
-![幽灵角色](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 当角色被点击
