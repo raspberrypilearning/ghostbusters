@@ -1,4 +1,4 @@
-## 타이머 추가하기
+## Add a timer
 
 이제 플레이어가 유령을 잡을 수 있는 시간을 10초로 제한하도록 타이머를 추가할 것입니다.
 
@@ -27,7 +27,7 @@
 
 Here are the code blocks you need to use:
 
-![유령 스프라이트](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 정지 [all]
@@ -53,7 +53,7 @@ flag 클릭했을 때
 
 Here is the code you should add to create a timer:
 
-![백드롭 아이콘](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 flag 클릭했을 때
