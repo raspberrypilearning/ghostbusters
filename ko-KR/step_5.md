@@ -18,7 +18,7 @@
 
 Your code should look like this:
 
-![유령 스프라이트](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 이 스프라이트를 클릭했을 때
