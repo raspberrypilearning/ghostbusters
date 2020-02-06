@@ -32,7 +32,7 @@ Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy 
 
 Here are the code blocks you need:
 
-![corlun-ysbryd](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 cuddio
@@ -53,7 +53,7 @@ pan fo'r flag werdd yn cael ei glicio
 
 This is what your code should look like:
 
-![corlun-ysbryd](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
