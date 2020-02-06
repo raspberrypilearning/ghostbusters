@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## Meydan Okuma: Daha fazla rastgelelik
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Hayalet kuklanıza, gizlenirken rastgele bir süre `beklemesini`{:class="block3control"} sağlayan bir kodu ekleyebilir misiniz?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Hayaletize, `set size`{:class="block3looks"} komutunu kullanarak her ortaya çıkışında rastgele bir şekilde daha büyük veya daha küçük gözükmesini sağlayabilir misiniz?
