@@ -25,7 +25,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Nelere ihtiyacınız var
 
 ### Donanım
 
@@ -39,7 +39,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Neler öğreneceksiniz
 
 - Döngüler içindeki eylemler arasındaki duraklama gereksinimini anlayın
 - Scratch'te rastgele sayılar üretmek için bu kodu kullanın
@@ -49,14 +49,14 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Eğitimciler için ek notlar
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} kullanın.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Tamamlanmış projeye [buradan](http://rpf.io/p/en/ghostbusters-get){:target="_blank"} ulaşabilirsiniz.
 
 \--- /collapse \---
