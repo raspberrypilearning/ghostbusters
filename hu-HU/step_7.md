@@ -44,14 +44,14 @@ Here are the code blocks you need:
 
 \--- /hint \--- \--- hint \---
 
-![háttér ikon](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
 [eredmény v] legyen (0)
 ```
 
-![szellem-szereplő](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 ezen szereplőre kattintáskor
