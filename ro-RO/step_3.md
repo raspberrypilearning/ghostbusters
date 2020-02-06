@@ -40,7 +40,7 @@ alege aleator între (1) și (10)
 
 Codul tău ar putea să arate astfel:
 
-![fantomă](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
@@ -55,7 +55,7 @@ end
 
 Sau ar putea arăta astfel:
 
-![fantomă](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
