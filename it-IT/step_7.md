@@ -34,7 +34,7 @@ Here are the code blocks you need:
 set [score v] to (0)
 ```
 
-![sprite del fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 cambia [punteggio v] di (1)
@@ -42,14 +42,14 @@ cambia [punteggio v] di (1)
 
 \--- /hint \--- \--- hint \---
 
-![icona scenario](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
 set [score v] to (0)
 ```
 
-![sprite del fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Quando si clicca questo sprite
