@@ -44,14 +44,14 @@ zmienić [wynik v] o (1)
 
 -- /hint \--- \--- hint \---
 
-![ikona tła](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 kiedy kliknięto zieloną flagę
 ustaw [wynik v] na (0)
 ```
 
-![duszek ducha](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Kiedy duszek kliknięty
