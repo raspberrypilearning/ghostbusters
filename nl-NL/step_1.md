@@ -25,7 +25,7 @@ Je gaat een spookachtig spel maken!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Wat heb je nodig
 
 ### Hardware
 
@@ -39,7 +39,7 @@ Je gaat een spookachtig spel maken!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Wat ga je leren
 
 - Begrijp de noodzaak van pauzes tussen acties binnen lussen
 - Gebruik code om willekeurige nummers te genereren in Scratch
@@ -49,14 +49,14 @@ Je gaat een spookachtig spel maken!
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Aanvullende informatie voor docenten
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Je kunt het [voltooide project hier](http://rpf.io/p/en/ghostbusters-get)"{:target="_blank"} vinden.
 
 \--- /collapse \---
