@@ -44,14 +44,14 @@ flag 클릭했을 때
 
 \--- /hint \--- \--- hint \---
 
-![백드롭 아이콘](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 flag 클릭했을 때
 [score v] 를 (0) 으로 설정하기
 ```
 
-![유령 스프라이트](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 이 스프라이트를 클릭했을 때
