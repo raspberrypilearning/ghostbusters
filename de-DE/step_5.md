@@ -18,7 +18,7 @@ Wenn du dein Spiel testest und es schwierig findest Geister zu fangen, kannst du
 
 Your code should look like this:
 
-![Geist-Figur](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Wenn diese Figur angeklickt wird
