@@ -30,7 +30,7 @@ Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Dit zijn de codeblokken die je nodig hebt:
 
 ![spook-sprite](images/ghost-sprite.png)
 
@@ -51,7 +51,7 @@ wanneer groene vlag wordt aangeklikt
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Dit is hoe je code eruit zou moeten zien:
 
 ![spook-sprite](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ end
 
 \--- task \----
 
-Test and save your project.
+Test en sla je project op.
 
 [[[generic-scratch3-saving]]]
 
