@@ -27,7 +27,7 @@ Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
 
 Voici les blocs de code dont tu as besoin :
 
-![sprite-fantôme](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -53,7 +53,7 @@ lorsque le drapeau est cliqué
 
 Voici le code que tu dois ajouter pour créer un minuteur :
 
-![icône de l'arrière-plan](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
