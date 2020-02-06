@@ -27,7 +27,7 @@ El juego debería detenerse cuando el temporizador llegue a 0.
 
 Here are the code blocks you need to use:
 
-![sprite fantasma](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 detener [todos]
