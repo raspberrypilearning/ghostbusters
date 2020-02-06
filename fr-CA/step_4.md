@@ -1,5 +1,5 @@
-## Défi : plus aléatoire
+## Challenge: more randomness
 
-Peux-tu ajouter du code à ton sprite fantôme pour faire `attendre`{:class="block3control"} le fantôme pendant un temps aléatoire pendant qu'il est caché?
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-Peux-tu utiliser le bloc `mettre à la taille`{:class="block3looks"} pour rendre ton fantôme plus grand ou plus petit au hasard à chaque apparition?
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
