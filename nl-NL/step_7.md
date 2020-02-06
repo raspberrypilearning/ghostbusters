@@ -26,7 +26,7 @@ Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Dit zijn de codeblokken die je nodig hebt:
 
 ![achtergrond pictogram](images/ghost-backdrop.png)
 
