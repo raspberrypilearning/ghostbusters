@@ -1,10 +1,10 @@
-## Add a score
+## Bir puan ekle
 
-Now you're going to make your game more interesting by keeping score!
+Şimdi puanınızı kaydederek oyununuzu daha ilginç hale getireceksiniz!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+`puan` adlı yeni bir değişken oluşturun.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,52 +12,52 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Oyuncunuzun puanını takip edebiliyor musunuz? Oyuncular, yakalamak için hayaletlere tıkladıklarında puan kazanmalıdır.
 
-Each time a player clicks on a ghost, their score should increase.
+Oyuncu hayalete her tıkladığında, puanları artmalı.
 
-![Increasing score](images/ghost-score-test.png)
+![Artan puan](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`Yeşil bayrak tıklandığında`{:class="block3events"}, `puan`{:class="block3variables"} değişkeninizin `0 'a ayarlanması`{:class="block3variables"} gerekir. Sahne Alanı bu kodu eklemek için en uygun yer.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need:
-
-![backdrop icon](images/ghost-backdrop.png)
-
-```blocks3
-set [score v] to (0)
-
-when flag clicked
-```
-
-![ghost-sprite](images/ghost-sprite.png)
-
-```blocks3
-change [score v] by (1)
-```
+`Hayalet kuklası tıklandığında`{:class="block3events"} `puan`{:class="block3variables"} değişkeni `1 ile değişmeli`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+İhtiyacınız olan kod blokları:
+
+![arkaplan simgesi](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+[puan] i (0) yap
+
+yeşil bayrak tıklandığında
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+[puan] i (1) kadar değiştir
+```
 
-+ change [score v] by (1)
+\--- /hint \--- \--- hint \---
+
+![zemin simgesi](images/ghost-backdrop.png)
+
+```blocks3
+yeşil bayrak tıklandığında
+[puan] i (0) yap
+```
+
+![hayalet-kuklası](images/ghost-sprite.png)
+
+```blocks3
+Bu kukla tıklandığında
+gizle
+
+[puan] i (1) kadar değiştir
 ```
 
 \--- /hint \--- \--- /hints \---
