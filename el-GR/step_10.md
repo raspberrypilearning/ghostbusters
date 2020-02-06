@@ -1,12 +1,12 @@
-## Και τώρα;
+## What next?
 
-Συγχαρητήρια για την ολοκλήρωση του έργου "Κυνηγοί Φαντασμάτων"! Θα ήθελες να δημιουργήσεις κάτι λίγο πιο δύσκολο;
+Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
-Δοκίμασε το έργο [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
+Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
 \--- no-print \---
 
-Κάνε κλικ στην πράσινη σημαία και στη συνέχεια κλικ στο chatbot για να αρχίσει μία συζήτηση. Όταν το chatbot σε ρωτήσει, πληκτρολόγησε την απάντησή σου στο πλαίσιο στο κάτω μέρος του Σκηνικού και κάνε κλικ στο τικ (ή πάτησε `Enter`).
+Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@
 
 \--- print-only \---
 
-![ολοκληρωμένο έργο](images/chatbot-preview.png)
+![complete project](images/chatbot-preview.png)
 
 \--- /print-only \---
