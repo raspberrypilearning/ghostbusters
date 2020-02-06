@@ -1,4 +1,4 @@
-## 挑战：更多角色
+## Challenge: more sprites
 
 你能在你的游戏里添加更多的角色吗？
 
