@@ -30,9 +30,9 @@ Aggiungi codice al tuo fantasma in modo che appaia e scompaia per sempre quando 
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Ecco i blocchi di codice che ti serviranno:
 
-![sprite del fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Ecco come dovrebbe apparire il risultato:
 
-![sprite del fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Prova il tuo progetto e salvalo.
 
 [[[generic-scratch3-saving]]]
 
