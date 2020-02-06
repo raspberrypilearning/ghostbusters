@@ -21,11 +21,11 @@ Het spel zou moeten stoppen als de timer op 0 komt.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, zou de `tijd`{:class="block3variables"} variabele op `10`{:class =”block3data”} moeten worden gezet. Het zou dan elke seconde moeten `veranderen met -1`{:class="block3variables"} totdat deze `0 bereikt`{:class=”block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+Dit zijn de codeblokken die je nodig hebt:
 
 ![spook-sprite](images/ghost-backdrop.png)
 
@@ -51,7 +51,7 @@ wanneer groene vlag wordt aangeklikt
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Hier is de code die je moet toevoegen om een timer te maken:
 
 ![achtergrond pictogram](images/ghost-backdrop.png)
 
@@ -71,11 +71,11 @@ stop [alle]
 
 \--- task \----
 
-Ask a friend to test your game. How many points can they score?
+Vraag een vriend om je spel te testen. Hoeveel punten kunnen ze scoren?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Als je spel te gemakkelijk is, kun je:
 
 + De speler minder tijd geven
 + De spoken minder vaak laten verschijnen
@@ -83,6 +83,6 @@ If your game is too easy, you can:
 
 \--- task \----
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Verander en test je spel een paar keer totdat je tevreden bent met de moeilijkheidsgraad.
 
 \--- /task \---
