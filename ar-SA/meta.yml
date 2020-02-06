@@ -2,25 +2,21 @@
 title: صائدو الأشباح
 hero_image: images/ghostbusters.png
 description: اصنع لعبة عن إصطياد الأشباح!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - title: المقدمة
-  - title: تحريك شبح
+  - title: تحريك الشبح
   - title: أشباح عشوائية
+  - title: 'التحدي: أكثر عشوائية'
+    challenge: true
   - title: اصطياد الأشباح
+  - title: 'تحدي: إضافة صوت'
+    challenge: true
   - title: إضافة نتيجة
-  - title: إضافة مؤقِت
-  - title: 'التحدي: كائنات أخرى'
+  - title: اضافة مؤقت
+  - title: 'تحدي: كائنات اخرى'
+    challenge: true
+  - title: ماهو التالي؟

@@ -4,27 +4,69 @@
 
 افتح مشروع Scratch جديدًا وفارغًا.
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
---- /task ---
+---/task---
 
 --- task ---
 
-أضف كائن شبح جديدًا وخلفية مناسبة.
+أضف كائن شبح جديد وخلفية مناسبة.
 
 ![لقطة الشاشة](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
+[[[generic-scratch3-backdrop-from-library]]]
 
---- /task ---
+---/task---
 
 --- task ---
 
-أضف تعليمة برمجية إلى الشبح بحيث يظهر ويختفي تمامًا باستمرار عندما تنقر فوق العلم.
+أضف تعليمة برمجية إلى كائن الشبح بحيث يظهر ويختفي باستمرار عندما تنقر فوق العلم الاخضر.
 
---- hints --- --- hint --- بمجرد `النقر فوق العلم الأخضر`{:class=”blockcontrol”}، ستحتاج إلى `إخفاء` الشبح {:class=”blocklooks”} لمدة `ثانية واحدة`{:class=”blockcontrol”} ثم `تظهره`{:class=”blocklooks”} لمدة` ثانية واحدة`{:class=”blockcontrol”}. ستحتاج إلى القيام بهذا `للأبد`{:class=”blockcontrol”}. --- /hint --- --- hint --- فيما يلي التعليمات البرمجية التي ستحتاج إلى استخدامها: ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- يجب أن تكون التعليمة البرمجية التي تُدخلها كما يلي: ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+بمجرد النقر فوق `العلم الاخضر`، {:class="block3events"}، ستحتاج الى `اخفاء` {:class="block3looks"} الشبح لمدة `ثانية واحدة` {:class="block3control"} ثم `تظهره` {:class="block3looks"} لمدة `ثانية واحدة`{:class="block3control"}. ستحتاج أن تقوم بهذا `الى الابد`{:class="block3control"}.
+
+--- /hint --- --- hint ---
+
+هنا التعليمات البرمجية التي ستحتاج اليها:
+
+![كائن الشبح](images/ghost-sprite.png)
+
+```blocks3
+اختف
+
+اظهر
+
+الى الابد
+انتهاء
+
+انتظر (1) ثانية
+
+انتظر (1) ثانية
+
+عند نقر العلم الاخضر
+```
+
+--- /hint --- --- hint ---
+
+و هذا ما يجب أن تبدو عليه التعليمات البرمجية الخاصة بك:
+
+![كائن الشبح](images/ghost-sprite.png)
+
+```blocks3
+عند نقر العلم الاخضر
+الى الابد
+اختف
+انتظر (1) ثانية
+اظهر
+انتظر (1) ثانية
+انتهاء
+```
+
+--- /hint ------ /hints ---
 
 --- /task ---
 
@@ -32,6 +74,6 @@
 
 إختبر واحفظ المشروع الخاص بك.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---
