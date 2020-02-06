@@ -27,7 +27,7 @@ O jogo deve parar quando o cronómetro chegar a 0.
 
 Here are the code blocks you need to use:
 
-![ator fantasma](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 pára [all]
@@ -53,7 +53,7 @@ Quando alguém clicar na bandeira verde
 
 Here is the code you should add to create a timer:
 
-![ícone de fundo](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
