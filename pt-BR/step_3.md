@@ -40,7 +40,7 @@ escolher aleatório (1) para (10)
 
 Seu código deve ficar assim:
 
-![ator do fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando a bandeira é clicada
@@ -55,7 +55,7 @@ fim
 
 Ou poderia ser assim:
 
-![ator do fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando a bandeira clicada
