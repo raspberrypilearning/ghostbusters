@@ -40,7 +40,7 @@ um valor ao acaso entre (1) e (10)
 
 O teu código deverá ter este aspeto:
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -55,7 +55,7 @@ end
 
 O teu código deverá ter este aspeto:
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
