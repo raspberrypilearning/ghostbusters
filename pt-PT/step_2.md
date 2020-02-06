@@ -32,7 +32,7 @@ Quando a ` bandeira verde for clicada ` {: class = "block3events"}, o teu fantas
 
 Here are the code blocks you need:
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 esconde-te
@@ -53,7 +53,7 @@ Quando alguém clicar na bandeira verde
 
 This is what your code should look like:
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
