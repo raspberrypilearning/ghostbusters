@@ -26,7 +26,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ![backdrop icon](images/ghost-backdrop.png)
 
@@ -44,7 +44,7 @@ Here are the code blocks you need:
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![أيقونة الخلفية](images/ghost-backdrop.png)
 
 ```blocks3
 عند نقر العلم
