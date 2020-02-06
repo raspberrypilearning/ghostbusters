@@ -32,7 +32,7 @@
 
 Here are the code blocks you need:
 
-![幽灵角色](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 隐藏
@@ -53,7 +53,7 @@ Here are the code blocks you need:
 
 This is what your code should look like:
 
-![幽灵角色](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 当绿旗被点击
