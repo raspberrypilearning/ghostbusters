@@ -1,3 +1,3 @@
-## Défi : ajouter un son
+## Challenge: add a sound
 
-Peux-tu ajouter du code à ton fantôme pour que celui-ci émette un son lorsqu'il est attrapé?
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
