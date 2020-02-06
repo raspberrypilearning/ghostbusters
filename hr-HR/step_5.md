@@ -1,4 +1,4 @@
-## Kôd za hvatanje duhova
+## Code for catching ghosts
 
 Now you're going to add code to your game so that the player to catch ghosts!
 
