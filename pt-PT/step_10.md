@@ -1,4 +1,4 @@
-## O que se segue?
+## What next?
 
 Parabéns por concluires o projeto Ghostbusters! Queres criar uma coisa um pouco mais desafiante?
 
