@@ -40,7 +40,7 @@ pick random (1) to (10)
 
 Il tuo codice ora dovrebbe apparire così:
 
-![sprite del fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -55,7 +55,7 @@ end
 
 Oppure potrebbe apparire così:
 
-![sprite del fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
