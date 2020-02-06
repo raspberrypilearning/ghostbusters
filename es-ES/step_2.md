@@ -32,7 +32,7 @@ Una vez que `hagas clic en la bandera verde` {:class="block3events"}, tu fantasm
 
 Here are the code blocks you need:
 
-![objeto fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 esconder
@@ -53,7 +53,7 @@ al hacer clic en la bandera
 
 This is what your code should look like:
 
-![objeto fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en la bandera
