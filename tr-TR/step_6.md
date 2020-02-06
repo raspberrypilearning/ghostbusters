@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Meydan okuma: Ses ekleme
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Hayaletinize, yakalandığında ses çıkaracak şekilde kod ekleyebilir misiniz?
