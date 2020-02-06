@@ -18,7 +18,7 @@
 
 Your code should look like this:
 
-![幽灵角色](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 当角色被点击
