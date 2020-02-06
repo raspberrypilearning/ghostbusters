@@ -18,7 +18,7 @@ Jeśli przetestujesz grę i sprawisz, że łapanie upiorów będą trudne, może
 
 Your code should look like this:
 
-![duszek ducha](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 kiedy ten duszek kliknięty
