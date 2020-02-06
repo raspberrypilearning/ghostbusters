@@ -1,4 +1,4 @@
-## Aggiungere un timer
+## Add a timer
 
 Ora aggiungerai un timer in modo che il giocatore abbia solo 10 secondi per catturare il maggior numero di fantasmi.
 
@@ -21,13 +21,13 @@ Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`quando si clicca sulla bandiera verde`{:class=”block3events”}, la tua variabile `tempo`{:class=”block3variables”} dovrebbe `essere impostata a 10`{:class="block3variables"}. Dovrebbe quindi `cambiare di -1`{:class="block3variabili"} ogni secondo `fino a quando non raggiunge 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+Ecco i blocchi di codice che ti serviranno:
 
-![sprite del fantasma](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 ferma [all]
@@ -51,9 +51,9 @@ quando si clicca sulla bandiera verde
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Ecco il codice che dovresti aggiungere per creare un timer:
 
-![icona scenario](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 quando si clicca sulla bandiera verde
@@ -71,11 +71,11 @@ ferma [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Chiedi a un amico di provare il tuo gioco. Quanti punti riescono a segnare?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Se il gioco è troppo facile, puoi:
 
 + Dare al giocatore meno tempo
 + Ridurre la frequenza con cui i fantasmi appaiono
@@ -83,6 +83,6 @@ If your game is too easy, you can:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Cambia e prova il tuo gioco alcune volte fino a quando non sei soddisfatto del suo livello di difficoltà.
 
 \--- /task \---
