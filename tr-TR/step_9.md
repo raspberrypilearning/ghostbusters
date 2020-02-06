@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Meydan Okuma: Daha fazla kukla
 
-Can you add other sprites to your game?
+Oyuna başka kuklalar ekleyebilir misin?
 
-![screenshot](images/ghost-final.png)
+![ekran görüntüsü](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Eklemek istediğiniz her kukla için şunları düşünmeniz gerekir:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Kukla ne kadar büyük olmalı?
++ Hayalet kuklasından daha az mı yoksa çok mu görünmeli?
++ Yakalandığında nasıl görünüp / ses çıkarmalı?
++ Kuklayı yakaladığında oyuncu kaç puan kazanır (veya kaybeder)?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Yardıma ihtiyacınız olursa, önceki adımlardaki talimatlara geri dönebilir veya bir arkadaşınıza sorabilirsiniz!
