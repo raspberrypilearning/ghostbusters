@@ -21,11 +21,11 @@
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`عند نقر العلم الاخضر`{:class="block3events"} فإن متغير `الوقت`{:class="block3variables"} يجب أن `يساوي 10`{:class="block3variables"}. ثم `يتغير بمقدار -1` {:class="block3variables"} كل ثانية `حتى يصل الى 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ![كائن الشبح](images/ghost-backdrop.png)
 
@@ -51,7 +51,7 @@ Here are the code blocks you need to use:
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+إليك التعليمات البرمجية التي عليك إضافتها لإنشاء مؤقت:
 
 ![backdrop icon](images/ghost-backdrop.png)
 
@@ -71,11 +71,11 @@ Here is the code you should add to create a timer:
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+إسال صديقك لاختبار لعبتك. كم نقطة ممكن أن يسجلوا؟
 
 \---/task\---
 
-If your game is too easy, you can:
+إذا كانت اللعبة سهلة للغاية، فيمكنك:
 
 + منح اللاعب وقتًا أقل
 + اجعل ظهور الأشباح أقل
@@ -83,6 +83,6 @@ If your game is too easy, you can:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+غيِّر واختبر لعبتك عدد من المرات حتى تصل إلى مستوى الصعوبة الذي تريده.
 
 \---/task\---
