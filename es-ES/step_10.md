@@ -2,7 +2,7 @@
 
 ¡Enhorabuena por completar el proyecto Cazafantasmas! ¿Quieres crear algo un poco más desafiante?
 
-Prueba el proyecto [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
+Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
 \--- no-print \---
 
@@ -17,6 +17,6 @@ Haz clic en la bandera verde y después haz clic en el chatbot para iniciar una 
 
 \--- print-only \---
 
-![proyecto completo](images/chatbot-preview.png)
+![complete project](images/chatbot-preview.png)
 
 \--- /print-only \---
