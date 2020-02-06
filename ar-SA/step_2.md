@@ -30,7 +30,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ![كائن الشبح](images/ghost-sprite.png)
 
@@ -51,7 +51,7 @@ Here are the code blocks you need:
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+و هذا ما يجب أن تبدو عليه التعليمات البرمجية الخاصة بك:
 
 ![كائن الشبح](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ This is what your code should look like:
 
 \--- task \---
 
-Test and save your project.
+إختبر واحفظ المشروع الخاص بك.
 
 [[[generic-scratch3-saving]]]
 
