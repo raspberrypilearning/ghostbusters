@@ -44,14 +44,14 @@ newid [sgôr v] gan (1)
 
 \--- /hint \--- \--- hint \---
 
-![eicon cefnlen](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
 set [sgôr v] to (0)
 ```
 
-![corlun-ysbryd](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 pan gaiff y ciplun yma ei glicio
