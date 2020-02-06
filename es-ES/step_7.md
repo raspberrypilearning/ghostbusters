@@ -44,14 +44,14 @@ cambiar [puntuación v] por (1)
 
 \--- /hint \--- \--- hint \---
 
-![icono de fondo](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 al hacer clic en la bandera
 dar a [puntuación v] el valor (0)
 ```
 
-![objeto fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Al hacer clic en este objeto
