@@ -32,7 +32,7 @@
 
 Here are the code blocks you need:
 
-![유령 스프라이트](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 숨기기
@@ -53,7 +53,7 @@ flag 클릭했을 때
 
 This is what your code should look like:
 
-![유령 스프라이트](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 flag 클릭했을 때
