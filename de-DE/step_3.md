@@ -41,7 +41,7 @@ Zufallszahl von (1) bis (10)
 
 Dein Code sollte entweder so aussehen:
 
-![Geist-Figur](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
@@ -56,7 +56,7 @@ ende
 
 Oder er könnte so aussehen:
 
-![Geist-Figur](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
