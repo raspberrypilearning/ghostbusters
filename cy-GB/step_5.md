@@ -18,7 +18,7 @@ Os wyt ti'n profi dy gÃªm ac mae'n anodd dal yr ysbrydion, mae modd chwarae'r gÃ
 
 Your code should look like this:
 
-![corlun-ysbryd](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 pan gaiff y ciplun yma ei glicio
