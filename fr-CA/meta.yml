@@ -1,7 +1,7 @@
 ---
-title: SOS Fantômes
+title: Ghostbusters
 hero_image: images/ghostbusters.png
-description: Fais un jeu pour attraper des fantômes!
+description: Make a game about catching ghosts!
 listed: true
 copyedit: true
 version: 4.1.0
@@ -10,23 +10,23 @@ steps:
   - 
     title: Introduction
   - 
-    title: Animer un fantôme
+    title: Animate a ghost
   - 
-    title: Fantômes aléatoires
+    title: Random ghosts
   - 
-    title: 'Défi : plus aléatoire'
+    title: 'Challenge: more randomness'
     challenge: true
   - 
-    title: Code pour capturer les fantômes
+    title: Code for catching ghosts
   - 
-    title: 'Défi : ajouter un son'
+    title: 'Challenge: add a sound'
     challenge: true
   - 
-    title: Ajouter un score
+    title: Add a score
   - 
-    title: Ajouter un minuteur
+    title: Add a timer
   - 
-    title: 'Défi : plus de sprites'
+    title: 'Challenge: more sprites'
     challenge: true
   - 
-    title: Et ensuite ?
+    title: What next?
