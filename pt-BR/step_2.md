@@ -32,7 +32,7 @@ Uma vez que a `bandeira verde é clicada`{:class="block3events"}, seu fantasma d
 
 Here are the code blocks you need:
 
-![ator do fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 esconda
@@ -53,7 +53,7 @@ quando a bandeira é clicada
 
 This is what your code should look like:
 
-![ator do fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 quando a bandeira for clicada
