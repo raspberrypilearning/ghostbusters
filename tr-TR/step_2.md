@@ -30,9 +30,9 @@ Bir kez `yeşil bayrak tıklandığında`{:class="block3events"}, hayaletiniz `b
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+İhtiyacınız olan kod blokları:
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
 gizle
@@ -51,9 +51,9 @@ yeşil bayrak tıklandığında
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Kodunuz şöyle görünmelidir:
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
 yeşil bayrak tıklandığında
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Projenizi test edin ve kayıt edin.
 
 [[[generic-scratch3-saving]]]
 
