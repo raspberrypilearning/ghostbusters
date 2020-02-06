@@ -1,23 +1,23 @@
-## Ajouter un minuteur
+## Add a timer
 
-Tu vas maintenant ajouter une minuterie afin que le joueur ne dispose que de dix secondes pour capturer le plus de fantômes possible.
+Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
 \--- task \---
 
-Créer une nouvelle variable appelée « temps ».
+Create a new variable called 'time'.
 
 \--- /task \---
 
 \--- task \---
 
-Peux-tu ajouter une minuterie à ta scène pour donner à ton joueur seulement 10 secondes pour attraper les fantômes?
+Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
 
-Ton chronomètre devrait:
+Your timer should:
 
-+ Commencer à 10 secondes
-+ Compter à rebours toutes les secondes
++ Start at 10 seconds
++ Count down every second
 
-Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
+The game should stop when the timer gets to 0.
 
 \--- hints \--- \--- hint \---
 
@@ -27,25 +27,25 @@ Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
 
 Here are the code blocks you need to use:
 
-![sprite-fantôme](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
 
-< [] = [] >
+< [ ] = [ ] >
 
-mettre [temps v] à [10]
+set [time v] to [10]
 
-ajouter (-1) à [temps v]
+change [time v] by (-1)
 
-(temps)
+(time)
 
-attendre (1) secondes
+wait (1) seconds
 
-répéter jusqu'à ce que < >
-fin
+repeat until < >
+end
 
-lorsque le drapeau est cliqué
+when flag clicked
 
 ```
 
@@ -53,15 +53,15 @@ lorsque le drapeau est cliqué
 
 Here is the code you should add to create a timer:
 
-![icône de l'arrière-plan](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
-mettre [heure v] à [10]
-répéter jusqu'à ce que < (temps) = [0] >
-attendre (1) secondes
-ajouter (-1) à [temps v]
-fin
+when flag clicked
+set [time v] to [10]
+repeat until < (time) = [0] >
+wait (1) seconds
+change [time v] by (-1)
+end
 stop [all]
 ```
 
@@ -77,9 +77,9 @@ Ask a friend to test your game. How many points can they score?
 
 If your game is too easy, you can:
 
-+ Donner au joueur moins de temps
-+ Faire apparaître les fantômes moins souvent
-+ Rendre les fantômes plus petits
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
 
 \--- task \---
 
