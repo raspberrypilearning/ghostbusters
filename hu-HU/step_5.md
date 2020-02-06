@@ -18,7 +18,7 @@ A szellem szereplőre `kattintáskor`{:class="block3events"}, a szellemnek el ke
 
 Your code should look like this:
 
-![szellem-szereplő](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 ezen szereplőre kattintáskor
