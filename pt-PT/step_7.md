@@ -36,7 +36,7 @@ altera [score v] para (0)
 quando alguém clicar na bandeira verde
 ```
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 adiciona a [score v] o valor (1)
@@ -44,14 +44,14 @@ adiciona a [score v] o valor (1)
 
 \--- /hint \--- \--- hint \---
 
-![ícone de fundo](images/ghost-backdrop.png)
+![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
 altera [score v] para (0)
 ```
 
-![ator fantasma](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 Quando alguém clicar em ti
