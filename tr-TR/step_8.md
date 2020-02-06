@@ -1,68 +1,68 @@
-## Add a timer
+## Bir zamanlayıcı ekle
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Şimdi bir zamanlayıcı ekleyeceksiniz, böylece oyuncu mümkün olduğu kadar çok hayalet yakalamak için sadece 10 saniyeye sahip olacak.
 
 \--- task \---
 
-Create a new variable called 'time'.
+'Süre' adlı bir değişken oluşturun.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Sahne Alanı'nıza, oyuncunun hayaletleri yakalayabilmesi için sadece 10 saniye süre tanındığı bir zamanlayıcı ekleyebilir misiniz?
 
-Your timer should:
+Zamanlayıcınız şunları yapmalı:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 saniyede başlamalı
++ Her saniyede 1 azalmalı
 
-The game should stop when the timer gets to 0.
+Zamanlayıcı 0 olduğunda oyun durmalı.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Yeşil bayrak tıklandığında`{:class="block3events"}, `puan`{:class="block3variables"} değişkeninizin `10 'a ayarlanması`{:class="block3variables"} gerekir. Daha sonra bu değişken `0'a ulaşıncaya dek`{:class="block3control"} `-1 azalmalıdır`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+İhtiyacınız olan kod blokları:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![hayalet-kuklası](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+durdur [all]
 
-< [ ] = [ ] >
+<[ ] = [ ]>
 
-set [time v] to [10]
+[süre] i [10] yap
 
-change [time v] by (-1)
+[süre] i (-1) kadar değiştir
 
-(time)
+(süre)
 
-wait (1) seconds
+(1) saniye bekle
 
-repeat until < >
+<> olana kadar tekrarla
 end
 
-when flag clicked
+yeşil bayrak tıklandığında
 
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Zamanlayıcı oluşturmak için eklemeniz gereken kod:
 
-![backdrop icon](images/ghost-backdrop.png)
+![zemin simgesi](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+yeşil bayrak tıklandığında
+[süre] i [10] yap
+<(süre) = [0]> olana kadar tekrarla 
+ (1) saniye bekle
+ [süre] i (-1) kadar değiştir
 end
-stop [all]
+durdur [all]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Bir arkadaşınızdan oyununuzu denemesini rica edin. Kaç puan alabilirler?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Eğer oyunun çok kolaysa, bunları yapabilirsin:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Oyuncuya daha az zaman ver
++ Hayaletileri daha seyrek görünür yap
++ Hayaletleri daha küçük yap
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Zorluk seviyesinden memnun kalana kadar oyununu birkaç kez değiştir ve test et.
 
 \--- /task \---
