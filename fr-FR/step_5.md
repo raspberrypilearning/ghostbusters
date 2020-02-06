@@ -18,7 +18,7 @@ Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux joue
 
 Ton code devrait ressembler à ceci :
 
-![sprite-fantôme](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 lorsque ce sprite est cliqué
