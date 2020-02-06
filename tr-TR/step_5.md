@@ -1,28 +1,28 @@
-## Code for catching ghosts
+## Hayaletleri yakalamak için kod
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Şimdi oyununa kod ekleyeceksin, böylece oyuncu hayaletleri yakalayabilecek!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Yakalandığında hayaletini ortadan kaybolacak şekilde ayarlayabilir misin? Oyuncu, onları yakalamak için hayaletleri tıklayabilmelidir.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Oyununuzu sınarken hayaletleri yakalamakta zorlanıyorsanız, bu düğmeye tıklayarak oyunu tam ekran modunda oynayabilirsiniz:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![ekran görüntüsü](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Tıklandığında`{:class="block3events"} hayalet kuklanız `kaybolmalıdır`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Kodunuz şöyle görünmeli:
 
-![ghost-sprite](images/ghost-sprite.png)
+![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+bu kukla tıklandığında
+gizle
 ```
 
 \--- /hint \--- \--- /hints \---
