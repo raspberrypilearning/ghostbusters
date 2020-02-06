@@ -32,7 +32,7 @@ Po `zielona flaga kliknięciu`{class = "block3events"}, twój duch powinien `ukr
 
 Here are the code blocks you need:
 
-![duszek ducha](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 ukryj
@@ -53,7 +53,7 @@ gdy kliknięta flaga
 
 This is what your code should look like:
 
-![duszek ducha](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 kiedy flaga kliknięta
