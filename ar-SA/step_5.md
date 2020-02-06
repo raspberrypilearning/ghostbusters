@@ -16,7 +16,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي:
 
 ![كائن الشبح](images/ghost-sprite.png)
 
