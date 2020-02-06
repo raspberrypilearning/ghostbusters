@@ -16,7 +16,7 @@ Als je je spel test en spoken vangen moeilijk vindt, kun je het spel in volledig
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Je code zou er als volgt uit moeten zien:
 
 ![spook-sprite](images/ghost-sprite.png)
 
