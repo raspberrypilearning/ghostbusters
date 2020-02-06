@@ -1,12 +1,12 @@
 \--- no-print \---
 
-Ceci est la version **Scratch 3** du projet. Il y a aussi une version [Scratch 2 du projet](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
 ## Introduction
 
-Tu vas faire un jeu attrape-fantôme!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ Tu vas faire un jeu attrape-fantôme!
 
 \--- print-only \---
 
-![démonstration](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,13 +27,13 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## title: What you will need
 
-### Matériel informatique
+### Hardware
 
-- Un ordinateur
+- A computer
 
-### Logiciel
+### Software
 
-- Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -41,9 +41,9 @@ Tu vas faire un jeu attrape-fantôme!
 
 ## title: What you will learn
 
-- Comprendre la nécessité de pauses entre les actions dans les boucles
-- Utiliser du code pour générer des nombres aléatoires dans Scratch
-- Ajouter une variable pour stocker un score de jeu dans Scratch
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
