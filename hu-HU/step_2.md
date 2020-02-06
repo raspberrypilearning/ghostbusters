@@ -32,7 +32,7 @@ A `zöld zászlóra kattintás`{:class="block3events"} után, a szellemednek `el
 
 Here are the code blocks you need:
 
-![szellem-szereplő](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 tűnj el
@@ -53,7 +53,7 @@ várj (1) mp-et
 
 This is what your code should look like:
 
-![szellem-szereplő](images/ghost-sprite.png)
+![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
