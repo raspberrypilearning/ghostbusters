@@ -1,4 +1,4 @@
-## Adicionar um cronômetro
+## Add a timer
 
 Agora você vai adicionar um cronômetro de forma que o jogador tenha apenas dez segundos para pegar o maior número possível de fantasmas.
 
@@ -27,7 +27,7 @@ O jogo deve parar quando o cronômetro chegar a 0.
 
 Here are the code blocks you need to use:
 
-![ator do fantasma](images/ghost-backdrop.png)
+![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 pare [todos]
