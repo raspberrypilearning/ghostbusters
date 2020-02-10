@@ -21,13 +21,13 @@ O jogo deve parar quando o cronómetro chegar a 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. Deve então ` mudar em -1 ` {: class = "block3variables"} a cada segundo ` até chegar a 0 ` {: class = "block3control"}.
 
 \--- /hint \--- \--- hint \---
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![ator fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 pára [all]
@@ -53,7 +53,7 @@ Quando alguém clicar na bandeira verde
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -71,11 +71,11 @@ pára [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Pede a um amigo para testar o teu jogo. Quantos pontos conseguem eles fazer?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Se o teu jogo é muito fácil, podes:
 
 + Dá menos tempo ao jogador
 + Faz com que os fantasmas apareçam com menos frequência
@@ -83,6 +83,6 @@ If your game is too easy, you can:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Muda e testa o teu jogo algumas vezes até ficares satisfeito com o nível de dificuldade.
 
 \--- /task \---
