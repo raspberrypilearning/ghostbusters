@@ -26,7 +26,7 @@ De cada vez que um jogador clicar num fantasma, a sua pontuação deve aumentar.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Estes são os blocos de que necessitas:
 
 ![ícone de fundo](images/ghost-backdrop.png)
 
@@ -36,7 +36,7 @@ altera [score v] para (0)
 quando alguém clicar na bandeira verde
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 adiciona a [score v] o valor (1)
@@ -44,14 +44,14 @@ adiciona a [score v] o valor (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
 altera [score v] para (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 Quando alguém clicar em ti
