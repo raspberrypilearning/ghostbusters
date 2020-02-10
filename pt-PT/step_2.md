@@ -30,9 +30,9 @@ Quando a ` bandeira verde for clicada ` {: class = "block3events"}, o teu fantas
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Estes são os blocos de que necessitas:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 esconde-te
@@ -51,9 +51,9 @@ Quando alguém clicar na bandeira verde
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Este é o aspeto que o teu código deve ter:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator fantasma](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Testa e salva o teu código.
 
 [[[generic-scratch3-saving]]]
 
