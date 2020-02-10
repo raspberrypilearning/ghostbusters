@@ -25,7 +25,7 @@ Vais fazer um jogo onde podes capturar fantasmas!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Do que vais precisar
 
 ### Hardware
 
@@ -39,7 +39,7 @@ Vais fazer um jogo onde podes capturar fantasmas!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: O que vais aprender
 
 - Entender a necessidade de pausas entre ações dentro de ciclos
 - Usar código para gerar números aleatórios no Scratch
@@ -49,14 +49,14 @@ Vais fazer um jogo onde podes capturar fantasmas!
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Notas adicionais para educadores
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Se for necessário imprimir este projeto, por favor usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target = blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/ghostbusters-get){: target = "_ blank"}.
 
 \--- /collapse \---
