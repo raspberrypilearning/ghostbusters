@@ -33,7 +33,7 @@ To so bloki kode, ki jih potrebuješ:
 ```blocks3
 nastavi [točke v] na (0)
 
-ko kliknemo na zastavico
+ko je kliknjena zelena zastavica
 ```
 
 ![figura-duhca](images/ghost-sprite.png)
@@ -47,17 +47,16 @@ spremeni [točke v] za (1)
 ![ikona ozadja](images/ghost-backdrop.png)
 
 ```blocks3
-ko kliknemo na zastavico
-nastavi [rezultat v] na (0)
+ko je kliknjena zelena zastavica
+nastavi [točke v] na (0)
 ```
 
 ![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-ko kliknemo na to figuro
+ko kliknemo to figuro
 skrij
-
-+ spremeni [rezultat v] za (1)
++ spremeni [točke v] za (1)
 ```
 
 --- /hint --- --- /hints ---

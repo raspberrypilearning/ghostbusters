@@ -34,20 +34,20 @@ To so bloki kode, ki jih potrebuješ:
 ```blocks3
 ustavi [vse]
 
-< [] = [] >
+<[ ] = [ ]>
 
 nastavi [čas v] na [10]
 
-spremeni [čas v] za(-1)
+spremeni [čas v] za (-1)
 
 (čas)
 
 počakaj (1) sekund
 
-ponavljaj dokler < >
-konec
+ponavljaj do <>
+end
 
-ko kliknemo na zastavico
+ko je kliknjena zelena zastavica
 
 ```
 
@@ -59,7 +59,7 @@ Takšna je koda za dodajanje časovnika:
 ![ikona ozadja](images/ghost-backdrop.png)
 
 ```blocks3
-ko kliknemo na zastavico
+ko je kliknjena zelena zastavica
 nastavi [čas V] na [10]
 ponavljaj do < (čas) = [0] >
 počakaj (1) sekund

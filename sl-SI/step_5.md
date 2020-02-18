@@ -21,7 +21,7 @@ Tvoja koda bi morala izgledati tako:
 ![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-ko kliknemo na to figuro
+ko kliknemo to figuro
 skrij
 ```
 

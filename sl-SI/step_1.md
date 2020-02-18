@@ -57,6 +57,6 @@ title: Dodatne informacije za izobraževalce
 
 --- /no-print ---
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/sl-SI/ghostbusters-get)"}.
+Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/sl-SI/ghostbusters-get).
 
 --- /collapse ---

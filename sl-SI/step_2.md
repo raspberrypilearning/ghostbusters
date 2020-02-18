@@ -46,7 +46,7 @@ počakaj (1) sekund
 
 počakaj (1) sekund
 
-ko kliknemo na zastavico
+ko je kliknjena zelena zastavica
 ```
 
 --- /hint --- --- hint ---
@@ -56,13 +56,13 @@ Tvoja koda mora izgledati tako:
 ![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-ko kliknemo na zastavico
-ponavljaj
-skrij
-počakaj (1) sekunde
-pokaži
-počakaj (1) sekunde
-konec
+ko je kliknjena zelena zastavica
+ponavljaj 
+  skrij
+  počakaj (1) sekund
+  pokaži
+  počakaj (1) sekund
+end
 ```
 
 --- /hint --- --- /hints ---

@@ -43,14 +43,14 @@ Tvoja koda bi lahko izgledala tako:
 ![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-ko kliknemo na zastavico
-ponavljaj
-skrij
-počakaj (1) sekunde
-pojdi na (naključna mesto v)
-pokaži
-počakaj (1) sekunde
-konec
+ko je kliknjena zelena zastavica
+ponavljaj 
+  skrij
+  počakaj (1) sekund
+  pojdi na (random position v)
+  pokaži
+  počakaj (1) sekund
+end
 ```
 
 Lahko pa bi bila videti tudi tako:
@@ -58,14 +58,14 @@ Lahko pa bi bila videti tudi tako:
 ![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-ko kliknemo na zastavico
-ponavljaj
-skrij
-počakaj (1) sekunde
-pojdi na x: (naključno število med (-150) in (150)) y: (naključno število med (-150) in (150))
-pokaži
-počakaj (1) sekunde
-konec
+ko je kliknjena zelena zastavica
+ponavljaj 
+  skrij
+  počakaj (1) sekund
+  pojdi na x: (naključno število med (-150) in (150)) y: (naključno število med (-150) in (150))
+  pokaži
+  počakaj (1) sekund
+end
 ```
 
 --- /hint --- --- /hints ---
