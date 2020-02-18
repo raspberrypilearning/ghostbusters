@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Izziv: več duhov
 
-Can you add other sprites to your game?
+Ali lahko igri dodaš druge figure?
 
-![screenshot](images/ghost-final.png)
+![posnetek zaslona](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Za vsako figuro, ki jo želiš dodati, moraš razmisliti o tem:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Kako velika naj bo?
++ Ali naj se pojavi bolj ali manj pogosto kot figura duhca?
++ Kako izgleda/zveni, ko jo ujamejo?
++ Koliko točk igralec dobi (ali izgubi), ko ulovi figuro?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Če potrebuješ pomoč, se lahko vrneš na prejšnje korake ali vprašaj prijatelja!
