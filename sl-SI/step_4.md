@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## Izziv: več naključja
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Ali bi lahko dodal figuri duhca kodo, ki bi duhu sporočila, da skrit `počaka`{: class = "block3control"} naključno dolgo časa?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Ali lahko uporabiš blok `nastavi velikost na`{: class = "block3looks"}, da bo tvoj duh naključno velik ali majhen vsakič, ko se bo pojavil?
