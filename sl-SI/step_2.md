@@ -1,8 +1,8 @@
-## Animate a ghost
+## Animiraj duhca
 
 \--- task \---
 
-Open a new empty Scratch project.
+Ustvari nov prazen Scratch projekt.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Dodaj novo figuro duhca in primerno ozadje za oder.
 
-![screenshot](images/ghost-ghost.png)
+![posnetek zaslona](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,47 +22,47 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Duhu dodaj kodo, ki povzroči, da se duh, po tem ko kliknemo na zeleno zastavico, neprenehoma pokaže in potem skrije.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+Ko kliknemo na `zelena zastava`{: class="block3events"}, `skrij`{: class="block3looks"} figuro duhca za `eno sekundo`{: class="block3control"} in jo nato `pokaži`{: class="block3looks"} za `eno sekundo`{: class="block3control"}. To `ponavljaj`{: class = "block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+To so bloki kode, ki jih potrebuješ:
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-hide
+skrij
 
-show
+pokaži
 
-forever
-end
+ponavljaj
+konec
 
-wait (1) seconds
+počakaj (1) sekund
 
-wait (1) seconds
+počakaj (1) sekund
 
-when flag clicked
+ko kliknemo na zastavico
 ```
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Tvoja koda mora izgledati tako:
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-show
-wait (1) seconds
-end
+ko kliknemo na zastavico
+ponavljaj
+skrij
+počakaj (1) sekunde
+pokaži
+počakaj (1) sekunde
+konec
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Preizkusi in shrani svoj projekt.
 
 [[[generic-scratch3-saving]]]
 
