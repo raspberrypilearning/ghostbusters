@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Izziv: dodaj zvok
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Ali lahko svojemu duhu dodaš kodo, zaradi katere bo oddal zvok, ko se ga ujame?
