@@ -1,12 +1,12 @@
-## What next?
+## Kaj sledi?
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+Čestitamo za uspešno zaključen projekt Lovci duhov! Ali bi rad-a ustvaril še kaj malo bolj zahtevnega?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+Preizkusi projekt [Čvekobot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+Klikni na zeleno zastavico in nato klikini na lik Čvekobota, da začneš pogovor. Ko te bo Čvekobot nekaj vprašal, vtipkaj svoj odgovor v polje na dnu odra in nato klikni na modri znak na desni (ali pritisni tipko `enter`), da se bo pojavil Čvekobotov odgovor.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![dokončan projekt](images/chatbot-preview.png)
 
 \--- /print-only \---
