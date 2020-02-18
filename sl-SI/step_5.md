@@ -1,28 +1,28 @@
-## Code for catching ghosts
+## Koda za lov na duhove
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Zdaj boš igri dodal-a kodo, da bo igralec lahko duhove ujel!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Ali lahko narediš, da tvoj duh, potem ko ga ujamejo, izgine? Igralec mora imeti možnost, da klikne na duhove in jih s tem ujame.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Če preizkuš svojo igro in ugotoviš, da je lovljenje duhov težko, lahko preklopiš na celozaslonski način s klikom na ta gumb:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![posnetek zaslona](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Ko kliknemo figuro`{: class = "block3events"}, se naj duhec `skrije`{: class = "block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Tvoja koda bi morala izgledati tako:
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+ko kliknemo na to figuro
+skrij
 ```
 
 \--- /hint \--- \--- /hints \---
