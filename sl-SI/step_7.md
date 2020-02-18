@@ -1,10 +1,10 @@
-## Add a score
+## Dodaj točkovanje
 
-Now you're going to make your game more interesting by keeping score!
+Svojo igro boš naredil-a bolj zanimivo s štetjem točk!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Ustvari novo spremenljivko z imenom `točke`{: class = "block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,52 +12,52 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Ali lahko spremljaš igralčev rezultat? Igralci bi morali osvojiti točke, kadar kliknejo na duhca in ga ujamejo.
 
-Each time a player clicks on a ghost, their score should increase.
+Vsakič, ko igralec klikne na duhca, se njegovo število točk poveča.
 
-![Increasing score](images/ghost-score-test.png)
+![večanje rezultata](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`Ko kliknemo na zastavico`{:class="block3events"}, se mora spremenljivka `točke`{:class="block3variables"} `nastaviti na 0`{:class="block3variables"}. Najbolj primerno mesto za dodajanje te kode je oder.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need:
-
-![backdrop icon](images/ghost-backdrop.png)
-
-```blocks3
-set [score v] to (0)
-
-when flag clicked
-```
-
-![ghost-sprite](images/ghost-sprite.png)
-
-```blocks3
-change [score v] by (1)
-```
+`Ko kliknemo to figuro`{:class="block3events"} se mora spremenljivka `točke`{:class="block3variables"} temu ustrezno `spremeniti za 1`{: class = "block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+To so bloki kode, ki jih potrebuješ:
+
+![ikona ozadja](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+nastavi [točke v] na (0)
+
+ko kliknemo na zastavico
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+spremeni [točke v] za (1)
+```
 
-+ change [score v] by (1)
+\--- /hint \--- \--- hint \---
+
+![ikona ozadja](images/ghost-backdrop.png)
+
+```blocks3
+ko kliknemo na zastavico
+nastavi [rezultat v] na (0)
+```
+
+![figura-duhca](images/ghost-sprite.png)
+
+```blocks3
+ko kliknemo na to figuro
+skrij
+
++ spremeni [rezultat v] za (1)
 ```
 
 \--- /hint \--- \--- /hints \---
