@@ -1,0 +1,22 @@
+---
+title: Lovci na duhove
+hero_image: images/ghostbusters.png
+description: Naredio igro v kateri loviš duhove!
+listed: true
+copyedit: true
+version: 4.1.0
+last_tested: 2018-11-01
+steps:
+  - title: Uvod
+  - title: Animiraj duhca
+  - title: Naključni duhovi
+  - title: 'Izziv: več naključja'
+    challenge: true
+  - title: Koda za lov na duhove
+  - title: 'Izziv: dodaj zvok'
+    challenge: true
+  - title: Dodaj točkovanje
+  - title: Dodaj časovnik
+  - title: 'Izziv: več figur'
+    challenge: true
+  - title: Kaj sledi?
