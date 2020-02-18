@@ -1,32 +1,32 @@
 ---
-title: Ghostbusters
+title: Lovci na duhove
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: Naredio igro v kateri loviš duhove!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: Animate a ghost
+    title: Animiraj duhca
   - 
-    title: Random ghosts
+    title: Naključni duhovi
   - 
-    title: 'Challenge: more randomness'
+    title: 'Izziv: več naključja'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: Koda za lov na duhove
   - 
-    title: 'Challenge: add a sound'
+    title: 'Izziv: dodaj zvok'
     challenge: true
   - 
-    title: Add a score
+    title: Dodaj točkovanje
   - 
-    title: Add a timer
+    title: Dodaj časovnik
   - 
-    title: 'Challenge: more sprites'
+    title: 'Izziv: več figur'
     challenge: true
   - 
-    title: What next?
+    title: Kaj sledi?
