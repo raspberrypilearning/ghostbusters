@@ -1,71 +1,71 @@
-## Random ghosts
+## Naključni duhovi
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Tvoj duhec je trenutno še zelo lahko ujeti, ker se ne premika!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Ali lahko svojemu duhu dodaš kodo, tako da ne ostane vedno na istem položaju, temveč se pojavi na naključnih položajih na odru?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Vsakič, preden se tvoja figura duhca povavi, bi ji moral ukazati `pojdi na`{: class = "block3motion"} naključni položaj na odru.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Obstajata dva niza blokov kode, ki jih lahko za to uporabiš. Izberi tistega, ki ti bolj ustreza.
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Figuri duhca dodaj ta blok:
 
 ```blocks3
-go to (random position v)
+pojdi na (naključno mesto v)
 ```
 
-Or add this one to your sprite:
+Ali pa duhu dodaj te bloke:
 
 ```blocks3
-go to x: (14) y: (50)
+pojdi na x: (14) y: (50)
 
-pick random (1) to (10)
+naključno število med (1) in (10)
 
-pick random (1) to (10)
+naključno število med (1) in (10)
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Tvoja koda bi lahko izgledala tako:
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
-end
+ko kliknemo na zastavico
+ponavljaj
+skrij
+počakaj (1) sekunde
+pojdi na (naključna mesto v)
+pokaži
+počakaj (1) sekunde
+konec
 ```
 
-Or it could look like this:
+Lahko pa bi bila videti tudi tako:
 
-![ghost-sprite](images/ghost-sprite.png)
+![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
+ko kliknemo na zastavico
+ponavljaj
+skrij
+počakaj (1) sekunde
+pojdi na x: (naključno število med (-150) in (150)) y: (naključno število med (-150) in (150))
+pokaži
+počakaj (1) sekunde
+konec
 ```
 
 \--- /hint \--- \--- /hints \---
