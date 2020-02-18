@@ -1,68 +1,68 @@
-## Add a timer
+## Dodaj časovnik
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Sedaj boš dodal-a štoparico, tako da bo igralec imel samo deset sekund, v katerih mora ujeti čim več duhov.
 
 \--- task \---
 
-Create a new variable called 'time'.
+Ustvari novo spremenljivko, imenovano »čas«.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Ali lahko dodaš tvojemu odru časovnik, ki bo igralcu omogočil le 10 sekund, za lovljenje duhov?
 
-Your timer should:
+Tvoj časovnik mora:
 
-+ Start at 10 seconds
-+ Count down every second
++ Začeti pri 10 sekund
++ Odštevati po eno skundo
 
-The game should stop when the timer gets to 0.
+Igra se mora ustaviti, ko časovnik doseže 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Ko kliknemo na zastavico`{:class="block3events"}, spremenljivko `čas`{:class="block3variables"} `nastavi na 10`{:class="block3variables"}. Nato `spremeni čas za -1`{:class="block3variables"}, dokler `ne doseže 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+To so bloki kode, ki jih potrebuješ:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![figura-duhca](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+ustavi [vse]
 
-< [ ] = [ ] >
+< [] = [] >
 
-set [time v] to [10]
+nastavi [čas v] na [10]
 
-change [time v] by (-1)
+spremeni [čas v] za(-1)
 
-(time)
+(čas)
 
-wait (1) seconds
+počakaj (1) sekund
 
-repeat until < >
-end
+ponavljaj dokler < >
+konec
 
-when flag clicked
+ko kliknemo na zastavico
 
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Takšna je koda za dodajanje časovnika:
 
-![backdrop icon](images/ghost-backdrop.png)
+![ikona ozadja](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
+ko kliknemo na zastavico
+nastavi [čas V] na [10]
+ponavljaj do < (čas) = [0] >
+počakaj (1) sekund
+spremeni [čas V] za (-1)
+konec
+ustavi [vse]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Prosi prijatelja, da preizkusi tvojo igro. Koliko točk lahko doseže?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Če je tvoja igra preveč enostavna, lahko:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Daš igralcu manj časa
++ Narediš, da se duhovi pojavljajo manj pogosto
++ Zmanjšaš figure duhcev
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Spreminjaj in preizkušaj svojo igro, dokler nisi zadovoljen z njeno težavnosto stopnjo.
 
 \--- /task \---
