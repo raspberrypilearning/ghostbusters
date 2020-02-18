@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+To je različica projekta **Scratch 3** . Obstaja tudi različica projekta [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Uvod
 
-You are going to make a ghost-catching game!
+Ustvaril boš igro, v kateri boš lovil duhove!
 
 \--- no-print \---
 
@@ -19,44 +19,44 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![izložba](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Kaj potrebuješ?
 
-### Hardware
+### Strojna oprema
 
-- A computer
+- Računalnik
 
-### Software
+### Programska oprema
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Scratch 3 ( [spletu](http://rpf.io/scratchon){: target = "_ blank"} ali [brez povezave](http://rpf.io/scratchoff){: target = "_ blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Kaj se boš naučil-a?
+
+- Razumevanja potrebe po pavzah med dejanji znotraj zank
+- Rabe kode za ustvarjanje naključnih števil v Scratchu
+- Dodajanja spremenljivk za shranjevanje števila točk v Scratchu
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Dodatne informacije za izobraževalce
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/ghostbusters-get)"}.
 
 \--- /collapse \---
