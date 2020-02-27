@@ -1,0 +1,22 @@
+---
+title: Hayalet Avcıları
+hero_image: images/ghostbusters.png
+description: Hayaletleri yakalama oyunu yapın!
+listed: true
+copyedit: true
+version: 4.1.0
+last_tested: 2018-11-01
+steps:
+  - title: Giriş
+  - title: Bir hayaleti canlandırın
+  - title: Rastgele hayaletler
+  - title: 'Meydan okuma: Daha fazla rastgelelik'
+    challenge: true
+  - title: Hayaletleri yakalamak için kodlama
+  - title: 'Meydan okuma: Ses ekleme'
+    challenge: true
+  - title: Bir puan ekle
+  - title: Bir zamanlayıcı ekle
+  - title: 'Meydan Okuma: Daha fazla kukla'
+    challenge: true
+  - title: Sırada ne var?
