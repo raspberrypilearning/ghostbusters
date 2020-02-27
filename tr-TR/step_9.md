@@ -1,4 +1,4 @@
-## Meydan Okuma: Daha fazla kukla
+## Meydan okuma: Daha fazla kukla
 
 Oyuna başka kuklalar ekleyebilir misin?
 

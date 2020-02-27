@@ -57,6 +57,6 @@ Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://
 
 --- /no-print ---
 
-Tamamlanmış projeye [buradan](http://rpf.io/p/en/ghostbusters-get){:target="_blank"} ulaşabilirsiniz.
+Tamamlanmış projeye [buradan](http://rpf.io/p/tr-TR/ghostbusters-get){:target="_blank"} ulaşabilirsiniz.
 
 --- /collapse ---

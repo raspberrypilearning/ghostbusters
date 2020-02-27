@@ -1,4 +1,4 @@
-## Meydan Okuma: Daha fazla rastgelelik
+## Meydan okuma: Daha fazla rastgelelik
 
 Hayalet kuklanıza, gizlenirken rastgele bir süre `beklemesini`{:class="block3control"} sağlayan bir kodu ekleyebilir misiniz?
 
