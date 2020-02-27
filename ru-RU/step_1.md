@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Это версия проекта **Скретч 3**. Существует также версия проекта [Скретч 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+Это версия проекта **Scratch 3**. Существует также версия проекта [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
 
 \--- /no-print \---
 
@@ -25,7 +25,7 @@
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Что тебе понадобится
 
 ### Оборудование
 
@@ -39,24 +39,24 @@
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Чему ты научишься
 
 - Понимать, зачем нужны паузы между действиями внутри циклов
-- Использовать код для генерации случайных чисел в Скретч
-- Добавлять переменную для сохранения результата игры в Скретч
+- Использовать код для генерации случайных чисел в Scratch
+- Добавлять переменную для сохранения результата игры в Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Дополнительные примечания для педагогов
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Если вам нужно распечатать этот проект, используйте [версию для печати](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Вы можете найти [завершённый проект здесь](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
