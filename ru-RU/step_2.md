@@ -32,7 +32,7 @@
 
 Вот блоки кода, которые тебе понадобятся:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
 спрятаться
@@ -53,7 +53,7 @@ end
 
 Вот как должен выглядеть твой код:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
