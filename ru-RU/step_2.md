@@ -12,7 +12,7 @@
 
 Добавь новый спрайт приведение и подходящий фон для Сцены.
 
-![screenshot](images/ghost-ghost.png)
+![снимок экрана](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -30,7 +30,7 @@
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Вот блоки кода, которые тебе понадобятся:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -51,7 +51,7 @@ end
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Вот как должен выглядеть твой код:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Протестируй и сохрани свой проект.
 
 [[[generic-scratch3-saving]]]
 
