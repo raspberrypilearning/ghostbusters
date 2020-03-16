@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## Задача: больше случайностей
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Можешь ли ты добавить код к своему спрайту приведение, чтобы приведение `ждало`{:class="block3control"} случайное количество времени, пока оно скрыто?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+Можешь ли ты использовать блок `установить размер`{:class="blocklooks"}, чтобы твоё приведение при каждом появлении имело случайный размер?
