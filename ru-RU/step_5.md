@@ -1,28 +1,28 @@
-## Code for catching ghosts
+## Код для ловли приведений
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Сейчас ты добавишь код в свою игру, чтобы игрок ловил приведений!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Можешь ли ты сделат так, чтобы твоё приведение исчезало, когда его поймали? Игрок должен иметь возможность нажимать на приведения, чтобы поймать их.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Если ты проверишь свою игру и обнаружишь, что ловить приведения сложно, то ты можешь поиграть в игру в полноэкранном режиме, нажав на эту кнопку:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![снимок экрана](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`При нажатии`{:class="block3events"}, твой спрайт приведение должен `скрыться`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Твой код должен выглядеть так:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
-hide
+когда спрайт нажат
+спрятаться
 ```
 
 \--- /hint \--- \--- /hints \---
