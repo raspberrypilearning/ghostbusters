@@ -16,55 +16,55 @@
 
 Есть два набора блоков кода, которые ты можешь использовать. Выбери набор, который тебе нравится.
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 Или добавь этот набор блоков к своему приведению:
 
 ```blocks3
-go to (random position v)
+перейти на (случайное положение v)
 ```
 
-Or add this one to your sprite:
+Или добавь это в свой спрайт:
 
 ```blocks3
-go to x: (14) y: (50)
+перейти в x: (14) y: (50)
 
-pick random (1) to (10)
+(выдать случайное от (1) до (10))
 
-pick random (1) to (10)
+(выдать случайное от (1) до (10))
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code could look either like this:
+Твой код может выглядеть, как этот:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to (random position v)
-show
-wait (1) seconds
+когда щёлкнут по зелёному флагу
+повторять всегда 
+ спрятаться
+ ждать (1) секунд
+ перейти на (случайное положение v)
+ показаться
+ ждать (1) секунд
 end
 ```
 
-Or it could look like this:
+Или он может выглядеть, как этот:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
+когда щёлкнут по зелёному флагу
+повторять всегда 
+ спрятаться
+ ждать (1) секунд
+ перейти в x: (выдать случайное от (-150) до (150)) y: (выдать случайное от (-150) до (150))
+ показаться
+ ждать (1) секунд
 end
 ```
 
