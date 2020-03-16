@@ -1,10 +1,10 @@
-## Add a score
+## Добавление счёта
 
-Now you're going to make your game more interesting by keeping score!
+Сейчас ты сделаешь свою игру более интересной, сохраняя счёт!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Создай новую переменную с именем `счёт`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,52 +12,52 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Можешь ли ты следить за счётом игрока? Игроки должны набирать баллы, щёлкая по приведениям, чтобы ловить их.
 
-Each time a player clicks on a ghost, their score should increase.
+Каждый раз, когда игрок щёлкает по приведению, его количество баллов должно увеличиваться.
 
-![Increasing score](images/ghost-score-test.png)
+![Увеличение счёта](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`Когда зелёный флаг нажат`{:class="block3events"}, твоей переменной `счёт`{:class="block3variables"} должно быть `задано значение 0`{:class="block3variables"}. Сцена – лучшее место для добавления этого кода.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need:
-
-![backdrop icon](images/ghost-backdrop.png)
-
-```blocks3
-set [score v] to (0)
-
-when flag clicked
-```
-
-![ghost-sprite](images/ghost-sprite.png)
-
-```blocks3
-change [score v] by (1)
-```
+`Когда нажат спрайт привидения`{:class="block3events"}, переменная `счёт`{:class="block3variables"} должна `измениться на 1`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+Вот блоки кода, которые тебе понадобятся:
+
+![фоновая иконка](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [score v] to (0)
+задать [счёт v] значение (0)
+
+когда щёлкнут по зелёному флагу
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
-When this sprite clicked
-hide
+изменить [счёт v] на (1)
+```
 
-+ change [score v] by (1)
+\--- /hint \--- \--- hint \---
+
+![фоновая иконка](images/ghost-backdrop.png)
+
+```blocks3
+когда щёлкнут по зелёному флагу
+задать [счёт v] значение (0)
+```
+
+![спрайт-приведение](images/ghost-sprite.png)
+
+```blocks3
+когда спрайт нажат
+спрятаться
+
++ изменить [счёт v] на (1)
 ```
 
 \--- /hint \--- \--- /hints \---
