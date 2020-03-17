@@ -1,4 +1,4 @@
-## Add a timer
+## Добавление таймера
 
 Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
 
