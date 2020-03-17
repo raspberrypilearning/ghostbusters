@@ -1,27 +1,27 @@
 ## Добавление таймера
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+А сейчас ты добавишь таймер, чтобы у игрока было всего десять секунд, чтобы поймать как можно больше приведений.
 
 \--- task \---
 
-Create a new variable called 'time'.
+Создай новую переменную с именем 'время'.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Можешь ли ты добавить на свою Сцену таймер, чтобы дать игроку всего 10 секунд на то, чтобы поймать как можно больше приведений?
 
-Your timer should:
+Твой таймер должен:
 
-+ Start at 10 seconds
-+ Count down every second
++ Иметь начальное значение в 10 секунд
++ Каждую секунду вести обратный отсчёт
 
-The game should stop when the timer gets to 0.
+Игра должна прекратиться, когда таймер достигнет значения 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Когда зелёный флаг нажат`{:class="block3events"}, твоей переменной `время`{:class="block3variables"} должно быть `задано значение 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
