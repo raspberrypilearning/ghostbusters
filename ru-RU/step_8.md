@@ -21,48 +21,48 @@
 
 \--- hints \--- \--- hint \---
 
-`Когда зелёный флаг нажат`{:class="block3events"}, твоей переменной `время`{:class="block3variables"} должно быть `задано значение 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Когда зелёный флаг нажат`{:class="block3events"}, твоей переменной `время`{:class="block3variables"} должно быть `задано значение 10`{:class="block3variables"}. Затем она должна `изменяться на -1`{:class="block3variables"} каждую секунду, `пока она не достигнет значения 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+Вот блоки кода, которые тебе понадобятся:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![спрайт-приведение](images/ghost-backdrop.png)
 
 ```blocks3
-stop [all]
+стоп [все]
 
 < [ ] = [ ] >
 
-set [time v] to [10]
+задать [время v] значение [10]
 
-change [time v] by (-1)
+изменить [время v] на (-1)
 
-(time)
+(время)
 
-wait (1) seconds
+ждать (1) секунд
 
-repeat until < >
+повторять пока не < >
 end
 
-when flag clicked
+когда щёлкнут по зелёному флагу
 
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Вот код, который нужно добавить для создания таймера:
 
-![backdrop icon](images/ghost-backdrop.png)
+![фоновая иконка](images/ghost-backdrop.png)
 
 ```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
+когда щёлкнут по зелёному флагу
+задать [время v] значение [10]
+повторять пока не < (время) = [0] >
+ ждать (1) секунд
+ изменить [время v] на (-1)
 end
-stop [all]
+стоп [все]
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Попроси друга протестировать твою игру. Сколько очков они могут набрать?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Если твоя игра слишком проста, ты можешь:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Дать игроку меньше времени
++ Сделать так, чтобы приведения появлялись менее часто
++ Уменьшить размер приведений
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Изменяй и тестируй свою игру до тех пор, пока ты не будешь доволен уровнем сложности.
 
 \--- /task \---
