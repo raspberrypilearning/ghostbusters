@@ -20,7 +20,7 @@ Dein Timer sollte:
 Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
 --- hints ---
- --- hint --- `Wenn die grüne Flagge angeklickt wird`{:class=”block3events”}, sollte deine `Zeit`{:class=”block3variables”}-Variable `auf 10 gesetzt`{:class=”block3variables”} werden. Sie sollte dann jede Sekunde `um -1 geändert werden`{:class=”block3variables”} `bis sie den Wert 0 erreicht`{:class=”block3control"}.
+ --- hint --- `Wenn die grüne Flagge angeklickt wird`{:class="block3events"}, sollte deine `Zeit`{:class="block3variables"}-Variable `auf 10 gesetzt`{:class="block3variables"} werden. Sie sollte dann jede Sekunde `um -1 geändert werden`{:class="block3variables"} `bis sie den Wert 0 erreicht`{:class="block3control"}.
 --- /hint ---
  --- hint --- Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-backdrop.png)
 
@@ -46,12 +46,13 @@ Wenn die grüne Flagge angeklickt
 --- /hint --- --- hint --- Hier ist der Code, den du hinzufügen solltest, um eine Stoppuhr zu erstellen: ![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze [Zeit v] auf [10]
-wiederhole bis < (Zeit) = [0] >
-warte (1) Sekunden
-ändere [Zeit v] um (-1)
-stoppe [alles]
+when flag clicked
+set [Zeit v] to [10]
+repeat until < (Zeit) = [0] >
+wait (1) seconds
+change [Zeit v] by (-1)
+end
+stop [alles]
 ```
 
 --- /hint --- --- /hints ---
