@@ -20,3 +20,21 @@ Click on the green flag, and then click on the chatbot character to start a conv
 ![complete project](images/chatbot-preview.png)
 
 --- /print-only ---
+
+
+***
+تمت ترجمة هذا المشروع بواسطة متطوعين:
+
+نادية علي قاسم
+
+راشد النبهاني
+
+وفاء علي
+
+لؤي سالم باعُقبة 
+
+هند إبراهيم الداود
+
+Mohamed Rayyan
+
+بفضل المتطوعين ، يمكننا إعطاء الناس في جميع أنحاء العالم فرصة للتعلم بلغتهم الخاصة. يمكنك مساعدتنا في الوصول إلى المزيد من الأشخاص من خلال التطوع للترجمة - مزيد من المعلومات على [rpf.io/translate](https://rpf.io/translate).
