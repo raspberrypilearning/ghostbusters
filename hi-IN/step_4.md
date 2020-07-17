@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## चुनौती: अधिक अस्थाई
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+क्या आप ऐसा कर सकते हैं कि आपका भूत दिखाई देने से पहले बेतरतीब समय तक ठहरे या `wait`{:class="block3control"} करें?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+क्या आप हर बार नए आकार का भूत बनाने के लिए `set size`{:class="block3looks"} ब्लॉक का उपयोग कर सकते हैं?
