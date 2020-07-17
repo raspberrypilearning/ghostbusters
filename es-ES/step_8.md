@@ -27,7 +27,7 @@ El juego debería detenerse cuando el temporizador llegue a 0.
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![objeto fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 detener [all]
@@ -53,7 +53,7 @@ al hacer clic en la bandera verde
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![icono de fondo](images/ghost-backdrop.png)
 
 ```blocks3
 al hacer clic en la bandera verde
