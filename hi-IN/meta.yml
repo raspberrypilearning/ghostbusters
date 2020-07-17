@@ -12,9 +12,9 @@ steps:
   - 
     title: भूत का एनिमेशन बनाना
   - 
-    title: Random ghosts
+    title: अस्थाई भूत
   - 
-    title: 'Challenge: more randomness'
+    title: 'चुनौती: अधिक अस्थाई'
     challenge: true
   - 
     title: भूत पकड़ने के लिए कोड
@@ -24,9 +24,9 @@ steps:
   - 
     title: स्कोर जोड़ें
   - 
-    title: Add a timer
+    title: टाइमर(timer) जोड़ना
   - 
-    title: 'Challenge: more sprites'
+    title: 'चुनौती: और स्प्रिट्स'
     challenge: true
   - 
     title: आगे क्या?
