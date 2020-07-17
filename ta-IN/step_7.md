@@ -1,10 +1,10 @@
-## Add a score
+## மதிப்பெண் சேர்க்கவும்
 
-Now you're going to make your game more interesting by keeping score!
+இப்போது நீங்கள் மதிப்பெண்ணை வைத்து உங்கள் விளையாட்டை மிகவும் சுவாரஸ்யமாக்கப் போகிறீர்கள்!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+` மதிப்பெண் எனப்படும் புதிய variable உருவாக்கவும் ` {: class = "block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,23 +12,23 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+வீரரின் மதிப்பெண்ணைக் கண்காணிக்க முடியுமா? வீரர்கள் பேய்களைப் பிடிக்க அவர்கள் புள்ளிகளைப் பிடிக்க வேண்டும்.
 
-Each time a player clicks on a ghost, their score should increase.
+ஒவ்வொரு முறையும் ஒரு வீரர் ஒரு பேயைக் கிளிக் செய்யும்போது, அவர்களின் மதிப்பெண் அதிகரிக்க வேண்டும்.
 
-![Increasing score](images/ghost-score-test.png)
+![மதிப்பெண் அதிகரிக்கும்](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+` பச்சைக் கொடி சொடுக்கும் போது ` {: class = "block3events"}, உங்கள் ` மதிப்பெண் ` {: class = "block3variables"} மாறி ` 0 ஆக அமைக்கப்பட வேண்டும் ` {: class = "block3variables"}. இந்த குறியீட்டைச் சேர்க்க மேடை சிறந்த இடம்.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+` பச்சைக் கொடி சொடுக்கும் போது ` {: class = "block3events"}, உங்கள் ` மதிப்பெண் ` {: class = "block3variables"} மாறி ` 1 ஆக அமைக்கப்பட வேண்டும் ` {: class = "block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+உங்களுக்கு தேவையான குறியீடு தொகுதிகள் இங்கே:
 
-![backdrop icon](images/ghost-backdrop.png)
+![பின்னணி icon](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -36,7 +36,7 @@ set [score v] to (0)
 when flag clicked
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 change [score v] by (1)
@@ -44,14 +44,14 @@ change [score v] by (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![பின்னணி icon](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 When this sprite clicked
