@@ -1,39 +1,65 @@
-## टाइमर जोड़ना
+## स्कोर जोड़ें
 
-+ 'समय' नामक नया वेरिएबल बनाएँ।
+चलिए स्कोर रखकर इसे और भी दिलचस्प बनाएँ!
 
-+ अपने खिलाड़ी को भूत पकड़ने के लिए अधिकतम 10 सेकंड का समय देने के लिए क्या आप अपनी स्टेज में टाइमर जोड़ सकते हैं?
+--- task ---
 
-	 आपके टाइमर को यह करना चाहिए:
+`score`{:class="block3variables"} नामक वेरिएबल बनाएँ।
 
-	+ 10 सेकंड पर आरंभ हो
-	+ हर सेकंड गिने
-	
-	टाइमर 0 होने पर गेम रुक जानी चाहिए।
+[[[generic-scratch3-add-variable]]]
+
+--- /task ---
+
+--- task ---
+
+क्या आप खिलाड़ी के स्कोर का ध्यान रख सकते हैं? स्कोर बनाने के खिलाड़ी को भूत पकड़ने के लिए उन पर क्लिक करना होगा।
+
+हर बार खिलाड़ी भूत पर क्लिक करें, तो उनके स्कोर बढ़ने चाहिए।
+
+![स्कोर बढ़ाना](images/ghost-score-test.png)
 
 --- hints ---
---- hint ---
-`जब ⚑ क्लिक किया गया हो`, आपका `समय` वेरिएबल `10 पर सेट` किया जाना चाहिए। फिर इसे हर सेकंड `-1 से बदल` हो जाना चाहिए `जब तक यह 0 पर पहुँचे`।
---- /hint ---
---- hint ---
-ये वे कोड ब्लॉक हैं, जिनकी आपको उपयोग के लिए आवश्यकता होगी:
-![screenshot](images/ghost-timer-blocks.png)
---- /hint ---
---- hint ---
-अपनी गेम में इस प्रकार टाइमर जोड़ें:
-![screenshot](images/ghost-timer-code.png)
+ --- hint ---
 
-और इस प्रकार `समय = 0` ब्लॉक बनाएँ:
-![screenshot](images/ghost-timer-help.png)
---- /hint ---
---- /hints ---
+जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `score`{:class="block3variables"} वेरिएबल `set to 0`{:class="block3variables"} होना चाहिए। इस कोड को जोड़ने के लिए स्टेज सबसे बढ़िया स्थान है।
 
-+ अपनी गेम का परीक्षण करने के लिए अपने मित्र से कहिए। वे कितने पॉइंट्स हासिल कर पाते हैं?
-	
-	यदि आपकी गेम बहुत आसान है, तो आप यह कर सकते हैं:
+भूत स्प्राईट को क्लिक करने पर `When the ghost sprite is clicked`{:class="block3events"}, तो `score`{:class="block3variables"} वरियबल को `changed by 1`{:class="block3variables"} हो जाना चाहिए।
 
-	+ खिलाड़ी को कम समय देना
-	+ भूत कम बार दिखाई देना
-	+ भूत को छोटा करना
+--- /hint --- --- hint ---
 
-	गेम में तब तक परिवर्तन करें और परीक्षण करें जब तक आप इसकी कठिनता के स्तर से ख़ुश न हो जाएँ।
+आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
+
+![बैकड्रॉप आइकन](images/ghost-backdrop.png)
+
+```blocks3
+set [score v] to (0)
+
+when flag clicked
+```
+
+![भूत स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+change [score v] by (1)
+```
+
+--- /hint --- --- hint ---
+
+![बैकड्रॉप आइकन](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [score v] to (0)
+```
+
+![भूत स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
++ change [score v] by (1)
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
