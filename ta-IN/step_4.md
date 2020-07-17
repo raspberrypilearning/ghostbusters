@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## சவால்: அதிக சீரற்ற தன்மை
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+பேய் ` காத்திருக்க உங்கள் பேய் sprite-இக்கு குறியீட்டைச் சேர்க்க முடியுமா? ` class: class = "block3control"} சீரற்ற நேரத்திற்கு பேய் மறைக்கப்படும்போது?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+` தொகுப்பு அளவைப் பயன்படுத்தலாமா? ` {: class = "block3looks"} ஒவ்வொரு முறையும் உங்கள் பேய் தோராயமாக பெரியதாகவோ அல்லது சிறியதாகவோ காண்பதற்கு?
