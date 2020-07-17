@@ -1,6 +1,6 @@
 ## Hayaletleri yakalamak için kod
 
-Şimdi oyununa kod ekleyeceksin, böylece oyuncu hayaletleri yakalayabilecek!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
