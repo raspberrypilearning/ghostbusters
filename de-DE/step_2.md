@@ -32,7 +32,7 @@ Sobald die `grüne Flagge angeklickt wird`{:class="block3events"}, sollte sich d
 
 Here are the code blocks you need:
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 verstecke dich
@@ -53,7 +53,7 @@ Wenn die Flagge angeklickt wird
 
 This is what your code should look like:
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
