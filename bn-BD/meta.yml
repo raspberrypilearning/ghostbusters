@@ -1,32 +1,32 @@
 ---
-title: Ghostbusters
+title: গোস্টবাস্টার
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: ভুত ধরা নিয়ে খেলা তৈরি করুন!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: পরিচিতি
   - 
-    title: Animate a ghost
+    title: একটি প্রাণবন্ত ভূত তৈরি করুন
   - 
-    title: Random ghosts
+    title: এলোমেলো ভূত তৈরি করুন।
   - 
-    title: 'Challenge: more randomness'
+    title: 'চ্যালেঞ্জ: আরও এলোমেলো'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: ভূত ধরা জন্য কোড
   - 
-    title: 'Challenge: add a sound'
+    title: 'চ্যালেঞ্জ: একটি শব্দ যোগ করুন'
     challenge: true
   - 
-    title: Add a score
+    title: একটি স্কোর যোগ করুন
   - 
-    title: Add a timer
+    title: একটি ঘড়ি যোগ করুন
   - 
-    title: 'Challenge: more sprites'
+    title: 'চ্যালেঞ্জ: আরো sprites'
     challenge: true
   - 
-    title: What next?
+    title: এরপর কি?
