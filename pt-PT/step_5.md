@@ -1,6 +1,6 @@
 ## Código para capturar fantasmas
 
-Agora podes adicionar código ao teu jogo para que o jogador apanhe fantasmas!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
