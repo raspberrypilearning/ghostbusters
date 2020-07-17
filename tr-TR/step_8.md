@@ -78,7 +78,7 @@ Bir arkadaşınızdan oyununuzu denemesini rica edin. Kaç puan alabilirler?
 Eğer oyunun çok kolaysa, bunları yapabilirsin:
 
 + Oyuncuya daha az zaman ver
-+ Hayaletileri daha seyrek görünür yap
++ Hayaletleri daha seyrek görünür yap
 + Hayaletleri daha küçük yap
 
 \--- task \---
