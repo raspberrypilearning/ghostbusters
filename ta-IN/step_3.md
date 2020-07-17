@@ -1,30 +1,30 @@
-## Random ghosts
+## சீரற்ற பேய்கள்
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+உங்கள் பேய் இந்த நேரத்தில் பிடிக்க மிகவும் எளிதானது, ஏனென்றால் அது நகரவில்லை!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+உங்கள் பேயுடன் குறியீட்டைச் சேர்க்க முடியுமா, அதனால் ஒரே நிலையில் இருப்பதற்குப் பதிலாக, பேய் மேடையில் சீரற்ற நிலைகளில் தோன்றும்?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+உங்கள் பேய் தோன்றுவதற்கு ஒவ்வொரு முறையும், அது ` க்கு செல்ல வேண்டும் ` {: class = "block3motion" the மேடையில் ஒரு சீரற்ற நிலை.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+நீங்கள் இங்கே பயன்படுத்தக்கூடிய இரண்டு குறியீடு தொகுதிகள் உள்ளன. நீங்கள் விரும்பும் தொகுப்பைத் தேர்வுசெய்க.
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+உங்கள் பேய் sprite-இல் இந்த தொகுதிகள் சேர்க்கவும்:
 
 ```blocks3
-go to (random position v)
+(சீரற்ற நிலை v) க்குச் செல்லவும்
 ```
 
-Or add this one to your sprite:
+அல்லது இதை உங்கள் sprite-இக்கு சேர்க்கவும்:
 
 ```blocks3
 go to x: (14) y: (50)
@@ -38,9 +38,9 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+உங்கள் குறியீடு இதுபோன்றதாக இருக்கலாம்:
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -53,9 +53,9 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+அல்லது இது இப்படி இருக்கக்கூடும்:
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
