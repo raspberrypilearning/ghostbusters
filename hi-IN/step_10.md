@@ -1,12 +1,12 @@
-## What next?
+## आगे क्या?
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+बधाई हो! परियोजना पूर्ण! कोई और परियोजना खोजें?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+आप [चैटबॉट](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) प्रोजेक्ट को देख सकते हैं।
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+हरे झंडे पर क्लिक करे, और फिट चैटबॉट पर क्लिक करे बातचीत शुरू करने के लिए। जब चैटबॉट आपसे कुछ पूछे, तब अपनी जवाब स्टेज के निचे डिब्बे में लिख दीजिये, और फिर नीले निशान (नहीं तो `एंटर` प्रेस कीजिये) पर क्लिक करे ताकि आप अपनी चैटबॉट का जवाब देख सकते हैं।
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![पूर्ण परियोजनाएं](images/chatbot-preview.png)
 
 \--- /print-only \---
