@@ -1,6 +1,6 @@
 ## Koda za lov na duhove
 
-Zdaj boš igri dodal-a kodo, da bo igralec lahko duhove ujel!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
