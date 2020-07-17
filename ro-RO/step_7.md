@@ -1,4 +1,4 @@
-## Add a score
+## Adaugă un scor
 
 Acum, vei face jocul tău mai interesant ținând scorul!
 
@@ -36,7 +36,7 @@ setează [scor v] la (0)
 când se dă click pe stegulețul verde
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 modifică [scor v] cu (1)
@@ -44,14 +44,14 @@ modifică [scor v] cu (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![decor](images/ghost-backdrop.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
 setează [scor v] la (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 Când se dă click pe acest personaj
