@@ -32,7 +32,7 @@ Agrega código a tu fantasma para que siempre aparezca y desaparezca cuando se h
 
 Here are the code blocks you need:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
 esconder
@@ -52,7 +52,7 @@ al hacer clic en la bandera
 
 This is what your code should look like:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite fantasma](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en la bandera
