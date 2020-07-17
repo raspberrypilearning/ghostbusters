@@ -27,7 +27,7 @@
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![幽灵角色](images/ghost-backdrop.png)
 
 ```blocks3
 停止 [all]
@@ -53,7 +53,7 @@ Here are the code blocks you need to use:
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![背景图标](images/ghost-backdrop.png)
 
 ```blocks3
 当绿旗被点击
