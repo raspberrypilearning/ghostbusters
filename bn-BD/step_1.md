@@ -1,12 +1,12 @@
-\--- no-print \---
+\----প্রিন্ট করা লাগবেনা --
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+এটি ** Scratch 3 ** প্রকল্পের সংস্করণ। প্রকল্পের একটি [ Scratch 2 সংস্করণও রয়েছে ](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) ।.
 
 \--- /no-print \---
 
-## Introduction
+## পরিচিতি
 
-You are going to make a ghost-catching game!
+আপনি একটি ভূত-ধরা খেলা তৈরি করতে যাচ্ছেন!
 
 \--- no-print \---
 
@@ -19,44 +19,44 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![প্রদর্শনী](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: যা যা প্রয়োজন
 
-### Hardware
+### হার্ডওয়্যার
 
-- A computer
+- কম্পিউটার
 
-### Software
+### সফটওয়্যার
 
 - Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-\--- /collapse \---
+-- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: যা শিখতে পারবেন
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- লুপগুলিতে ক্রিয়াকলাপগুলির মধ্যে বিরতি দেওয়ার প্রয়োজনীয়তাটি বোঝুন
+- Scratch এ এলোমেলো সংখ্যা উত্পন্ন করতে কোড ব্যবহার করুন
+- Scratch এ একটি গেম স্কোর সঞ্চয় করতে একটি ভেরিয়েবল যুক্ত করুন
 
-\--- /collapse \---
+-- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
-\--- no-print \---
+\----প্রিন্ট করা লাগবেনা --
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} ব্যবহার করুন।.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"} সন্ধান করতে পারেন।.
 
-\--- /collapse \---
+-- /collapse \---
