@@ -1,4 +1,4 @@
-## Challenge: more sprites
+## Provocare: mai multe personaje
 
 Poți să adaugi alte personaje la jocul tău?
 
