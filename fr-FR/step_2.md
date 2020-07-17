@@ -32,7 +32,7 @@ Une fois que le `drapeau vert est cliqué`{:class="block3events"}, ton fantôme 
 
 Voici les blocs de code dont tu as besoin :
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
 cacher
@@ -53,7 +53,7 @@ lorsque le drapeau est cliqué
 
 Voici à quoi ton code devrait ressembler :
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
