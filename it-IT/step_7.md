@@ -26,7 +26,7 @@ Ogni volta che un giocatore fa click su un fantasma, il punteggio dovrebbe aumen
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Ecco i blocchi di codice che ti serviranno:
 
 ![icona scenario](images/ghost-backdrop.png)
 
@@ -34,7 +34,7 @@ Here are the code blocks you need:
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 cambia [punteggio v] di (1)
@@ -42,14 +42,14 @@ cambia [punteggio v] di (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 Quando si clicca questo sprite
