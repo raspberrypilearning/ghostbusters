@@ -1,31 +1,74 @@
-## भूत को एनिमेट करना
+## बेतरतीब भूत
 
-+ नया खाली Scratch प्रोजेक्ट खोलें।
+आपका भूत इस समय पकड़ने में वाकई आसान है, क्योंकि यह चलता नहीं है!
 
-[[[generic-scratch-new-project]]]
+--- task ---
 
-+ नया घोस्ट स्प्राइट और उचित स्टेज बैकड्रॉप जोड़ें।
-
-	![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ अपने भूत में कोड जोड़ें, ताकि जब आप फ्लैग पर क्लिक करें तो यह सदा दिखाई देता और गायब होता रहे। अपने प्रोजेक्ट का परीक्षण करें और सहेजें।
+क्या आप अपने भूत में कोड जोड़ सकते हैं, ताकि एक ही स्थिति में रहने की बजाय, यह स्क्रीन पर बेतरतीब स्थानों पर दिखाई दे?
 
 --- hints ---
---- hint ---
-`⚑ क्लिक किया गया` होने पर, आपको अपना भूत `छुपाना` होगा, `एक सेकेंड` के लिए और फिर `दिखाना` होगा, `एक सेकेंड` के लिए। इसे ऐसा `हमेशा के लिए` के लिए ऐसा करना होगा।
---- /hint ---
---- hint ---
-ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी:
-![screenshot](images/ghost-appear-blocks.png)
---- /hint ---
---- hint ---
-आपका कोड इस प्रकार दिखाई देगा:
-![screenshot](images/ghost-appear-code.png)
---- /hint ---
---- /hints ---
 
-[[[generic-scratch-saving]]]
+
+--- hint ---
+
+हर एक बार जब एक भूत आपके सामने नज़र आये, तब उसे `go to`{:class="block3motion"} ब्लॉक से स्टेज के किसी भी बेतरतीब स्थान पर जाना चाहिए।
+
+--- /hint --- --- hint ---
+
+इधर आप दो अलग कोड ब्लॉक का इस्तेमाल कर सकते है। इन में से कोई एक, जो भी आपको ज़्यादा पसंद आये, चुन लीजिये।
+
+![भूत स्प्राइट](images/ghost-sprite.png)
+
+या निचे दिए गए कोड को आपके घोस्ट स्प्राइट के साथ जोड़ लीजिये:
+
+```blocks3
+go to (random position v)
+```
+
+नहीं तो यह कोड आपके किसी स्प्राइट के साथ जोड़ लीजिये:
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+--- /hint ---
+
+--- hint ---
+
+आपकी कोड ऐसी दिख सकता हैं:
+
+![भूत स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+या फिर ऐसी भी दिख सकता हैं:
+
+![भूत स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
