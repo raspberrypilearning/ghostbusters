@@ -1,12 +1,12 @@
-## What next?
+## Что дальше?
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+Ты отлично закончил проект Охотники за привидениями! Ты хочешь создать что-то более сложное?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+Попробуй проект [Чат-бот](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+Нажми на зелёный флаг, а затем нажми на персонажа чат-бота, чтобы начать разговор. Когда чат-бот задаёт вопрос, введи свой ответ в поле в нижней части Сцены, а затем нажми на синюю метку справа (или нажми `Enter`), чтобы увидеть ответ чат-бота.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![завершенный проект](images/chatbot-preview.png)
 
 \--- /print-only \---
