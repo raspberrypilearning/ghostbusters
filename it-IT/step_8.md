@@ -1,4 +1,4 @@
-## Add a timer
+## Aggiungere un timer
 
 Ora aggiungerai un timer in modo che il giocatore abbia solo 10 secondi per catturare il maggior numero di fantasmi.
 
@@ -21,13 +21,13 @@ Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
 
 \--- hints \--- \--- hint \---
 
-`quando si clicca sulla bandiera verde`{:class=”block3events”}, la tua variabile `tempo`{:class=”block3variables”} dovrebbe `essere impostata a 10`{:class="block3variables"}. Dovrebbe quindi `cambiare di -1`{:class="block3variabili"} ogni secondo `fino a quando non raggiunge 0`{:class="block3control"}.
+`quando si clicca sulla bandiera verde`{:class=”block3events”}, la tua variabile `tempo`{:class=”block3variables”} dovrebbe `essere impostata a 10`{:class="block3variables"}. Dovrebbe quindi `cambiare di -1`{:class="block3variables"} ogni secondo `fino a quando non raggiunge 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
 Ecco i blocchi di codice che ti serviranno:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![sprite del fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 ferma [all]
@@ -53,7 +53,7 @@ quando si clicca sulla bandiera verde
 
 Ecco il codice che dovresti aggiungere per creare un timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
 quando si clicca sulla bandiera verde
