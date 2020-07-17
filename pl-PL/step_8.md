@@ -27,7 +27,7 @@ Gra powinna się zatrzymać, gdy czas dojdzie do 0.
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![duszek ducha](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -53,7 +53,7 @@ po kliknięciu flagi
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
 kiedy flaga kliknięta
