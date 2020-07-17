@@ -1,32 +1,32 @@
 ---
-title: Ghostbusters
+title: பேய் பிடிப்பவர்கள்
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: பேய்களைப் பிடிப்பது பற்றி ஒரு விளையாட்டை உருவாக்குங்கள்!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: முன்னுரை
   - 
-    title: Animate a ghost
+    title: ஒரு பேயை உயிர்ப்பிக்கவும்
   - 
-    title: Random ghosts
+    title: சீரற்ற பேய்கள்
   - 
-    title: 'Challenge: more randomness'
+    title: 'சவால்: அதிக சீரற்ற தன்மை'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: பேய்களைப் பிடிப்பதற்கான குறியீடு
   - 
-    title: 'Challenge: add a sound'
+    title: 'சவால்: ஒலி சேர்க்கவும்'
     challenge: true
   - 
-    title: Add a score
+    title: மதிப்பெண் சேர்க்கவும்
   - 
-    title: Add a timer
+    title: ஒரு டைமரைச் சேர்க்கவும்
   - 
-    title: 'Challenge: more sprites'
+    title: 'சவால்: அதிக sprites'
     challenge: true
   - 
-    title: What next?
+    title: அடுத்து என்ன?
