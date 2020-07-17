@@ -1,4 +1,4 @@
-## Random ghosts
+## Fantasmas aleatorios
 
 ¡Tu fantasma es muy fácil de atrapar en este momento, porque no se mueve!
 
