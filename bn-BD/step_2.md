@@ -1,16 +1,16 @@
-## Animate a ghost
+## একটি প্রাণবন্ত ভূত তৈরি করুন
 
-\--- task \---
+\--- /task \---
 
-Open a new empty Scratch project.
+একটি নতুন খালি Scratch প্রকল্প খুলুন।
 
 [[[generic-scratch3-new-project]]]
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+একটি নতুন ভূত স্প্রাইট এবং একটি উপযুক্ত স্টেজ ব্যাকড্রপ যোগ করুন।
 
 ![screenshot](images/ghost-ghost.png)
 
@@ -20,38 +20,33 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+আপনার ভূত স্প্রাইটে কোড যোগ করুন যাতে ভূতটি প্রদর্শিত হয় এবং সবুজ পতাকা ক্লিক করার সময় চিরতরে অদৃশ্য হয়ে যায়।
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"} এটি চিরদিনের জন্য করতে হলে লিখুন `forever`{:class="block3control"}
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
 hide
-
 show
-
 forever
 end
-
 wait (1) seconds
-
 wait (1) seconds
-
 when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+আপনার কোডটি দেখতে এমন হওয়া উচিত:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -69,9 +64,9 @@ end
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
-Test and save your project.
+আপনার কোডটি পরীক্ষা করুন এবং সংরক্ষণ করুন।.
 
 [[[generic-scratch3-saving]]]
 
