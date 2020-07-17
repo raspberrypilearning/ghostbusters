@@ -27,7 +27,7 @@ A játéknak le kell állnia, ha az időzítő 0-hoz ér.
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![szellem-szereplő](images/ghost-backdrop.png)
 
 ```blocks3
 álljon le [minden feladat]
@@ -53,7 +53,7 @@ end
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![háttér ikon](images/ghost-backdrop.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
