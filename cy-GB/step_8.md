@@ -27,7 +27,7 @@ Fe ddylai’r gêm ddod i ben pan mae’r amserydd yn cyrraedd 0.
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![corlun-ysbryd](images/ghost-backdrop.png)
 
 ```blocks3
 aros [all]
@@ -53,7 +53,7 @@ pan fo'r flag werdd yn cael ei glicio
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
