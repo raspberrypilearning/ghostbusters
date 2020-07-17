@@ -1,6 +1,6 @@
 ## 抓鬼的程式
 
-現在你要寫個讓玩家能抓鬼的的程式！
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
