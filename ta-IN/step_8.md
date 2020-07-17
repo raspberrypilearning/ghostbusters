@@ -1,33 +1,33 @@
-## Add a timer
+## ஒரு டைமரைச் சேர்க்கவும்
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+இப்போது நீங்கள் ஒரு டைமரைச் சேர்க்கப் போகிறீர்கள், இதனால் வீரருக்கு முடிந்தவரை பல பேய்களைப் பிடிக்க பத்து வினாடிகள் மட்டுமே இருக்கும்.
 
 \--- task \---
 
-Create a new variable called 'time'.
+'நேரம்' என்ற புதிய variable-ஐ உருவாக்கவும்.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+பேய்களைப் பிடிக்க உங்கள் வீரருக்கு 10 வினாடிகள் மட்டுமே கொடுக்க உங்கள் Stage ஒரு டைமரைச் சேர்க்க முடியுமா?
 
-Your timer should:
+உங்கள் டைமர் பின்வருமாறு:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 வினாடிகளில் தொடங்குங்கள்
++ ஒவ்வொரு நொடியும் கீழே எண்ணுங்கள்
 
-The game should stop when the timer gets to 0.
+டைமர் 0 க்கு வரும்போது விளையாட்டு நிறுத்தப்பட வேண்டும்.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+` பச்சைக் கொடி சொடுக்கும் போது ` {: class = "block3events"}, உங்கள் ` மதிப்பெண் ` {: class = "block3variables"} மாறி ` 10 ஆக அமைக்கப்பட வேண்டும் ` {: class = "block3variables"}. அது ` -1 ஆல் மாற வேண்டும் ` {: class = "block3variables"} ஒவ்வொரு நொடியும் ` அது 0 ஐ அடையும் வரை ` {: class = "block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+உங்களுக்கு தேவையான குறியீடு தொகுதிகள் இங்கே:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![பேய்-sprite](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+டைமரை உருவாக்க நீங்கள் சேர்க்க வேண்டிய குறியீடு இங்கே:
 
-![backdrop icon](images/ghost-backdrop.png)
+![பின்னணி icon](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+உங்கள் விளையாட்டை சோதிக்க நண்பரிடம் கேளுங்கள். அவர்கள் எத்தனை புள்ளிகளைப் பெற முடியும்?
 
 \--- /task \---
 
-If your game is too easy, you can:
+உங்கள் விளையாட்டு மிகவும் எளிதானது என்றால், நீங்கள் செய்யலாம்:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ வீரருக்கு குறைந்த நேரம் கொடுங்கள்
++ பேய்கள் குறைவாக அடிக்கடி தோன்றும்
++ பேய்களை சிறியதாக்குங்கள்
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+உங்கள் விளையாட்டின் சிரமத்தில் நீங்கள் மகிழ்ச்சியாக இருக்கும் வரை சில முறை மாற்றவும் சோதிக்கவும்.
 
 \--- /task \---
