@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## চ্যালেঞ্জ: একটি শব্দ যোগ করুন
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+আপনি কি কোড যোগ করতে পারেন যাতে ভূতটি ধরা পড়লে শব্দটি তৈরি হয়?
