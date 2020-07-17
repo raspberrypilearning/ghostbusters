@@ -33,7 +33,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 ### Yazılım
 
-- Scratch 3 'ü hem ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"}) kullanabilirsiniz
+- Scratch 3 (hem [çevrimiçi](http://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"} olarak kullanabilirsiniz)
 
 \--- /collapse \---
 
@@ -43,7 +43,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 - Döngüler içindeki eylemler arasındaki duraklama gereksinimini anlayın
 - Scratch'te rastgele sayılar üretmek için bu kodu kullanın
-- Scratch'e oyun puanı saklamak için bir değişken ekleyin
+- Scratch'e, oyun puanı saklamak için, bir değişken ekleyin
 
 \--- /collapse \---
 
