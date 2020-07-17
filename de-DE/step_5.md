@@ -1,6 +1,6 @@
 ## Code zum Fangen von Geistern
 
-Jetzt wirst du deinem Spiel Code hinzufügen, damit der Spieler Geister fangen kann!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Wenn du dein Spiel testest und es schwierig findest Geister zu fangen, kannst du
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 Wenn diese Figur angeklickt wird
