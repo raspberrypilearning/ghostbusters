@@ -1,6 +1,6 @@
 ## 捉幽灵的代码
 
-现在给你的游戏添加代码，使玩家可以抓住幽灵！
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
 当角色被点击
