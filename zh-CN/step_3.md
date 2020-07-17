@@ -38,7 +38,7 @@
 
 现在你的代码应该像这样：
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
 当绿旗被点击
@@ -53,7 +53,7 @@
 
 或者像这样：
 
-![ghost-sprite](images/ghost-sprite.png)
+![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
 当绿旗被点击
