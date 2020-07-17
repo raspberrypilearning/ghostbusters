@@ -40,7 +40,7 @@ número aleatorio entre (1) y (10)
 
 Tu código podría verse así:
 
-![ghost-sprite](images/ghost-sprite.png)
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en la bandera
@@ -55,7 +55,7 @@ fin
 
 O podría verse así:
 
-![ghost-sprite](images/ghost-sprite.png)
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en la bandera
