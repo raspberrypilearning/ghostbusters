@@ -1,6 +1,6 @@
 ## Sırada ne var?
 
-Hayalet Avcıları projesini tamamladığın için tebrikler! Biraz daha zor bir şey denemek ister misiniz?
+Hayalet Avcıları projesini tamamladığınız için tebrikler! Biraz daha zor bir şey denemek ister misiniz?
 
 Bir de [Sohbetçi](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) projesini deneyin.
 
