@@ -1,6 +1,6 @@
 ## Код для ловли приведений
 
-Сейчас ты добавишь код в свою игру, чтобы игрок ловил приведений!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
