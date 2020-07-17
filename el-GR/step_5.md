@@ -1,6 +1,6 @@
 ## Κώδικας για να πιάνεις φαντάσματα
 
-Τώρα πρόκειται να προσθέσεις κώδικα στο παιχνίδι σου έτσι ώστε ο παίκτης να πιάσει φαντάσματα!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task --
 
