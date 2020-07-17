@@ -1,30 +1,30 @@
-## Random ghosts
+## बेतरतीब भूत
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+आपका भूत इस समय पकड़ने में वाकई आसान है, क्योंकि यह चलता नहीं है!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+क्या आप अपने भूत में कोड जोड़ सकते हैं, ताकि एक ही स्थिति में रहने की बजाय, यह स्क्रीन पर बेतरतीब स्थानों पर दिखाई दे?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+हर एक बार जब एक भूत आपके सामने नज़र आये, तब उसे `go to`{:class="block3motion"} ब्लॉक से स्टेज के किसी भी बेतरतीब स्थान पर जाना चाहिए।
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+इधर आप दो अलग कोड ब्लॉक का इस्तेमाल कर सकते है। इन में से कोई एक, जो भी आपको ज़्यादा पसंद आये, चुन लीजिये।
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+या निचे दिए गए कोड को आपके घोस्ट स्प्राइट के साथ जोड़ लीजिये:
 
 ```blocks3
 go to (random position v)
 ```
 
-Or add this one to your sprite:
+नहीं तो यह कोड आपके किसी स्प्राइट के साथ जोड़ लीजिये:
 
 ```blocks3
 go to x: (14) y: (50)
@@ -38,9 +38,9 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+आपकी कोड ऐसी दिख सकता हैं:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -53,9 +53,9 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+या फिर ऐसी भी दिख सकता हैं:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
