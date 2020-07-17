@@ -1,22 +1,22 @@
-## What next?
+## এরপরে কি?
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+সাবাশ! ঘোস্টবাস্টারস প্রকল্পটি সম্পূর্ণ করার জন্যে! আপনি কি আরও কিছু চ্যালেঞ্জিং তৈরি করতে চান?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+চ্যাটবোট প্রকল্পটি চেষ্টা করে দেখুন [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) ।.
 
-\--- no-print \---
+\--- প্রিন্ট করতে লাগবে না \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+কথোপকথন শুরু করতে সবুজ পতাকাটিতে ক্লিক করুন এবং তারপরে চ্যাটবোট চরিত্রটিতে ক্লিক করুন।. চ্যাটবোট কোনও প্রশ্ন জিজ্ঞাসা করলে, আপনার উত্তরটি স্টেজের নীচে বাক্সে টাইপ করুন, এবং তারপরে ডানদিকে নীল চিহ্নটিতে (অথবা `Enter`) ক্লিক করুন চ্যাটবটের উত্তর দেখতে |
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
   frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- no-print \---
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![সমাপ্ত প্রকল্প](images/chatbot-preview.png)
 
 \--- /print-only \---
