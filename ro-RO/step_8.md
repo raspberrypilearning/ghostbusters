@@ -1,4 +1,4 @@
-## Add a timer
+## Adaugă un cronometru
 
 Acum vei adăuga un cronometru pentru ca jucătorul să aibă la dispoziție doar 10 secunde pentru a prinde cât mai multe fantome.
 
@@ -27,7 +27,7 @@ Jocul ar trebui să se oprească când timpul ajunge la 0.
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![fantomă](images/ghost-backdrop.png)
 
 ```blocks3
 stop [totul]
@@ -53,7 +53,7 @@ când se dă click pe stegulețul verde
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![decor](images/ghost-backdrop.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
