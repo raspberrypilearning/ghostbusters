@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## சவால்: ஒலி சேர்க்கவும்
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+உங்கள் பேயுடன் குறியீட்டைச் சேர்க்க முடியுமா, அதனால் பேய் பிடிக்கும் போது ஒலி எழுப்பும்?
