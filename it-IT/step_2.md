@@ -32,7 +32,7 @@ Aggiungi codice al tuo fantasma in modo che appaia e scompaia per sempre quando 
 
 Ecco i blocchi di codice che ti serviranno:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -53,7 +53,7 @@ when flag clicked
 
 Ecco come dovrebbe apparire il risultato:
 
-![ghost-sprite](images/ghost-sprite.png)
+![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
