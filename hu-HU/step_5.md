@@ -1,6 +1,6 @@
 ## A szellemek elfogásának kódja
 
-Most add hozzá a következő kódot a játékodhoz, hogy a játékos elkaphassa a szellemeket!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ A szellem szereplőre `kattintáskor`{:class="block3events"}, a szellemnek el ke
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
 ezen szereplőre kattintáskor
