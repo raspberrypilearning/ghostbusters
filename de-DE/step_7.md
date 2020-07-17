@@ -36,7 +36,7 @@ setze [Punkte v] auf (0)
 Wenn die Flagge angeklickt wird
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 ändere [Punkte v] um (1)
@@ -44,14 +44,14 @@ Wenn die Flagge angeklickt wird
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
 setze [Punkte v] auf (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
 Wenn diese Figur angeklickt wird
