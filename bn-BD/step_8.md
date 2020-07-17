@@ -1,31 +1,31 @@
-## Add a timer
+## একটি টাইমার যোগ করুন
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
-
-\--- task \---
-
-Create a new variable called 'time'.
-
-\--- /task \---
+এখন আপনি একটি টাইমার যুক্ত করতে যাচ্ছেন যাতে দশ সেকেন্ডে প্লেয়ারটি যতটা সম্ভব ভূতগুলি ধরতে থাকতে পারে।
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+'সময়' নামে একটি নতুন ভেরিয়েবল তৈরি করুন।
 
-Your timer should:
+\--- task \---
 
-+ Start at 10 seconds
-+ Count down every second
+\--- task \---
 
-The game should stop when the timer gets to 0.
+ভূত ধরতে আপনার প্লেয়ার যাতে শুধুমাত্র 10 সেকেন্ড পায় তার জন্য আপনার স্টেজে আপনি কি একটি টাইমার যোগ করতে পারেন?
+
+আপনার টাইমার করা উচিত:
+
++ 10 সেকেন্ডে শুরু করুন
++ প্রতি সেকেন্ডে গণনা করুন
+
+টাইমার 0 এ গেলে খেলা থামানো উচিত।
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+যাখুন সবুজ পতাকাটি ক্লিক করা হবে তখন থেকে টাইম নামক ভেরিয়েবল এক সেকেন্ড করে কমতে থাকবে যতক্ষুন শুন্য না হয়ে যায় | 
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
 
 ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+টাইমার তৈরি করতে আপনার কোডটি যুক্ত করা উচিত:
 
-![backdrop icon](images/ghost-backdrop.png)
+![ব্যাকড্রপ আইকন](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -69,20 +69,20 @@ stop [all]
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
-Ask a friend to test your game. How many points can they score?
+আপনার গেমটি পরীক্ষা করতে কোনও বন্ধুকে জিজ্ঞাসা করুন। তারা কত পয়েন্ট স্কোর করতে পারে?
 
 \--- /task \---
 
-If your game is too easy, you can:
+যদি আপনার খেলাটি খুব সহজ হয় তবে আপনি এটি করতে পারেন:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ প্লেয়ারকে কম সময় দিন
++ ভূতগুলিকে কম দেখাতে দিন
++ ভূতকে ছোট করুন
 
-\--- task \---
+\--- /task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+আপনার গেমটির অসুবিধার মাত্রা নিয়ে আপনি খুশি না হওয়া পর্যন্ত কয়েকবার আপনার গেমটি পরিবর্তন করুন এবং পরীক্ষা করুন।
 
 \--- /task \---
