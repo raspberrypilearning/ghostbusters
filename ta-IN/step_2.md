@@ -1,8 +1,8 @@
-## Animate a ghost
+## ஒரு பேயை உயிர்ப்பிக்கவும்
 
 \--- task \---
 
-Open a new empty Scratch project.
+புதிய வெற்று Scratch திட்டத்தைத் திறக்கவும்.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+புதிய பேய் sprite மற்றும் பதமான மேடை பின்னணியில் சேர்க்கவும்.
 
-![screenshot](images/ghost-ghost.png)
+![திரைப்பிடிப்பு](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,17 +22,17 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+உங்கள் பேய் sprite-இல் குறியீட்டைச் சேர்க்கவும், இதனால் பச்சைக் கொடி சொடுக்கும் போது பேய் தோன்றும் மற்றும் எப்போதும் மறைந்துவிடும்.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+` பச்சைக் கொடி சொடுக்கப்பட்டதும் ` {: class = "block3events"}, உங்கள் பேய் ` மறைக்க வேண்டும் ` 0: ` ஒரு விநாடிக்கு class = "block3looks"} ` {: class = "block3control"} பின்னர் ` காட்டு ` 0: ` ஒரு விநாடிக்கு class = "block3looks"} ` {: class = "block3control"}. இதை எப்போதும் ` செய்ய வேண்டும் ` {: class = "block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+உங்களுக்கு தேவையான குறியீடு தொகுதிகள் இங்கே:
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+உங்கள் குறியீடு எப்படி இருக்க வேண்டும்:
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+உங்கள் திட்டத்தை சோதித்து சேமிக்கவும்.
 
 [[[generic-scratch3-saving]]]
 
