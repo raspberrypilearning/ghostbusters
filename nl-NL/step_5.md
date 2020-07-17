@@ -1,6 +1,6 @@
 ## Code voor het vangen van spoken
 
-Nu ga je code aan je spel toevoegen zodat de speler spoken kan vangen!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \----
 
