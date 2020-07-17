@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## சவால்: அதிக sprites
 
-Can you add other sprites to your game?
+உங்கள் விளையாட்டுக்கு பிற sprite சேர்க்க முடியுமா?
 
-![screenshot](images/ghost-final.png)
+![திரைப்பிடிப்பு](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+நீங்கள் சேர்க்க விரும்பும் ஒவ்வொரு sprites-க்கும் சில விஷயங்களைப் பற்றி சிந்திக்க வேண்டும்:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Sprite எவ்வளவு பெரியதாக இருக்க வேண்டும்?
++ இது பேய் sprite விட அதிகமாகவோ அல்லது குறைவாகவோ தோன்ற வேண்டுமா?
++ பிடிபடும்போது அது எப்படி இருக்கும் / ஒலிக்கிறது?
++ Sprite பிடிக்க வீரர் எத்தனை புள்ளிகளை வெல்வார் (அல்லது இழக்கிறார்)?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+உங்களுக்கு உதவி தேவைப்பட்டால், முந்தைய படிகளில் உள்ள வழிமுறைகளுக்கு நீங்கள் திரும்பிச் செல்லலாம் அல்லது நண்பரிடம் கேட்கலாம்!
