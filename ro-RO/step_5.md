@@ -1,6 +1,6 @@
-## Code for catching ghosts
+## Cod pentru prinderea fantomelor
 
-Acum vei adăuga cod la jocul tău pentru ca jucătorul să prindă fantome!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Dacă îți testezi jocul și ți se pare că prinderea fantomelor este dificil�
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 când se dă click pe acest personaj
