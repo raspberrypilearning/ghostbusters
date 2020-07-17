@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## চ্যালেঞ্জ: আরও এলোমেলো
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+ভুতকে অপেক্ষা করার জন্য আপনি কি নিজের ভুত স্প্রিটে কোড যুক্ত করতে পারেন? ` wait` {: class = "block3control"} এটি লুকিয়ে থাকার সময় একটি এলোমেলো পরিমাণ?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+আপনি কি `set size`{:class = "block3looks"} ব্লকটি ব্যবহার করতে পারেন যাতে আপনার ভূতকে এলোমেলোভাবে বড় বা ছোট করে প্রতিটি সময় প্রদর্শিত হয়?
