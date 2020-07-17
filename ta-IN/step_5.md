@@ -1,24 +1,24 @@
-## Code for catching ghosts
+## பேய்களைப் பிடிப்பதற்கான குறியீடு
 
-Now you're going to add code to your game so that the player to catch ghosts!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+பிடிபட்டதும் உங்கள் பேய் மறைந்து போக முடியுமா? வீரர் பேய்களைப் பிடிக்க அவற்றைக் அளுத்த முடிய வேண்டும்.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+உங்கள் விளையாட்டை சோதித்து, பேய்களைப் பிடிப்பது கடினம் எனில், இந்த பொத்தானைக் கிளிக் செய்வதன் மூலம் முழுத்திரை பயன்முறையில் விளையாட்டை விளையாடலாம்:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![திரைப்பிடிப்பு](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+` கிளிக் செய்யும் போது ` {: class = "block3events"}, உங்கள் பேய் sprite-ஐ ` மறைக்க வேண்டும் ` {: class = "block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+உங்கள் குறியீடு இதுபோன்றதாக இருக்கலாம்:
 
-![ghost-sprite](images/ghost-sprite.png)
+![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
 when this sprite clicked
