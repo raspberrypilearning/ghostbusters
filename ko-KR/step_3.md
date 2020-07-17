@@ -40,7 +40,7 @@ x: (14) y: (50) 로 이동하기
 
 작업한 코드는 다음과 같을 것입니다.
 
-![ghost-sprite](images/ghost-sprite.png)
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
 flag 클릭했을 때
