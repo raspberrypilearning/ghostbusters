@@ -7,7 +7,7 @@ Oyuna başka kuklalar ekleyebilir misin?
 Eklemek istediğiniz her kukla için şunları düşünmeniz gerekir:
 
 + Kukla ne kadar büyük olmalı?
-+ Hayalet kuklasından daha az mı yoksa çok mu görünmeli?
++ Hayalet kuklasından daha az mı yoksa daha çok mu görünmeli?
 + Yakalandığında nasıl görünüp / ses çıkarmalı?
 + Kuklayı yakaladığında oyuncu kaç puan kazanır (veya kaybeder)?
 
