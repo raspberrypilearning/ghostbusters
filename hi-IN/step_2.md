@@ -1,8 +1,8 @@
-## Animate a ghost
+## भूत का एनिमेशन बनाना
 
 \--- task \---
 
-Open a new empty Scratch project.
+एक नया खाली Scratch प्रोजेक्ट खोलें।
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+आपके स्टेज पर मिलती हुई एक भूत स्प्राइट जोड़े।
 
-![screenshot](images/ghost-ghost.png)
+![स्क्रीनशॉट](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,17 +22,17 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+आपके भूत स्प्राइट में ऐसी कोड जोड़िये ताकि आपका भूत हमेशा के लिए झपकता हैं जब आप हरे झंडे पर क्लिक करे।
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+जब आप हरे झंडे पर क्लिक करेंगे `green flag is clicked`{:class="block3events"}, तब आपका भूत `one second`{:class="block3control"} के लिए `hide`{:class="block3looks"} होना चाहिए और फिर `one second`{:class="block3control"} के लिए `show`{:class="block3looks"} होना चाहिए। इसको यह कार्य `forever`{:class="block3control"} के लिए करना हैं।
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+आपका कोड ऐसा दिखना चाहिए:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+प्रोजेक्ट का परीक्षण करें और सहेजें
 
 [[[generic-scratch3-saving]]]
 
