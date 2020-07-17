@@ -1,36 +1,34 @@
-## Random ghosts
+## এলোমেলো ভূত তৈরি করুন।
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+আপনার ভূতটি এই মুহুর্তে ধরা সত্যিই সহজ, কারণ এটি সরছে না!
 
-\--- task \---
+\--- /task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+আপনি কি নিজের ভূতে কোড যুক্ত করতে পারেন যাতে একই অবস্থানে থাকার পরিবর্তে ভূতটি স্টেজের এলোমেলো অবস্থানগুলিতে উপস্থিত হয়?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+প্রতিবার আপনার ভূতটিকে এলোমেলো অবস্থানে প্রদর্শিত হওয়ার জন্যে এটা লিখুন `go to`{:class="block3motion"}
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+এখানে কোড ব্লকের দুটি সেট রয়েছে যা আপনি ব্যবহার করতে পারেন। আপনার পছন্দসই সেটটি বেছে নিন।
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+হয় আপনার ভূত স্প্রাইট ব্লক এই সেটটি যোগ করুন:
 
 ```blocks3
 go to (random position v)
 ```
 
-Or add this one to your sprite:
+বা এটি আপনার স্প্রাইটে যুক্ত করুন:
 
 ```blocks3
 go to x: (14) y: (50)
-
 pick random (1) to (10)
-
 pick random (1) to (10)
 ```
 
@@ -38,7 +36,7 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+আপনার কোডটি হয় দেখতে এমনটি হওয়া উচিত:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -53,7 +51,7 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+বা এটি এর মতো দেখতে পারে:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
