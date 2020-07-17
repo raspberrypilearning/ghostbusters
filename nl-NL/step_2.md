@@ -26,7 +26,7 @@ Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt
 
 \--- hints \--- \--- hint \---
 
-`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`t je spook {:class="block3looks"} gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok.
+`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok.
 
 \--- /hint \--- \--- hint \---
 
