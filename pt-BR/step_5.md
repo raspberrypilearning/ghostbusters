@@ -1,6 +1,6 @@
 ## Código para capturar fantasmas
 
-Agora você vai adicionar código ao seu jogo para que o jogador capture fantasmas!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Se você testar seu jogo e achar que capturar os fantasmas está difícil, você
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
 quando este fantasma for clicado
