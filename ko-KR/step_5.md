@@ -1,6 +1,6 @@
 ## 유령을 잡아볼까요
 
-이제 플레이어가 유령을 잡을 수 있도록 게임에 코드를 추가 할 것입니다!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
 이 스프라이트를 클릭했을 때
