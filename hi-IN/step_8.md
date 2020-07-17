@@ -1,4 +1,4 @@
-## टाइमर जोड़ना
+## टाइमर(timer) जोड़ना
 
 अब आप एक टाइमर जोड़ेंगे ताकि हर खिलाड़ी भूत पकड़ने के लिए अधिकतम 10 सेकंड का समय इस्तेमाल कर सकता हैं।
 
@@ -22,7 +22,7 @@
 --- hints ---
  --- hint ---
 
-जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `time`{:class="block3variables} वेरिएबल `set to 10`{:class="block3variables"} होना चाहिए। फिर इसे हर सेकंड `change by -1`{:class="block3variables"} हो जाना चाहिए जब तक यह 0 तक नहीं पहुंचे `until it reaches 0`{:class="block3control"} है।
+जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `time`{:class="block3variables"} वेरिएबल `set to 10`{:class="block3variables"} होना चाहिए। फिर इसे हर सेकंड `change by -1`{:class="block3variables"} हो जाना चाहिए जब तक यह 0 तक नहीं पहुंचे `until it reaches 0`{:class="block3control"} है।
 
 --- /hint --- --- hint ---
 

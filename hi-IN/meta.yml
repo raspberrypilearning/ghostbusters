@@ -7,13 +7,13 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: भूमिका
+  - title: परिचय
   - title: भूत का एनिमेशन बनाना
-  - title: अस्थाई भूत
+  - title: बेतरतीब भूत
   - title: 'चुनौती: अधिक अस्थाई'
     challenge: true
-  - title: भूत पकड़ने के लिए कोड
-  - title: 'चुनौती: ध्वनि जोड़ें'
+  - title: भूत पकड़ना
+  - title: 'चुनौती: ध्वनि जोड़ना'
     challenge: true
   - title: स्कोर जोड़ें
   - title: टाइमर(timer) जोड़ना
