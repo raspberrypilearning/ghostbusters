@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## चुनौती: ध्वनि जोड़ना
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+क्या आप ऐसा कर सकते हैं कि भूत के पकड़े जाने पर यह आवाज़ उत्पन्न करे?
