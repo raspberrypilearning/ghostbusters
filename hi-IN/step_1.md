@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+यह इस प्रोजेक्ट का **Scratch 3** संस्करण हैं। इस प्रोजेक्ट को आप [Scratch 2 में भी देख सकते हैं](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2)।
 
 \--- /no-print \---
 
-## Introduction
+## परिचय
 
-You are going to make a ghost-catching game!
+आप एक भूत-पकड़ने वाला गेम बनाने जा रहे हैं!
 
 \--- no-print \---
 
@@ -19,44 +19,44 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![शोकेस](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: आपको किन चीज़ों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-- A computer
+- एक कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: आप क्या सीखेंगे
+
+- समझिये लूप के अंदर कार्य के बिच क्यों रूकना ज़रूरी हैं
+- Scratch के साथ कोड का इस्तेमाल करके कैसे यादृच्छिक संख्या आप उत्पन्न कर सकते हैं
+- Scratch में गेम स्कोर स्टोर करने के लिए एक वैरिएबल जोड़ें
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: शिक्षकों के लिए अतिरिक्त टिप्पणियाँ
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} का उपयोग करें।
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+आप इधर [पूरा प्रोजेक्ट](http://rpf.io/p/en/ghostbusters-get){:target="_blank"} देख सकते हैं।
 
 \--- /collapse \---
