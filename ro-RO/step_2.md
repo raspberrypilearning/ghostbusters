@@ -1,4 +1,4 @@
-## Animate a ghost
+## Animează o fantomă
 
 \--- task \---
 
@@ -32,7 +32,7 @@ Adaugă cod personajului fantomă pentru ca aceasta să apară și dispară la i
 
 Here are the code blocks you need:
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 ascunde
@@ -53,7 +53,7 @@ cand se dă click pe stegulețul verde
 
 This is what your code should look like:
 
-![ghost-sprite](images/ghost-sprite.png)
+![fantomă](images/ghost-sprite.png)
 
 ```blocks3
 când se dă click pe stegulețul verde
