@@ -21,7 +21,7 @@ O jogo deve parar quando o cronómetro chegar a 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. Deve então ` mudar em -1 ` {: class = "block3variables"} a cada segundo ` até chegar a 0 ` {: class = "block3control"}.
+` Quando a bandeira verde é clicada ` {: class = "block3events"}, a tua variável ` tempo ` {: class = "block3variables"} deve ser ` alterada para 10 ` {: class = "block3variables"}. Deve então ` mudar em -1 ` {: class = "block3variables"} a cada segundo ` até chegar a 0 ` {: class = "block3control"}.
 
 \--- /hint \--- \--- hint \---
 
