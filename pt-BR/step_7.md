@@ -51,7 +51,7 @@ quando a bandeira verde for clicada
 mude [pontuação v] para (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
 Quando este fantasma for clicado
