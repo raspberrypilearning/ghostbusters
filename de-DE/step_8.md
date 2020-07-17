@@ -27,7 +27,7 @@ Das Spiel soll aufhören, wenn der Timer auf 0 steht.
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![Geist-Figur](images/ghost-backdrop.png)
 
 ```blocks3
 stoppe [alles]
@@ -53,7 +53,7 @@ Wenn die Flagge angeklickt wird
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
