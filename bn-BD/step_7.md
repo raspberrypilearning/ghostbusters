@@ -1,34 +1,34 @@
-## Add a score
+## একটি স্কোর যোগ করুন
 
-Now you're going to make your game more interesting by keeping score!
+এখন আপনি স্কোর রেখে আপনার খেলাটিকে আরও আকর্ষণীয় করে তুলছেন!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+স্কোর নামে একটি নতুন ভেরিয়েবল তৈরি করুন `score`{:class="block3variables"}
 
 [[[generic-scratch3-add-variable]]]
 
-\--- /task \---
+\--- task \---
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+আপনি খেলোয়াড় এর স্কোর মনে রাখতে পারেন? খেলোয়াড়রা পয়েন্ট পাবেন যতবার তারা ভূতেদের ওপর ক্লিক করতে পারবেন|
 
-Each time a player clicks on a ghost, their score should increase.
+প্রতিবার কোনও খেলোয়াড় ভূতে ক্লিক করলে, তাদের স্কোর বাড়ানো উচিত।
 
-![Increasing score](images/ghost-score-test.png)
+![ক্রমবর্ধমান স্কোর](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \---
+\--- hint \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. এই কোডটি যুক্ত করার জন্য স্টেজটি সেরা জায়গা।
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
 
-![backdrop icon](images/ghost-backdrop.png)
+![ব্যাকড্রপ আইকন](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -44,7 +44,7 @@ change [score v] by (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![ব্যাকড্রপ আইকন](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
