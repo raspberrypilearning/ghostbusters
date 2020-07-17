@@ -1,10 +1,10 @@
-## Add a score
+## स्कोर जोड़ें
 
-Now you're going to make your game more interesting by keeping score!
+चलिए स्कोर रखकर इसे और भी दिलचस्प बनाएँ!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+`score`{:class="block3variables"} नामक वेरिएबल बनाएँ।
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,23 +12,23 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+क्या आप खिलाड़ी के स्कोर का ध्यान रख सकते हैं? स्कोर बनाने के खिलाड़ी को भूत पकड़ने के लिए उन पर क्लिक करना होगा।
 
-Each time a player clicks on a ghost, their score should increase.
+हर बार खिलाड़ी भूत पर क्लिक करें, तो उनके स्कोर बढ़ने चाहिए।
 
-![Increasing score](images/ghost-score-test.png)
+![स्कोर बढ़ाना](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `score`{:class="block3variables} वेरिएबल `set to 0`{:class="block3variables"} होना चाहिए। इस कोड को जोड़ने के लिए स्टेज सबसे बढ़िया स्थान है।
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+भूत स्प्राईट को क्लिक करने पर `When the ghost sprite is clicked`{:class="block3events"}, तो `score`{:class="block3variables"} वरियबल को `changed by 1`{:class="block3variables"} हो जाना चाहिए।
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
 
-![backdrop icon](images/ghost-backdrop.png)
+![बैकड्रॉप आइकन](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -36,7 +36,7 @@ set [score v] to (0)
 when flag clicked
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 change [score v] by (1)
@@ -44,14 +44,14 @@ change [score v] by (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![बैकड्रॉप आइकन](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 When this sprite clicked
