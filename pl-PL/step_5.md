@@ -1,6 +1,6 @@
 ## Kod do łapania duchów
 
-Teraz dodaj kod do swojej gry, aby gracz łapał duchy!
+Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Jeśli przetestujesz grę i sprawisz, że łapanie upiorów będą trudne, może
 
 Your code should look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
 kiedy ten duszek kliknięty
