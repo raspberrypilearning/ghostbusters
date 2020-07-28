@@ -4,9 +4,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## ಪರಿಚಯ
+## Introduction
 
-ನೀವು ಭೂತ ಹಿಡಿಯುವ ಆಟವನ್ನು ಮಾಡಲು ಹೊರಟಿದ್ದೀರಿ!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![ಪ್ರದರ್ಶನ](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,13 +27,13 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: What you will need
 
-### ಯಂತ್ರ
+### Hardware
 
-- ಕಂಪ್ಯೂಟರ್
+- A computer
 
-### ಸಾಫ್ಟ್ವೇರ್
+### Software
 
-- ಸ್ಕ್ರ್ಯಾಚ್ 3 (ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ [ ](http://rpf.io/scratchon) {:target = "_blank"} ಅಥವಾ [ ಆಫ್‌ಲೈನ್ನಲ್ಲಿ ](http://rpf.io/scratchoff) {:target = "_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -41,9 +41,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: What you will learn
 
-- ಕುಣಿಕೆಗಳಲ್ಲಿನ ಕ್ರಿಯೆಗಳ ನಡುವೆ ವಿರಾಮಗಳ ಅಗತ್ಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ
-- ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ random ಸಂಖ್ಯೆಗಳನ್ನು ರಚಿಸಲು ಕೋಡ್ ಬಳಸಿ
-- ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ಆಟದ ಸ್ಕೋರ್ ಸಂಗ್ರಹಿಸಲು ವೇರಿಯೇಬಲ್ ಸೇರಿಸಿ
+- Understand the need for pauses between actions within loops
+- Use code to generate random numbers in Scratch
+- Add a variable to store a game score in Scratch
 
 \--- /collapse \---
 
@@ -53,10 +53,10 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- no-print \---
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ](https://projects.raspberrypi.org/en/projects/ghostbusters/print) {:target = "_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-[ ಪೂರ್ಣಗೊಂಡ ಯೋಜನೆಯನ್ನು ನೀವು ಇಲ್ಲಿ ಕಾಣಬಹುದು ](http://rpf.io/p/en/ghostbusters-get) {:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
