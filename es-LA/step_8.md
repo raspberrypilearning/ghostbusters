@@ -21,13 +21,13 @@ El juego debería detenerse cuando el temporizador llegue a 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Al hacer clic en la bandera verde`{:class=”blockevents”}, debes dar a tu variable `puntaje`{:class=”blockdata”} `el valor 10`{:class=”blockdata"}. Después, se deberías `sumar -1`{:class=”blockdata”} cada segundo `hasta que llegue a 0`{:class=”blockcontrol"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+Aquí están los bloques de código que necesitas:
 
-![sprite fantasma](images/ghost-backdrop.png)
+![objeto fantasma](images/ghost-backdrop.png)
 
 ```blocks3
 detener [todos]
@@ -50,7 +50,7 @@ al hacer clic en la bandera
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Aquí esta el código que debes agregar para crear un temporizador:
 
 ![icono de fondo](images/ghost-backdrop.png)
 
@@ -69,11 +69,11 @@ detener [todos]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Pídele a un amigo que pruebe tu juego. ¿Cuántos puntos pueden anotar?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Si tu juego es demasiado fácil, puedes:
 
 + Darle menos tiempo al jugador
 + Hacer que los fantasmas aparezcan con menos frecuencia
@@ -81,6 +81,6 @@ If your game is too easy, you can:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Modifica y prueba tu juego varias veces hasta que creas que tiene el nivel de dificultad adecuado.
 
 \--- /task \---
