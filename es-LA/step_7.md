@@ -26,7 +26,7 @@ Cada vez que un jugador hace clic en un fantasma, su puntuación debe aumentar.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Aquí están los bloques de código que necesitas:
 
 ![icono de fondo](images/ghost-backdrop.png)
 
@@ -51,7 +51,7 @@ al hacer clic en bandera verde
 dar a [puntaje v] el valor (0)
 ```
 
-![sprite fantasma](images/ghost-sprite.png)
+![objeto fantasma](images/ghost-sprite.png)
 
 ```blocks3
 Al hacer clic en este objeto
