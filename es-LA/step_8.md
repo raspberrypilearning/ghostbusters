@@ -22,7 +22,7 @@ El juego debería detenerse cuando el temporizador llegue a 0.
 --- hints ---
  --- hint ---
 
-`Al hacer clic en la bandera verde`{:class="block3events"}, debes dar a tu variable `marcador`{:class="block3data"} `el valor 10`{:class="block3data"}. Después, se deberías `sumar -1`{:class="block3data"} cada segundo `hasta que llegue a 0`{:class="block3control"}.
+`Al hacer clic en la bandera verde`{:class="block3events"}, debes dar a tu variable `marcador`{:class="block3variables"} `el valor 10`{:class="block3variables"}. Después, se deberías `sumar -1`{:class="block3variables"} cada segundo `hasta que llegue a 0`{:class="block3control"}.
 
 --- /hint --- --- hint ---
 

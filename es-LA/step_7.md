@@ -21,9 +21,9 @@ Cada vez que un jugador hace clic en un fantasma, su puntuación debe aumentar.
 --- hints ---
  --- hint ---
 
-`Al hacer clic en la bandera verde`{:class="block3events"}, debes dar a tu variable `marcador`{:class="block3data"} `el valor 0`{:class="block3data"}. El escenario es el mejor lugar para añadir este código.
+`Al hacer clic en la bandera verde`{:class="block3events"}, debes dar a tu variable `marcador`{:class="block3variables"} `el valor 0`{:class="block3variables"}. El escenario es el mejor lugar para añadir este código.
 
-`Al hacer clic en el fantasma`{:class="block3events"}, deberías `sumar 1`{:class="block3data"} a la variable `marcador`{:class="block3data"}.
+`Al hacer clic en el fantasma`{:class="block3events"}, deberías `sumar 1`{:class="block3variables"} a la variable `marcador`{:class="block3variables"}.
 
 --- /hint --- --- hint ---
 
