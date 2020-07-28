@@ -1,8 +1,8 @@
-## ಭೂತವನ್ನು ಅನಿಮೇಟ್ ಮಾಡಿ
+## Animate a ghost
 
 \--- task \---
 
-ಹೊಸ ಖಾಲಿ ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ.
+Open a new empty Scratch project.
 
 [[[generic-scratch3-new-project]]]
 
@@ -26,11 +26,11 @@ Add code to your ghost sprite so that the ghost appears and disappears forever w
 
 \--- hints \--- \--- hint \---
 
-` ಹಸಿರು ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದ ನಂತರ ` {: class = "block3events"}, ನಿಮ್ಮ ಭೂತವನ್ನು, ` ಒಂದು ಸೆಕೆಂಡಿಗೆ class = "block3looks"}` ` ಕಣ್ಮರೆಯಾಗಬೇಕು ` {: class = "block3control"} ತದನಂತರ ` ಒಂದು ಸೆಕೆಂಡಿಗೆ class = "block3looks"}<code>ಗೋಚರಿಬೇಕು` {:class = "block3looks"}. ಇದನ್ನು ಶಾಶ್ವತವಾಗಿ ` ಮಾಡಬೇಕು ` {:class="block3control"}.
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
+Here are the code blocks you need:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -51,7 +51,7 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-ನಿಮ್ಮ ಕೋಡ್ ಹೀಗಿರಬೇಕು:
+This is what your code should look like:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ.
+Test and save your project.
 
 [[[generic-scratch3-saving]]]
 
