@@ -27,7 +27,7 @@ Agrega código a tu fantasma para que siempre aparezca y desaparezca cuando se h
 --- hints ---
  --- hint ---
 
-`al hacer clic en la bandera verde`{:class="blockevents"}, tendrás que hacer `esconder`{:class="blocklooks"} a tu fantasma, `esperar un segundo`{:class="blockcontrol"} y después `mostrar`{:class="blocklooks"} y `esperar un segundo`{:class="blockcontrol"}. Tendrá que hacer esto `por siempre`{:class="blockcontrol"}.
+`al hacer clic en la bandera verde`{:class="block3events"}, tendrás que hacer `esconder`{:class="block3looks"} a tu fantasma, `esperar un segundo`{:class="block3control"} y después `mostrar`{:class="block3looks"} y `esperar un segundo`{:class="block3control"}. Tendrá que hacer esto `por siempre`{:class="block3control"}.
 
 --- /hint --- --- hint ---
 

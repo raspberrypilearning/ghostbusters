@@ -13,7 +13,7 @@ Si pruebas tu juego y encuentras que los fantasmas son difíciles de atrapar, pu
 --- hints ---
  --- hint ---
 
-`Al hacer clic en este objeto`{:class=”blockevents”}, tu fantasma se debería `esconder`{:class=”blocklooks"}.
+`Al hacer clic en este objeto`{:class="block3events"}, tu fantasma se debería `esconder`{:class="block3looks"}.
 
 --- /hint --- --- hint ---
 

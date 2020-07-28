@@ -8,7 +8,7 @@ Esta es la versión **Scratch 3** del proyecto. También existe una version [Scr
 
 ¡Vas a hacer un juego de atrapar fantasmas!
 
---- no imprimir ---
+--- no-print ---
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/414368796/?autostart=false" frameborder="0" scrolling="no"></iframe>
