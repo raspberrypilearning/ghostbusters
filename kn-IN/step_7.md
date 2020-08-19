@@ -26,7 +26,7 @@ Each time a player clicks on a ghost, their score should increase.
 
 \--- /hint \--- \--- hint \---
 
-ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
+Here are the code blocks you need:
 
 ![backdrop icon](images/ghost-backdrop.png)
 
