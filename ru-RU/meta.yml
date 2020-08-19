@@ -1,0 +1,22 @@
+---
+title: Охотники за привидениями
+hero_image: images/ghostbusters.png
+description: Сделай игру о ловле привидений!
+listed: true
+copyedit: true
+version: 4.1.0
+last_tested: 2018-11-01
+steps:
+  - title: Введение
+  - title: Анимация приведения
+  - title: Случайные приведения
+  - title: 'Задача: больше случайностей'
+    challenge: true
+  - title: Код для ловли приведений
+  - title: 'Задача: добавление звука'
+    challenge: true
+  - title: Добавление счёта
+  - title: Добавление таймера
+  - title: 'Задача: больше спрайтов'
+    challenge: true
+  - title: Что дальше?
