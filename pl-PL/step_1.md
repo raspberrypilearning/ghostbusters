@@ -34,7 +34,7 @@ title: Czego będziesz potrzebować
 
 ### Oprogamowanie
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](https://rpf.io/scratchon){:target="_blank"} lub [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 --- /no-print ---
 
-Możesz znaleźć [ukończoną wersję projektu tutaj](http://rpf.io/p/pl-PL/ghostbusters-get){:target="_blank"}.
+Możesz znaleźć [ukończoną wersję projektu tutaj](https://rpf.io/p/pl-PL/ghostbusters-get){:target="_blank"}.
 
 --- /collapse ---

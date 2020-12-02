@@ -34,7 +34,7 @@ title: Lo que necesitarás
 
 ### Software
 
-- Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (ya sea [online](https://rpf.io/scratchon){:target="_blank"} u [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 --- /no-print ---
 
-Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/es-ES/ghostbusters-get){:target ="_blank"}.
+Puedes [encontrar el proyecto completo aquí](https://rpf.io/p/es-ES/ghostbusters-get){:target ="_blank"}.
 
 --- /collapse ---
