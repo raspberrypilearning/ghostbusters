@@ -33,7 +33,7 @@ Anda akan membuat game menangkap hantu!
 
 ### Perangkat lunak
 
-- Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /menggulung \---
 
@@ -57,6 +57,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 \--- /tidak dicetak \---
 
-You can find the [completed project here](http://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /menggulung \---
