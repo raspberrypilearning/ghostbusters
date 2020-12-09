@@ -33,7 +33,7 @@ title: Kaj potrebuješ?
 
 ### Programska oprema
 
-- Scratch 3 ( [spletu](http://rpf.io/scratchon){:target="_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ( [spletu](https://rpf.io/scratchon){:target="_blank"} ali [brez povezave](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -57,6 +57,6 @@ title: Dodatne informacije za izobraževalce
 
 --- /no-print ---
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/sl-SI/ghostbusters-get).
+Zaključen projekt lahko najdete [tukaj](https://rpf.io/p/sl-SI/ghostbusters-get).
 
 --- /collapse ---

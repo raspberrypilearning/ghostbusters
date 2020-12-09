@@ -26,7 +26,7 @@ title: 必要なもの
 
 ### ソフトウェア
 
-+ Scratch 2.0 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -34,7 +34,7 @@ title: 必要なもの
 ---
 title: 学習すること
 ---
-このプロジェクトでは[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
+このプロジェクトでは[Raspberry Pi デジタル・メイキング・カリキュラム](https://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
 
 + [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 

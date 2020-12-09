@@ -34,7 +34,7 @@ Ești pe cale să faci un joc de vânat fantome!
 
 ### Software
 
-- Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"} sau [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (fie [online](https://rpf.io/scratchon){:target="_blank"} sau [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ Dacă vrei să printezi acest proiect, folosește [versiunea printabilă](https:
 
 --- /no-print ---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/ro-RO/ghostbusters-get){:target="_blank"}.
+Poți găsi [proiectul finalizat aici](https://rpf.io/p/ro-RO/ghostbusters-get){:target="_blank"}.
 
 --- /collapse ---
