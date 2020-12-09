@@ -33,7 +33,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 ### Yazılım
 
-- Scratch 3 (hem [çevrimiçi](http://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"} olarak kullanabilirsiniz)
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -57,6 +57,6 @@ Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://
 
 \--- /no-print \---
 
-Tamamlanmış projeye [buradan](http://rpf.io/p/en/ghostbusters-get){:target="_blank"} ulaşabilirsiniz.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
