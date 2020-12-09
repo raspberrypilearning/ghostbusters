@@ -33,7 +33,7 @@ Ustvaril boš igro, v kateri boš lovil duhove!
 
 ### Programska oprema
 
-- Scratch 3 ( [spletu](http://rpf.io/scratchon){: target = "_ blank"} ali [brez povezave](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -57,6 +57,6 @@ Ustvaril boš igro, v kateri boš lovil duhove!
 
 \--- /no-print \---
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/ghostbusters-get)"}.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
