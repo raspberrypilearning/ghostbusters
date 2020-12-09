@@ -33,7 +33,7 @@
 
 ### மென்பொருள்
 
-- Scratch 3 ([ஆன்லைன்(நிகழ்நிலையில்)](http://rpf.io/scratchon){:target="_blank"} அல்லது [ஆஃப்லைன்(அகல்நிலையில்)](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -57,6 +57,6 @@
 
 \--- /no-print \---
 
-நீங்கள் [ நிறைவு செய்யப்பட்ட திட்டத்தை இங்கே ](http://rpf.io/p/en/ghostbusters-get){:target="_blank"} காணலாம்.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
