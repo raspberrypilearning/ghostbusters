@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+ಇದು ಯೋಜನೆಯ **Scratch 3** ಆವೃತ್ತಿ. ಯೋಜನೆಯ [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) ವೃತ್ತಿಯೂ ಇದೆ.
 
 \--- /no-print \---
 
-## Introduction
+## ಪರಿಚಯ
 
-You are going to make a ghost-catching game!
+ನೀವು ಭೂತ ಹಿಡಿಯುವ ಆಟವನ್ನು ಮಾಡಲು ಹೊರಟಿದ್ದೀರಿ!
 
 \--- no-print \---
 
@@ -19,44 +19,44 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![ಪ್ರದರ್ಶನ](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: ನಿಮಗೆ ಬೇಕಾದುದು
 
-### Hardware
+### ಯಂತ್ರಾಂಶ(Hardware)
 
-- A computer
+- ಒಂದು ಕಂಪ್ಯೂಟರ್
 
-### Software
+### ತಂತ್ರಾಂಶ(Software)
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Scratch 3 ([online](https://rpf.io/scratchon){:target="_blank"} ಅಥವಾ [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: ನೀವು ಏನು ಕಲಿಯುವಿರಿ
+
+- ಲೂಪ್(loop) ಗಳಲ್ಲಿನ ಕ್ರಿಯೆಗಳ ನಡುವೆ ವಿರಾಮಗಳ ಅಗತ್ಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ
+- Scratch ‌ನಲ್ಲಿ random ಸಂಖ್ಯೆಗಳನ್ನು ರಚಿಸಲು ಕೋಡ್ ಬಳಸಿ
+- Scratch ‌ನಲ್ಲಿ ಆಟದ ಅಂಕ ಸಂಗ್ರಹಿಸಲು ವೇರಿಯೇಬಲ್(variable) ಸೇರಿಸಿ
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಟಿಪ್ಪಣಿಗಳು
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} ಬಳಸಿರಿ.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+ನೀವು ಕಾಣಬಹುದು [ಇಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಯೋಜನೆ](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
