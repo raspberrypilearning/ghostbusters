@@ -1,22 +1,22 @@
-## Code for catching ghosts
+## ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
 
-Now you're going to add code to your game so that the player can catch ghosts!
+ಈಗ ನೀವು ನಿಮ್ಮ ಆಟಕ್ಕೆ ಕೋಡ್ ಸೇರಿಸಲು ಹೊರಟಿದ್ದೀರಿ ಆದ್ದರಿಂದ ಆಟಗಾರನು ಭೂತಗಳನ್ನು ಹಿಡಿಯಬಹುದು!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+ನಿಮ್ಮ ಭೂತ ಸಿಕ್ಕಿಬಿದ್ದಾಗ ಅದನ್ನು ಕಣ್ಮರೆಯಾಗಿಸಬಹುದೇ? ಆಟಗಾರನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಭೂತವನ್ನು ಹಿಡಿಯಲು ಸಾಧ್ಯವಾಗಬೇಕು.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+ನಿಮ್ಮ ಆಟವನ್ನು ನೀವು ಪರೀಕ್ಷಿಸಿದಾಗ ಭೂತಗಳನ್ನು ಹಿಡಿಯುವುದು ಕಷ್ಟಕರವೆಂದು ಅನಿಸಿದರೆ, ಈ ಬಟನ್ನನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವುದರ ಮೂಲಕ ನೀವು ಪೂರ್ಣ-ಪರದೆ ಮೋಡ್‌ನಲ್ಲಿ ಆಟವನ್ನು ಆಡಬಹುದು:
 
 ![screenshot](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`When clicked`{:class="block3events"}, ನಿಮ್ಮ ghost sprite `hide`{:class="block3looks"} ಆಗಬೇಕು.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+ನಿಮ್ಮ ಕೋಡ್ ಈ ರೀತಿ ಕಾಣಿಸಬೇಕು:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
