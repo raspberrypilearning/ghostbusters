@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು
 
-Can you add other sprites to your game?
+ನಿಮ್ಮ ಆಟಕ್ಕೆ ಇತರ sprite ಗಳನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವೇ?
 
 ![screenshot](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+ನೀವು ಸೇರಿಸಲು ಬಯಸುವ ಪ್ರತಿ sprite ಗಳಿಗೆ ನೀವು ಈ ಕೆಲವು ವಿಷಯಗಳ ಬಗ್ಗೆ ಯೋಚಿಸಬೇಕು:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ sprite ಎಷ್ಟು ದೊಡ್ಡದಾಗಿರಬೇಕು?
++ ಇದು ghost sprite ಗಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ ಬಾರಿ ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕೇ?
++ ಸಿಕ್ಕಿಬಿದ್ದಾಗ ಅದು ಹೇಗೆ ಕಾಣುತ್ತದೆ/ಕೇಳಿಸುತ್ತದೆ?
++ sprite ಹಿಡಿಯಲು ಆಟಗಾರನು ಎಷ್ಟು ಅಂಕಗಳನ್ನು ಗೆಲ್ಲುತ್ತಾನೆ (ಅಥವಾ ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ)?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದಲ್ಲಿ, ಹಿಂದಿನ ಸ್ಟೇಜ್ ಗಳಲ್ಲಿನ ಸೂಚನೆಗಳಿಗೆ ನೀವು ಹಿಂತಿರುಗಿಸಬಹುದು, ಅಥವಾ ಸ್ನೇಹಿತನನ್ನು ಕೇಳಿ!
