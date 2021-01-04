@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## ಸವಾಲು: ಹೆಚ್ಚು randomness
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+ಭೂತವನ್ನು random ಸಮಯ ಕಾಯುವಂತೆ `wait`{:class = "block3control"} ಮಾಡಲು ನಿಮ್ಮ ghost sprite ಗೆ ಕೋಡ್ ಸೇರಿಸಬಹುದೇ?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+ನಿಮ್ಮ ಭೂತವು ಅದು ಪ್ರತೀಬಾರಿ ಕಾಣಿಸಿಕೊಂಡಾಗ random ಆಗಿ ದೊಡ್ಡದು ಅಥವಾ ಚಿಕ್ಕದಾಗಿ ಮಾಡಲು `set size`{:class="block3looks"} ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಬಹುದೆ?
