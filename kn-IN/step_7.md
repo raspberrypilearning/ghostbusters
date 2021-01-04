@@ -1,10 +1,10 @@
-## Add a score
+## ಅಂಕ ಸೇರಿಸಿ
 
-Now you're going to make your game more interesting by keeping score!
+ಈಗ ನೀವು ಅಂಕ ಇಟ್ಟುಕೊಂಡು ನಿಮ್ಮ ಆಟವನ್ನು ಹೆಚ್ಚು ಆಸಕ್ತಿಕರಗೊಳಿಸಲಿದ್ದೀರಿ!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+`score`{:class = "block3variables"} ಎಂಬ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಚಿಸಿ.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,21 +12,21 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+ಆಟಗಾರನ ಅಂಕವನ್ನು ನೀವು ಗಮನಿಸಬಹುದೇ? ಆಟಗಾರರು ಭೂತಗಳನ್ನು ಹಿಡಿಯಲು ಅವುಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಅಂಕಗಳನ್ನು ಗಳಿಸಬೇಕು.
 
-Each time a player clicks on a ghost, their score should increase.
+ಪ್ರತಿ ಬಾರಿ ಆಟಗಾರನು ಭೂತದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ, ಅವರ ಅಂಕ ಹೆಚ್ಚಾಗಬೇಕು.
 
 ![Increasing score](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಲು ಸ್ಟೇಜ್ ಉತ್ತಮ ಸ್ಥಳ.
 
 `When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
 
 ![backdrop icon](images/ghost-backdrop.png)
 
