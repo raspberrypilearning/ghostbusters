@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## ಸವಾಲು: ಒಂದು ಧ್ವನಿ ಸೇರಿಸಿ
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+ನಿಮ್ಮ ಭೂತವನ್ನು ಹಿಡಿದಾಗ ಅದು ಶಬ್ದ ಮಾಡಬೇಕಾದುದಕ್ಕಾಗಿ ಕೋಡ್ ಸೇರಿಸಲು ಸಾಧ್ಯವೇ?
