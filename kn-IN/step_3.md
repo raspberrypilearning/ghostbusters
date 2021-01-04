@@ -1,30 +1,30 @@
-## Random ghosts
+## Random ಭೂತಗಳು
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+ನಿಮ್ಮ ಭೂತವನ್ನು ಈ ಸಮಯದಲ್ಲಿ ಹಿಡಿಯಲು ಬಹಳ ಸುಲಭವಾಗಿದೆ, ಏಕೆಂದರೆ ಅದು ಚಲಿಸುತ್ತಿಲ್ಲ!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+ನಿಮ್ಮ ಭೂತಕ್ಕೆ ನೀವು ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಬಹುದೇ, ಅದೇ ಸ್ಥಾನದಲ್ಲಿ ಉಳಿಯುವ ಬದಲು, ವೇದಿಕೆಯಲ್ಲಿ random ಸ್ಥಾನಗಳಲ್ಲಿ ಭೂತ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+ಪ್ರತಿ ಬಾರಿ ನಿಮ್ಮ ಭೂತ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಮೊದಲು, ಅದು ವೇದಿಕೆಯ ಮೇಲೆ random ಸ್ಥಾನಕ್ಕೆ `go to`{:class="block3motion"} ಆಗಬೇಕು.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+ನೀವು ಇಲ್ಲಿ ಬಳಸಬಹುದಾದ ಎರಡು ಸೆಟ್ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳಿವೆ. ನೀವು ಬಯಸಿದ ಸೆಟ್ ಅನ್ನು ಆರಿಸಿ.
 
 ![ghost-sprite](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+ನಿಮ್ಮ ghost sprite ಗೆ ಈ ಬ್ಲಾಕ್‌ಗಳ ಗುಂಪನ್ನು ಸೇರಿಸಿ:
 
 ```blocks3
 go to (random position v)
 ```
 
-Or add this one to your sprite:
+ಅಥವಾ ಇದನ್ನು ನಿಮ್ಮ sprite ಗೆ ಸೇರಿಸಿ:
 
 ```blocks3
 go to x: (14) y: (50)
@@ -38,7 +38,7 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+ನಿಮ್ಮ ಕೋಡ್ ಈ ರೀತಿ ಕಾಣಿಸಬಹುದು:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
@@ -53,7 +53,7 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+ಅಥವಾ ಇದು ಈ ರೀತಿ ಕಾಣಿಸಬಹುದು:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
