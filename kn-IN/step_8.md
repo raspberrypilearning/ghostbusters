@@ -1,31 +1,31 @@
-## Add a timer
+## ಟೈಮರ್ ಸೇರಿಸಿ
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+ಈಗ ನೀವು ಟೈಮರ್ ಅನ್ನು ಸೇರಿಸಲು ಹೊರಟಿದ್ದೀರಿ ಆದ್ದರಿಂದ ಆಟಗಾರನಿಗೆ ಸಾಧ್ಯವಾದಷ್ಟು ಭೂತಗಳನ್ನು ಹಿಡಿಯಲು ಕೇವಲ ಹತ್ತು ಸೆಕೆಂಡುಗಳು ಮಾತ್ರ ಇರುತ್ತವೆ.
 
 \--- task \---
 
-Create a new variable called 'time'.
+'time' ಎಂಬ ಹೊಸ ವೇರಿಯೇಬಲ್ ಅನ್ನು ರಚಿಸಿ.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+ಭೂತಗಳನ್ನು ಹಿಡಿಯಲು ನಿಮ್ಮ ಆಟಗಾರನಿಗೆ ಕೇವಲ 10 ಸೆಕೆಂಡುಗಳನ್ನು ನೀಡಲು ನಿಮ್ಮ ಸ್ಟೇಜ್ ಗೆ ಟೈಮರ್ ಅನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವೇ?
 
-Your timer should:
+ನಿಮ್ಮ ಟೈಮರ್ ಹೀಗೆ ಮಾಡಬೇಕು:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಪ್ರಾರಂಭಿಸಬೇಕು
++ ಪ್ರತಿ ಸೆಕೆಂಡಗೆ ಏಣಿಕೆ ಮಾಡಿ
 
-The game should stop when the timer gets to 0.
+ಟೈಮರ್ 0 ಗೆ ಬಂದಾಗ ಆಟವು ನಿಲ್ಲಬೇಕು.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`When the green flag is clicked` {:class="block3events"}, ನಿಮ್ಮ `time`{:class="block3variables"} ವೇರಿಯೇಬಲ್ ಅನ್ನು`set to 10`{:class="block3variables"} ಗೆ ಹೊಂದಿಸಬೇಕು. ನಂತರ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಗೆ `changed by -1`{:class = "block3variables"} `until it reaches 0`{: class = "block3variables"} ಆಗಬೇಕು.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+ನೀವು ಬಳಸಬೇಕಾದ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
 
 ![ghost-sprite](images/ghost-backdrop.png)
 
@@ -51,7 +51,7 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+ಟೈಮರ್ ರಚಿಸಲು ನೀವು ಸೇರಿಸಬೇಕಾದ ಕೋಡ್ ಇಲ್ಲಿದೆ:
 
 ![backdrop icon](images/ghost-backdrop.png)
 
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+ನಿಮ್ಮ ಆಟವನ್ನು ಪರೀಕ್ಷಿಸಲು ಸ್ನೇಹಿತರನ್ನು ಕೇಳಿ. ಅವರು ಎಷ್ಟು ಅಂಕಗಳನ್ನು ಗಳಿಸಬಹುದು?
 
 \--- /task \---
 
-If your game is too easy, you can:
+ನಿಮ್ಮ ಆಟವು ತುಂಬಾ ಸುಲಭವಾಗಿದ್ದರೆ, ನೀವು ಹೀಗೆ ಮಾಡಬಹುದು:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ ಆಟಗಾರನಿಗೆ ಕಡಿಮೆ ಸಮಯ ನೀಡಿ
++ ಭೂತಗಳು ಇನ್ನೂ ಕಡಿಮೆ ಬಾರಿ ಕಾಣುವಂತೆ ಮಾಡಿ
++ ಭೂತಗಳನ್ನ ಚಿಕ್ಕದಾಗಿಸಿ
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+ನಿಮ್ಮ ಆಟದ ಕಷ್ಟದ ಮಟ್ಟವನ್ನು ನಿಮಗೆ ಸಂತೋಷವಾಗುವವರೆಗೆ ಕೆಲವು ಬಾರಿ ಬದಲಾಯಿಸಿ ಮತ್ತು ಪರೀಕ್ಷಿಸಿ.
 
 \--- /task \---
