@@ -1,32 +1,32 @@
 ---
-title: Ghostbusters
+title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಬಗ್ಗೆ ಆಟವನ್ನು ಮಾಡಿ!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: Animate a ghost
+    title: ಭೂತವನ್ನು ಅನಿಮೇಟ್ ಮಾಡಿ
   - 
-    title: Random ghosts
+    title: Random ಭೂತಗಳು
   - 
-    title: 'Challenge: more randomness'
+    title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
   - 
-    title: 'Challenge: add a sound'
+    title: 'ಸವಾಲು: ಧ್ವನಿ ಸೇರಿಸಿ'
     challenge: true
   - 
-    title: Add a score
+    title: ಅಂಕ ಸೇರಿಸಿ
   - 
-    title: Add a timer
+    title: ಟೈಮರ್(timer) ಸೇರಿಸಿ
   - 
-    title: 'Challenge: more sprites'
+    title: 'ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು'
     challenge: true
   - 
-    title: What next?
+    title: ಮುಂದೆ ಏನು?
