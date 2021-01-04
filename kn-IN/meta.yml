@@ -1,0 +1,22 @@
+---
+title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ
+hero_image: images/ghostbusters.png
+description: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಬಗ್ಗೆ ಆಟವನ್ನು ಮಾಡಿ!
+listed: true
+copyedit: true
+version: 4.1.0
+last_tested: 2018-11-01
+steps:
+  - title: ಪರಿಚಯ
+  - title: ಭೂತವನ್ನು ಅನಿಮೇಟ್ ಮಾಡಿ
+  - title: Random ಭೂತಗಳು
+  - title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
+    challenge: true
+  - title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
+  - title: 'ಸವಾಲು: ಧ್ವನಿ ಸೇರಿಸಿ'
+    challenge: true
+  - title: ಅಂಕ ಸೇರಿಸಿ
+  - title: ಟೈಮರ್(timer) ಸೇರಿಸಿ
+  - title: 'ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು'
+    challenge: true
+  - title: ಮುಂದೆ ಏನು?

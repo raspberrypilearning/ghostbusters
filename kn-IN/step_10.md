@@ -1,0 +1,32 @@
+## ಮುಂದೆ ಏನು?
+
+ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಯೋಜನೆಯನ್ನು ಉತ್ತಮವಾಗಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ! ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಸವಾಲಿನ ಯಾವುದನ್ನಾದರೂ ರಚಿಸಲು ನೀವು ಬಯಸುವಿರಾ?
+
+[ಚಾಟ್‌ಬಾಟ್](https://projects.raspberrypi.org/kn-IN/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) ಯೋಜನೆಯನ್ನು ಪ್ರಯತ್ನಿಸಿ.
+
+--- no-print ---
+
+ಹಸಿರು ಧ್ವಜದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ, ತದನಂತರ ಸಂಭಾಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು chatbot character ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಚಾಟ್‌ಬಾಟ್ ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿದಾಗ, ನಿಮ್ಮ ಉತ್ತರವನ್ನು ಸ್ಟೇಜ್ ನ ಕೆಳಭಾಗದಲ್ಲಿರುವ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ, ತದನಂತರ ಚಾಟ್‌ಬಾಟ್‌ನ ಉತ್ತರವನ್ನು ನೋಡಲು ಬಲಭಾಗದಲ್ಲಿರುವ ನೀಲಿ ಗುರುತನ್ನು(ಅಥವಾ `Enter` ಒತ್ತಿರಿ) ಕ್ಲಿಕ್ ಮಾಡಿ.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
+
+--- /no-print ---
+
+--- print-only ---
+
+![complete project](images/chatbot-preview.png)
+
+--- /print-only ---
+
+
+***
+ಈ ಯೋಜನೆಯನ್ನು ಸ್ವಯಂಸೇವಕರು ಅನುವಾದಿಸಿದ್ದಾರೆ:
+
+Prajwal
+
+Shirish
+
+ಸ್ವಯಂಸೇವಕರಿಗೆ ಧನ್ಯವಾದಗಳು, ನಾವು ಪ್ರಪಂಚದಾದ್ಯಂತದ ಜನರಿಗೆ ತಮ್ಮ ಸ್ವಂತ ಭಾಷೆಯಲ್ಲೇ ಕಲಿಯಲು ಅವಕಾಶ ನೀಡಬಹುದು. ಹೆಚ್ಚಿನ ಜನರನ್ನು ತಲುಪಲು, ನೀವು ಅನುವಾದಿಸಲು ಸ್ವಯಂಸೇವಕರಾಗಿ, ನಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದು - [rpf.io/translate](https://rpf.io/translate) ನಲ್ಲಿ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ.
