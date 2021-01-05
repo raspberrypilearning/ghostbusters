@@ -13,7 +13,7 @@ steps:
   - title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
     challenge: true
   - title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
-  - title: 'ಸವಾಲು: ಧ್ವನಿ ಸೇರಿಸಿ'
+  - title: 'ಸವಾಲು: ಒಂದು ಧ್ವನಿ ಸೇರಿಸಿ'
     challenge: true
   - title: ಅಂಕ ಸೇರಿಸಿ
   - title: ಟೈಮರ್(timer) ಸೇರಿಸಿ

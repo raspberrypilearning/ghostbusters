@@ -1,4 +1,4 @@
-## ಸವಾಲು: ಹೆಚ್ಚು randomness
+## ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)
 
 ಭೂತವನ್ನು random ಸಮಯ ಕಾಯುವಂತೆ `wait`{:class="block3control"} ಮಾಡಲು ನಿಮ್ಮ ghost sprite ಗೆ ಕೋಡ್ ಸೇರಿಸಬಹುದೇ?
 

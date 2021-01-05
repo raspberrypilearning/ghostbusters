@@ -21,9 +21,9 @@
 --- hints ---
  --- hint ---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಲು ಸ್ಟೇಜ್ ಉತ್ತಮ ಸ್ಥಳ.
+`When the green flag is clicked`{:class="block3events"}, ನಿಮ್ಮ `score`{:class="block3variables"} ವೇರಿಯೇಬಲ್ ಅನ್ನು `set to 0`{:class="block3variables"} ಗೆ ಹೊಂದಿಸಬೇಕು. ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಲು ಸ್ಟೇಜ್ ಉತ್ತಮ ಸ್ಥಳ.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`When the ghost sprite is clicked`{:class="block3events"}, `score`{:class="block3variables"} ವೇರಿಯೇಬಲ್ ಅನ್ನು `changed by 1`{:class="block3variables"} ರ ಪಟ್ಟು ಬದಲಾಯಿಸಬೇಕು..
 
 --- /hint --- --- hint ---
 
@@ -57,7 +57,6 @@ set [score v] to (0)
 ```blocks3
 When this sprite clicked
 hide
-
 + change [score v] by (1)
 ```
 
