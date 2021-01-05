@@ -26,7 +26,7 @@
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. ಇದನ್ನು `forever`{:class="block3control"} ಮಾಡಬೇಕಾಗಿದೆ.
+`ಹಸಿರು ಧ್ವಜವನ್ನು`{:class="block3events"} ಕ್ಲಿಕ್ ಮಾಡಿದ ನಂತರ, ನಿಮ್ಮ ಭೂತವನ್ನು, `ಒಂದು ಸೆಕೆಂಡಿಗೆ`{:class="block3looks"} </code>hide</code>{:class="block3control"} ಮಾಡಿ ತದನಂತರ `ಒಂದು ಸೆಕೆಂಡಿಗೆ`{:class="block3looks"} `ಗೋಚರಿಸಬೇಕು</0>{:class="block3looks"}. ಇದನ್ನು <code>forever`{:class="block3control"} ಮಾಡಬೇಕಾಗಿದೆ.
 
 \--- /hint \--- \--- hint \---
 
