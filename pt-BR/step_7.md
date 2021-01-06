@@ -36,7 +36,7 @@ mude [pontuação v] para (0)
 quando a bandeira verde for clicada
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Objeto gráfico fantasma](images/ghost-sprite.png)
 
 ```blocks3
 adicione (1) a [pontuação v]
