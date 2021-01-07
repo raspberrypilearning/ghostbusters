@@ -44,14 +44,14 @@ adicione (1) a [pontuação v]
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![Ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
 quando a bandeira verde for clicada
 mude [pontuação v] para (0)
 ```
 
-![ator do fantasma](images/ghost-sprite.png)
+![Objeto gráfico fantasma](images/ghost-sprite.png)
 
 ```blocks3
 Quando este fantasma for clicado
