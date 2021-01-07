@@ -33,20 +33,20 @@ mude [pontuação v] para (0)
 quando ⚑ for clicado
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Objeto gráfico fantasma](images/ghost-sprite.png)
 
 ```blocks3
 adicione (1) a [pontuação v]
 ```
 
---- /hint --- --- hint --- ![backdrop icon](images/ghost-backdrop.png)
+--- /hint --- --- hint --- ![Ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
 quando ⚑ for clicado
 mude [pontuação v] para (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![Objeto gráfico fantasma](images/ghost-sprite.png)
 
 ```blocks3
 quando este ator for clicado
