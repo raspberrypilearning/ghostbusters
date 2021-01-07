@@ -2,7 +2,7 @@
 
 Você consegue adicionar outros fantasmas no seu jogo?
 
-![screenshot](images/ghost-final.png)
+![captura de tela](images/ghost-final.png)
 
 Você precisa pensar em algumas coisas para cada um dos fantasmas que você deseja adicionar:
 
