@@ -1,7 +1,7 @@
 ---
 title: ゴーストバスター
 hero_image: images/ghostbusters.png
-description: お化けを捕まえるゲームを作ろう！
+description: おばけをつかまえるゲームを作りましょう！
 listed: true
 copyedit: true
 version: 4.1.0
@@ -10,23 +10,23 @@ steps:
   - 
     title: はじめに
   - 
-    title: Animate a ghost
+    title: おばけを動かす
   - 
     title: おばけをランダムに動かす
   - 
     title: 'チャレンジ: もっとランダムに'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: おばけをつかまえるコード
   - 
-    title: 'Challenge: add a sound'
+    title: 'チャレンジ: 音を追加する'
     challenge: true
   - 
-    title: Add a score
+    title: スコアを追加する
   - 
-    title: Add a timer
+    title: タイマーを追加する
   - 
-    title: 'Challenge: more sprites'
+    title: 'チャレンジ: スプライトをふやす'
     challenge: true
   - 
-    title: What next?
+    title: 次は何をしましょうか？
