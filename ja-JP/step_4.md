@@ -1,5 +1,5 @@
 ## チャレンジ: もっとランダムに
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+おばけのスプライトにコードを追加して、おばけがかくれている時にランダムな時間`待たせる`{:class="block3control"}ことはできますか？
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+`大きさを　%にする`{:class=”block3looks”}ブロックを使って、おばけが出てくるたびに大きさをランダムにできますか？
