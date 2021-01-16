@@ -27,7 +27,7 @@ Can you add a timer to your Stage to give your player only 10 seconds to catch g
 
 Here are the code blocks you need to use:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![おばけのスプライト](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
