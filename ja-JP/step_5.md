@@ -1,24 +1,24 @@
-## スコアを追加する
+## おばけをつかまえるコード
 
-Now you're going to add code to your game so that the player can catch ghosts!
+ゲームにコードを追加してプレイヤーがおばけをつかまえられるようにしましょう！
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+おばけがつかまったらきえるようにできますか？プレイヤーはおばけをクリックしてつかまえることができます。
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+ゲームをテストしておばけをつかまえるのがむずかしければ、このボタンをクリックして全画面モードでゲームをプレイできます。
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![スクリーンショット](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`クリックされたとき`{:class="block3events"}、おばけのスプライトは`隠れる`{:class="block3looks"}必要があります。
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+コードは次のようになります:
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 when this sprite clicked
