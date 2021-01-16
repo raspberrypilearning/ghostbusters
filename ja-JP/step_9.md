@@ -1,4 +1,4 @@
-## Challenge: more sprites
+## チャレンジ: スプライトをふやす
 
 Can you add other sprites to your game?
 
