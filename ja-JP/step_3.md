@@ -4,27 +4,27 @@
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+同じ場所にいるのではなく、画面上でランダムにあらわれるよう、おばけにコードを入れてみましょう。
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+おばけは出てくるたびに、 ステージ上のランダムな場所へ`行く`{:class="block3motion"}必要があります。
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+ここで使用できるコードブロックは2通りあります。好きな方をえらんでください。
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+おばけのスプライトにこのブロックを追加します。
 
 ```blocks3
 go to (random position v)
 ```
 
-Or add this one to your sprite:
+もしくはこのコードをスプライトに追加します。
 
 ```blocks3
 go to x: (14) y: (50)
@@ -38,7 +38,7 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+コードは次のようになります：
 
 ![おばけのスプライト](images/ghost-sprite.png)
 
@@ -53,7 +53,7 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+もしくはこのようになります：
 
 ![おばけのスプライト](images/ghost-sprite.png)
 
