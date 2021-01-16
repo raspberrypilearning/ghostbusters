@@ -1,6 +1,6 @@
-## チャレンジ：オブジェクトをふやす
+## スコアを追加する
 
-Now you're going to make your game more interesting by keeping score!
+スコアをつけてゲームをもっと面白くしましょう！
 
 \--- task \---
 
@@ -26,7 +26,7 @@ Can you keep track of the player's score? Players should score points when they 
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+必要なコードブロックは次のとおりです。
 
 ![backdrop icon](images/ghost-backdrop.png)
 
@@ -36,7 +36,7 @@ set [score v] to (0)
 when flag clicked
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 change [score v] by (1)
@@ -51,7 +51,7 @@ when flag clicked
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 When this sprite clicked
