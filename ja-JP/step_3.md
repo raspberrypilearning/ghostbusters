@@ -40,7 +40,7 @@ pick random (1) to (10)
 
 Your code could look either like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -55,7 +55,7 @@ end
 
 Or it could look like this:
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
