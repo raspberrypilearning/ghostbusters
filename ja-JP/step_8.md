@@ -1,6 +1,6 @@
 ## タイマーを追加する
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+次にタイマーを追加して、プレイヤーが10秒間で出来るだけ多くのおばけをつかまえなければならないようにします。
 
 \--- task \---
 
@@ -53,7 +53,7 @@ when flag clicked
 
 Here is the code you should add to create a timer:
 
-![backdrop icon](images/ghost-backdrop.png)
+![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
