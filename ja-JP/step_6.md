@@ -1,3 +1,3 @@
-## タイマーを追加する
+## チャレンジ: 音を追加する
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+コードを追加し、おばけがつかまった時に音が鳴るようにできますか？
