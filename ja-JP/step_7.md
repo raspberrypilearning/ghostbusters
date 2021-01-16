@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+`スコア`{:class="block3variables"}という名前の新しい変数 (へんすう) を作りましょう。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,23 +12,23 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+プレイヤーのスコアをつけることができますか？おばけをクリックしてつかまえると、とくてんできます。
 
 プレイヤーがおばけをクリックすると、スコアがふえます。
 
-![Increasing score](images/ghost-score-test.png)
+![スコアをふやす](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. ステージはこのコードを追加するのに一番いい場所です。
+`緑の旗が押されたとき`{:class="block3events"}、`スコア`{:class="block3variables"}変数が`0になる`{:class="block3variables"}必要があります。 ステージはこのコードを追加するのに一番いい場所です。
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`おばけのスプライトが押されたとき`{:class=”block3events”}、`スコア`{:class=”block3variables”}変数が`1ずつ変わる`{:class=”block3variables”}必要があります。
 
 \--- /hint \--- \--- hint \---
 
 必要なコードブロックは次のとおりです。
 
-![backdrop icon](images/ghost-backdrop.png)
+![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -44,7 +44,7 @@ change [score v] by (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
