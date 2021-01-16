@@ -10,7 +10,7 @@
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+新しくおばけのスプライトと、ふさわしい背景（はいけい）を追加します。
 
 ![スクリーンショット](images/ghost-ghost.png)
 
@@ -22,17 +22,17 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+緑の旗 (はた) がクリックされたときに、ずっとおばけが出てきたりきえたりするようにスプライトにコードを入れましょう。
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+`緑の旗が押(お)された`{:class="block3events"}とき、おばけを`1秒間`{:class="block3control"}`隠(かく)し`{:class="block3looks"}、そして`1秒間`{:class="block3control"}`表示 (ひょうじ) する`{:class="block3looks"}必要があります。 これが`ずっと`{:class=”block3control”}行われる必要があります。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+必要なコードブロックは次のとおりです。
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+コードは次のようになります。
 
-![ghost-sprite](images/ghost-sprite.png)
+![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+プロジェクトをテストして保存 (ほぞん) しましょう。
 
 [[[generic-scratch3-saving]]]
 
