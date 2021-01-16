@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
+これは、**Scratch 3**バージョンのプロジェクトです。[ Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2)もあります。
 
 \--- /no-print \---
 
@@ -19,13 +19,13 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![ショーケース](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 必要なもの
 
 ### ハードウェア
 
@@ -33,30 +33,30 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### ソフトウェア
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 学習すること
 
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- ループ内のアクション間の一時停止の必要性を理解する
+- Scratch で乱数 (らんすう) を生成 (せいせい) するコードを使用する
+- Scratch にゲームスコアを保存する変数 (へんすう) を追加する
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: 教育者向けの追加メモ
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_ blank"}を使用してください。
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+[完成したプロジェクトはここ](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}にあります。
 
 \--- /collapse \---
