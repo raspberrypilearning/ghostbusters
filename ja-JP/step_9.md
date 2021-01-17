@@ -1,14 +1,14 @@
 ## チャレンジ: スプライトをふやす
 
-Can you add other sprites to your game?
+ゲームに他のスプライトを追加できますか？
 
 ![スクリーンショット](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+追加したいスプライトごとに、考えるべきことがいくつかあります。
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ スプライトの大きさはどれくらいですか？
++ おばけのスプライトよりも、よく出てきますか？それともあまり出てきませんか？
++ つかまった時に、見た目はどのように変わりますか？どんな音が鳴りますか？
++ プレイヤーがスプライトをつかまえた時に何点とれますか？または何点うしないますか？
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+どうすればいいか分からない場合は、前のステップにもどって説明を見るか、友だちに聞いてみましょう！
