@@ -10,11 +10,11 @@
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+ステージにタイマーを追加して、プレイヤーが10秒間のみおばけをつかまえられるようにできますか？
 
 タイマーはこのようにします。
 
-+ 10秒から始まる
++ 10秒から開始
 + 1秒ずつへっていく
 
 タイマーが0になると、ゲームは終わります。
