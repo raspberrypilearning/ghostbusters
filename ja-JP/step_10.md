@@ -1,12 +1,12 @@
 ## 次は何をしましょうか？
 
-Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
+ゴーストバスターのプロジェクトの完成 (かんせい) おめでとうございます！ もう少しむずかしいものをやってみませんか？
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+[「チャットボット」](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)プロジェクトをやってみましょう。
 
 \--- no-print \---
 
-Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
+緑の旗をクリックし、チャットボットのキャラクターをクリックして会話を始めましょう。 チャットボットが質問 (しつもん) をしたら、ステージの下部にあるボックスに答えを入力します。右にある青いマークをクリックすると（または `Enter` をおすと) チャットボットが返事をします。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
@@ -17,6 +17,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 
 \--- print-only \---
 
-![complete project](images/chatbot-preview.png)
+![完成したプロジェクト](images/chatbot-preview.png)
 
 \--- /print-only \---
