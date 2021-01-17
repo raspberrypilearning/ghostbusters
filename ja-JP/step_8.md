@@ -21,11 +21,11 @@
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`緑の旗が押されたとき`{:class=”block3events”}、`タイム`{:class=”block3variables”}変数が`10になる`{:class=”block3variables”}必要があります。 それが毎秒`-1ずつ変わり`{:class=”block3variables”}、`0になるまで繰(く)り返される`{:class=”block3control"} 必要があります。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+必要なコードブロックは次のとおりです。
 
 ![おばけのスプライト](images/ghost-backdrop.png)
 
@@ -51,7 +51,7 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+タイマーを作るのに必要コードは次のとおりです。
 
 ![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
 
@@ -71,11 +71,11 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+友だちにゲームを遊んでもらいましょう。 何点取れましたか？
 
 \--- /task \---
 
-If your game is too easy, you can:
+ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう。
 
 + 時間を短くする
 + おばけをあらわれにくくする
@@ -83,6 +83,6 @@ If your game is too easy, you can:
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+まんぞくできるむずかしさになるまで、ゲームを変えてテストしましょう。
 
 \--- /task \---
