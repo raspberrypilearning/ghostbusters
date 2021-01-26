@@ -2,9 +2,9 @@
 
 --- task ---
 
-新しいScratch (スクラッチ) のプロジェクトを開きましょう。
+新しいスクラッチのプロジェクトを開きましょう。
 
-[[[generic-scratch-new-project]]]
+[[[generic-scratch3-new-project]]]
 
 --- /task ---
 
@@ -14,24 +14,66 @@
 
 ![スクリーンショット](images/ghost-ghost.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
-[[[generic-scratch-backdrop-from-library]]]
-
---- /task ---
-
---- task ---
-
-旗をクリックすると、いつまでもおばけがあらわれたり消えたりするように、コードを入れてみましょう。
-
---- hints --- --- hint --- `緑の旗がクリックされたとき`{:class=”blockevents”}、おばけを`1秒`{:class=”blockcontrol”}`隠す`{:class=”blocklooks”} (かくす)、そして`1秒`{:class=”blockcontrol”}`表示する`{:class=”blocklooks”} 必要があります。 これを`ずっと`{:class=”blockcontrol”}行います。 --- /hint --- --- hint --- 使うブロックはこちらです。 ![screenshot](images/ghost-appear-blocks.png) --- /hint --- --- hint --- コードの見本はこちらです。 ![screenshot](images/ghost-appear-code.png) --- /hint --- --- /hints ---
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
 
-テストして保存 (ほぞん) しましょう。
+緑の旗 (はた) がクリックされたときに、ずっとおばけが出てきたりきえたりするようにスプライトにコードを入れましょう。
 
-[[[generic-scratch-saving]]]
+--- hints ---
+ --- hint ---
+
+`緑の旗が押(お)された`{:class="block3events"}とき、おばけを`1秒間`{:class="block3control"}`隠(かく)し`{:class="block3looks"}、そして`1秒間`{:class="block3control"}`表示 (ひょうじ) する`{:class="block3looks"}必要があります。 これが`ずっと`{:class="block3control"}行われる必要があります。
+
+--- /hint --- --- hint ---
+
+必要なコードブロックは次のとおりです。
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+hide
+
+show
+
+forever
+end
+
+wait (1) seconds
+
+wait (1) seconds
+
+when flag clicked
+```
+
+--- /hint --- --- hint ---
+
+コードは次のようになります。
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
+
+--- task ---
+
+プロジェクトをテストして保存 (ほぞん) しましょう。
+
+[[[generic-scratch3-saving]]]
 
 --- /task ---
