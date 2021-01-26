@@ -27,7 +27,7 @@
 --- hints ---
  --- hint ---
 
-`緑の旗が押(お)された`{:class="block3events"}とき、おばけを`1秒間`{:class="block3control"}`隠(かく)し`{:class="block3looks"}、そして`1秒間`{:class="block3control"}`表示 (ひょうじ) する`{:class="block3looks"}必要があります。 これが`ずっと`{:class=”block3control”}行われる必要があります。
+`緑の旗が押(お)された`{:class="block3events"}とき、おばけを`1秒間`{:class="block3control"}`隠(かく)し`{:class="block3looks"}、そして`1秒間`{:class="block3control"}`表示 (ひょうじ) する`{:class="block3looks"}必要があります。 これが`ずっと`{:class="block3control"}行われる必要があります。
 
 --- /hint --- --- hint ---
 
