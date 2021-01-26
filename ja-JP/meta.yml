@@ -2,26 +2,21 @@
 title: ゴーストバスター
 hero_image: images/ghostbusters.png
 description: おばけをつかまえるゲームを作りましょう！
-original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
-theme: green
 listed: true
 copyedit: true
-ingredient: false
-duration: 2
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2.1
-last_tested: 2018-01-01
+version: 4.1.0
+last_tested: 2018-11-01
 steps:
   - title: はじめに
   - title: おばけを動かす
   - title: おばけをランダムに動かす
-  - title: おばけを捕まえる
+  - title: 'チャレンジ: もっとランダムに'
+    challenge: true
+  - title: おばけをつかまえるコード
+  - title: 'チャレンジ: 音を追加する'
+    challenge: true
   - title: スコアを追加する
   - title: タイマーを追加する
-  - title: 'チャレンジ：オブジェクトをふやす'
+  - title: 'チャレンジ: スプライトをふやす'
     challenge: true
+  - title: 次は何をしましょうか？
