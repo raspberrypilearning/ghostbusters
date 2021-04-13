@@ -25,7 +25,7 @@
 
 ## \--- collapse \---
 
-## आपल्याला काय आवश्यक आहे
+## title: आपल्याला काय आवश्यक आहे
 
 ### हार्डवेअर
 
@@ -33,13 +33,13 @@
 
 ### सॉफ्टवेअर
 
-- Scratch 3 (एकतर [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} किंवा [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (एकतर [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} किंवा [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## आपण काय शिकू
+## title: What you will learn
 
 - लूप क्रियांच्या दरम्यान विराम देण्याची आवश्यकता समजून घ्या
 - Scratch मध्ये यादृच्छिक संख्या निर्माण करण्यासाठी कोड वापरा
@@ -49,7 +49,7 @@
 
 ## \--- collapse \---
 
-## शिक्षकांसाठी अतिरिक्त माहिती
+## title: शिक्षकांसाठी अतिरिक्त माहिती
 
 \--- no-print \---
 
