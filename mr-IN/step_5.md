@@ -1,24 +1,24 @@
-## Code for catching ghosts
+## भूत पकडण्यासाठी कोड
 
-Now you're going to add code to your game so that the player can catch ghosts!
+आता आपण आपल्या गेममध्ये कोड जोडत आहात जेणेकरून खेळाडू भुते पकडू शकेल!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+पकडल्यावर आपण आपला भूत गायब करू शकता का? खेळाडू त्यांना पकडण्यासाठी भूत क्लिक करण्यास सक्षम असावा.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+आपण आपला गेम तपासता आणि भूत पकडणे अवघड असल्यास, आपण या बटणावर क्लिक करून गेमला पूर्ण-स्क्रीन मोडमध्ये प्ले करू शकता:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![स्क्रीनशॉट](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`जेव्हा`{: class = "block3events"} क्लिक केले, तेव्हा आपल्या भूत स्प्राइट `लपवावे`{: class = "block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+आपला कोड यासारखा दिसला पाहिजे:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत-स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 when this sprite clicked
