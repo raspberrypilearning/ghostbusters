@@ -1,6 +1,6 @@
 ## إضافة نتيجة
 
-Now you're going to add code to your game so that the player can catch ghosts!
+والان ستقوم باضافة تعليمات برمجية الى لعبتك حتى يتمكن اللاعب من اصطياد الاشباح!
 
 \--- task \---
 
