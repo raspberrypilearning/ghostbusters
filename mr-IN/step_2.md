@@ -1,8 +1,8 @@
-## Animate a ghost
+## एक भूत आत्मसात करा
 
 \--- task \---
 
-Open a new empty Scratch project.
+एक नवीन रिक्त स्क्रॅच प्रोजेक्ट उघडा.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+नवीन घोस्ट स्प्राइट आणि योग्य स्टेज पार्श्वभूमीवर जोडा.
 
-![screenshot](images/ghost-ghost.png)
+![स्क्रीनशॉट](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,17 +22,17 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+आपल्या भुताच्या स्प्राइटमध्ये कोड जोडा जेणेकरून हिरवा ध्वज क्लिक केला की भूत दिसून येईल आणि कायमचे अदृश्य होईल.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+एकदा `हिरवा झेंडा क्लिक केले आहे`{वर्ग = "block3events"}, आपल्या भूत पाहिजे `लपवा`{वर्ग = "block3looks"} साठी `एक सेकंद`{वर्ग = "block3control"} आणि नंतर `शो`{ : class = "block3looks"} `एक सेकंद`{: class = "block3control"} साठी. हे `कायमचे`{: class = "block3control"} करणे आवश्यक आहे.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+आपल्याला आवश्यक असलेले कोड ब्लॉक येथे आहेत:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत-स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+आपला कोड यासारखा दिसला पाहिजे:
 
-![ghost-sprite](images/ghost-sprite.png)
+![भूत-स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+आपला प्रकल्पाची चाचणी घ्या आणि जतन करा.
 
 [[[generic-scratch3-saving]]]
 
