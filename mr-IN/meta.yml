@@ -1,32 +1,32 @@
 ---
-title: Ghostbusters
+title: घोस्टबस्टर्स
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: भूत पकडण्याविषयी गेम तयार करा!
 listed: true
 copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Animate a ghost
+    title: एक भूत आत्मसात करा
   - 
-    title: Random ghosts
+    title: यादृच्छिक भूत
   - 
-    title: 'Challenge: more randomness'
+    title: 'आव्हान: अधिक यादृच्छिकता'
     challenge: true
   - 
-    title: Code for catching ghosts
+    title: भूत पकडण्यासाठी कोड
   - 
-    title: 'Challenge: add a sound'
+    title: 'आव्हानः आवाज जोडा'
     challenge: true
   - 
-    title: Add a score
+    title: एक अंक जोडा
   - 
-    title: Add a timer
+    title: एक टाइमर जोडा
   - 
-    title: 'Challenge: more sprites'
+    title: 'आव्हान: अधिक स्प्राइट्स'
     challenge: true
   - 
-    title: What next?
+    title: पुढे काय?
