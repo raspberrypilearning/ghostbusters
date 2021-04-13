@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## आव्हान: अधिक स्प्राइट्स
 
-Can you add other sprites to your game?
+आपण आपल्या गेममध्ये इतर स्प्राइट्स जोडू शकता का?
 
-![screenshot](images/ghost-final.png)
+![स्क्रीनशॉट](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+आपण जोडण्यास इच्छुक असलेल्या प्रत्येक स्प्राइट्ससाठी आपल्याला काही गोष्टींबद्दल विचार करण्याची आवश्यकता आहे:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ स्प्राइट किती मोठे असावे?
++ भूत स्प्राइटपेक्षा जास्त वेळा किंवा कमीतकमी दिसू नये का?
++ जेव्हा पकडले जाते तेव्हा काय दिसते / आवाज दिसते?
++ स्प्राईट पकडण्यासाठी खेळाडू किती गुण जिंकतो (किंवा हरतो)?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+आपल्याला मदतीची आवश्यकता असल्यास, आपण मागील चरणांमध्ये दिलेल्या सूचनांवर परत येऊ शकता किंवा एखाद्या मित्राला विचारू शकता!
