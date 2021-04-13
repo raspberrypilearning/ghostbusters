@@ -33,7 +33,7 @@
 
 ### البرمجيات
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- برنامج Scratch 3 (سواء أكان [عبر الإنترنت](https://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -57,6 +57,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+يمكنك الحصول على [المشروع كاملاً من هنا](https://rpf.io/p/ar-SA/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
