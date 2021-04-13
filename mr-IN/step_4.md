@@ -1,5 +1,5 @@
-## Challenge: more randomness
+## आव्हान: अधिक यादृच्छिकता
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+भूत लपला असताना काही वेळा यादृच्छिक वेळेची `प्रतीक्षा करण्यासाठी`आपण आपल्या भूत स्पिरिटमध्ये कोड जोडू शकता{:class = "block3control"}?
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+आपण आपल्या भूतला प्रत्येक वेळी दिसते तेव्हा यादृच्छिकपणे मोठे किंवा लहान `सेट आकार`{: वर्ग = "block3looks"} ब्लॉक वापरू शकता?
