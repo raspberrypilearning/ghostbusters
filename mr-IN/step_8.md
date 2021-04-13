@@ -1,33 +1,33 @@
-## Add a timer
+## एक टाइमर जोडा
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+आता आपण एक टाइमर जोडणार आहात जेणेकरून शक्य तितक्या भूतांना पकडण्यासाठी प्लेअरला दहा सेकंद लागतील.
 
 \--- task \---
 
-Create a new variable called 'time'.
+'time' नामक नवीन व्हेरिएबल तयार करा.
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+भूत पकडण्यासाठी आपल्या प्लेअरला केवळ 10 सेकंद देण्यासाठी आपण आपल्या स्टेजमध्ये टाइमर जोडू शकता?
 
-Your timer should:
+आपला टाइमर असावा:
 
-+ Start at 10 seconds
-+ Count down every second
++ 10 सेकंदात प्रारंभ करा
++ प्रत्येक सेकंदाला मोजा
 
-The game should stop when the timer gets to 0.
+जेव्हा टाइमर 0 वर जाईल तेव्हा खेळ थांबला पाहिजे.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`जेव्हा हिरवा ध्वज वर क्लिक केला जातो`{:class="block3events"}, तेव्हा आपला `वेळ`{:class="block3variables"} </code>10`{:class="block3variables"} वर सेट केला जावा. नंतर तो <code>-1 ने बदलला पाहिजे `{:class="block3variables"} प्रत्येक सेकंड ` जेंव्हापारायणात ते 0 पर्यन्त पोहोचते`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+आपल्याला वापरण्यासाठी आवश्यक असलेले कोड ब्लॉक येथे आहेत:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![भूत-स्प्राइट](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+टाइमर तयार करण्यासाठी आपण जोडू कोड येथे आहे:
 
-![backdrop icon](images/ghost-backdrop.png)
+![पार्श्वभूमी चिन्ह](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+काही मित्रांना आपला खेळ तपासायला सांगा. ते किती गुण मिळवू शकतात?
 
 \--- /task \---
 
-If your game is too easy, you can:
+आपला खेळ खूप सोपा असल्यास आपण हे करू शकता:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ खेळाडू कमी वेळ द्या
++ भूत कमी वारंवार प्रकट करा
++ भूत लहान करा
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+आपला गेम त्याच्या अडचणीच्या पातळीवर आनंदी होईपर्यंत काही वेळा आपला गेम बदला आणि चाचणी घ्या.
 
 \--- /task \---
