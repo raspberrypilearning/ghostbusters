@@ -4,7 +4,7 @@
 
 \--- task \---
 
-`score`{: class= "block3variables"}नावाचे एक नवीन व्हेरिएबल तयार करा.
+`score (स्कोर)`{: class= "block3variables"}नावाचे एक नवीन व्हेरिएबल तयार करा.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -20,9 +20,9 @@
 
 \--- hints \--- \--- hint \---
 
-`जेव्हा हिरवा ध्वज क्लिक केला जाईल`{:class="block3events"}, तेव्हा आपला `score`{:class="block3variables"} व्हेरिएबल `0 वर सेट करावा `. हा कोड जोडण्यासाठी स्टेज हे सर्वोत्तम स्थान आहे.
+`जेव्हा हिरवा ध्वज क्लिक केला जाईल (when the green flag is clicked)`{:class="block3events"}, तेव्हा आपला `score (स्कोर)`{:class="block3variables"} व्हेरिएबल `0 वर सेट करावा (set to 0)`. हा कोड जोडण्यासाठी स्टेज हे सर्वोत्तम स्थान आहे.
 
-`जेव्हा भूत स्प्राइट क्लिक केले जाते`{:class="block3events"}, तेव्हा `स्कोर `{:class="block3variables"} व्हेरिएबल `1 ने बदलला पाहिजे `{:class="block3variables"}.
+`जेव्हा भूत स्प्राइट क्लिक केले जाते (when the ghost sprite is clicked)`{:class="block3events"}, तेव्हा `score (स्कोर)`{:class="block3variables"} व्हेरिएबल `1 ने बदलला पाहिजे (changed by 1)`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
