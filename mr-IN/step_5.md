@@ -12,7 +12,7 @@
 
 \--- hints \--- \--- hint \---
 
-`जेव्हा`{: class = "block3events"} क्लिक केले, तेव्हा आपल्या भूत स्प्राइट `लपवावे`{: class = "block3looks"}.
+`जेव्हा (when this sprite clicked)`{: class = "block3events"} क्लिक केले, तेव्हा आपल्या भूत स्प्राइट `लपवावे (hide)`{: class = "block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
