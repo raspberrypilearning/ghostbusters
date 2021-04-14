@@ -26,7 +26,7 @@
 
 \--- hints \--- \--- hint \---
 
-एकदा `हिरवा झेंडा क्लिक केले आहे`{वर्ग = "block3events"}, आपल्या भूत पाहिजे `लपवा`{वर्ग = "block3looks"} साठी `एक सेकंद`{वर्ग = "block3control"} आणि नंतर `शो`{ : class = "block3looks"} `एक सेकंद`{: class = "block3control"} साठी. हे `कायमचे`{: class = "block3control"} करणे आवश्यक आहे.
+एकदा `हिरवा झेंडा क्लिक केले आहे (green flag clicked)`{वर्ग = "block3events"}, आपल्या भूत पाहिजे `लपवा (hide)`{वर्ग = "block3looks"} साठी `एक सेकंद (one second)`{वर्ग = "block3control"} आणि नंतर `शो (show)`{: class = "block3looks"} `एक सेकंद (one second`{: class = "block3control"} साठी. हे `कायमचे (forever)`{:class="block3control"} करणे आवश्यक आहे.
 
 \--- /hint \--- \--- hint \---
 
