@@ -22,7 +22,7 @@
 --- hints ---
  --- hint ---
 
-`जेव्हा हिरवा ध्वज वर क्लिक केला जातो (when the green flag is cliked)`{:class="block3events"}, तेव्हा आपला `time (वेळ)`{:class="block3variables"} `10 वर सेट केला जावा (set to 10)`{:class="block3variables"}. नंतर तो `-1 ने बदलला पाहिजे (change by 1)`{:class="block3variables"} प्रत्येक सेकंड `जेंव्हापारायणात ते 0 पर्यन्त पोहोचते (until it reaches 0)`{:class="block3control"}.
+`जेव्हा हिरवा ध्वज वर क्लिक केला जातो (when the green flag is clicked)`{:class="block3events"}, तेव्हा आपला `time (वेळ)`{:class="block3variables"} `10 वर सेट केला जावा (set to 10)`{:class="block3variables"}. नंतर तो `-1 ने बदलला पाहिजे (change by -1)`{:class="block3variables"} प्रत्येक सेकंड `जेंव्हापारायणात ते 0 पर्यन्त पोहोचते (until it reaches 0)`{:class="block3control"}.
 
 --- /hint --- --- hint ---
 
