@@ -1,21 +1,15 @@
-\--- tidak-dicetak \---
-
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /tidak dicetak \---
-
 ## Pengantar
 
-Anda akan membuat game menangkap hantu!
+You are going to make a ghost-catching game!
 
-\--- no-print \---
+\--- tidak-dicetak \---
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/showcase-static.png">
 </div>
 
-\--- /no-print \---
+\--- /tidak dicetak \---
 
 \--- print-only \---
 
@@ -35,7 +29,7 @@ Anda akan membuat game menangkap hantu!
 
 - Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
-\--- /menggulung \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -45,7 +39,7 @@ Anda akan membuat game menangkap hantu!
 - Use code to generate random numbers in Scratch
 - Add a variable to store a game score in Scratch
 
-\--- /menggulung \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -59,4 +53,4 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
-\--- /menggulung \---
+\--- /collapse \---
