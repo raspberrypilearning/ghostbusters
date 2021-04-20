@@ -1,12 +1,6 @@
-\--- no-print \---
-
-هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## المقدمة
 
-سوف تقوم بصنع لعبة إصطياد أشباح!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![معرض](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,10 +47,10 @@
 
 \--- no-print \---
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [نسخة متوافقة مع الطابعة](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-يمكنك الحصول على [المشروع كاملاً من هنا](https://rpf.io/p/ar-SA/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
