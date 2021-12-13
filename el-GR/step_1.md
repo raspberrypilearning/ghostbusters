@@ -11,7 +11,7 @@
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/334999165/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/615948530/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/showcase-static.png">
 </div>
 
