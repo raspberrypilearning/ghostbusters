@@ -7,16 +7,18 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: परिचय
-  - title: एक भूत आत्मसात करा
-  - title: यादृच्छिक भूत
-  - title: 'आव्हान: अधिक यादृच्छिकता'
-    challenge: true
-  - title: भूत पकडण्यासाठी कोड
-  - title: 'आव्हानः आवाज जोडा'
-    challenge: true
-  - title: एक अंक जोडा
-  - title: एक टाइमर जोडा
-  - title: 'आव्हान: अधिक स्प्राइट्स'
-    challenge: true
-  - title: पुढे काय?
+- title: परिचय
+  completion: engaged
+- title: एक भूत आत्मसात करा
+- title: यादृच्छिक भूत
+- title: 'आव्हान: अधिक यादृच्छिकता'
+  challenge: true
+- title: भूत पकडण्यासाठी कोड
+- title: आव्हानः आवाज जोडा
+  challenge: true
+- title: एक अंक जोडा
+  completion: internal
+- title: एक टाइमर जोडा
+- title: 'आव्हान: अधिक स्प्राइट्स'
+  challenge: true
+- title: पुढे काय?

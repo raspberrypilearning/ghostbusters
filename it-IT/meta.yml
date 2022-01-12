@@ -7,17 +7,19 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: Introduzione
-  - title: Animare un fantasma
-  - title: Fantasmi a caso
-  - title: 'Sfida: più casualità'
-    challenge: true
-  - title: Codice per catturare fantasmi
-  - title: 'Sfida: aggiungere un suono'
-    challenge: true
-  - title: Aggiungere un punteggio
-  - title: Aggiungere un timer
-  - title: 'Sfida: più sprite'
-    challenge: true
-  - title: Mettiti alla prova
-  - title: E adesso?
+- title: Introduzione
+  completion: engaged
+- title: Animare un fantasma
+- title: Fantasmi a caso
+- title: 'Sfida: più casualità'
+  challenge: true
+- title: Codice per catturare fantasmi
+- title: 'Sfida: aggiungere un suono'
+  challenge: true
+- title: Aggiungere un punteggio
+  completion: internal
+- title: Aggiungere un timer
+- title: 'Sfida: più sprite'
+  challenge: true
+- title: Mettiti alla prova
+- title: E adesso?

@@ -7,16 +7,18 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: परिचय
-  - title: भूत का एनिमेशन बनाना
-  - title: बेतरतीब भूत
-  - title: 'चुनौती: अधिक अस्थाई'
-    challenge: true
-  - title: भूत पकड़ना
-  - title: 'चुनौती: ध्वनि जोड़ना'
-    challenge: true
-  - title: स्कोर जोड़ें
-  - title: टाइमर(timer) जोड़ना
-  - title: 'चुनौती: और स्प्रिट्स'
-    challenge: true
-  - title: आगे क्या?
+- title: परिचय
+  completion: engaged
+- title: भूत का एनिमेशन बनाना
+- title: बेतरतीब भूत
+- title: 'चुनौती: अधिक अस्थाई'
+  challenge: true
+- title: भूत पकड़ना
+- title: 'चुनौती: ध्वनि जोड़ना'
+  challenge: true
+- title: स्कोर जोड़ें
+  completion: internal
+- title: टाइमर(timer) जोड़ना
+- title: 'चुनौती: और स्प्रिट्स'
+  challenge: true
+- title: आगे क्या?

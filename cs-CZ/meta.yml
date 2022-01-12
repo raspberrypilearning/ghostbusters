@@ -16,5 +16,6 @@ hardware: ''
 software: scratch
 version: 4.2.1
 last_tested: 2018-01-01
-steps: 
-  - title: Lovci duchů
+steps:
+- title: Lovci duchů
+  completion: engaged

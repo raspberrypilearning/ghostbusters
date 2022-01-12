@@ -7,16 +7,18 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: المقدمة
-  - title: تحريك الشبح
-  - title: أشباح عشوائية
-  - title: 'التحدي: أكثر عشوائية'
-    challenge: true
-  - title: اصطياد الأشباح
-  - title: 'تحدي: إضافة صوت'
-    challenge: true
-  - title: إضافة نتيجة
-  - title: اضافة مؤقت
-  - title: 'تحدي: كائنات اخرى'
-    challenge: true
-  - title: ماهو التالي؟
+- title: المقدمة
+  completion: engaged
+- title: تحريك الشبح
+- title: أشباح عشوائية
+- title: 'التحدي: أكثر عشوائية'
+  challenge: true
+- title: اصطياد الأشباح
+- title: 'تحدي: إضافة صوت'
+  challenge: true
+- title: إضافة نتيجة
+  completion: internal
+- title: اضافة مؤقت
+- title: 'تحدي: كائنات اخرى'
+  challenge: true
+- title: ماهو التالي؟

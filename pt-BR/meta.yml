@@ -7,16 +7,18 @@ copyedit: true
 version: 4.1.0
 last_tested: 01-11-2018
 steps:
-  - title: Introdução
-  - title: Animando um fantasma
-  - title: Fantasmas aleatórios
-  - title: 'Desafio: mais aleatoriedade'
-    challenge: true
-  - title: Código para capturar fantasmas
-  - title: 'Desafio: adicionar um som'
-    challenge: true
-  - title: Adicionar uma pontuação
-  - title: Adicionar um cronômetro
-  - title: 'Desafio: mais fantasmas'
-    challenge: true
-  - title: E agora?
+- title: Introdução
+  completion: engaged
+- title: Animando um fantasma
+- title: Fantasmas aleatórios
+- title: 'Desafio: mais aleatoriedade'
+  challenge: true
+- title: Código para capturar fantasmas
+- title: 'Desafio: adicionar um som'
+  challenge: true
+- title: Adicionar uma pontuação
+  completion: internal
+- title: Adicionar um cronômetro
+- title: 'Desafio: mais fantasmas'
+  challenge: true
+- title: E agora?

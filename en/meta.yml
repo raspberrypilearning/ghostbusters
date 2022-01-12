@@ -1,3 +1,4 @@
+---
 title: Ghostbusters
 hero_image: images/ghostbusters.png
 description: Make a game about catching ghosts!
@@ -7,6 +8,7 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Introduction
+  completion: engaged
 - title: Animate a ghost
 - title: Random ghosts
 - title: 'Challenge: more randomness'
@@ -15,6 +17,7 @@ steps:
 - title: 'Challenge: add a sound'
   challenge: true
 - title: Add a score
+  completion: internal
 - title: Add a timer
 - title: 'Challenge: more sprites'
   challenge: true

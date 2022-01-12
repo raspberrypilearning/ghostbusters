@@ -7,16 +7,18 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: 소개
-  - title: 유령 움직여 보기
-  - title: 신출귀몰한 유령
-  - title: '도전 과제: 더 랜덤하게'
-    challenge: true
-  - title: 유령을 잡아볼까요
-  - title: '도전과제: 타이머 추가하기'
-    challenge: true
-  - title: 점수 추가하기
-  - title: 타이머 추가하기
-  - title: '도전과제: 좀 더 많은 스프라이트 만들기'
-    challenge: true
-  - title: 더 나아가기
+- title: 소개
+  completion: engaged
+- title: 유령 움직여 보기
+- title: 신출귀몰한 유령
+- title: '도전 과제: 더 랜덤하게'
+  challenge: true
+- title: 유령을 잡아볼까요
+- title: '도전과제: 타이머 추가하기'
+  challenge: true
+- title: 점수 추가하기
+  completion: internal
+- title: 타이머 추가하기
+- title: '도전과제: 좀 더 많은 스프라이트 만들기'
+  challenge: true
+- title: 더 나아가기

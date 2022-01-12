@@ -7,16 +7,18 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: ಪರಿಚಯ
-  - title: ಭೂತವನ್ನು ಅನಿಮೇಟ್ ಮಾಡಿ
-  - title: Random ಭೂತಗಳು
-  - title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
-    challenge: true
-  - title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
-  - title: 'ಸವಾಲು: ಒಂದು ಧ್ವನಿ ಸೇರಿಸಿ'
-    challenge: true
-  - title: ಅಂಕ ಸೇರಿಸಿ
-  - title: ಟೈಮರ್(timer) ಸೇರಿಸಿ
-  - title: 'ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು'
-    challenge: true
-  - title: ಮುಂದೆ ಏನು?
+- title: ಪರಿಚಯ
+  completion: engaged
+- title: ಭೂತವನ್ನು ಅನಿಮೇಟ್ ಮಾಡಿ
+- title: Random ಭೂತಗಳು
+- title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
+  challenge: true
+- title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
+- title: 'ಸವಾಲು: ಒಂದು ಧ್ವನಿ ಸೇರಿಸಿ'
+  challenge: true
+- title: ಅಂಕ ಸೇರಿಸಿ
+  completion: internal
+- title: ಟೈಮರ್(timer) ಸೇರಿಸಿ
+- title: 'ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು'
+  challenge: true
+- title: ಮುಂದೆ ಏನು?

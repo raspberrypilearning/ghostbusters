@@ -7,17 +7,19 @@ copyedit: true
 version: 4.1.0
 last_tested: 2018-11-01
 steps:
-  - title: Einleitung
-  - title: Animiere ein Gespenst
-  - title: Zufällige Gespenster
-  - title: 'Herausforderung: Mehr Zufälligkeit'
-    challenge: true
-  - title: Code zum Fangen von Geistern
-  - title: 'Herausforderung: Ein Geräusch hinzufügen'
-    challenge: true
-  - title: Eine Punktzahl hinzufügen
-  - title: Eine Stoppuhr hinzufügen
-  - title: 'Herausforderung: Mehr Figuren'
-    challenge: true
-  - title: Teste dich selbst
-  - title: Wie geht es weiter?
+- title: Einleitung
+  completion: engaged
+- title: Animiere ein Gespenst
+- title: Zufällige Gespenster
+- title: 'Herausforderung: Mehr Zufälligkeit'
+  challenge: true
+- title: Code zum Fangen von Geistern
+- title: 'Herausforderung: Ein Geräusch hinzufügen'
+  challenge: true
+- title: Eine Punktzahl hinzufügen
+  completion: internal
+- title: Eine Stoppuhr hinzufügen
+- title: 'Herausforderung: Mehr Figuren'
+  challenge: true
+- title: Teste dich selbst
+- title: Wie geht es weiter?
