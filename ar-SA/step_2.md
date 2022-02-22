@@ -36,18 +36,18 @@
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-پنهان کن
+hide
 
-نمایش بده
+show
 
-برای همیشه
+forever
 end
 
-(1) ثانیه صبر کن
+wait (1) seconds
 
-(1) ثانیه صبر کن
+wait (1) seconds
 
-وقتی که پرچم کلیک شد
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -57,12 +57,12 @@ end
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-وقتی که پرچم کلیک شد
-برای همیشه 
-پنهان کن
-(1) ثانیه صبر کن
-نمایش بده
-(1) ثانیه صبر کن
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
 end
 ```
 
