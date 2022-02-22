@@ -32,15 +32,15 @@
 ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-[نتيجة v] را به (0) تنظیم کن
+set [نتيجة v] to (0)
 
-وقتی که پرچم کلیک شد
+when flag clicked
 ```
 
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-مقدار [نتيجة v] را (1) تا تغییر بده
+change [نتيجة v] by (1)
 ```
 
 --- /hint --- --- hint ---
@@ -48,16 +48,16 @@
 ![أيقونة الخلفية](images/ghost-backdrop.png)
 
 ```blocks3
-وقتی که پرچم کلیک شد
-[نتيجة v] را به (0) تنظیم کن
+when flag clicked
+set [نتيجة v] to (0)
 ```
 
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-وقتی که این شکلک کلیک شد
-پنهان کن
-+ مقدار [نتيجة v] را (1) تا تغییر بده
+When this sprite clicked
+hide
++ change [نتيجة v] by (1)
 ```
 
 --- /hint ------ /hints ---

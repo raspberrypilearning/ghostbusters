@@ -23,17 +23,17 @@
 إما أن تضيف هذه المجموعة من القوائم الى كائن الشبح:
 
 ```blocks3
-به (موضع عشوائي v) برو
+go to (random position v)
 ```
 
 أو تضيف هذه المجموعة الى كائن الشبح:
 
 ```blocks3
-به x: (14) و y: (50) برو
+go to x: (14) y: (50)
 
-(انتخاب تصادفی از (1) تا (10))
+pick random (1) to (10)
 
-(انتخاب تصادفی از (1) تا (10))
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -45,13 +45,13 @@
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-وقتی که پرچم کلیک شد
-برای همیشه 
-پنهان کن
-(1) ثانیه صبر کن
-به (موضع عشوائي v) برو
-نمایش بده
-(1) ثانیه صبر کن
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
 end
 ```
 
@@ -60,13 +60,13 @@ end
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-وقتی که پرچم کلیک شد
-برای همیشه 
-پنهان کن
-(1) ثانیه صبر کن
-به x: (انتخاب تصادفی از (-150) تا (150)) و y: (انتخاب تصادفی از (-150) تا (150)) برو
-نمایش بده
-(1) ثانیه صبر کن
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
 end
 ```
 

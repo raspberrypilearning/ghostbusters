@@ -22,8 +22,8 @@
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-عند نقر هذا الكائن
-پنهان کن
+when this sprite clicked
+hide
 ```
 
 --- /hint ------ /hints ---

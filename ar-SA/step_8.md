@@ -31,22 +31,22 @@
 ![كائن الشبح](images/ghost-backdrop.png)
 
 ```blocks3
-توقف [الكل]
+stop [all]
 
-<[ ] = [ ]>
+< [ ] = [ ] >
 
-[الوقت v] را به [10] تنظیم کن
+set [الوقت v] to [10]
 
-مقدار [الوقت v] را (-1) تا تغییر بده
+change [الوقت v] by (-1)
 
 (الوقت)
 
-(1) ثانیه صبر کن
+wait (1) seconds
 
-تا وقتی که <> تکرار کن
+repeat until < >
 end
 
-وقتی که پرچم کلیک شد
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -56,13 +56,13 @@ end
 ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-وقتی که پرچم کلیک شد
-[الوقت v] را به [10] تنظیم کن
-تا وقتی که <(الوقت) = [0]> تکرار کن 
-(1) ثانیه صبر کن
-مقدار [الوقت v] را (-1) تا تغییر بده
+when flag clicked
+set [الوقت v] to [10]
+repeat until < (الوقت) = [0] >
+wait (1) seconds
+change [الوقت v] by (-1)
 end
-توقف [الكل]
+stop [all]
 ```
 
 --- /hint ------ /hints ---
