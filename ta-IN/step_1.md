@@ -34,7 +34,7 @@ title: உங்களுக்கு தேவையானவை
 
 ### மென்பொருள்
 
-- Scratch 3 ([ஆன்லைன்(நிகழ்நிலையில்)](http://rpf.io/scratchon){:target="_blank"} அல்லது [ஆஃப்லைன்(அகல்நிலையில்)](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([ஆன்லைன்(நிகழ்நிலையில்)](https://rpf.io/scratchon){:target="_blank"} அல்லது [ஆஃப்லைன்(அகல்நிலையில்)](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ title: கல்வியாளர்களுக்கான கூடுதல
 
 --- /no-print ---
 
-நீங்கள் [ நிறைவு செய்யப்பட்ட திட்டத்தை இங்கே ](http://rpf.io/p/ta-IN/ghostbusters-get){:target="_blank"} காணலாம்.
+நீங்கள் [ நிறைவு செய்யப்பட்ட திட்டத்தை இங்கே ](https://rpf.io/p/ta-IN/ghostbusters-get){:target="_blank"} காணலாம்.
 
 --- /collapse ---

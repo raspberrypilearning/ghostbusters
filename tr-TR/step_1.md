@@ -33,7 +33,7 @@ title: Nelere ihtiyacınız var
 
 ### Yazılım
 
-- Scratch 3 'ü hem ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"}) kullanabilirsiniz
+- Scratch 3 'ü hem ([çevrimiçi](https://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](https://rpf.io/scratchoff){:target="_blank"}) kullanabilirsiniz
 
 --- /collapse ---
 
@@ -57,6 +57,6 @@ Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://
 
 --- /no-print ---
 
-Tamamlanmış projeye [buradan](http://rpf.io/p/tr-TR/ghostbusters-get){:target="_blank"} ulaşabilirsiniz.
+Tamamlanmış projeye [buradan](https://rpf.io/p/tr-TR/ghostbusters-get){:target="_blank"} ulaşabilirsiniz.
 
 --- /collapse ---

@@ -34,7 +34,7 @@ title: Что тебе понадобится
 
 ### Программное обеспечение
 
-- Scratch 3 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [оффлайн редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (либо [онлайн-редактор](https://rpf.io/scratchon){:target="_blank"}, либо [оффлайн редактор (без подключения к Интернету)](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ title: Дополнительные примечания для педагого
 
 --- /no-print ---
 
-Вы можете найти [завершённый проект здесь](http://rpf.io/p/ru-RU/ghostbusters-get){:target="_blank"}.
+Вы можете найти [завершённый проект здесь](https://rpf.io/p/ru-RU/ghostbusters-get){:target="_blank"}.
 
 --- /collapse ---

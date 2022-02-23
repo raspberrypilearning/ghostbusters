@@ -34,7 +34,7 @@ title: Mire lesz szükséged
 
 ### Szoftver
 
-- Scratch 3 (vagy [online](http://rpf.io/scratchon){:target="_blank"} vagy [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (vagy [online](https://rpf.io/scratchon){:target="_blank"} vagy [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ Ha ki szeretnéd nyomtatni a projektet, kérlek használd a [nyomtatóbarát ver
 
 --- /no-print ---
 
-Itt található a [befejezett projekt](http://rpf.io/p/hu-HU/ghostbusters-get){:target="_blank"}.
+Itt található a [befejezett projekt](https://rpf.io/p/hu-HU/ghostbusters-get){:target="_blank"}.
 
 --- /collapse ---
