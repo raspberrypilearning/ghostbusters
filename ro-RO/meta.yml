@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-01-01
 steps:
 - title: Introducere
-  completion: engaged
 - title: Animează o fantomă
 - title: Fantome la întâmplare
+  completion:
+  - engaged
 - title: 'Provocare: mai multă randomizare'
   challenge: true
 - title: Cod pentru prinderea fantomelor
 - title: 'Provocare: adaugă un sunet'
   challenge: true
 - title: Adaugă un scor
-  completion: internal
 - title: Adaugă un cronometru
+  completion:
+  - internal
 - title: 'Provocare: mai multe personaje'
   challenge: true
 - title: Testează-te

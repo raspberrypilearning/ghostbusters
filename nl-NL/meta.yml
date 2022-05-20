@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Een spook laten bewegen
 - title: Willekeurige spoken
+  completion:
+  - engaged
 - title: 'Uitdaging: meer willekeur'
   challenge: true
 - title: Code voor het vangen van spoken
 - title: 'Uitdaging: geluid toevoegen'
   challenge: true
 - title: Een score toevoegen
-  completion: internal
 - title: Een tijdklok toevoegen
+  completion:
+  - internal
 - title: 'Uitdaging: meer sprites'
   challenge: true
 - title: Test jezelf

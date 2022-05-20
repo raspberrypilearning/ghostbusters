@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Animando un fantasma
 - title: Fantasmas aleatorios
+  completion:
+  - engaged
 - title: 'Desafío: más aleatoriedad'
   challenge: true
 - title: Código para capturar fantasmas
 - title: 'Desafío: añade un sonido'
   challenge: true
 - title: Añade una puntuación
-  completion: internal
 - title: Agrega un temporizador
+  completion:
+  - internal
 - title: 'Desafío: más sprites'
   challenge: true
 - title: "¿Qué sigue?"

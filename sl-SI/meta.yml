@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Animiraj duhca
 - title: Naključni duhovi
+  completion:
+  - engaged
 - title: 'Izziv: več naključja'
   challenge: true
 - title: Koda za lov na duhove
 - title: 'Izziv: dodaj zvok'
   challenge: true
 - title: Dodaj točkovanje
-  completion: internal
 - title: Dodaj časovnik
+  completion:
+  - internal
 - title: 'Izziv: več duhov'
   challenge: true
 - title: Kaj sledi?

@@ -18,12 +18,12 @@ version: 4.2.1
 last_tested: 2018-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Animacija duha
 - title: Nasumični duhovi
+  completion:
+  - engaged
 - title: Hvatanje duhova
 - title: Dodavanje rezultata
 - title: Dodavanje mjerača vremena
 - title: 'Izazov: više objekata'
   challenge: true
-  completion: internal
