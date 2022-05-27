@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: تحريك الشبح
 - title: أشباح عشوائية
+  completion:
+  - engaged
 - title: 'التحدي: أكثر عشوائية'
   challenge: true
 - title: اصطياد الأشباح
 - title: 'تحدي: إضافة صوت'
   challenge: true
 - title: إضافة نتيجة
-  completion: internal
 - title: اضافة مؤقت
+  completion:
+  - internal
 - title: 'تحدي: كائنات اخرى'
   challenge: true
 - title: ماهو التالي؟

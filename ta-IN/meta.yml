@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: முன்னுரை
-  completion: engaged
 - title: ஒரு பேயை அசைவூட்டல்(animate) செய்யவும்
 - title: சீரற்ற பேய்கள்
+  completion:
+  - engaged
 - title: 'சவால்: அதிக சீரற்ற தன்மை'
   challenge: true
 - title: பேய்களைப் பிடிப்பதற்கான குறியீடு
 - title: 'சவால்: ஒலி சேர்க்கவும்'
   challenge: true
 - title: மதிப்பெண் சேர்க்கவும்
-  completion: internal
 - title: ஒரு நேரங்காட்டியைச் சேர்க்கவும்
+  completion:
+  - internal
 - title: 'சவால்: அதிக sprites'
   challenge: true
 - title: அடுத்து என்ன?

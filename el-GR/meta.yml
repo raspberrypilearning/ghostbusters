@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Σχεδίασε ένα φάντασμα
 - title: Τυχαία φαντάσματα
+  completion:
+  - engaged
 - title: 'Πρόκληση: περισσότερη τυχαιότητα'
   challenge: true
 - title: Κώδικας για να πιάνεις φαντάσματα
 - title: 'Πρόκληση: πρόσθεσε ήχο'
   challenge: true
 - title: Προσθήκη βαθμολογίας
-  completion: internal
 - title: Πρόσθεσε ένα χρονόμετρο
+  completion:
+  - internal
 - title: 'Πρόκληση: περισσότεροι χαρακτήρες'
   challenge: true
 - title: Έλεγχος γνώσεων

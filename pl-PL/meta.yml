@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Animuj ducha
 - title: Losowe duchy
+  completion:
+  - engaged
 - title: 'Wyzwanie: większa losowość'
   challenge: true
 - title: Kod do łapania duchów
 - title: 'Wyzwanie: dodaj dźwięk'
   challenge: true
 - title: Dodaj wynik
-  completion: internal
 - title: Dodaj licznik czasu
+  completion:
+  - internal
 - title: 'Wyzwanie: więcej duszków'
   challenge: true
 - title: Co dalej?
