@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Bevezetés
-  completion: engaged
 - title: Animálj egy szellemet
 - title: Véletlenül feltűnő szellemek
+  completion:
+  - engaged
 - title: 'Kihívás: több véletlenszerűség'
   challenge: true
 - title: A szellemek elfogásának kódja
 - title: 'Kihívás: hang hozzáadása'
   challenge: true
 - title: Adj hozzá eredményszámolálót
-  completion: internal
 - title: Időzítő hozzáadása
+  completion:
+  - internal
 - title: 'Kihívás: többféle szereplő'
   challenge: true
 - title: Teszteld magad

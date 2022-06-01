@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Animer un fantôme
 - title: Fantômes aléatoires
+  completion:
+  - engaged
 - title: 'Défi: plus aléatoire'
   challenge: true
 - title: Code pour capturer les fantômes
 - title: 'Défi: ajouter un son'
   challenge: true
 - title: Ajouter un score
-  completion: internal
 - title: Ajouter un minuteur
+  completion:
+  - internal
 - title: 'Défi: plus de sprites'
   challenge: true
 - title: Teste-toi

@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Введение
-  completion: engaged
 - title: Анимация приведения
 - title: Случайные приведения
+  completion:
+  - engaged
 - title: 'Задача: больше случайностей'
   challenge: true
 - title: Код для ловли приведений
 - title: 'Задача: добавление звука'
   challenge: true
 - title: Добавление счёта
-  completion: internal
 - title: Добавление таймера
+  completion:
+  - internal
 - title: 'Задача: больше спрайтов'
   challenge: true
 - title: Что дальше?

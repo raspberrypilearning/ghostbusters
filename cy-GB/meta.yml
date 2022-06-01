@@ -8,17 +8,19 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Cyflwyniad
-  completion: engaged
 - title: Animeiddio ysbryd
 - title: Ysbrydion ar hap
+  completion:
+  - engaged
 - title: 'Her: mwy o bethau ar hap'
   challenge: true
 - title: Côd i ddal ysbrydion
 - title: 'Her: ychwanegu sain'
   challenge: true
 - title: Ychwanegu sgôr
-  completion: internal
 - title: Ychwanegu Amserydd
+  completion:
+  - internal
 - title: 'Her: mwy o gorluniau'
   challenge: true
 - title: Profwch eich hun
