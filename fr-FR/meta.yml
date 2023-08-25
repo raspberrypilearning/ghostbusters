@@ -13,6 +13,8 @@ steps:
     title: Animer un fantôme
   - 
     title: Fantômes aléatoires
+    completion:
+      - engagé
   - 
     title: 'Défi : plus aléatoire'
     challenge: true
@@ -25,8 +27,10 @@ steps:
     title: Ajouter un score
   - 
     title: Ajouter un minuteur
+    completion:
+      - interne
   - 
     title: 'Défi : plus de sprites'
     challenge: true
   - 
-    title: What next?
+    title: Et ensuite ?
