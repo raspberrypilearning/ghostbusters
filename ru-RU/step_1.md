@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Это версия проекта **Scratch 3**. Существует также версия проекта [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Введение
 
-Ты сделаешь игру о ловле приведений!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -53,7 +47,7 @@
 
 \--- no-print \---
 
-Если вам нужно распечатать этот проект, используйте [версию для печати](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
