@@ -13,6 +13,8 @@ steps:
     title: एक भूत आत्मसात करा
   - 
     title: यादृच्छिक भूत
+    completion:
+      - engaged
   - 
     title: 'आव्हान: अधिक यादृच्छिकता'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: एक अंक जोडा
   - 
     title: एक टाइमर जोडा
+    completion:
+      - internal
   - 
     title: 'आव्हान: अधिक स्प्राइट्स'
     challenge: true
