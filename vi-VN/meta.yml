@@ -13,6 +13,8 @@ steps:
     title: Animate a ghost
   - 
     title: Random ghosts
+    completion:
+      - engaged
   - 
     title: 'Challenge: more randomness'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Add a score
   - 
     title: Add a timer
+    completion:
+      - internal
   - 
     title: 'Challenge: more sprites'
     challenge: true
