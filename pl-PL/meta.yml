@@ -13,6 +13,8 @@ steps:
     title: Animuj ducha
   - 
     title: Losowe duchy
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: większa losowość'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Dodaj wynik
   - 
     title: Dodaj licznik czasu
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: więcej duszków'
     challenge: true
