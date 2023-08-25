@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dies ist die ** Scratch 3 ** Version des Projekts. Es gibt auch eine [ Scratch-2-Version des Projekts ](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Einführung
 
-Du wirst ein Gespensterjagd-Spiel machen!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Du wirst ein Gespensterjagd-Spiel machen!
 
 \--- print-only \---
 
-![Vorschau](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
