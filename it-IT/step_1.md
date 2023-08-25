@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Questa è la versione **Scratch 3** del progetto. C'è anche una [versione Scratch 2 del progetto](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Introduzione
 
-Stai per creare un gioco di acchiappa-fantasmi!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -53,7 +47,7 @@ Stai per creare un gioco di acchiappa-fantasmi!
 
 \--- no-print \---
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target ="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
