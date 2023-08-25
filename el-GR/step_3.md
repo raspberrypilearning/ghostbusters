@@ -40,7 +40,7 @@
 
 Ο κώδικάς σου θα πρέπει να μοιάζει είτε κάπως έτσι:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
@@ -55,7 +55,7 @@ end
 
 Είτε θα μπορούσε να μοιάζει κάπως έτσι:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 όταν στην πράσινη σημαία γίνει κλικ
