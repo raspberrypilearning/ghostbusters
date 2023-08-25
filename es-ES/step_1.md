@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Introducción
 
-¡Vas a hacer un juego de atrapar fantasmas!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- print-only \---
 
-![ejemplo](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
