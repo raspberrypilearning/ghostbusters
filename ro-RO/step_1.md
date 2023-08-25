@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Aceasta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Introducere
 
-Ești pe cale să faci un joc de vânat fantome!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Ești pe cale să faci un joc de vânat fantome!
 
 \--- print-only \---
 
-![prezentare](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
