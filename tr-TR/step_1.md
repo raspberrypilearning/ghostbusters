@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) de vardır.
-
-\--- /no-print \---
-
 ## Giriş
 
-Bir hayalet yakalama oyunu yapacaksınız!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 \--- print-only \---
 
-![vitrin](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,7 +47,7 @@ Bir hayalet yakalama oyunu yapacaksınız!
 
 \--- no-print \---
 
-Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} kullanın.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
