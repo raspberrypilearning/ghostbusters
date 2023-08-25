@@ -1,9 +1,3 @@
-\--- no-print \---
-
-Ceci est la version **Scratch 3** du projet. Il y a aussi une version [Scratch 2 du projet](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Introduction
 
 Tu vas faire un jeu attrape-fantôme!
@@ -33,7 +27,7 @@ Tu vas faire un jeu attrape-fantôme!
 
 ### Logiciel
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([en ligne](https://rpf.io/scratchon){:target="_blank"} ou [hors ligne](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -53,10 +47,10 @@ Tu vas faire un jeu attrape-fantôme!
 
 \--- no-print \---
 
-Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/fr-FR/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
