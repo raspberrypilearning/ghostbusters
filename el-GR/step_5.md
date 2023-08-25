@@ -1,6 +1,6 @@
 ## Κώδικας για να πιάνεις φαντάσματα
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Τώρα πρόκειται να προσθέσεις κώδικα στο παιχνίδι σου έτσι ώστε ο παίκτης να πιάσει φαντάσματα!
 
 \--- task --
 
@@ -16,9 +16,9 @@ Now you're going to add code to your game so that the player can catch ghosts!
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Ο κώδικάς σου θα πρέπει να μοιάζει κάπως έτσι:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 όταν γίνει κλικ σε αυτό το αντικείμενο,
