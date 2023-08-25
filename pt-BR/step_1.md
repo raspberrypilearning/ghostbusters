@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Introdução
 
-Você vai criar um jogo de Caça-Fantasmas!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
