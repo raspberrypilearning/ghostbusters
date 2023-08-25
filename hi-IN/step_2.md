@@ -1,4 +1,4 @@
-## भूत का एनिमेशन बनाना
+## भूत का एनीमेशन बनाना
 
 \--- task \---
 
@@ -10,7 +10,7 @@
 
 \--- task \---
 
-आपके स्टेज पर मिलती हुई एक भूत स्प्राइट जोड़े।
+एक नया भूत स्प्राइट और एक उपयुक्त पृष्ठभूमि (backdrop) स्टेज में जोड़ें।
 
 ![स्क्रीनशॉट](images/ghost-ghost.png)
 
@@ -22,15 +22,15 @@
 
 \--- task \---
 
-आपके भूत स्प्राइट में ऐसी कोड जोड़िये ताकि आपका भूत हमेशा के लिए झपकता हैं जब आप हरे झंडे पर क्लिक करे।
+अपने भूत स्प्राइट में कोड जोड़ें ताकि हरे झंडे पर क्लिक करने पर भूत हमेशा के लिए प्रकट होता और गायब होता रहे।
 
 \--- hints \--- \--- hint \---
 
-जब आप हरे झंडे पर क्लिक करेंगे `green flag is clicked`{:class="block3events"}, तब आपका भूत `one second`{:class="block3control"} के लिए `hide`{:class="block3looks"} होना चाहिए और फिर `one second`{:class="block3control"} के लिए `show`{:class="block3looks"} होना चाहिए। इसको यह कार्य `forever`{:class="block3control"} के लिए करना हैं।
+जब आप `green flag is clicked`{:class="block3events"}, तब आपका भूत `hide`{:class="block3looks"} `one second`{:class="block3control"} के लिए चाहिए और फिर `show`{:class="block3looks"} `one second`{:class="block3control"} के लिए चाहिए। इसको यह कार्य `forever`{:class="block3control"} के लिए करना हैं।
 
 \--- /hint \--- \--- hint \---
 
-आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
+आपको इन कोड ब्लॉक्स की ज़रुरत पड़ेगी:
 
 ![भूत स्प्राइट](images/ghost-sprite.png)
 
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-प्रोजेक्ट का परीक्षण करें और सहेजें
+अपने प्रोजेक्ट को जाँच कर सेव कर लीजिये।
 
 [[[generic-scratch3-saving]]]
 
