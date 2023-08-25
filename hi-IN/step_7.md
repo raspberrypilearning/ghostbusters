@@ -1,10 +1,10 @@
 ## स्कोर जोड़ें
 
-चलिए स्कोर रखकर इसे और भी दिलचस्प बनाएँ!
+अब आप स्कोर रखकर अपने खेल को और दिलचस्प बनाने जा रहे हैं!
 
 \--- task \---
 
-`score`{:class="block3variables"} नामक वेरिएबल बनाएँ।
+`score`{:class="block3variables"} नामक एक नया वेरिएबल बनाएं।
 
 [[[generic-scratch3-add-variable]]]
 
@@ -14,19 +14,19 @@
 
 क्या आप खिलाड़ी के स्कोर का ध्यान रख सकते हैं? स्कोर बनाने के खिलाड़ी को भूत पकड़ने के लिए उन पर क्लिक करना होगा।
 
-हर बार खिलाड़ी भूत पर क्लिक करें, तो उनके स्कोर बढ़ने चाहिए।
+हर बार जब खिलाड़ी भूत पर क्लिक करता है, तो उसका स्कोर बढ़ना चाहिए।
 
 ![स्कोर बढ़ाना](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `score`{:class="block3variables} वेरिएबल `set to 0`{:class="block3variables"} होना चाहिए। इस कोड को जोड़ने के लिए स्टेज सबसे बढ़िया स्थान है।
+जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `score`{:class="block3variables} वेरिएबल `set to 0`{:class="block3variables"} होना चाहिए। इस कोड को जोड़ने के लिए स्टेज सबसे अच्छी जगह है।
 
-भूत स्प्राईट को क्लिक करने पर `When the ghost sprite is clicked`{:class="block3events"}, तो `score`{:class="block3variables"} वरियबल को `changed by 1`{:class="block3variables"} हो जाना चाहिए।
+भूत स्प्राईट को क्लिक करने पर `When the ghost sprite is clicked`{:class="block3events"}, तो `score`{:class="block3variables"} वेरियबल को `changed by 1`{:class="block3variables"} हो जाना चाहिए।
 
 \--- /hint \--- \--- hint \---
 
-आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
+आपको इन कोड ब्लॉक्स की ज़रुरत पड़ेगी:
 
 ![बैकड्रॉप आइकन](images/ghost-backdrop.png)
 
