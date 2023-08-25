@@ -26,7 +26,7 @@ task \---Δημιούργησε μία νέα μεταβλητή με όνομα
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Εδώ είναι τα μπλοκ κώδικα που χρειάζεσαι:
 
 ![backdrop icon](images/ghost-backdrop.png)
 
@@ -36,7 +36,7 @@ Here are the code blocks you need:
 Όταν στην πράσινη σημαία γίνει κλικ
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 άλλαξε [σκορ v] κατά (1)
@@ -44,14 +44,14 @@ Here are the code blocks you need:
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![εικονίδιο φόντου](images/ghost-backdrop.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
 όρισε [σκορ v] σε (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 Όταν γίνει κλικ σε αυτό το αντικείμενο,
