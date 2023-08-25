@@ -13,6 +13,8 @@ steps:
     title: Animar um fantasma
   - 
     title: Fantasmas aleatórios
+    completion:
+      - engaged
   - 
     title: 'Desafio: mais aleatoriedade'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Adiciona uma pontuação
   - 
     title: Adiciona um temporizador
+    completion:
+      - internal
   - 
     title: 'Desafio: Mais atores'
     challenge: true
