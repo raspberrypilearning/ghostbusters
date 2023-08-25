@@ -8,13 +8,15 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
   - 
-    title: भूमिका
+    title: परिचय
   - 
-    title: भूत का एनिमेशन बनाना
+    title: भूत का एनीमेशन बनाना
   - 
-    title: अस्थाई भूत
+    title: यादृच्छिक (random) भूत
+    completion:
+      - engaged
   - 
-    title: 'चुनौती: अधिक अस्थाई'
+    title: 'चुनौती: अधिक अनियमितता'
     challenge: true
   - 
     title: भूत पकड़ने के लिए कोड
@@ -24,9 +26,11 @@ steps:
   - 
     title: स्कोर जोड़ें
   - 
-    title: टाइमर(timer) जोड़ना
+    title: घड़ी जोड़ें
+    completion:
+      - internal
   - 
-    title: 'चुनौती: और स्प्रिट्स'
+    title: 'चुनौती: और स्प्राइटस'
     challenge: true
   - 
     title: आगे क्या?
