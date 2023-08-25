@@ -13,6 +13,8 @@ steps:
     title: ಭೂತವನ್ನು ಅನಿಮೇಟ್ ಮಾಡಿ
   - 
     title: Random ಭೂತಗಳು
+    completion:
+      - engaged
   - 
     title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: ಅಂಕ ಸೇರಿಸಿ
   - 
     title: ಟೈಮರ್(timer) ಸೇರಿಸಿ
+    completion:
+      - internal
   - 
     title: 'ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು'
     challenge: true
