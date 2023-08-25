@@ -1,12 +1,6 @@
-\--- no-print \---
-
-To je različica projekta **Scratch 3** . Obstaja tudi različica projekta [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Uvod
 
-Ustvaril boš igro, v kateri boš lovil duhove!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Ustvaril boš igro, v kateri boš lovil duhove!
 
 \--- print-only \---
 
-![izložba](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,7 +47,7 @@ Ustvaril boš igro, v kateri boš lovil duhove!
 
 \--- no-print \---
 
-Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
