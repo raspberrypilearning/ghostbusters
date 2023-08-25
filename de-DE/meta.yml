@@ -13,6 +13,8 @@ steps:
     title: Animiere ein Gespenst
   - 
     title: Zufällige Orte
+    completion:
+      - engaged
   - 
     title: 'Herausforderung: Mehr Zufälligkeit'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Eine Punktzahl hinzufügen
   - 
     title: Eine Stoppuhr hinzufügen
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Mehr Figuren'
     challenge: true
