@@ -1,9 +1,3 @@
-\--- no-print \---
-
-यह इस प्रोजेक्ट का **Scratch 3** संस्करण हैं। इस प्रोजेक्ट को आप [Scratch 2 में भी देख सकते हैं](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2)।
-
-\--- /no-print \---
-
 ## परिचय
 
 आप एक भूत-पकड़ने वाला गेम बनाने जा रहे हैं!
@@ -33,7 +27,7 @@
 
 ### सॉफ्टवेयर
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (या तो [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -41,8 +35,8 @@
 
 ## title: आप क्या सीखेंगे
 
-- समझिये लूप के अंदर कार्य के बिच क्यों रूकना ज़रूरी हैं
-- Scratch के साथ कोड का इस्तेमाल करके कैसे यादृच्छिक संख्या आप उत्पन्न कर सकते हैं
+- लूप्स के अंदर कार्यों के बीच रुकने की आवश्यकता को समझें
+- Scratch में यादृच्छिक संख्या उत्पन्न करने के लिए कोड का प्रयोग करें
 - Scratch में गेम स्कोर स्टोर करने के लिए एक वैरिएबल जोड़ें
 
 \--- /collapse \---
@@ -53,10 +47,10 @@
 
 \--- no-print \---
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} का उपयोग करें।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} का उपयोग करें।
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+आप यहाँ [पूरे किये गए प्रोजेक्ट](https://rpf.io/p/en/ghostbusters-get){:target="_blank"} को देख सकते हैं|
 
 \--- /collapse \---
