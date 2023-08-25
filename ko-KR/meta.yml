@@ -13,6 +13,8 @@ steps:
     title: 유령 움직여 보기
   - 
     title: 무작위 유령들
+    completion:
+      - engaged
   - 
     title: '도전 과제: 더 랜덤하게'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: '도전 과제: 더 많은 목표물'
   - 
     title: 타이머 추가하기
+    completion:
+      - internal
   - 
     title: '도전과제: 여러 스프라이트 만들기'
     challenge: true
