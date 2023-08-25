@@ -1,12 +1,6 @@
-\--- no-print \---
-
-ಇದು ಯೋಜನೆಯ **Scratch 3** ಆವೃತ್ತಿ. ಯೋಜನೆಯ [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) ವೃತ್ತಿಯೂ ಇದೆ.
-
-\--- /no-print \---
-
 ## ಪರಿಚಯ
 
-ನೀವು ಭೂತ ಹಿಡಿಯುವ ಆಟವನ್ನು ಮಾಡಲು ಹೊರಟಿದ್ದೀರಿ!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![ಪ್ರದರ್ಶನ](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,10 +47,10 @@
 
 \--- no-print \---
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} ಬಳಸಿರಿ.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-ನೀವು ಕಾಣಬಹುದು [ಇಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಯೋಜನೆ](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
