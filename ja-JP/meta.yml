@@ -13,6 +13,8 @@ steps:
     title: おばけを動かす
   - 
     title: おばけをランダムに動かす
+    completion:
+      - engaged
   - 
     title: 'チャレンジ: もっとランダムに'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: スコアを追加する
   - 
     title: タイマーを追加する
+    completion:
+      - internal
   - 
     title: 'チャレンジ: スプライトをふやす'
     challenge: true
