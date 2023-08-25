@@ -1,12 +1,6 @@
-\--- no-print \---
-
-இது இந்த திட்டத்தின் **Scratch 3**(ஸ்க்ராட்ச் 3) பதிப்பாகும். மேலும் இந்த [திட்டத்தின் Scratch 2 பதிப்பும்](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) உள்ளது.
-
-\--- /no-print \---
-
 ## முன்னுரை
 
-நீங்கள் பேய் பிடிக்கும் விளையாட்டை உருவாக்கப் போகிறீர்கள்!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![காட்சி பெட்டி](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,7 +47,7 @@
 
 \--- no-print \---
 
-இந்த திட்டத்தை நீங்கள் அச்சிட வேண்டுமானால், தயவுசெய்து [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target = "_ blank"} ஐப்(அச்சுப்பொறி நட்பு பதிப்பு) பயன்படுத்தவும்.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
