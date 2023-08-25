@@ -1,14 +1,8 @@
-\----প্রিন্ট করা লাগবেনা --
-
-এটি ** Scratch 3 ** প্রকল্পের সংস্করণ। প্রকল্পের একটি [ Scratch 2 সংস্করণও রয়েছে ](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) ।.
-
-\--- /no-print \---
-
 ## পরিচিতি
 
-আপনি একটি ভূত-ধরা খেলা তৈরি করতে যাচ্ছেন!
+You are going to make a ghost-catching game!
 
-\--- no-print \---
+\--- প্রিন্ট করতে লাগবে না \---
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![প্রদর্শনী](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -35,7 +29,7 @@
 
 - Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
--- /collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -45,18 +39,18 @@
 - Scratch এ এলোমেলো সংখ্যা উত্পন্ন করতে কোড ব্যবহার করুন
 - Scratch এ একটি গেম স্কোর সঞ্চয় করতে একটি ভেরিয়েবল যুক্ত করুন
 
--- /collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
-\----প্রিন্ট করা লাগবেনা --
+\--- প্রিন্ট করতে লাগবে না \---
 
-আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} ব্যবহার করুন।.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
 You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
--- /collapse \---
+\--- /collapse \---
