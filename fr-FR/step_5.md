@@ -1,6 +1,6 @@
 ## Code pour capturer les fantômes
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Maintenant, tu vas ajouter du code à ton jeu pour que le joueur puisse attraper des fantômes!
 
 \--- task \---
 
