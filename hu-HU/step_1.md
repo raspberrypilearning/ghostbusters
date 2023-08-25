@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ez a projekt **Scratch 3** -as verziója. Elérhető [Scratch 2-es](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) változatban is.
-
-\--- /no-print \---
-
 ## Bevezetés
 
-Készíts szellemfogó játékot!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Készíts szellemfogó játékot!
 
 \--- print-only \---
 
-![bemutató](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
