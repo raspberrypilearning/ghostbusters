@@ -13,6 +13,8 @@ steps:
     title: Animálj egy szellemet
   - 
     title: Véletlenül feltűnő szellemek
+    completion:
+      - engaged
   - 
     title: 'Kihívás: több véletlenszerűség'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Adj hozzá egy pontszámot
   - 
     title: Időzítő hozzáadása
+    completion:
+      - internal
   - 
     title: 'Kihívás: többféle szereplő'
     challenge: true
