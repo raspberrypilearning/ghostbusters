@@ -13,6 +13,8 @@ steps:
     title: Σχεδίασε ένα φάντασμα
   - 
     title: Τυχαία φαντάσματα
+    completion:
+      - engaged
   - 
     title: 'Πρόκληση: περισσότερη τυχαία'
     challenge: true
@@ -25,8 +27,10 @@ steps:
     title: Προσθήκη βαθμολογίας
   - 
     title: Πρόσθεσε ένα χρονόμετρο
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: περισσότεροι χαρακτήρες'
     challenge: true
   - 
-    title: What next?
+    title: Τι υπάρχει στη συνέχεια;
