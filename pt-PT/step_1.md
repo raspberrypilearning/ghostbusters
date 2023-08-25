@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Introdução
 
-Vais fazer um jogo onde podes capturar fantasmas!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Vais fazer um jogo onde podes capturar fantasmas!
 
 \--- print-only \---
 
-![mostruário](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,7 +47,7 @@ Vais fazer um jogo onde podes capturar fantasmas!
 
 \--- no-print \---
 
-Se for necessário imprimir este projeto, por favor usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target = blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
