@@ -13,6 +13,8 @@ steps:
     title: 制作幽灵动画
   - 
     title: 随机幽灵位置
+    completion:
+      - engaged
   - 
     title: '挑战：更多随机性'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: 添加计分
   - 
     title: 添加倒计时
+    completion:
+      - internal
   - 
     title: '挑战：更多角色'
     challenge: true
