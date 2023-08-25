@@ -13,6 +13,8 @@ steps:
     title: Bir hayaleti canlandırın
   - 
     title: Rastgele hayaletler
+    completion:
+      - engaged
   - 
     title: 'Meydan okuma: Daha fazla rastgelelik'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Bir puan ekle
   - 
     title: Bir zamanlayıcı ekle
+    completion:
+      - internal
   - 
     title: 'Meydan Okuma: Daha fazla kukla'
     challenge: true
