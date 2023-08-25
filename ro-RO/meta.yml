@@ -13,6 +13,8 @@ steps:
     title: Animează o fantomă
   - 
     title: Fantome la întâmplare
+    completion:
+      - engaged
   - 
     title: 'Provocare: mai multă randomizare'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Adaugă un scor
   - 
     title: Adaugă un cronometru
+    completion:
+      - internal
   - 
     title: 'Provocare: mai multe personaje'
     challenge: true
