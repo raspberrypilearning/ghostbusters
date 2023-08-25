@@ -13,6 +13,8 @@ steps:
     title: Анимация приведения
   - 
     title: Случайные приведения
+    completion:
+      - engaged
   - 
     title: 'Задача: больше случайности'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Добавление счёта
   - 
     title: Добавление таймера
+    completion:
+      - internal
   - 
     title: 'Задача: больше спрайтов'
     challenge: true
