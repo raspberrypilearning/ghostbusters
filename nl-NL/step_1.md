@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van het project](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Inleiding
 
-Je gaat een spookachtig spel maken!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -53,7 +47,7 @@ Je gaat een spookachtig spel maken!
 
 \--- no-print \---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
