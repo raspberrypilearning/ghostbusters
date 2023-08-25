@@ -13,6 +13,8 @@ steps:
     title: Animare un fantasma
   - 
     title: Fantasmi a caso
+    completion:
+      - engaged
   - 
     title: 'Sfida: più casualità'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Aggiungere un punteggio
   - 
     title: Aggiungere un timer
+    completion:
+      - internal
   - 
     title: 'Sfida: più sprite'
     challenge: true
