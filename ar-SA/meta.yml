@@ -13,6 +13,8 @@ steps:
     title: تحريك الشبح
   - 
     title: أشباح عشوائية
+    completion:
+      - engaged
   - 
     title: 'التحدي: أكثر عشوائية'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: إضافة نتيجة
   - 
     title: اضافة مؤقت
+    completion:
+      - internal
   - 
     title: 'تحدي: كائنات اخرى'
     challenge: true
