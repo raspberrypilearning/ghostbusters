@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dyma fersiwn **Scratch 3** y prosiect. Ceir hefyd [fersiwn Scratch 2 o'r prosiect](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Cyflwyniad
 
-Rwyt ti mynd i greu gêm i ddal ysbrydion!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Rwyt ti mynd i greu gêm i ddal ysbrydion!
 
 \--- print-only \---
 
-![arddangos](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
