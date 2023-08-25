@@ -30,9 +30,9 @@
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Αυτά είναι τα μπλοκ κώδικα που θα χρειαστείς:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 εξαφανίσου
@@ -51,9 +51,9 @@ end
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Έτσι πρέπει να μοιάζει ο κώδικάς σου:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Δοκίμασε και αποθήκευσε το έργο σου.
 
 [[[generic-scratch3-saving]]]
 
