@@ -13,6 +13,8 @@ steps:
     title: Animeiddio ysbryd
   - 
     title: Ysbrydion ar hap
+    completion:
+      - engaged
   - 
     title: 'Her: mwy o bethau ar hap'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Ychwanegu sgôr
   - 
     title: Ychwanegu Amserydd
+    completion:
+      - internal
   - 
     title: 'Her: mwy o gorluniau'
     challenge: true
