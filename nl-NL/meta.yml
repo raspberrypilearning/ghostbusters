@@ -13,6 +13,8 @@ steps:
     title: Een spook laten bewegen
   - 
     title: Willekeurige spoken
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: meer willekeur'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Een score toevoegen
   - 
     title: Een timer toevoegen
+    completion:
+      - internal
   - 
     title: 'Uitdaging: meer sprites'
     challenge: true
