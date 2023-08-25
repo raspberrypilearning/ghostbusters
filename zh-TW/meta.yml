@@ -13,6 +13,8 @@ steps:
     title: 讓鬼動起來
   - 
     title: 隨機出現的鬼魂
+    completion:
+      - engaged
   - 
     title: '挑戰：更多隨機性'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: 記錄得分
   - 
     title: 計時開始
+    completion:
+      - internal
   - 
     title: '挑戰：更多的角色'
     challenge: true
