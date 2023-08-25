@@ -13,6 +13,8 @@ steps:
     title: Animiraj duhca
   - 
     title: Naključni duhovi
+    completion:
+      - engaged
   - 
     title: 'Izziv: več naključja'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: Dodaj točkovanje
   - 
     title: Dodaj časovnik
+    completion:
+      - internal
   - 
     title: 'Izziv: več figur'
     challenge: true
