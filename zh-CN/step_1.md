@@ -1,12 +1,6 @@
-\--- no-print \---
-
-这个项目是基于**Scratch 3**版本的，另外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2)。
-
-\--- /no-print \---
-
 ## 简介
 
-你将开发一款捉鬼游戏！
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![展示](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
