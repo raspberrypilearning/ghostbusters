@@ -1,12 +1,6 @@
-\--- no-print \---
-
-이 프로젝트의 **스크래치 3** 버전입니다. [프로젝트의 스크래치 2 버전](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2)도 있습니다.
-
-\--- /no-print \---
-
 ## 소개
 
-이제부터 유령 잡기 게임을 만들어 봅시다!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![쇼케이스](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
