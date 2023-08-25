@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępny jest również [w wersji dla języka Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2).
-
-\--- /no-print \---
-
 ## Wprowadzenie
 
-Zrobisz upiorną grę!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@ Zrobisz upiorną grę!
 
 \--- print-only \---
 
-![prezentacja](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
