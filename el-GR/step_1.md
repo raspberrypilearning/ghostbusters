@@ -1,9 +1,3 @@
-\--- no-print \---
-
-Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) του έργου.
-
-\--- /no-print \---
-
 ## Εισαγωγή
 
 Πρόκειται να φτιάξεις ένα παιχνίδι για κυνήγι φαντασμάτων!
@@ -19,13 +13,13 @@
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![παρουσίαση](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Τι θα χρειαστείς
 
 ### Υλικό
 
@@ -33,13 +27,13 @@
 
 ### Λογισμικό
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (είτε [online](https://rpf.io/scratchon){:target="_blank"} είτε [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Τι θα μάθεις
 
 - Κατανόησε την ανάγκη για παύσεις μεταξύ των ενεργειών εντός των βρόχων
 - Χρησιμοποίησε τον κώδικα για δημιουργήσεις τυχαίους αριθμούς στο Scratch
@@ -49,14 +43,14 @@
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Πρόσθετες σημειώσεις για εκπαιδευτικούς
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/ghostbusters/print)"{:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
