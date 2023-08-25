@@ -13,6 +13,8 @@ steps:
     title: ஒரு பேயை அசைவூட்டல்(animate) செய்யவும்
   - 
     title: சீரற்ற பேய்கள்
+    completion:
+      - engaged
   - 
     title: 'சவால்: அதிக சீரற்ற தன்மை'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: மதிப்பெண் சேர்க்கவும்
   - 
     title: ஒரு நேரங்காட்டியைச் சேர்க்கவும்
+    completion:
+      - internal
   - 
     title: 'சவால்: அதிக sprites'
     challenge: true
