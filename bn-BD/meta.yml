@@ -13,6 +13,8 @@ steps:
     title: একটি প্রাণবন্ত ভূত তৈরি করুন
   - 
     title: এলোমেলো ভূত তৈরি করুন।
+    completion:
+      - engaged
   - 
     title: 'চ্যালেঞ্জ: আরও এলোমেলো'
     challenge: true
@@ -25,6 +27,8 @@ steps:
     title: একটি স্কোর যোগ করুন
   - 
     title: একটি ঘড়ি যোগ করুন
+    completion:
+      - internal
   - 
     title: 'চ্যালেঞ্জ: আরো sprites'
     challenge: true
