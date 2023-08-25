@@ -1,12 +1,6 @@
-\--- no-print \---
-
-हे **Scratch 3** प्रकल्पाची आवृत्ती आहे. प्रकल्पाची[Scratch 2](https://projects.raspberrypi.org/en/projects/ghostbusters-scratch2) आवृत्ती देखील आहे.
-
-\--- /no-print \---
-
 ## परिचय
 
-आपण भुते पकडण्याबद्दल एक गेम तयार करणार आहात!
+You are going to make a ghost-catching game!
 
 \--- no-print \---
 
@@ -19,7 +13,7 @@
 
 \--- print-only \---
 
-![शोकेस](images/showcase-static.png)
+![showcase](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -53,10 +47,10 @@
 
 \--- no-print \---
 
-आपल्यला हा प्रकल्प प्रिंट करणे आवश्यक असल्यास, कृपया [छपाईयंत्र अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/ghostbusters/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-आपण येथे [ पूर्ण केलेला प्राजेक्ट शोधू शकता ](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
 \--- /collapse \---
