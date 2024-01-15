@@ -1,3 +1,3 @@
-## Challenge: add a sound
+## Завдання: додай звук
 
-Can you add code to your ghost so that the ghost makes a sound when it's caught?
+Чи можеш ти додати код до свого привида так, щоб він видавав звук, коли його спіймали?
