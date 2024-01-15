@@ -1,14 +1,14 @@
-## Challenge: more sprites
+## Завдання: більше спрайтів
 
-Can you add other sprites to your game?
+Чи можеш ти додати інші спрайти до своєї гри?
 
-![screenshot](images/ghost-final.png)
+![знімок екрану](images/ghost-final.png)
 
-You need to think about some things for each sprites you want to add:
+Для кожного спрайту, якого ти додаєш, подумай про такі речі:
 
-+ How big should the sprite be?
-+ Should it appear more or less often than the ghost sprite?
-+ What does it look/sound like when it gets caught?
-+ How many points does the player win (or lose) for catching the sprite?
++ Наскільки великим він бає бути?
++ Чи повинен він з'являтися більш або менш часто, ніж спрайт привида?
++ Як він виглядає чи звучить, коли його ловлять?
++ Скільки очок гравець набирає (або втрачає), коли його ловить?
 
-If you need help, you can back through to the instructions in the previous steps, or ask a friend!
+Якщо тобі потрібна допомога, ти можеш перейти до інструкцій з попередніх розділів або попросити друга!
