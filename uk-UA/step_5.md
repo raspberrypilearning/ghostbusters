@@ -1,24 +1,24 @@
-## Code for catching ghosts
+## Код для ловлі привидів
 
-Now you're going to add code to your game so that the player can catch ghosts!
+А зараз ти додаси код до своєї гри так, щоб гравець міг ловити привидів!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Чи можеш ти зробити так, щоб привид зникав, коли його спіймають? Гравець повинен мати можливість клікати по привидам, щоб їх ловити.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+Якщо при тестуванні своєї гри ти виявиш, що ловити привидів складно, ти можеш спробувати пограти в повноекранному режимі, натиснувши цю кнопку:
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+![знімок екрану](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+`Коли натиснуто`{:class="block3events"} на спрайт твого привида він має `сховатися`{:class="block3looks"}.
 
 \--- /hint \--- \--- hint \---
 
-Your code should look like this:
+Твій код має виглядати так:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 when this sprite clicked
