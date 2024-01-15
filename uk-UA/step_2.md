@@ -1,8 +1,8 @@
-## Animate a ghost
+## Анімація привида
 
 \--- task \---
 
-Open a new empty Scratch project.
+Відкрий новий порожній проєкт Скретч.
 
 [[[generic-scratch3-new-project]]]
 
@@ -10,9 +10,9 @@ Open a new empty Scratch project.
 
 \--- task \---
 
-Add in a new ghost sprite and a suitable Stage backdrop.
+Додай новий спрайт привида і підходяще тло для Сцени.
 
-![screenshot](images/ghost-ghost.png)
+![знімок екрану](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,17 +22,17 @@ Add in a new ghost sprite and a suitable Stage backdrop.
 
 \--- task \---
 
-Add code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.
+Додай код у спрайт привида, щоб він весь час з’являвся і зникав, поки натиснуто зелений прапор.
 
 \--- hints \--- \--- hint \---
 
-Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. It needs to do this `forever`{:class="block3control"}.
+Як тільки `зелений прапор натиснуто`{:class="block3events"}, твій привид повинен `сховатися`{:class="block3looks"} на `одну секунду`{:class="block3control"}, а потім — `показатися`{:class="block3looks"} протягом `однієї секунди`{:class="block3control"}. Він має це робити `завжди`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Тобі будуть потрібні наступні блоки коду:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-This is what your code should look like:
+Ось як має виглядати твій код:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -71,7 +71,7 @@ end
 
 \--- task \---
 
-Test and save your project.
+Протестуй та збережи свій проєкт.
 
 [[[generic-scratch3-saving]]]
 
