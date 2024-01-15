@@ -1,33 +1,33 @@
-## Add a timer
+## Додай таймер
 
-Now you're going to add a timer so that the player only has ten seconds to catch as many ghosts as possible.
+Тепер ти додаси таймер, щоб гравець мав лише десять секунд для того, щоб зловити якомога більше привидів.
 
 \--- task \---
 
-Create a new variable called 'time'.
+Створи нову змінну з назвою "час".
 
 \--- /task \---
 
 \--- task \---
 
-Can you add a timer to your Stage to give your player only 10 seconds to catch ghosts?
+Чи можеш ти додати таймер до своєї сцени, щоб дати гравцеві лише 10 секунд для ловлі привидів?
 
-Your timer should:
+Твій таймер має:
 
-+ Start at 10 seconds
-+ Count down every second
++ Починатися з 10 секунд
++ Зменшуватися кожну секунду
 
-The game should stop when the timer gets to 0.
+Гра має зупинитись, коли таймер дійде до 0.
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
+`Коли зелений прапор натиснуто`{:class="block3events"}, твоя змінна `час`{:class="block3variables"} має бути `встановлена в 10`{:class="block3variables"}. Далі її треба `змінювати на -1`{:class="block3variables"} кожну секунду, `доки вона не досягне 0`{:class="block3control"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need to use:
+Тобі будуть потрібні наступні блоки коду:
 
-![ghost-sprite](images/ghost-backdrop.png)
+![спрайт привида](images/ghost-backdrop.png)
 
 ```blocks3
 stop [all]
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here is the code you should add to create a timer:
+Ось код, який тобі потрібно буде додати для створення таймера:
 
-![backdrop icon](images/ghost-backdrop.png)
+![значок тла](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
@@ -71,18 +71,18 @@ stop [all]
 
 \--- task \---
 
-Ask a friend to test your game. How many points can they score?
+Попроси друга протестувати твою гру. Скільки очок він (вона) змогли набрати?
 
 \--- /task \---
 
-If your game is too easy, you can:
+Якщо гра занадто проста, ти можеш:
 
-+ Give the player less time
-+ Make the ghosts appear less often
-+ Make the ghosts smaller
++ Дати гравцю менше часу
++ Зробити, щоб привиди з’являлися рідше
++ Зменшити розмір привидів
 
 \--- task \---
 
-Change and test your game a few times until you're happy with its level of difficulty.
+Зміни та протестуй свою гру декілька разів, поки не будеш задоволений її рівнем складності.
 
 \--- /task \---
