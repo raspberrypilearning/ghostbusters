@@ -1,6 +1,6 @@
-## Introduction
+## Вступ
 
-You are going to make a ghost-catching game!
+Ти зробиш гру, де потрібно ловити привидів!
 
 \--- no-print \---
 
@@ -13,44 +13,44 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![демонстрація](images/showcase-static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Що тобі знадобиться
 
-### Hardware
+### Обладнання
 
-- A computer
+- Комп'ютер
 
-### Software
+### Програмне забезпечення
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
+- Скретч 3 ([онлайн](https://rpf.io/scratchon){:target="_blank"} або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional notes for educators
+## title: Чого ти навчишся
+
+- Розуміти необхідність пауз між діями в циклах
+- Генерувати випадкові числа в коді на Скретч
+- Додавати змінну для збереження ігрового рахунку в Скретч
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Додаткові примітки для викладачів
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+Ви можете знайти [завершений проєкт тут](https://rpf.io/p/en/ghostbusters-get){:target="_ blank"}.
 
 \--- /collapse \---
