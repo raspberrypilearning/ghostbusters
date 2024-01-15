@@ -1,30 +1,30 @@
-## Random ghosts
+## Випадкові привиди
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Твого привида зараз дуже легко зловити, оскільки він не рухається!
 
 \--- task \---
 
-Can you add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage?
+Чи можеш ти додати код до свого привида так, щоб він з’являвся на Сцені у випадкових місцях замість того, щоб залишатися на місці?
 
 \--- hints \---
 
 \--- hint \---
 
-Each time before your ghost appears, it should `go to`{:class="block3motion"} a random position on the Stage.
+Кожного разу, перш ніж твій привид з’явиться, він повинен `перейти до`{:class="block3motion"} випадкового положення на Сцені.
 
 \--- /hint \--- \--- hint \---
 
-There are two sets of code blocks you could use here. Choose the set you prefer.
+Є два набори блоків коду, які ти можеш використати. Вибирай той, який більше подобається.
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
-Either add this set of blocks to your ghost sprite:
+Додай або цей набір блоків до свого спрайту привида:
 
 ```blocks3
 go to (random position v)
 ```
 
-Or add this one to your sprite:
+Або цей:
 
 ```blocks3
 go to x: (14) y: (50)
@@ -38,9 +38,9 @@ pick random (1) to (10)
 
 \--- hint \---
 
-Your code could look either like this:
+Твій код може виглядати так:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -53,9 +53,9 @@ wait (1) seconds
 end
 ```
 
-Or it could look like this:
+Або так:
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
