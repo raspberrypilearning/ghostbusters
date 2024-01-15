@@ -1,10 +1,10 @@
-## Add a score
+## Додай рахунок
 
-Now you're going to make your game more interesting by keeping score!
+А зараз ти зробиш свою гру ще цікавішою, ведучи рахунок!
 
 \--- task \---
 
-Create a new variable called `score`{:class="block3variables"}.
+Створи нову змінну з назвою `рахунок`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,23 +12,23 @@ Create a new variable called `score`{:class="block3variables"}.
 
 \--- task \---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Чи зможеш ти вести рахунок гравця? Гравці повинні отримувати очки кожного разу, коли ловлять привида.
 
-Each time a player clicks on a ghost, their score should increase.
+Щоразу, коли гравець клікає по привиду, кількість очок гравця повинна зростати.
 
-![Increasing score](images/ghost-score-test.png)
+![Збільшення рахунку](images/ghost-score-test.png)
 
 \--- hints \--- \--- hint \---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+`Коли зелений прапор натиснуто`{:class="block3events"}, твоя змінна `рахунок`{:class="block3variables"} повинна бути `встановлена в 0`{:class="block3variables"}. Сцена — найкраще місце, щоб додати цей код.
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+`Коли спрайт привида натиснуто`{:class="block3events"}, змінна `рахунок`{:class="block3variables"} повинна бути `змінена на 1`{:class="block3variables"}.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Тобі будуть потрібні наступні блоки коду:
 
-![backdrop icon](images/ghost-backdrop.png)
+![значок тла](images/ghost-backdrop.png)
 
 ```blocks3
 set [score v] to (0)
@@ -36,7 +36,7 @@ set [score v] to (0)
 when flag clicked
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 change [score v] by (1)
@@ -44,14 +44,14 @@ change [score v] by (1)
 
 \--- /hint \--- \--- hint \---
 
-![backdrop icon](images/ghost-backdrop.png)
+![значок тла](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
 set [score v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
 When this sprite clicked
