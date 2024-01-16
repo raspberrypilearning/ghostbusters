@@ -6,13 +6,13 @@ Now you're going to add code to your game so that the player can catch ghosts!
 
 Czy możesz sprawić, by twój duch zniknął, gdy zostanie złapany? Gracz powinien móc kliknąć duchy, aby je złapać.
 
-Jeśli przetestujesz grę i sprawisz, że łapanie upiorów będą trudne, możesz zagrać w trybie pełnoekranowym, klikając ten przycisk:
+Jeśli przetestujesz grę i uznasz, że łapanie upiorów będzie za trudne, możesz zagrać w trybie pełnoekranowym, klikając ten przycisk:
 
 ![zrzut ekranu](images/ghost-fullscreen-annotated.png)
 
 \--- hints \--- \--- hint \---
 
-`Po kliknięciu`{: class = "block3events"} twójduszek powinien się `ukryć`{: class = "block3looks"}.
+`Po kliknięciu`{: class = "block3events"} twój duszek powinien się `ukryć`{: class = "block3looks"}.
 
 -- /hint \--- \--- hint \---
 
