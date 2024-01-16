@@ -26,7 +26,7 @@ Dodaj kod do duszka ducha, aby pojawiał się i znikał na zawsze po kliknięciu
 
 \--- hints \--- \--- hint \---
 
-Po `zielona flaga kliknięciu`{class = "block3events"}, twój duch powinien `ukryj`{: class = "block3looks"} przez `jeden sekund`{class = "block3control"}, a następnie `pokaż`{: class = "block3looks"} przez `jedną sekundę`{: class = "block3control"}. Musi to zrobić `zawsze`{: class = "block3control"}.
+Once the `green flag is clicked`{:class="block3events"}, your ghost should `hide`{:class="block3looks"} for `one second`{:class="block3control"} and then `show`{:class="block3looks"} for `one second`{:class="block3control"}. Musi to zrobić `zawsze`{: class = "block3control"}.
 
 -- /hint \--- \--- hint \---
 
