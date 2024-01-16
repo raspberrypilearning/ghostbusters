@@ -14,7 +14,7 @@ Za każdym razem, zanim pojawi się twój duch, powinien `przejść`{: class = "
 
 -- /hint \--- \--- hint \---
 
-Istnieją dwa zestawy bloków kodu, których możesz użyć tutaj. Wybierz zestaw, który preferujesz.
+Istnieją dwa zestawy bloków kodu, których możesz tutaj użyć. Wybierz zestaw, który preferujesz.
 
 ![duszek ducha](images/ghost-sprite.png)
 
