@@ -14,8 +14,8 @@ Czy możesz dodać licznik czasu do sceny, aby dać graczowi tylko 10 sekund na 
 
 Twój licznik czasu powinien:
 
-+ Zacznij od 10 sekund
-+ Odliczaj co sekundę
++ Zacząć od 10 sekund
++ Odliczać co sekundę
 
 Gra powinna się zatrzymać, gdy czas dojdzie do 0.
 
