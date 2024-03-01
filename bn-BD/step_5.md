@@ -1,6 +1,6 @@
 ## ভূতদের ধরার জন্য কোড
 
-Now you're going to add code to your game so that the player can catch ghosts!
+এখন আপনি আপনার গেমটিতে কোড যুক্ত করতে যাচ্ছেন যাতে প্লেয়ারটি ভূত ধরতে পারে!
 
 \--- task \---
 
