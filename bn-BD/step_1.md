@@ -1,6 +1,6 @@
 ## পরিচিতি
 
-You are going to make a ghost-catching game!
+আপনি একটি ভূত-ধরা খেলা তৈরি করতে যাচ্ছেন!
 
 \--- প্রিন্ট করতে লাগবে না \---
 
@@ -13,7 +13,7 @@ You are going to make a ghost-catching game!
 
 \--- print-only \---
 
-![showcase](images/showcase-static.png)
+![প্রদর্শনী](images/showcase-static.png)
 
 \--- /print-only \---
 
@@ -27,7 +27,7 @@ You are going to make a ghost-catching game!
 
 ### সফটওয়্যার
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- স্ক্র্যাচ 3 (হয় [অনলাইন](https://rpf.io/scratchon){:target="_blank"} অথবা [অফলাইন](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -47,10 +47,10 @@ You are going to make a ghost-catching game!
 
 \--- প্রিন্ট করতে লাগবে না \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার সহযোগী সংষ্করণ](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target ="_ blank"} ব্যবহার করুন।
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
+আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"} সন্ধান করতে পারেন।.
 
 \--- /collapse \---
