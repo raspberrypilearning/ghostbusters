@@ -34,29 +34,29 @@ Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt
 Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-verdwijn
+hide
 
-verschijn
+show
 
-herhaal
+forever
 end
 
-wacht (1) sec.
+wait (1) seconds
 
-wacht (1) sec.
+wait (1) seconds
 
-wanneer groene vlag wordt aangeklikt
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Zo zou je nieuwe code er uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal
-verdwijn
-wacht (1) sec.
-verschijn
-wacht (1) sec.
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
 end
 ```
 

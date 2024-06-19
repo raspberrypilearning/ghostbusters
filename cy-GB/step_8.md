@@ -25,35 +25,35 @@ Fe ddylai’r gêm ddod i ben pan mae’r amserydd yn cyrraedd 0.
  --- hint --- Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-backdrop.png)
 
 ```blocks3
-aros [y cyfan]
+stop [y cyfan]
 
 < [ ] = [ ] >
 
-gosod [amser v] i [10]
+set [amser v] to [10]
 
-newid [amser v] gan (-1)
+change [amser v] by (-1)
 
 (amser)
 
-aros (1) eiliad
+wait (1) seconds
 
-ailadrodd hyd at < >
+repeat until < >
 end
 
-pan fo'r flag werdd yn cael ei glicio
+when flag clicked
 
 ```
 
 --- /hint --- --- hint --- Dyma'r côd sydd angen i greu amserydd: ![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-gosod [amser v] i [10]
-ailadrodd hyd at < (amser) = [0] >
- aros (1) eiliad
- newid [amser v] gan (-1)
+when flag clicked
+set [amser v] to [10]
+repeat until < (amser) = [0] >
+wait (1) seconds
+change [amser v] by (-1)
 end
-aros [y cyfan]
+stop [y cyfan]
 ```
 
 --- /hint --- --- /hints ---

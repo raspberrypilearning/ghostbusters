@@ -20,38 +20,42 @@ Il tuo timer dovrebbe:
 Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
 
 --- hints ---
- --- hint --- `quando si clicca sulla bandiera verde`{:class="block3events"}, la variabile `tempo`{:class="block3variables"} dovrebbe essere `impostata su 10`{:class="block3variables"}. Dovrebbe quindi `cambiare di -1`{:class="block3variabili"} ogni secondo `fino a quando non raggiunge 0`{:class="block3control"}.
+ --- hint --- `quando si clicca sulla bandiera verde`{:class="block3events"}, la variabile `tempo`{:class="block3variables"} dovrebbe essere `impostata su 10`{:class="block3variables"}. Dovrebbe quindi `cambiare di -1`{:class="block3variables"} ogni secondo `fino a quando non raggiunge 0`{:class="block3control"}.
 --- /hint ---
  --- hint --- Qui ci sono i blocchi di codice che ti serviranno: ![sprite del fantasma](images/ghost-backdrop.png)
 
 ```blocks3
-ferma [tutto]
+stop [tutto]
 
 < [ ] = [ ] >
 
-porta [tempo v] a [10]
+set [tempo v] to [10]
 
-cambia [tempo v] di (-1)
+change [tempo v] by (-1)
 
-tempo :: variables
+(tempo)
 
-attendi (1) secondi
+wait (1) seconds
 
-ripeti fino a quando < >
+repeat until < >
+end
 
-quando si clicca sulla bandiera verde
+when flag clicked
 
 ```
 
---- /hint --- --- hint --- Ecco il codice che dovrai aggiungere per creare il timer: ![icona scenario](images/ghost-backdrop.png)
+--- /hint --- --- hint --- Ecco il codice che dovrai aggiungere per creare il timer:
+
+![icona scenario](images/ghost-backdrop.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-porta [tempo v] a [10]
-ripeti fino a quando < (tempo :: variables) = [0]>
-attendi (1) secondi
-cambia [tempo v] di (-1)
-ferma [tutto]
+when flag clicked
+set [tempo v] to [10]
+repeat until < (tempo) = [0] >
+wait (1) seconds
+change [tempo v] by (-1)
+end
+stop [tutto]
 ```
 
 --- /hint --- --- /hints ---

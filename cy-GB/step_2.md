@@ -34,29 +34,29 @@ Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy 
 Dyma'r blociau côd rwyt ti eu hangen: ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-cuddio
+hide
 
-dangos
+show
 
-am byth
+forever
 end
 
-aros (1) eiliad
+wait (1) seconds
 
-aros (1) eiliad
+wait (1) seconds
 
-pan fo'r flag werdd yn cael ei glicio
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Dyma sut dylai dy gôd edrych: ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-am byth 
- cuddio
- aros (1) eiliad
- dangos
- aros (1) eiliad
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
 end
 ```
 

@@ -26,35 +26,35 @@ O jogo deve parar quando o cronômetro chegar a 0.
 --- hint --- Aqui estão os blocos que você vai precisar: ![ghost-sprite](images/ghost-backdrop.png)
 
 ```blocks3
-pare [todos]
+stop [todos]
 
 < [ ] = [ ] >
 
-mude [tempo v] para [10]
+set [tempo v] to [10]
 
-adicione (-1) a [tempo v]
+change [tempo v] by (-1)
 
-tempo :: variables
+[tempo]
 
-espere (1) seg
+wait (1) seconds
 
-repita até que < >
-fim
+repeat until < >
+end
 
-quando ⚑ for clicado
+when flag clicked
 
 ```
 
 --- /hint --- --- hint --- Aqui está o código que você vai precisar para criar o cronômetro: ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-quando ⚑ for clicado
-mude [tempo v] para [10]
-repita até que < (tempo :: variables) = [0] >
-espere (1) seg
-adicione (-1) a [tempo v]
-fim
-pare [todos]
+when flag clicked
+set [tempo v] to [10]
+repeat until < (tempo) = [0] >
+wait (1) seconds
+change [tempo v] by (-1)
+end
+stop [todos]
 ```
 
 --- /hint ------ /hints ---

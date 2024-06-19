@@ -22,17 +22,17 @@ Il y a deux ensembles de blocs de code que tu peux utiliser ici. Choisis le jeu 
 Soit ajoute cet ensemble de blocs à ton sprite fantôme:
 
 ```blocks3
-aller à (position aléatoire v)
+go to (position aléatoire v)
 ```
 
 Ou ajoute celui-ci à ton sprite:
 
 ```blocks3
-aller à x: (14) y: (50)
+go to x: (14) y: (50)
 
-(nombre aléatoire entre (1) et (10))
+pick random (1) to (10)
 
-(nombre aléatoire entre (1) et (10))
+pick random (1) to (10)
 ```
 
 --- /hint---
@@ -44,14 +44,14 @@ Ton code pourrait ressembler à ceci:
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-quand le drapeau vert pressé
-répéter indéfiniment
-cacher
-attendre (1) secondes
-aller à (position aléatoire v)
-montrer
-attendre (1) secondes
-fin
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (position aléatoire v)
+show
+wait (1) seconds
+end
 ```
 
 Ou pourrait ressembler à ceci:
@@ -59,13 +59,14 @@ Ou pourrait ressembler à ceci:
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-quand le drapeau vert pressé
-répéter indéfiniment 
-cacher
-attendre (1) secondes
-aller à x: (nombre aléatoire entre (-150) et (150)) y: (nombre aléatoire entre (-150) et (150))
-montrer
-attendre (1) secondes
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

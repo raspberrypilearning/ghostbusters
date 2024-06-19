@@ -28,30 +28,32 @@ Cada vez que um jogador clicar em um fantasma, sua pontuação deve aumentar.
 --- /hint --- --- hint --- Aqui estão os blocos de código que você precisa: ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-mude [pontuação v] para (0)
+set [pontuação v] to (0)
 
-quando ⚑ for clicado
+when flag clicked
 ```
 
 ![Objeto gráfico fantasma](images/ghost-sprite.png)
 
 ```blocks3
-adicione (1) a [pontuação v]
+change [pontuação v] by (1)
 ```
 
---- /hint --- --- hint --- ![Ícone de fundo](images/ghost-backdrop.png)
+--- /hint --- --- hint ---
+
+![Ícone de fundo](images/ghost-backdrop.png)
 
 ```blocks3
-quando ⚑ for clicado
-mude [pontuação v] para (0)
+when flag clicked
+set [pontuação v] to (0)
 ```
 
 ![Objeto gráfico fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-esconda
-+ adicione (1) a [pontuação v]
+When this sprite clicked
+hide
++ change [pontuação v] by (1)
 ```
 
 --- /hint ------ /hints ---

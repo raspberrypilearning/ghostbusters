@@ -34,28 +34,30 @@ Aggiungi codice al tuo fantasma in modo che appaia e scompaia per sempre quando 
 Ecco i blocchi di codice che ti serviranno: ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
-nascondi
+hide
 
-mostra
+show
 
-attendi (1) secondi
+forever
+end
 
-quando si clicca sulla bandiera verde
+wait (1) seconds
 
-attendi (1) secondi
+wait (1) seconds
 
-per sempre
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Ecco come dovrebbe apparire il tuo codice: ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-per sempre 
-nascondi
-attendi (1) secondi
-mostra
-attendi (1) secondi
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

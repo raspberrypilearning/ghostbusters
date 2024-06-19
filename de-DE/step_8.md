@@ -25,22 +25,22 @@ Das Spiel soll aufhören, wenn der Timer auf 0 steht.
  --- hint --- Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-backdrop.png)
 
 ```blocks3
-stoppe [alles]
+stop [alles]
 
 <[ ] = [ ]>
 
-setze [Zeit v] auf [10]
+set [Zeit v] to [10]
 
-ändere [Zeit v] um (-1)
+change [Zeit v] by (-1)
 
 (Zeit)
 
-warte (1) Sekunden
+wait (1) seconds
 
-wiederhole bis < >
+repeat until < >
+end
 
-Wenn die grüne Flagge angeklickt
-
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Hier ist der Code, den du hinzufügen solltest, um eine Stoppuhr zu erstellen: ![Hintergrund-Symbol](images/ghost-backdrop.png)

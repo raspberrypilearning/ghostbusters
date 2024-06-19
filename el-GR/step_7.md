@@ -21,37 +21,37 @@
 --- hints ---
  --- hint ---
 
-`Όταν πατηθεί η πράσινη σημαία`{:class="blockevents"}, η μεταβλητή σου `σκορ`{:class="blockdata"} πρέπει να `οριστεί σε 0`{:class="blockdata"}. Το Σκηνικό (Stage) είναι το καλύτερο μέρος για να προσθέσεις αυτόν τον κώδικα.
+`Όταν πατηθεί η πράσινη σημαία`{:class="blockevents"}, η μεταβλητή σου `σκορ`{:class="block3variables"} πρέπει να `οριστεί σε 0`{:class="block3variables"}. Το Σκηνικό (Stage) είναι το καλύτερο μέρος για να προσθέσεις αυτόν τον κώδικα.
 
-`Όταν πατηθεί η πράσινη σημαία`{:class="blockevents"}, η μεταβλητή σου `σκορ`{:class="blockdata"} πρέπει να `αλλάξει κατά 1`{:class="blockdata"}.
+`Όταν πατηθεί η πράσινη σημαία`{:class="blockevents"}, η μεταβλητή σου `σκορ`{:class="block3variables"} πρέπει να `αλλάξει κατά 1`{:class="block3variables"}.
 
 --- /hint --- --- hint --- Εδώ είναι τα μπλοκ που θα χρειαστείς:![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-όρισε [σκορ v] σε (0)
+set [σκορ v] to (0)
 
-Όταν στην πράσινη σημαία γίνει κλικ
+when flag clicked
 ```
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-άλλαξε [σκορ v] κατά (1)
+change [σκορ v] by (1)
 ```
 
 --- /hint --- --- hint --- ![backdrop icon](images/ghost-backdrop.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-όρισε [σκορ v] σε (0)
+when flag clicked
+set [σκορ v] to (0)
 ```
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-Όταν γίνει κλικ σε αυτό το αντικείμενο,
-εξαφανίσου
-+ άλλαξε [σκορ v] κατά (1)
+When this sprite clicked
+hide
++ change [σκορ v] by (1)
 ```
 
 --- /hint --- --- /hints ---

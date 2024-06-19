@@ -25,35 +25,35 @@ Gra powinna się zatrzymać, gdy czas dojdzie do 0.
  --- hint --- Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-backdrop.png)
 
 ```blocks3
-zatrzymaj [wszystko]
+stop [wszystko]
 
-< [] = [] >
+< [ ] = [ ] >
 
-ustaw [czas v] na [10]
+set [czas v] to [10]
 
-zmień [czas v] o(-1)
+change [czas v] by (-1)
 
 (czas)
 
-czekaj (1) sekund
+wait (1) seconds
 
-powtarzaj aż < >
-koniec
+repeat until < >
+end
 
-kiedy kliknięto zieloną flagę
+when flag clicked
 
 ```
 
 --- /hint --- --- hint --- Oto kod, który należy dodać, aby utworzyć zegar: ![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw [czas v] na [10]
-powtarzaj, aż < (czas) = [0] >
-czekaj (1) sekund
-zmień [czas v] o (-1)
-koniec
-zatrzymaj [wszystko]
+when flag clicked
+set [czas v] to [10]
+repeat until < (czas) = [0] >
+wait (1) seconds
+change [czas v] by (-1)
+end
+stop [wszystko]
 ```
 
 --- /hint --- --- /hints ---

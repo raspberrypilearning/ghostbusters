@@ -13,15 +13,15 @@ Als je je spel test en spoken vangen moeilijk vindt, kun je het spel in volledig
 --- hints ---
  --- hint ---
 
-`Wanneer op deze sprite wordt geklikt`{:class="block3events"}, zou het spook moeten `verdwijn`{:class=”block3looks"}-en.
+`Wanneer op deze sprite wordt geklikt`{:class="block3events"}, zou het spook moeten `verdwijn`{:class="block3looks"}-en.
 
 --- /hint --- --- hint ---
 
 Je code zou er als volgt uit moeten zien: ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-verdwijn
+when this sprite clicked
+hide
 ```
 
 --- /hint --- --- /hints ---

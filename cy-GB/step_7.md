@@ -28,30 +28,30 @@ Bob tro mae chwareuwr yn clicio ar ysbryd, fe ddylai'r sgôr fynd fyny.
 --- /hint --- --- hint --- Dyma'r blociau côd rwyt ti eu hangen: ![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
-gosod [sgôr v] i (0)
+set [sgôr v] to (0)
 
-pan fo'r flag werdd yn cael ei glicio
+when flag clicked
 ```
 
 ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-newid [sgôr v] gan (1)
+change [sgôr v] by (1)
 ```
 
 --- /hint --- --- hint --- ![eicon cefnlen](images/ghost-backdrop.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
+when flag clicked
 set [sgôr v] to (0)
 ```
 
 ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-pan gaiff y ciplun yma ei glicio
-cuddio
-+ newid [sgôr v] gan (1)
+When this sprite clicked
+hide
++ change [sgôr v] by (1)
 ```
 
 --- /hint --- --- /hints ---

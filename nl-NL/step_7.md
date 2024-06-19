@@ -28,31 +28,30 @@ Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
 --- /hint --- --- hint --- Dit zijn de codeblokken die je nodig hebt: ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
-maak [score v] (0)
+set [score v] to (0)
 
-wanneer groene vlag wordt aangeklikt
+when flag clicked
 ```
 
 ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-verander [score v] met (1)
+change [score v] by (1)
 ```
 
 --- /hint --- --- hint --- ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-maak [score v] (0)
+when flag clicked
+set [score v] to (0)
 ```
 
 ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-Wanneer op deze sprite wordt geklikt
-verdwijn
-
-+ verander [score v] met (1)
+When this sprite clicked
+hide
++ change [score v] by (1)
 ```
 
 --- /hint --- --- /hints ---

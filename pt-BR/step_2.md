@@ -34,30 +34,30 @@ Uma vez que a `bandeira verde é clicada`{:class="block3events"}, seu fantasma d
 Aqui estão os blocos de código que você precisa:![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-esconda
+hide
 
-mostre
+show
 
-sempre
-fim
+forever
+end
 
-esperar (1) segundos
+wait (1) seconds
 
-esperar (1) segundos
+wait (1) seconds
 
-quando ⚑ for clicado
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Seu código deve ficar assim: ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando ⚑ for clicado
-sempre
-esconda
-esperar (1) segundos
-mostre
-esperar (1) segundos
-fim
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
 ```
 
 --- /hint ------ /hints ---

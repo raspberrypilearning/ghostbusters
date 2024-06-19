@@ -28,30 +28,30 @@ Za każdym razem, gdy gracz kliknie na ducha, jego wynik powinien wzrosnąć.
 --- /hint --- --- hint --- Oto potrzebne bloki kodu: ![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-ustaw [wynik v] na (0)
+set [wynikl v] to (0)
 
-kiedy kliknięto zieloną flagę
+when flag clicked
 ```
 
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-zmień [wynik v] o (1)
+change [wynik v] by (1)
 ```
 
 --- /hint --- --- hint ---![ikona tła](images/ghost-backdrop.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw [wynik v] na (0)
+when flag clicked
+set [wynik v] to (0)
 ```
 
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy ten duszek kliknięty
-ukryj
-+ zmień [wynik v] o (1)
+When this sprite clicked
+hide
++ change [wynik v] by (1)
 ```
 
 --- /hint --- --- /hints ---
