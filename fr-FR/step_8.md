@@ -27,30 +27,30 @@ stop [tout]
 
 < [] = [] >
 
-mettre [temps v] à [10]
+set [temps v] to [10]
 
-ajouter (-1) à [temps v]
+change [temps v] by (-1)
 
-temps :: variables
+(temps)
 
-attendre (1) secondes
+wait (1) seconds
 
-répéter jusqu'à ce que < >
-fin
+repeat until < >
+end
 
-quand le drapeau vert pressé
+when flag clicked
 
 ```
 
 --- /hint --- --- hint --- Voici le code que tu dois ajouter pour créer une minuterie: ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
-quand le drapeau vert pressé
-mettre [temps v] à [10]
-répéter jusqu'à ce que < (temps :: variables) = [0] > 
-attendre (1) secondes
-ajouter (-1) à [temps v]
-fin
+when flag clicked
+set [temps v] to [10]
+repeat until < (temps) = [0] >
+wait (1) seconds
+change [temps v] by (-1)
+end
 stop [tout]
 ```
 

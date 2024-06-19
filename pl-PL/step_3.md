@@ -22,17 +22,17 @@ Istnieją dwa zestawy bloków kodu, których możesz użyć tutaj. Wybierz zesta
 Dodaj ten zestaw bloków do twojego duszka:
 
 ```blocks3
-Idź do (losowa pozycja v)
+go to (losowa pozycja v)
 ```
 
 Lub dodaj ten do swojego duszka:
 
 ```blocks3
-Idź do x: (14) y: (50)
+go to x: (14) y: (50)
 
-(losuj liczbę od (1) do (10))
+pick random (1) to (10)
 
-(losuj liczbę od (1) do (10))
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -44,14 +44,14 @@ Twój kod może wyglądać tak:
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-zawsze 
-ukryj
-czekaj (1) sekund
-Idź do (losowa pozycja v)
-pokaż
-czekaj (1) sekund
-koniec
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (losowa pozycja v)
+show
+wait (1) seconds
+end
 ```
 
 Lub może wyglądać tak:
@@ -59,14 +59,14 @@ Lub może wyglądać tak:
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-zawsze 
-ukryj
-czekaj (1) sekund
-Idź do x: (losuj liczbę od (-150) do (150)) y: (losuj liczbę od (-150) do (150))
-pokaż
-czekaj (1) sekund
-koniec
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

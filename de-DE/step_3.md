@@ -22,17 +22,17 @@ Es gibt zwei Kombinationen von Codeblöcken, die du hier verwenden kannst. Suche
 Füge deiner Geister-Figur entweder diesen Block hinzu:
 
 ```blocks3
-gehe zu (Zufallsposition v)
+go to (Zufallsposition v)
 ```
 
 Oder füge diese Blöcke zu deiner Figur:
 
 ```blocks3
-gehe zu x: (14) y: (50)
+go to x: (14) y: (50)
 
-(Zufallszahl von (1) bis (10))
+pick random (1) to (10)
 
-(Zufallszahl von (1) bis (10))
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -44,13 +44,14 @@ Dein Code sollte entweder so aussehen:
 ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-wiederhole fortlaufend 
-verstecke dich
-warte (1) Sekunden
-gehe zu (Zufallsposition v)
-zeige dich
-warte (1) Sekunden
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (Zufallsposition v)
+show
+wait (1) seconds
+end
 ```
 
 Oder er könnte so aussehen:
@@ -58,13 +59,14 @@ Oder er könnte so aussehen:
 ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-wiederhole fortlaufend 
-verstecke dich
-warte (1) Sekunden
-gehe zu x: (Zufallszahl von (-150) bis (150)) y: (Zufallszahl von (-150) bis (150))
-zeige dich
-warte (1) Sekunden
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

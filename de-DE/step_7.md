@@ -28,30 +28,30 @@ Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erh
 --- /hint --- --- hint --- Hier sind die Codeblöcke die du brauchst: ![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
-setze [Punkte v] auf (0)
+set [Punkte v] to (0)
 
-Wenn die grüne Flagge angeklickt
+when flag clicked
 ```
 
 ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-ändere [Punkte v] um (1)
+change [Punkte v] by (1)
 ```
 
 --- /hint --- --- hint --- ![Hintergrund-Symbol](images/ghost-backdrop.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze [Punkte v] auf (0)
+when flag clicked
+set [Punkte v] to (0)
 ```
 
 ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-Wenn diese Figur angeklickt wird
-verstecke dich
-+ ändere [Punkte v] um (1)
+When this sprite clicked
+hide
++ change [Punkte v] by (1)
 ```
 
 --- /hint --- --- /hints ---

@@ -28,30 +28,30 @@ Chaque fois qu'un joueur clique sur un fantôme, son score doit augmenter.
 --- /hint --- --- hint --- Voici les blocs de code dont tu as besoin : ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
-mettre [score v] à (0)
+set [score v] to (0)
 
-quand le drapeau vert pressé
+when flag clicked
 ```
 
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-ajouter (1) à [score v]
+change [score v] by (1)
 ```
 
 --- /hint --- --- hint --- ![icône de l'arrière-plan](images/ghost-backdrop.png)
 
 ```blocks3
-quand le drapeau vert pressé
-mettre [score v] à (0)
+when flag clicked
+set [score v] to (0)
 ```
 
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-quand ce sprite est cliqué
-cacher
-+ ajouter (1) à [score v]
+When this sprite clicked
+hide
++ change [score v] by (1)
 ```
 
 --- /hint --- --- /hints ---

@@ -34,28 +34,30 @@
 Εδώ είναι τα μπλοκ που χρειάζεσαι:![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-εξαφανίσου
+hide
 
-εμφανίσου
+show
 
-περίμενε (1) δευτερόλεπτα
+forever
+end
 
-περίμενε (1) δευτερόλεπτα
+wait (1) seconds
 
-Όταν στην πράσινη σημαία γίνει κλικ
+wait (1) seconds
 
-για πάντα
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Έτσι πρέπει να μοιάζει με ο κώδικάς σου:![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-για πάντα 
-εξαφανίσου
-περίμενε (1) δευτερόλεπτα
-εμφανίσου
-περίμενε (1) δευτερόλεπτα
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

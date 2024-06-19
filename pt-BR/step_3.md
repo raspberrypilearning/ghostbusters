@@ -22,17 +22,17 @@ Há dois conjuntos de blocos de código que você pode usar aqui. Escolha o conj
 Ou adicione este conjunto de blocos ao seu fantasma:
 
 ```blocks3
-ir para (posição aleatória v)
+go to (posição aleatória v)
 ```
 
 Ou adicione este a seu fantasma:
 
 ```blocks3
-ir para x: (14) y: (50)
+go to x: (14) y: (50)
 
-(número aleatório entre (1) e (10))
+pick random (1) to (10)
 
-(número aleatório entre (1) e (10))
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -44,14 +44,14 @@ Seu código deve ficar assim:
 ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando ⚑ for clicado
-para sempre
-ocultar
-esperar (1) segundos
-vá para(posição aleatória v)
-mostrar
-esperar (1) segundos
-fim
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (posição aleatória v)
+show
+wait (1) seconds
+end
 ```
 
 Ou poderia ser assim:
@@ -59,14 +59,14 @@ Ou poderia ser assim:
 ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando ⚑ for clicado
-para sempre
-ocultar
-esperar (1) segundos
-vá para x: (número aleatório entre (-150) e (150)) y: (número aleatório entre (-150) e (150))
-mostrar
-esperar (1) segundos
-fim
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
 ```
 
 --- /hint ------ /hints ---

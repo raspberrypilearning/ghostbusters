@@ -20,8 +20,8 @@ Os wyt ti'n profi dy gêm ac mae'n anodd dal yr ysbrydion, mae modd chwarae'r g�
 Fe ddylai dy gôd edrych fel hyn: ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-pan gaiff y ciplun yma ei glicio
-cuddio
+when this sprite clicked
+hide
 ```
 
 --- /hint --- --- /hints ---

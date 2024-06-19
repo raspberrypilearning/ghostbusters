@@ -20,8 +20,8 @@ Se você testar seu jogo e achar que capturar os fantasmas está difícil, você
 Seu código deve ficar assim: ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-esconda
+when this sprite clicked
+hide
 ```
 
 --- /hint ------ /hints ---

@@ -32,30 +32,30 @@ Po `zielona flaga kliknięciu`{:class="block3events"}, twój duch powinien `ukry
 Oto potrzebne bloki kodu: ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-ukryj
+hide
 
-pokaż
+show
 
-zawsze
-koniec
+forever
+end
 
-czekaj (1) sekund
+wait (1) seconds
 
-czekaj (1) sekund
+wait (1) seconds
 
-kiedy kliknięto zieloną flagę
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Twój kod powinien wyglądać tak: ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-zawsze
-ukryj
-czekaj (1) sekund
-pokaż
-czekaj (1) sekund
-koniec
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---
