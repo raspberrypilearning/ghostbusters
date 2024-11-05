@@ -1,4 +1,5 @@
-## Challenge: more sprites
+## Challenges
+Improve your project with these challenges!
 
 ---- task ---
 

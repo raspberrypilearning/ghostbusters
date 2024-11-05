@@ -18,4 +18,5 @@ steps:
   completion:
   - internal
 - title: Challenges
+  challenge: true
 - title: What next?
