@@ -2,6 +2,8 @@
 
 You are going to make a ghost-catching game!
 
+### What you will make
+
 --- no-print ---
 
 <div class="scratch-preview">
@@ -17,42 +19,19 @@ You are going to make a ghost-catching game!
 
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
+## What you will need
 
-### Hardware
+Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
-+ A computer
-
-### Software
-
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-- Understand the need for pauses between actions within loops
-- Use code to generate random numbers in Scratch
-- Add a variable to store a game score in Scratch
-
---- /collapse ---
+### Downloads
++ [Offline starter project](https://rpf.io/p/en/ghostbusters-go){:target="_blank"}
 
 --- collapse ---
 ---
 title: Additional notes for educators
 ---
 
---- no-print ---
-
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
---- /no-print ---
 
 You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
 
