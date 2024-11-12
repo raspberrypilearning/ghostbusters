@@ -22,7 +22,11 @@
 --- hints ---
  --- hint --- `Όταν πατηθεί η πράσινη σημαία`{:class="block3events"}, η μεταβλητή σου `χρόνος`{:class="block3variables"} πρέπει να `οριστεί σε 10`{:class="block3variables"}. Στη συνέχεια πρέπει να `αλλάζει κατά -1`{:class="block3variables"} κάθε δευτερόλεπτο `έως ότου φτάσει στο 0`{:class="block3control"}.
 --- /hint ---
- --- hint --- Εδώ είναι τα μπλοκ που θα χρειαστείς: ![ghost-sprite](images/ghost-backdrop.png)
+ --- hint --- 
+ 
+ Εδώ είναι τα μπλοκ κώδικα που χρειάζεσαι:
+ 
+ ![αντικείμενο-φάντασμα](images/ghost-backdrop.png)
 
 ```blocks3
 stop [όλα]
@@ -44,7 +48,11 @@ when flag clicked
 
 ```
 
---- /hint --- --- hint --- Εδώ είναι ο κώδικας που πρέπει να προσθέσεις για να δημιουργήσεις ένα χρονόμετρο: ![backdrop icon](images/ghost-backdrop.png)
+--- /hint --- --- hint --- 
+
+Εδώ είναι ο κώδικας που πρέπει να προσθέσεις για να δημιουργήσεις ένα χρονόμετρο:
+
+![εικονίδιο φόντου](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked

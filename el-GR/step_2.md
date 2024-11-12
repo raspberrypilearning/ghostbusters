@@ -31,7 +31,9 @@
 --- /hint ---
  --- hint ---
 
-Εδώ είναι τα μπλοκ που χρειάζεσαι:![ghost-sprite](images/ghost-sprite.png)
+Αυτά είναι τα μπλοκ κώδικα που θα χρειαστείς:
+
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 hide
@@ -48,7 +50,9 @@ wait (1) seconds
 when flag clicked
 ```
 
---- /hint --- --- hint --- Έτσι πρέπει να μοιάζει με ο κώδικάς σου:![ghost-sprite](images/ghost-sprite.png)
+--- /hint --- --- hint --- Έτσι πρέπει να μοιάζει ο κώδικάς σου:
+
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked

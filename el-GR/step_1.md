@@ -1,9 +1,3 @@
---- no-print ---
-
-Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/el-GR/projects/ghostbusters-scratch2) του έργου.
-
---- /no-print ---
-
 ## Εισαγωγή
 
 Πρόκειται να φτιάξεις ένα παιχνίδι για κυνήγι φαντασμάτων!
@@ -19,7 +13,7 @@
 
 --- print-only ---
 
-![showcase](images/showcase-static.png)
+![παρουσίαση](images/showcase-static.png)
 
 --- /print-only ---
 
