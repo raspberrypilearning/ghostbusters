@@ -1,65 +1,58 @@
-## Adj hozzá eredményszámolálót
+## Challenge
 
-Tedd érdekesebbé a játékot az elkapott szellemek számolásával!
+Improve your project with these challenges!
 
 \--- task \---
 
-Hozz létre egy új változót, amelynek a neve legyen `eredmény`{:class="block3variables"}.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ adj kevesebb időt a játékosnak
++ ritkábban jelenjenek meg a szellemek
++ legyenek kisebbek a szellemek
 
 \--- /task \---
 
 \--- task \---
 
-Nyomon tudod követni a játékos pontszámát? A játékosoknak pontokat kell kapniuk, amikor rákattintanak a szellemekre.
+Tudnál más szereplőket hozzáadni a játékodhoz?
 
-Minden alkalommal, amikor a játékos rákattint egy szellemre, a pontszámnak növekednie kell.
+![képernyőkép](images/ghost-final.png)
 
-![Az eredmény növelése](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Ha a zöld zászlóra`{:class="block3events"} rákattintanak, akkor az `eredmény`{:class="block3variables"} értéke `változzon 0-ra`{:class="block3variables"}. A Játéktérhez add hozzá a következő kódot.
+title: Extra Sprites
 
-`A szellem szereplőre rákattintáskor`{:class="block3events"}, az `eredmény`{:class="block3variables"} értéke `változzon 1-gyel`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Gondold át a következőket minden új szereplő esetén:
 
-Here are the code blocks you need:
++ Milyen nagy legyen a szereplő?
++ Ritkábban vagy gyakrabban jelenjen meg, mint a szellem szereplő?
++ Hogy nézzen ki/milyen hangja legyen, amikor elkapják?
++ Mennyi pontot kapjon (vagy veszítsen) a játékos a szereplő elkapásákor?
 
-![háttér ikon](images/ghost-backdrop.png)
+Ha segítségre van szükséged, akkor térj vissza a korábbi lépésekben található utasításokhoz, vagy kérdezd meg egy barátodat!
 
-```blocks3
-[eredmény v] legyen (0)
+\--- /collapse \---
 
-⚑ -ra kattintáskor
-```
+\--- /task \---
 
-![szellem-szereplő](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-[eredmény v] változzon (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![háttér ikon](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-⚑ -ra kattintáskor
-[eredmény v] legyen (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![szellem-szereplő](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-ezen szereplőre kattintáskor
-tűnj el
+\--- task \---
 
-[eredmény v] változzon (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
