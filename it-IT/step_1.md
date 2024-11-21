@@ -1,4 +1,4 @@
-## Introduzione
+## What you will make
 
 You are going to make a ghost-catching game!
 
@@ -17,40 +17,6 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: Di cosa avrai bisogno
-
-### Hardware
-
-- Un computer
-
-### Software
-
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Cosa imparerai
-
-- Comprendere la necessità di una pausa tra le azioni all'interno dei cicli
-- Usa il codice per generare numeri casuali in Scratch
-- Aggiungi una variabile per memorizzare un punteggio di gioco in Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Informazioni aggiuntive per gli educatori
-
-\--- no-print \---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-\--- /no-print \---
-
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
-\--- /collapse \---
+- Scratch 3
