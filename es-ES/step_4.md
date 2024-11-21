@@ -1,5 +1,18 @@
-## Desafío: más aleatoriedad
+## Code for catching ghosts
 
-¿Puedes agregar código a tu objeto fantasma para hacer que el fantasma `espere` {:class="block3control"} una cantidad aleatoria de tiempo mientras está oculto?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-¿Puedes utilizar el bloque `fijar tamaño`{:class=”blocklooks”} para hacer que tu fantasma tenga un tamaño aleatorio cada vez que aparezca?
+\--- task \---
+
+![objeto fantasma](images/ghost-sprite.png)
+
+```blocks3
+al hacer clic en este objeto
+esconder
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![captura de pantalla](images/ghost-fullscreen-annotated.png)
