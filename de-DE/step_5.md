@@ -1,30 +1,55 @@
-## Code zum Fangen von Geistern
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Jetzt wirst du dein Spiel interessanter machen, indem du Punkte sammelst!
 
 \--- task \---
 
-Kannst du deinen Geist verschwinden lassen, wenn er gefangen wurde? Der Spieler sollte in der Lage sein, auf die Geister zu klicken, um sie zu fangen.
+Erstelle eine neue Variable namens `Punkte`{:class='block3variable'}.
 
-Wenn du dein Spiel testest und es schwierig findest Geister zu fangen, kannst du das Spiel auch in Vollbildmodus spielen, indem du auf diese Schaltfläche klickst:
+[[[generic-scratch3-add-variable]]]
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Wenn sie angeklickt wird`{:class=”block3events”}, sollte sich die Geisterfigur `verstecken`{:class=”block3looks"}.
+![Punktestand erhöhen](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-Wenn diese Figur angeklickt wird
-verstecke dich
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![Geist-Figur](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
