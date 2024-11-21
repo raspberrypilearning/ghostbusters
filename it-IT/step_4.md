@@ -1,5 +1,18 @@
-## Sfida: più casualità
+## Code for catching ghosts
 
-Puoi aggiungere del codice al tuo fantasma per farlo `aspettare`{:class="block3control"} un tempo casuale mentre è nascosto?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Puoi usare il blocco `set size`{:class="block3looks"} per far cambiare in modo casuale la dimensione del fantasma ogni volta che appare?
+\--- task \---
+
+![sprite del fantasma](images/ghost-sprite.png)
+
+```blocks3
+quando si clicca questo sprite
+nascondi
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![screenshot](images/ghost-fullscreen-annotated.png)
