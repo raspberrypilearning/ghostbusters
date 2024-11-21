@@ -1,30 +1,55 @@
-## Côd i ddal ysbrydion
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Rwyt ti am wneud y gêm yn fwy diddorol trwy gadw sgôr!
 
 \--- task \---
 
-Alli di wneud i'r ysbryd ddiflannu pan mae'n cael ei ddal? Fe ddylai'r chwareuwr allu glicio'r ysbrydion i'w dal nhw.
+Creu newidyn newydd o'r enw `sgôr`{:class="block3variables"}.
 
-Os wyt ti'n profi dy gêm ac mae'n anodd dal yr ysbrydion, mae modd chwarae'r gêm ar ffurf sgrin lawn trwy glicio'r botwm yma:
+[[[generic-scratch3-add-variable]]]
 
-![sgrinlun](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Pan mae'n cael ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"}.
+![Sgôr cynyddol](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-pan gaiff y ciplun yma ei glicio
-cuddio
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![corlun-ysbryd](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
