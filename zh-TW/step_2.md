@@ -2,9 +2,13 @@
 
 \--- task \---
 
-新建一個 Scratch 空白專案。
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@
 
 添加一個名為 ghost（幽靈）的角色，還有一個合適的舞台背景。
 
-![截圖](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@
 
 為 ghost 角色編寫程式，讓它在綠旗被點擊時一會兒出現一會兒消失。
 
-\--- hints \--- \--- hint \---
-
-只要`點一下綠旗`{:class="block3events"}，你的幽靈應該會`隱藏`{:class="block3looks"}持續`1 秒`{:class="block3control"}，然後再`顯示`{:class="block3looks"}持續`1 秒`{:class="block3control"}。 它會在畫面上`不斷的`{:class="block3control"}出沒。
-
-\--- /hint \--- \--- hint \---
-
-這裡是你需要的程式積木：
-
-![幽靈角色](images/ghost-sprite.png)
-
-```blocks3
-隱藏
-
-顯示
-
-重複無限次
-end
-
-等待 (1) 秒
-
-等待 (1) 秒
-
-當 @greenflag 被點擊
-```
-
-\--- /hint \--- \--- hint \---
-
-你的程式看起來應該像這樣：
-
-![幽靈角色](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 當 @greenflag 被點擊
@@ -64,14 +39,12 @@ end
 等待 (1) 秒
 end
 ```
-
-\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-測試並儲存你的專案。
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
