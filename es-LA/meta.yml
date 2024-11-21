@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Desafío: más aleatoriedad'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Código para capturar fantasmas
+    title: Add a score
   - 
-    title: 'Desafío: añade un sonido'
-    challenge: true
-  - 
-    title: Añade una puntuación
-  - 
-    title: Agrega un temporizador
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Desafío: más sprites'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: '¿Qué sigue?'
+    title: What can you do now?
