@@ -2,9 +2,13 @@
 
 \--- task \---
 
-Открой новый пустой проект Scratch.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@
 
 Добавь новый спрайт приведение и подходящий фон для Сцены.
 
-![снимок экрана](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@
 
 Добавь код к своему спрайту приведение, чтобы приведение появлялось и исчезало всё время, когда нажат зелёный флаг.
 
-\--- hints \--- \--- hint \---
-
-Когда `зелёный флаг нажат`{:class=”blockevents”}, твоё приведение должно `спрятаться`{:class=”blocklooks”} на `одну секунду`{:class=”blockcontrol”}, а затем `показаться`{:class=”blocklooks”} на `одну секунду`{:class=”blockcontrol”}<0>. Это нужно выполнять `всегда`{:class=”blockcontrol"}.
-
-\--- /hint \--- \--- hint \---
-
-Вот блоки кода, которые тебе понадобятся:
-
-![спрайт-приведение](images/ghost-sprite.png)
-
-```blocks3
-спрятаться
-
-показаться
-
-повторять всегда
-end
-
-ждать (1) секунд
-
-ждать (1) секунд
-
-когда щёлкнут по зелёному флагу
-```
-
-\--- /hint \--- \--- hint \---
-
-Вот как должен выглядеть твой код:
-
-![спрайт-приведение](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
@@ -65,13 +40,11 @@ end
 end
 ```
 
-\--- /hint \--- \--- /hints \---
-
 \--- /task \---
 
 \--- task \---
 
-Протестируй и сохрани свой проект.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
