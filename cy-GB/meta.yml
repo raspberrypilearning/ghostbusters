@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Her: mwy o bethau ar hap'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Côd i ddal ysbrydion
+    title: Add a score
   - 
-    title: 'Her: ychwanegu sain'
-    challenge: true
-  - 
-    title: Ychwanegu sgôr
-  - 
-    title: Ychwanegu Amserydd
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Her: mwy o gorluniau'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: Beth nesaf?
+    title: What can you do now?
