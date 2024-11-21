@@ -1,88 +1,24 @@
-## 添加倒计时
+## What can you do now?
 
-现在你需要添加一个倒计时器，使玩家在只有10秒钟的时间内抓住尽可能多的幽灵。
+Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
-\--- task \---
+Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
-新建一个叫“time”的变量。
+\--- no-print \---
 
-\--- /task \---
+Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-你能在舞台上添加一个倒计时器以只给玩家10秒的时间来抓幽灵吗？
+\--- /no-print \---
 
-你的倒计时器应当：
+\--- print-only \---
 
-+ 初始设置10秒
-+ 按秒倒计时
+![complete project](images/chatbot-preview.png)
 
-当倒计时器为0时游戏结束。
+\--- /print-only \---
 
-\--- hint \--- \--- hint \---
-
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need to use:
-
-![幽灵角色](images/ghost-backdrop.png)
-
-```blocks3
-停止 [all]
-
-< [ ] = [ ] >
-
-将 [time v] 设为 [10]
-
-将 [time v] 增加 (-1)
-
-(time)
-
-等待 (1) 秒
-
-重复执行直到 < >
-结束
-
-当绿旗被点击
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Here is the code you should add to create a timer:
-
-![背景图标](images/ghost-backdrop.png)
-
-```blocks3
-当绿旗被点击
-将 [time v] 设为 [10]
-重复执行直到 < (time) = [0] >
-等待 (1) 秒
-将 [time v] 增加 (-1)
-结束
-停止 [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Ask a friend to test your game. How many points can they score?
-
-\--- /task \---
-
-If your game is too easy, you can:
-
-+ 给玩家更少的时间
-+ 减少幽灵的出现频率
-+ 让幽灵变小点
-
-\--- task \---
-
-Change and test your game a few times until you're happy with its level of difficulty.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
