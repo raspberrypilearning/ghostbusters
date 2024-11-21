@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'चुनौती: अधिक अनियमितता'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: भूत पकड़ने के लिए कोड
+    title: Add a score
   - 
-    title: 'चुनौती: ध्वनि जोड़ें'
-    challenge: true
-  - 
-    title: स्कोर जोड़ें
-  - 
-    title: घड़ी जोड़ें
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'चुनौती: और स्प्राइटस'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: आगे क्या?
+    title: What can you do now?
