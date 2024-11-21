@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: '도전 과제: 더 랜덤하게'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: 점수 추가하기
+    title: Add a score
   - 
-    title: '타이머 추가하기'
-    challenge: true
-  - 
-    title: '도전 과제: 더 많은 목표물'
-  - 
-    title: 타이머 추가하기
+    title: Add a timer
     completion:
       - internal
   - 
-    title: '도전과제: 여러 스프라이트 만들기'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: What next?
+    title: What can you do now?
