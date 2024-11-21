@@ -1,88 +1,24 @@
-## Bir zamanlayıcı ekle
+## What can you do now?
 
-Şimdi bir zamanlayıcı ekleyeceksiniz, böylece oyuncu mümkün olduğu kadar çok hayalet yakalamak için sadece 10 saniyeye sahip olacak.
+Hayalet Avcıları projesini tamamladığınız için tebrikler! Biraz daha zor bir şey denemek ister misiniz?
 
-\--- task \---
+Bir de [Sohbetçi](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) projesini deneyin.
 
-'Süre' adlı bir değişken oluşturun.
+\--- no-print \---
 
-\--- /task \---
+Yeşil bayrağa tıklayın ve ardından bir konuşma başlatmak için sohbetçinin üstüne tıklayın. Sohbetçi bir soru sorduğunda, cevabınızı Sahne Alanı'nın altındaki kutuya yazın ve ardından sohbetçinin yanıtını görmek için sağdaki mavi işarete tıklayın (veya `Enter` tuşuna basın).
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Sahne Alanı'nıza, oyuncunun hayaletleri yakalayabilmesi için sadece 10 saniye süre tanındığı bir zamanlayıcı ekleyebilir misiniz?
+\--- /no-print \---
 
-Zamanlayıcınız şunları yapmalı:
+\--- print-only \---
 
-+ 10 saniyede başlamalı
-+ Her saniyede 1 azalmalı
+![tamamlanmış proje](images/chatbot-preview.png)
 
-Zamanlayıcı 0 olduğunda oyun durmalı.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`Yeşil bayrak tıklandığında`{:class="block3events"}, `puan`{:class="block3variables"} değişkeninizin `10 'a ayarlanması`{:class="block3variables"} gerekir. Daha sonra bu değişken `0'a ulaşıncaya dek`{:class="block3control"} `-1 azalmalıdır`{:class="block3variables"}.
-
-\--- /hint \--- \--- hint \---
-
-İhtiyacınız olan kod blokları:
-
-![hayalet-kuklası](images/ghost-backdrop.png)
-
-```blocks3
-durdur [all]
-
-<[ ] = [ ]>
-
-[süre] i [10] yap
-
-[süre] i (-1) kadar değiştir
-
-(süre)
-
-(1) saniye bekle
-
-<> olana kadar tekrarla
-end
-
-yeşil bayrak tıklandığında
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Zamanlayıcı oluşturmak için eklemeniz gereken kod:
-
-![zemin simgesi](images/ghost-backdrop.png)
-
-```blocks3
-yeşil bayrak tıklandığında
-[süre] i [10] yap
-<(süre) = [0]> olana kadar tekrarla 
- (1) saniye bekle
- [süre] i (-1) kadar değiştir
-end
-durdur [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Bir arkadaşınızdan oyununuzu denemesini rica edin. Kaç puan alabilirler?
-
-\--- /task \---
-
-Eğer oyunun çok kolaysa, bunları yapabilirsin:
-
-+ Oyuncuya daha az zaman ver
-+ Hayaletleri daha seyrek görünür yap
-+ Hayaletleri daha küçük yap
-
-\--- task \---
-
-Zorluk seviyesinden memnun kalana kadar oyununu birkaç kez değiştir ve test et.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
