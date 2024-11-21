@@ -1,30 +1,55 @@
-## Код для ловлі привидів
+## Add a score
 
-А зараз ти додаси код до своєї гри так, щоб гравець міг ловити привидів!
+А зараз ти зробиш свою гру ще цікавішою, ведучи рахунок!
 
 \--- task \---
 
-Чи можеш ти зробити так, щоб привид зникав, коли його спіймають? Гравець повинен мати можливість клікати по привидам, щоб їх ловити.
+Створи нову змінну з назвою `рахунок`{:class="block3variables"}.
 
-Якщо при тестуванні своєї гри ти виявиш, що ловити привидів складно, ти можеш спробувати пограти в повноекранному режимі, натиснувши цю кнопку:
+[[[generic-scratch3-add-variable]]]
 
-![знімок екрану](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Коли натиснуто`{:class="block3events"} на спрайт твого привида він має `сховатися`{:class="block3looks"}.
+![Збільшення рахунку](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Твій код має виглядати так:
+Add this code to your ghost sprite:
 
 ![спрайт привида](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
+When this sprite clicked
 hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![спрайт привида](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
