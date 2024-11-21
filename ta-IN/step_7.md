@@ -1,65 +1,58 @@
-## மதிப்பெண் சேர்க்கவும்
+## Challenge
 
-இப்போது நீங்கள் மதிப்பெண்ணை வைத்து உங்கள் விளையாட்டை மிகவும் சுவாரஸ்யமாக்கப் போகிறீர்கள்!
+Improve your project with these challenges!
 
 \--- task \---
 
-`Score`{:class="block3variables"}(மதிப்பெண்) எனப்படும் ஒரு புதிய மாறியை (variable) உருவாக்கவும்.
+உங்கள் விளையாட்டு மிகவும் எளிதானது என்றால், நீங்கள் பின்வருமாறு செய்யலாம்:
 
-[[[generic-scratch3-add-variable]]]
++ வீரருக்கு குறைந்த நேரம் கொடுங்கள்
++ பேய்கள் அடிக்கடி தோன்றுவதைக் குறையுங்கள்
++ பேய்களை சிறியதாக்குங்கள்
 
 \--- /task \---
 
 \--- task \---
 
-விளையாடுபவரின் மதிப்பெண்ணை உங்களால் கண்காணிக்க முடியுமா? விளையாடுபவர் பேயைப் பிடிக்க கிளிக் செய்யும்போதெல்லாம், மதிப்பெண் புள்ளிகளைப் பெற வேண்டும்.
+உங்கள் விளையாட்டுக்கு பிற sprite-களை சேர்க்க முடியுமா?
 
-ஒவ்வொரு முறை விளையாடுபவர் ஒரு பேயைக் கிளிக் செய்யும்போதும், அவரின் மதிப்பெண் அதிகரிக்க வேண்டும்.
+![திரைப்பிடிப்பு](images/ghost-final.png)
 
-![அதிகரிக்கும் மதிப்பெண்](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-பச்சைக் கொடியைக் கிளிக் செய்யும் போது(`When the green flag is clicked`{:class="block3events"}), உங்கள் `score`{:class="block3variables"} மாறி, 0-ஆக அமைக்கப்பட வேண்டும்(`set to 0`{:class="block3variables"}). இந்த குறியீட்டைச் சேர்க்க மேடை தான் சிறந்த இடம்.
+title: Extra Sprites
 
-பேய் sprite-ஐக் கிளிக் செய்யும் போது(`When the ghost sprite is clicked`{:class="block3events"}), `score`{:class="block3variables"} மாறி, 1-ஆக மாற்றி அமைக்கப்பட வேண்டும்(`changed by 1`{:class="block3variables"}).
+* * *
 
-\--- /hint \--- \--- hint \---
+நீங்கள் சேர்க்க விரும்பும் ஒவ்வொரு sprite-களுக்கும் சில விஷயங்களைப் பற்றி சிந்திக்க வேண்டும்:
 
-உங்களுக்கு தேவையான குறியீட்டு தொகுதிகள் இங்கே:
++ Sprite எவ்வளவு பெரியதாக இருக்க வேண்டும்?
++ இது பேய் sprite-ஐ விட அடிக்கடி தோன்ற வேண்டுமா அல்லது குறைவாக தோன்ற வேண்டுமா?
++ பிடிபடும்போது அது பார்ப்பதற்கு எப்படி இருக்க வேண்டும் / எவ்வாறு ஒலிக்க வேண்டும்?
++ Sprite -ஐப் பிடித்தால், விளையாடுபவர் எத்தனை புள்ளிகளை வெல்வார் (அல்லது இழப்பார்)?
 
-![பின்னணி icon](images/ghost-backdrop.png)
+உங்களுக்கு உதவி தேவைப்பட்டால், முந்தைய படிகளில் உள்ள வழிமுறைகளுக்கு நீங்கள் திரும்பிச் சென்று பார்க்கலாம் அல்லது நண்பரிடம் கேட்கலாம்!
 
-```blocks3
-set [score v] to (0)
+\--- /collapse \---
 
-when flag clicked
-```
+\--- /task \---
 
-![பேய்-sprite](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-change [score v] by (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![பின்னணி icon](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![பேய்-sprite](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-When this sprite clicked
-hide
+\--- task \---
 
-+ change [score v] by (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
