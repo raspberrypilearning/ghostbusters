@@ -1,5 +1,18 @@
-## Izziv: več naključja
+## Code for catching ghosts
 
-Ali bi lahko dodal figuri duhca kodo, ki bi duhu sporočila, da skrit `počaka`{: class = "block3control"} naključno dolgo časa?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Ali lahko uporabiš blok `nastavi velikost na`{: class = "block3looks"}, da bo tvoj duh naključno velik ali majhen vsakič, ko se bo pojavil?
+\--- task \---
+
+![figura-duhca](images/ghost-sprite.png)
+
+```blocks3
+ko kliknemo na to figuro
+skrij
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![posnetek zaslona](images/ghost-fullscreen-annotated.png)
