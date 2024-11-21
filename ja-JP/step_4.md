@@ -1,5 +1,18 @@
-## チャレンジ: もっとランダムに
+## Code for catching ghosts
 
-おばけのスプライトにコードを追加して、おばけがかくれている時にランダムな時間`待たせる`{:class="block3control"}ことはできますか？
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-`大きさを　%にする`{:class=”block3looks”}ブロックを使って、おばけが出てくるたびに大きさをランダムにできますか？
+\--- task \---
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![スクリーンショット](images/ghost-fullscreen-annotated.png)
