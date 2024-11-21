@@ -1,5 +1,18 @@
-## 挑戰：更多隨機性
+## Code for catching ghosts
 
-你可以讓幽靈在消失後`等待`{:class="block3control"}隨機一段時間再出現嗎？
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-你有辦法用`尺寸設為`{:class="block3looks"}積木來讓幽靈在出現時忽大忽小的嗎？
+\--- task \---
+
+![幽靈角色](images/ghost-sprite.png)
+
+```blocks3
+當角色被點擊
+隱藏
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![截圖](images/ghost-fullscreen-annotated.png)
