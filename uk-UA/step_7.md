@@ -1,65 +1,58 @@
-## Додай рахунок
+## Challenge
 
-А зараз ти зробиш свою гру ще цікавішою, ведучи рахунок!
+Improve your project with these challenges!
 
 \--- task \---
 
-Створи нову змінну з назвою `рахунок`{:class="block3variables"}.
+Якщо гра занадто проста, ти можеш:
 
-[[[generic-scratch3-add-variable]]]
++ Дати гравцю менше часу
++ Зробити, щоб привиди з’являлися рідше
++ Зменшити розмір привидів
 
 \--- /task \---
 
 \--- task \---
 
-Чи зможеш ти вести рахунок гравця? Гравці повинні отримувати очки кожного разу, коли ловлять привида.
+Чи можеш ти додати інші спрайти до своєї гри?
 
-Щоразу, коли гравець клікає по привиду, кількість очок гравця повинна зростати.
+![знімок екрану](images/ghost-final.png)
 
-![Збільшення рахунку](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Коли зелений прапор натиснуто`{:class="block3events"}, твоя змінна `рахунок`{:class="block3variables"} повинна бути `встановлена в 0`{:class="block3variables"}. Сцена — найкраще місце, щоб додати цей код.
+title: Extra Sprites
 
-`Коли спрайт привида натиснуто`{:class="block3events"}, змінна `рахунок`{:class="block3variables"} повинна бути `змінена на 1`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Для кожного спрайту, якого ти додаєш, подумай про такі речі:
 
-Тобі будуть потрібні наступні блоки коду:
++ Наскільки великим він бає бути?
++ Чи повинен він з'являтися більш або менш часто, ніж спрайт привида?
++ Як він виглядає чи звучить, коли його ловлять?
++ Скільки очок гравець набирає (або втрачає), коли його ловить?
 
-![значок тла](images/ghost-backdrop.png)
+Якщо тобі потрібна допомога, ти можеш перейти до інструкцій з попередніх розділів або попросити друга!
 
-```blocks3
-set [score v] to (0)
+\--- /collapse \---
 
-when flag clicked
-```
+\--- /task \---
 
-![спрайт привида](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-change [score v] by (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![значок тла](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![спрайт привида](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-When this sprite clicked
-hide
+\--- task \---
 
-+ change [score v] by (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
