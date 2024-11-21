@@ -1,5 +1,18 @@
-## Завдання: більше випадковості
+## Code for catching ghosts
 
-Чи можеш ти додати код до спрайту привида так, щоб змусити його `чекати`{:class="block3control"} випадковий час, поки він прихований?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Чи можеш ти використати блок `задати розмір`{:class="block3looks"} так, щоб випадковим чином робити свого привида більшим або меншим кожного разу, коли він з'являється?
+\--- task \---
+
+![спрайт привида](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![знімок екрану](images/ghost-fullscreen-annotated.png)
