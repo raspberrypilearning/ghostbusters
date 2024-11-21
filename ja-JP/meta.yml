@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'チャレンジ: もっとランダムに'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: おばけをつかまえるコード
+    title: Add a score
   - 
-    title: 'チャレンジ: 音を追加する'
-    challenge: true
-  - 
-    title: スコアを追加する
-  - 
-    title: タイマーを追加する
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'チャレンジ: スプライトをふやす'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: 次は何をしましょうか？
+    title: What can you do now?
