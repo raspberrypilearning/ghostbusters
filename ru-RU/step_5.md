@@ -1,30 +1,55 @@
-## Код для ловли приведений
+## Add a score
 
-Сейчас ты добавишь код в свою игру, чтобы игрок ловил приведений!
+Сейчас ты сделаешь свою игру более интересной, сохраняя счёт!
 
 \--- task \---
 
-Можешь ли ты сделат так, чтобы твоё приведение исчезало, когда его поймали? Игрок должен иметь возможность нажимать на приведения, чтобы поймать их.
+Создай новую переменную с именем `счёт`{:class="block3variables"}.
 
-Если ты проверишь свою игру и обнаружишь, что ловить приведения сложно, то ты можешь поиграть в игру в полноэкранном режиме, нажав на эту кнопку:
+[[[generic-scratch3-add-variable]]]
 
-![снимок экрана](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`При нажатии`{:class="block3events"}, твой спрайт приведение должен `скрыться`{:class="block3looks"}.
+![Увеличение счёта](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Твой код должен выглядеть так:
+Add this code to your ghost sprite:
 
 ![спрайт-приведение](images/ghost-sprite.png)
 
 ```blocks3
-когда спрайт нажат
-спрятаться
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![спрайт-приведение](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
