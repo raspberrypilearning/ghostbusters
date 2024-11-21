@@ -1,65 +1,58 @@
-## Dodaj točkovanje
+## Challenge
 
-Svojo igro boš naredil-a bolj zanimivo s štetjem točk!
+Improve your project with these challenges!
 
 \--- task \---
 
-Ustvari novo spremenljivko z imenom `točke`{: class = "block3variables"}.
+Če je tvoja igra preveč enostavna, lahko:
 
-[[[generic-scratch3-add-variable]]]
++ Daš igralcu manj časa
++ Narediš, da se duhovi pojavljajo manj pogosto
++ Zmanjšaš figure duhcev
 
 \--- /task \---
 
 \--- task \---
 
-Ali lahko spremljaš igralčev rezultat? Igralci bi morali osvojiti točke, kadar kliknejo na duhca in ga ujamejo.
+Ali lahko igri dodaš druge figure?
 
-Vsakič, ko igralec klikne na duhca, se njegovo število točk poveča.
+![posnetek zaslona](images/ghost-final.png)
 
-![večanje rezultata](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Ko kliknemo na zastavico`{:class="block3events"}, se mora spremenljivka `točke`{:class="block3variables"} `nastaviti na 0`{:class="block3variables"}. Najbolj primerno mesto za dodajanje te kode je oder.
+title: Extra Sprites
 
-`Ko kliknemo to figuro`{:class="block3events"} se mora spremenljivka `točke`{:class="block3variables"} temu ustrezno `spremeniti za 1`{: class = "block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Za vsako figuro, ki jo želiš dodati, moraš razmisliti o tem:
 
-To so bloki kode, ki jih potrebuješ:
++ Kako velika naj bo?
++ Ali naj se pojavi bolj ali manj pogosto kot figura duhca?
++ Kako izgleda/zveni, ko jo ujamejo?
++ Koliko točk igralec dobi (ali izgubi), ko ulovi figuro?
 
-![ikona ozadja](images/ghost-backdrop.png)
+Če potrebuješ pomoč, se lahko vrneš na prejšnje korake ali vprašaj prijatelja!
 
-```blocks3
-nastavi [točke v] na (0)
+\--- /collapse \---
 
-ko kliknemo na zastavico
-```
+\--- /task \---
 
-![figura-duhca](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-spremeni [točke v] za (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![ikona ozadja](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-ko kliknemo na zastavico
-nastavi [rezultat v] na (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![figura-duhca](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-ko kliknemo na to figuro
-skrij
+\--- task \---
 
-+ spremeni [rezultat v] za (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
