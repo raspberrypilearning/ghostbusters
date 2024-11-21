@@ -4,70 +4,25 @@ Seu fantasma é realmente fácil de pegar no momento já que ele não se move!
 
 \--- task \---
 
-Será que você consegue adicionar código ao seu fantasma assim, em vez de ficar na mesma posição, o fantasma apareça em posições aleatórias no Palco?
-
-\--- hints \---
-
-\--- hint \---
-
-Cada vez que seu fantasma aparecer, ele deverá `ir para`{:class="block3motion"} uma posição aleatória no Palco.
-
-\--- /hint \--- \--- hint \---
-
-Há dois conjuntos de blocos de código que você pode usar aqui. Escolha o conjunto que você preferir.
-
-![ator do fantasma](images/ghost-sprite.png)
-
-Ou adicione este conjunto de blocos ao seu fantasma:
-
-```blocks3
-ir para (posição aleatória v)
-```
-
-Ou adicione este a seu fantasma:
-
-```blocks3
-ir para x: (14) y: (50)
-
-escolher aleatório (1) para (10)
-
-escolher aleatório (1) para (10)
-```
-
-\--- /hint \---
-
-\--- hint \---
-
-Seu código deve ficar assim:
+Add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage:
 
 ![ator do fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando a bandeira é clicada
-para sempre
-ocultar
-espera (1) segundos
-vá para(posição aleatória v)
-mostrar
-espera (1) segundos
-fim
+when flag clicked
+forever
+hide
+wait (1) seconds
++go to (random position v)
+show
+wait (1) seconds
+end
 ```
 
-Ou poderia ser assim:
+\--- /task \---
 
-![ator do fantasma](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-quando a bandeira clicada
-para sempre
-ocultar
-espera (1) segundos
-vá para x: (escolha aleatório (-150) para (150)) y: (escolha aleatório (-150) para (150))
-mostrar
-esperar (1) segundos
-fim
-```
-
-\--- /hint \--- \--- /hints \---
+Test your code. Click the green flag. Your ghost should appear in random places.
 
 \--- /task \---
