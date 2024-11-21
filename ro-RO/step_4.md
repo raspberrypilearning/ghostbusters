@@ -1,5 +1,18 @@
-## Provocare: mai multă randomizare
+## Code for catching ghosts
 
-Poți să adaugi la codul fantomei tale ceva pentru a o face să `aștepte`{:class="block3control"} o perioadă aleatorie cât timp e ascunsă?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Poți să folosești blocul `setează mărimea la`{:class="block3looks"} pentru a face ca fantoma să apară aleatoriu mai mare sau mai mică de fiecare dată când apare?
+\--- task \---
+
+![fantomă](images/ghost-sprite.png)
+
+```blocks3
+când se dă click pe acest personaj
+ascunde
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![captură de ecran](images/ghost-fullscreen-annotated.png)
