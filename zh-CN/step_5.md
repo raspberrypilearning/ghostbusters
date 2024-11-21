@@ -1,30 +1,55 @@
-## 捉幽灵的代码
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+现在你将通过计分功能来使你的游戏更加有趣！
 
 \--- task \---
 
-你可以使你的幽灵在被抓住时消失吗？玩家应该可以通过点击幽灵来抓住它们。
+创建一个新的名为`score`{:class="block3variables"}的变量
 
-如果你的测试你的游戏时发现很难抓住幽灵，你可以按这个按钮在全屏模式下玩游戏：
+[[[generic-scratch3-add-variable]]]
 
-![截图](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hint \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-当你的幽灵`被点击时`:class="block3events"}，它应该`被隐藏起来`:class="block3events"}。
+![增加分数](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![幽灵角色](images/ghost-sprite.png)
 
 ```blocks3
-当角色被点击
-隐藏
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![幽灵角色](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
