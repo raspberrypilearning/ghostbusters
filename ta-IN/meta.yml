@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'சவால்: அதிக சீரற்ற தன்மை'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: பேய்களைப் பிடிப்பதற்கான குறியீடு
+    title: Add a score
   - 
-    title: 'சவால்: ஒலி சேர்க்கவும்'
-    challenge: true
-  - 
-    title: மதிப்பெண் சேர்க்கவும்
-  - 
-    title: ஒரு நேரங்காட்டியைச் சேர்க்கவும்
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'சவால்: அதிக sprites'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: அடுத்து என்ன?
+    title: What can you do now?
