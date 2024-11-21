@@ -1,30 +1,55 @@
-## Cod pentru prinderea fantomelor
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Acum, vei face jocul tău mai interesant ținând scorul!
 
 \--- task \---
 
-Poți să faci ca fantoma ta să dispară când a fost prinsă? Jucătorul ar trebui să dea click pe fantome pentru a le prinde.
+Creează o nouă variabilă numită `scor`{:class="block3variables"}.
 
-Dacă îți testezi jocul și ți se pare că prinderea fantomelor este dificilă, poți juca jocul în ecran complet dând click pe acest buton:
+[[[generic-scratch3-add-variable]]]
 
-![captură de ecran](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Când se dă click pe acest personaj`{:class="block3events"}, fantoma ta ar trebui să se `ascundă`{:class="block3looks"}.
+![Creșterea scorului](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![fantomă](images/ghost-sprite.png)
 
 ```blocks3
-când se dă click pe acest personaj
-ascunde
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![fantomă](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
