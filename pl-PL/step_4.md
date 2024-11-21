@@ -1,5 +1,18 @@
-## Wyzwanie: większa losowość
+## Code for catching ghosts
 
-Czy możesz dodać kod do duszka, aby `czekał`{: klasa = "blok3control"} losowy czas, gdy jest ukryty?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Czy możesz użyć bloku `ustaw rozmiar`{: class = "block3looks"}, aby twój duch był losowo większy lub mniejszy za każdym razem, gdy się pojawi?
+\--- task \---
+
+![duszek ducha](images/ghost-sprite.png)
+
+```blocks3
+kiedy ten duszek kliknięty
+ukryj
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![zrzut ekranu](images/ghost-fullscreen-annotated.png)
