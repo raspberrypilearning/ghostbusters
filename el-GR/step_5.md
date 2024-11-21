@@ -1,30 +1,55 @@
-## Κώδικας για να πιάνεις φαντάσματα
+## Add a score
 
-Τώρα πρόκειται να προσθέσεις κώδικα στο παιχνίδι σου έτσι ώστε ο παίκτης να πιάσει φαντάσματα!
+Τώρα πρόκειται να κάνεις το παιχνίδι σου πιο ενδιαφέρον, διατηρώντας το σκορ!
 
 \--- task --
 
-Μπορείς να κάνεις το φάντασμά σου να εξαφανιστεί όταν το πιάσεις; Ο παίκτης θα πρέπει να μπορεί να κάνει κλικ στα φαντάσματα για να τα πιάσει.
+task \---Δημιούργησε μία νέα μεταβλητή με όνομα `σκορ`{:class="block3variables"}.
 
-Εάν δοκιμάσεις το παιχνίδι σου και βρεις δύσκολο το να πιάσεις τα φαντάσματα, μπορείς να παίξεις το παιχνίδι σε λειτουργία πλήρους οθόνης κάνοντας κλικ σε αυτό το κουμπί:
+[[[generic-scratch3-add-variable]]]
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Όταν στο αντικείμενο γίνει κλικ`{:class=”blockevents”}, το φάντασμά σου πρέπει να `εξαφανίζεται`{:class=”blocklooks"}.
+![Αυξάνοντας τη βαθμολογία](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Ο κώδικάς σου θα πρέπει να μοιάζει κάπως έτσι:
+Add this code to your ghost sprite:
 
 ![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
-όταν γίνει κλικ σε αυτό το αντικείμενο,
-εξαφανίσου
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
