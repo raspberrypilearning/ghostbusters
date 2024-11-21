@@ -1,4 +1,4 @@
-## Вступ
+## What you will make
 
 Ти зробиш гру, де потрібно ловити привидів!
 
@@ -17,40 +17,6 @@
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: Що тобі знадобиться
-
-### Обладнання
-
-- Комп'ютер
-
-### Програмне забезпечення
-
-- Скретч 3 ([онлайн](https://rpf.io/scratchon){:target="_blank"} або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Чого ти навчишся
-
-- Розуміти необхідність пауз між діями в циклах
-- Генерувати випадкові числа в коді на Скретч
-- Додавати змінну для збереження ігрового рахунку в Скретч
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Додаткові примітки для викладачів
-
-\--- no-print \---
-
-Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-\--- /no-print \---
-
-Ви можете знайти [завершений проєкт тут](https://rpf.io/p/en/ghostbusters-get){:target="_ blank"}.
-
-\--- /collapse \---
+- Scratch 3
