@@ -1,30 +1,55 @@
-## 抓鬼的程式
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+現在，我們來記錄分數，讓遊戲變得更加有趣！
 
 \--- task \---
 
-你能在鬼被抓到時，讓鬼消失嗎？（玩家用滑鼠點到鬼就算抓到了）。
+建立一個新的變數，名稱叫`得分`{:class="block3variables"}。
 
-如果你在測試遊戲時，發現很難捉到鬼，可以試著用把畫面變大一點再進行遊戲：
+[[[generic-scratch3-add-variable]]]
 
-![截圖](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-當幽靈`被點擊到`{:class="block3events"}，你的幽靈角色應該`消失`{:class="block3looks"}。
+![增加中的分數](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-你的程式應該會像這樣：
+Add this code to your ghost sprite:
 
 ![幽靈角色](images/ghost-sprite.png)
 
 ```blocks3
-當角色被點擊
-隱藏
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![幽靈角色](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
