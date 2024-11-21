@@ -1,5 +1,18 @@
-## चुनौती: अधिक अनियमितता
+## Code for catching ghosts
 
-क्या आप ऐसा कर सकते हैं कि आपका भूत दिखाई देने से पहले यादृच्छिक समय तक ठहरे या `wait`{:class="block3control"} करे?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-क्या आप हर बार नए आकार का भूत बनाने के लिए `set size`{:class="block3looks"} ब्लॉक का उपयोग कर सकते हैं?
+\--- task \---
+
+![भूत स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![स्क्रीनशॉट](images/ghost-fullscreen-annotated.png)
