@@ -4,70 +4,25 @@ Twój duch jest naprawdę łatwy do złapania, ponieważ się nie porusza!
 
 \--- task \---
 
-Czy możesz dodać kod do swojego ducha, aby zamiast pozostawać w tej samej pozycji, duch pojawiał się w losowych miejscach na scenie?
-
-\--- hints \---
-
-\--- hint \---
-
-Za każdym razem, zanim pojawi się twój duch, powinien `przejść`{: class = "block3motion"} do losowej pozycji na scenie.
-
--- /hint \--- \--- hint \---
-
-Istnieją dwa zestawy bloków kodu, których możesz tutaj użyć. Wybierz zestaw, który preferujesz.
-
-![duszek ducha](images/ghost-sprite.png)
-
-Dodaj ten zestaw bloków do twojego duszka:
-
-```blocks3
-idź do (losowa pozycja v)
-```
-
-Lub dodaj ten do swojego duszka:
-
-```blocks3
-przejdź do x: (14) y: (50)
-
-wybierz losowo (1) do (10)
-
-wybierz losowo (1) do (10)
-```
-
-\--- /hint \---
-
-\--- hint \---
-
-Twój kod może wyglądać tak:
+Add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage:
 
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy flaga kliknięta
-zawsze
-ukryj
-czekaj (1) sekundy
-idź do (losowa pozycja v)
-pokaż
-czekaj (1) sekundy
-koniec
+when flag clicked
+forever
+hide
+wait (1) seconds
++go to (random position v)
+show
+wait (1) seconds
+end
 ```
 
-Lub może wyglądać tak:
+\--- /task \---
 
-![duszek ducha](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-kiedy flaga kliknięta
-zawsze
-ukryj
-czekaj (1) sekundy
-przejdź do x: (wybierz losowo (-150) do (150)) y: (wybierz losowo (-150) do (150))
-pokaż
-czekaj (1) sekund
-koniec
-```
-
-\--- /hint \--- \--- /hints \---
+Test your code. Click the green flag. Your ghost should appear in random places.
 
 \--- /task \---
