@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Wyzwanie: większa losowość'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Kod do łapania duchów
+    title: Add a score
   - 
-    title: 'Wyzwanie: dodaj dźwięk'
-    challenge: true
-  - 
-    title: Dodaj wynik
-  - 
-    title: Dodaj licznik czasu
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Wyzwanie: więcej duszków'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: Co dalej?
+    title: What can you do now?
