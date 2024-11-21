@@ -1,5 +1,18 @@
-## 도전 과제: 더 랜덤하게
+## Code for catching ghosts
 
-유령이 숨어서 기다릴 때 임의의 시간 동안 ` 대기` {: class = "block3control"} 하도록 만들 수 있나요?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-`크기 정하기`{:class=”blocklooks”}블럭을 사용해 유령이 나타날 때마다 임의의 크기로 나타나게 할 수 있나요?
+\--- task \---
+
+![유령 스프라이트](images/ghost-sprite.png)
+
+```blocks3
+이 스프라이트를 클릭했을 때
+숨기기
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![스크린샷](images/ghost-fullscreen-annotated.png)
