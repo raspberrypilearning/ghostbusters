@@ -1,30 +1,55 @@
-## Code voor het vangen van spoken
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Nu ga je je spel interessanter maken door de score bij te houden!
 
 \--- task \----
 
-Kun je het spook laten verdwijnen als deze is gevangen? De speler moet in staat zijn om op spoken te klikken om ze te vangen.
+Maak een nieuwe variabele met de naam `score`{:class="block3variables"}.
 
-Als je je spel test en spoken vangen moeilijk vindt, kun je het spel in volledig scherm modus spelen door op deze knop te klikken:
+[[[generic-scratch3-add-variable]]]
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Wanneer op deze sprite wordt geklikt`{:class="block3events"}, zou het spook moeten `verdwijn`{:class=”block3looks"}-en.
+![Score ophogen](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \----
 
-Je code zou er als volgt uit moeten zien:
+Add this code to your ghost sprite:
 
 ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-verdwijn
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \----
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \----
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![spook-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
