@@ -1,5 +1,18 @@
-## आव्हान: अधिक यादृच्छिकता
+## Code for catching ghosts
 
-भूत लपला असताना काही वेळा यादृच्छिक वेळेची `प्रतीक्षा करण्यासाठी (wait)`{:class = "block3control"}आपण आपल्या भूत स्पिरिटमध्ये कोड जोडू शकता?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-आपण आपल्या भूतला प्रत्येक वेळी दिसते तेव्हा यादृच्छिकपणे मोठे किंवा लहान `सेट आकार (set size)`{:class="block3looks"} ब्लॉक वापरू शकता?
+\--- task \---
+
+![भूत-स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![स्क्रीनशॉट](images/ghost-fullscreen-annotated.png)
