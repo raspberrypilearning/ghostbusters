@@ -1,88 +1,24 @@
-## ಟೈಮರ್ ಸೇರಿಸಿ
+## What can you do now?
 
-ಈಗ ನೀವು ಟೈಮರ್ ಅನ್ನು ಸೇರಿಸಲು ಹೊರಟಿದ್ದೀರಿ ಆದ್ದರಿಂದ ಆಟಗಾರನಿಗೆ ಸಾಧ್ಯವಾದಷ್ಟು ಭೂತಗಳನ್ನು ಹಿಡಿಯಲು ಕೇವಲ ಹತ್ತು ಸೆಕೆಂಡುಗಳು ಮಾತ್ರ ಇರುತ್ತವೆ.
+ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಯೋಜನೆಯನ್ನು ಉತ್ತಮವಾಗಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ! ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಸವಾಲಿನ ಯಾವುದನ್ನಾದರೂ ರಚಿಸಲು ನೀವು ಬಯಸುವಿರಾ?
 
-\--- task \---
+[ಚಾಟ್‌ಬಾಟ್](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) ಯೋಜನೆಯನ್ನು ಪ್ರಯತ್ನಿಸಿ.
 
-'time' ಎಂಬ ಹೊಸ ವೇರಿಯೇಬಲ್ ಅನ್ನು ರಚಿಸಿ.
+\--- no-print \---
 
-\--- /task \---
+ಹಸಿರು ಧ್ವಜದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ, ತದನಂತರ ಸಂಭಾಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು chatbot character ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಚಾಟ್‌ಬಾಟ್ ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿದಾಗ, ನಿಮ್ಮ ಉತ್ತರವನ್ನು ಸ್ಟೇಜ್ ನ ಕೆಳಭಾಗದಲ್ಲಿರುವ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ, ತದನಂತರ ಚಾಟ್‌ಬಾಟ್‌ನ ಉತ್ತರವನ್ನು ನೋಡಲು ಬಲಭಾಗದಲ್ಲಿರುವ ನೀಲಿ ಗುರುತನ್ನು(ಅಥವಾ `Enter`ಒತ್ತಿರಿ) ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-ಭೂತಗಳನ್ನು ಹಿಡಿಯಲು ನಿಮ್ಮ ಆಟಗಾರನಿಗೆ ಕೇವಲ 10 ಸೆಕೆಂಡುಗಳನ್ನು ನೀಡಲು ನಿಮ್ಮ ಸ್ಟೇಜ್ ಗೆ ಟೈಮರ್ ಅನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವೇ?
+\--- /no-print \---
 
-ನಿಮ್ಮ ಟೈಮರ್ ಹೀಗೆ ಮಾಡಬೇಕು:
+\--- print-only \---
 
-+ 10 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಪ್ರಾರಂಭಿಸಬೇಕು
-+ ಪ್ರತಿ ಸೆಕೆಂಡಗೆ ಏಣಿಕೆ ಮಾಡಿ
+![complete project](images/chatbot-preview.png)
 
-ಟೈಮರ್ 0 ಗೆ ಬಂದಾಗ ಆಟವು ನಿಲ್ಲಬೇಕು.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`When the green flag is clicked` {:class="block3events"}, ನಿಮ್ಮ `time`{:class="block3variables"} ವೇರಿಯೇಬಲ್ ಅನ್ನು`set to 10`{:class="block3variables"} ಗೆ ಹೊಂದಿಸಬೇಕು. ನಂತರ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಗೆ `changed by -1`{:class = "block3variables"} `until it reaches 0`{: class = "block3variables"} ಆಗಬೇಕು.
-
-\--- /hint \--- \--- hint \---
-
-ನೀವು ಬಳಸಬೇಕಾದ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
-
-![ghost-sprite](images/ghost-backdrop.png)
-
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time v] to [10]
-
-change [time v] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
-
-\--- /hint \--- \--- hint \---
-
-ಟೈಮರ್ ರಚಿಸಲು ನೀವು ಸೇರಿಸಬೇಕಾದ ಕೋಡ್ ಇಲ್ಲಿದೆ:
-
-![backdrop icon](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-ನಿಮ್ಮ ಆಟವನ್ನು ಪರೀಕ್ಷಿಸಲು ಸ್ನೇಹಿತರನ್ನು ಕೇಳಿ. ಅವರು ಎಷ್ಟು ಅಂಕಗಳನ್ನು ಗಳಿಸಬಹುದು?
-
-\--- /task \---
-
-ನಿಮ್ಮ ಆಟವು ತುಂಬಾ ಸುಲಭವಾಗಿದ್ದರೆ, ನೀವು ಹೀಗೆ ಮಾಡಬಹುದು:
-
-+ ಆಟಗಾರನಿಗೆ ಕಡಿಮೆ ಸಮಯ ನೀಡಿ
-+ ಭೂತಗಳು ಇನ್ನೂ ಕಡಿಮೆ ಬಾರಿ ಕಾಣುವಂತೆ ಮಾಡಿ
-+ ಭೂತಗಳನ್ನ ಚಿಕ್ಕದಾಗಿಸಿ
-
-\--- task \---
-
-ನಿಮ್ಮ ಆಟದ ಕಷ್ಟದ ಮಟ್ಟವನ್ನು ನಿಮಗೆ ಸಂತೋಷವಾಗುವವರೆಗೆ ಕೆಲವು ಬಾರಿ ಬದಲಾಯಿಸಿ ಮತ್ತು ಪರೀಕ್ಷಿಸಿ.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
