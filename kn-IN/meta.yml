@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
+    title: Add a score
   - 
-    title: 'ಸವಾಲು: ಧ್ವನಿ ಸೇರಿಸಿ'
-    challenge: true
-  - 
-    title: ಅಂಕ ಸೇರಿಸಿ
-  - 
-    title: ಟೈಮರ್(timer) ಸೇರಿಸಿ
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'ಸವಾಲು: ಹೆಚ್ಚು sprite ಗಳು'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: ಮುಂದೆ ಏನು?
+    title: What can you do now?
