@@ -1,88 +1,24 @@
-## घड़ी जोड़ें
+## What can you do now?
 
-अब आप एक घड़ी जोड़ने जा रहे हैं ताकि खिलाड़ी के पास अधिक से अधिक भूतों को पकड़ने के लिए केवल दस सेकंड हो।
+घोस्टबस्टर्स प्रोजेक्ट को पूरा करने के लिए आपको बधाई हो! क्या आप कुछ और चुनौतीपूर्ण बनाना चाहते हैं?
 
-\--- task \---
+[चैटबॉट](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) प्रोजेक्ट पर प्रयास करें!
 
-'time' नामक एक नया वेरिएबल बनाएँ।
+\--- no-print \---
 
-\--- /task \---
+हरे झंडे पर क्लिक करे, और फिट चैटबॉट पर क्लिक करे बातचीत शुरू करने के लिए। जब चैटबॉट आपसे कुछ पूछे, तब अपना जवाब स्टेज के नीचे डिब्बे में लिख दीजिये, और फिर नीले निशान (नहीं तो `एंटर` प्रेस कीजिये) पर क्लिक कीजिये ताकि आप अपने चैटबॉट का जवाब देख सकें।
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-क्या आप अपने खिलाड़ी को भूतों को पकड़ने के लिए केवल 10 सेकंड देने के लिए अपने स्टेज में एक घड़ी जोड़ सकते हैं?
+\--- /no-print \---
 
-आपकी घड़ी को चाहिए कि:
+\--- print-only \---
 
-+ 10 सेकंड से शुरू करें
-+ हर सेकंड को गिने
+![पूरा प्रोजेक्ट](images/chatbot-preview.png)
 
-घड़ी के 0 पर पहुंचने पर खेल बंद हो जाना चाहिए।
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-जब हरा झंडा क्लिक किया गया हो `When the green flag is clicked`{:class="block3events"}, तो आपका `time`{:class="block3variables} वेरिएबल `set to 10`{:class="block3variables"} होना चाहिए। फिर इसे हर सेकंड `change by -1`{:class="block3variables"} हो जाना चाहिए जब तक यह 0 तक नहीं पहुंचे `until it reaches 0`{:class="block3control"}।
-
-\--- /hint \--- \--- hint \---
-
-आपको इन कोड ब्लॉक्स की ज़रुरत पड़ेगी:
-
-![भूत स्प्राइट](images/ghost-backdrop.png)
-
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time v] to [10]
-
-change [time v] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
-
-\--- /hint \--- \--- hint \---
-
-यहाँ वह कोड है जिसे आपको घड़ी बनाने के लिए जोड़ना चाहिए:
-
-![बैकड्रॉप आइकन](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-अपने गेम को आज़माने के लिए किसी मित्र से कहें। वे कितने पॉइंट्स हासिल कर पाते हैं?
-
-\--- /task \---
-
-यदि आपका खेल बहुत आसान है, तो आप यह कर सकते हैं:
-
-+ खिलाड़ी को कम समय दें सकते है
-+ भूतों को कम बार प्रकट कर सकते हैं
-+ भूतों को छोटा बना सकते है
-
-\--- task \---
-
-अपने गेम को तब तक बदलें और परखें जब तक कि आप इसके कठिनाई स्तर से खुश न हों।
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
