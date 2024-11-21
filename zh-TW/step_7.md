@@ -1,65 +1,58 @@
-## 記錄得分
+## Challenge
 
-現在，我們來記錄分數，讓遊戲變得更加有趣！
+Improve your project with these challenges!
 
 \--- task \---
 
-建立一個新的變數，名稱叫`得分`{:class="block3variables"}。
+如果你覺得遊戲太簡單了，你可以：
 
-[[[generic-scratch3-add-variable]]]
++ 給玩家更少的時間
++ 讓鬼出現的頻率降低
++ 把鬼變小一點
 
 \--- /task \---
 
 \--- task \---
 
-你可以記錄玩家的分數嗎？玩家抓到鬼時應該可以得分。
+你可以添加其它的角色到遊戲中嗎？（更多的孤魂野鬼）
 
-玩家每次點擊幽靈時，得分都應該要增加。
+![截圖](images/ghost-final.png)
 
-![增加中的分數](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`在點擊綠旗後`{:class="block3events"}，遊戲的`得分`{:class="block3variables"}變數應該被`設定成 0`{:class="block3variables"}。 舞台是最適合寫這個程式的地方。
+title: Extra Sprites
 
-`只要一抓到鬼`{:class="block3events"}，玩家的`得分`{:class="block3variables"}變數就會`改變 1`{:class="block3variables"}。
+* * *
 
-\--- /hint \--- \--- hint \---
+在你這麼做前需要考慮一些事：
 
-這裡是你需要的程式積木：
++ 角色要大一點還是小一點？
++ 它出現的頻率要比幽靈角色多還是少？
++ 它被抓到時會發出什麼聲音或變成什麼樣子？
++ 當玩家抓住它時，會得多少分？還是會扣多少分？
 
-![背景圖示](images/ghost-backdrop.png)
+如果你需要幫助，可以返回前面幾個步驟研究，或者向同學請教！
 
-```blocks3
-變數 [得分 v] 設為 (0)
+\--- /collapse \---
 
-當 @greenflag 被點擊
-```
+\--- /task \---
 
-![幽靈角色](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-變數 [得分 v] 改變 (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![背景圖示](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-當 @greenflag 被點擊
-變數 [得分 v] 設為 (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![幽靈角色](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-當角色被點擊
-隱藏
+\--- task \---
 
-+ 變數 [得分 v] 改變 (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
