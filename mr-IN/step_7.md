@@ -1,65 +1,58 @@
-## एक अंक जोडा
+## Challenge
 
-आता आपण स्कोर राखून आपला गेम अधिक मनोरंजक बनविणार आहात!
+Improve your project with these challenges!
 
 \--- task \---
 
-`score (स्कोर)`{: class= "block3variables"}नावाचे एक नवीन व्हेरिएबल तयार करा.
+आपला खेळ खूप सोपा असल्यास आपण हे करू शकता:
 
-[[[generic-scratch3-add-variable]]]
++ खेळाडू कमी वेळ द्या
++ भूत कमी वारंवार प्रकट करा
++ भूत लहान करा
 
 \--- /task \---
 
 \--- task \---
 
-आपण खेळाडूच्या स्कोअरचा मागोवा घेऊ शकता का? त्यांना पकडण्यासाठी भूतांवर क्लिक केल्यावर खेळाडूंनी गुण मिळविले पाहिजेत.
+आपण आपल्या गेममध्ये इतर स्प्राइट्स जोडू शकता का?
 
-प्रत्येक वेळी जेव्हा खेळाडू भूतला क्लिक करतो तेव्हा त्यांचे गुण वाढू शकतात.
+![स्क्रीनशॉट](images/ghost-final.png)
 
-![वाढणारा गुण](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`जेव्हा हिरवा ध्वज क्लिक केला जाईल (when the green flag is clicked)`{:class="block3events"}, तेव्हा आपला `score (स्कोर)`{:class="block3variables"} व्हेरिएबल `0 वर सेट करावा (set to 0)`. हा कोड जोडण्यासाठी स्टेज हे सर्वोत्तम स्थान आहे.
+title: Extra Sprites
 
-`जेव्हा भूत स्प्राइट क्लिक केले जाते (when the ghost sprite is clicked)`{:class="block3events"}, तेव्हा `score (स्कोर)`{:class="block3variables"} व्हेरिएबल `1 ने बदलला पाहिजे (changed by 1)`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+आपण जोडण्यास इच्छुक असलेल्या प्रत्येक स्प्राइट्ससाठी आपल्याला काही गोष्टींबद्दल विचार करण्याची आवश्यकता आहे:
 
-आपल्याला आवश्यक असलेले कोड ब्लॉक येथे आहेत:
++ स्प्राइट किती मोठे असावे?
++ भूत स्प्राइटपेक्षा जास्त वेळा किंवा कमीतकमी दिसू नये का?
++ जेव्हा पकडले जाते तेव्हा काय दिसते / आवाज दिसते?
++ स्प्राईट पकडण्यासाठी खेळाडू किती गुण जिंकतो (किंवा हरतो)?
 
-![पार्श्वभूमी चिन्ह](images/ghost-backdrop.png)
+आपल्याला मदतीची आवश्यकता असल्यास, आपण मागील चरणांमध्ये दिलेल्या सूचनांवर परत येऊ शकता किंवा एखाद्या मित्राला विचारू शकता!
 
-```blocks3
-set [score v] to (0)
+\--- /collapse \---
 
-when flag clicked
-```
+\--- /task \---
 
-![भूत-स्प्राइट](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-change [score v] by (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![पार्श्वभूमी चिन्ह](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![भूत-स्प्राइट](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-When this sprite clicked
-hide
+\--- task \---
 
-+ change [score v] by (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
