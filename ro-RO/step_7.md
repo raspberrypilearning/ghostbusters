@@ -1,65 +1,58 @@
-## Adaugă un scor
+## Challenge
 
-Acum, vei face jocul tău mai interesant ținând scorul!
+Improve your project with these challenges!
 
 \--- task \---
 
-Creează o nouă variabilă numită `scor`{:class="block3variables"}.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ Micșora timpul de joc
++ Aranja ca fantomele să apară mai rar
++ Micșora fantomele
 
 \--- /task \---
 
 \--- task \---
 
-Poți ține scorul unui jucător? Jucătorii ar trebui să primească puncte când aceștia dau click pe fantome pentru a le prinde.
+Poți să adaugi alte personaje la jocul tău?
 
-De fiecare dată când un jucător dă click pe o fantomă, scorul lui ar trebui să crească.
+![captură de ecran](images/ghost-final.png)
 
-![Creșterea scorului](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Când se dă click pe stegulețul verde`{:class="block3events"}, variabila `scor`{:class="block3variables"} ar trebui să fie `setată la 0`{:class="block3variables"}. Scena este cel mai bun loc pentru acest cod.
+title: Extra Sprites
 
-`Când se dă click pe acest personaj`{:class="block3events"}, variabila `scor`{:class="block3variables"} ar trebui să fie `modificată cu 1`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Trebuie să te gândești la câteva lucruri pentru fiecare personaj pe care vrei să-l adaugi:
 
-Here are the code blocks you need:
++ Cât de mare ar trebui să fie personajul?
++ Ar trebui să apară mai des sau mai rar decât fantomele?
++ Cum arată/sună atunci când este prins?
++ Câte puncte va primi (sau pierde) jucătorul pentru prinderea personajului?
 
-![decor](images/ghost-backdrop.png)
+Dacă ai nevoie de ajutor, poți merge înapoi la instrucțiunile de la pașii anteriori, sau poți întreba un prieten!
 
-```blocks3
-setează [scor v] la (0)
+\--- /collapse \---
 
-când se dă click pe stegulețul verde
-```
+\--- /task \---
 
-![fantomă](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-modifică [scor v] cu (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![decor](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-când se dă click pe stegulețul verde
-setează [scor v] la (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![fantomă](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Când se dă click pe acest personaj
-ascunde
+\--- task \---
 
-+ modifică [scor v] cu (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
