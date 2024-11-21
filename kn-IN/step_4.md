@@ -1,5 +1,18 @@
-## ಸವಾಲು: ಹೆಚ್ಚು ಅಚಾನಕತೆ(randomness)
+## Code for catching ghosts
 
-ಭೂತವನ್ನು random ಸಮಯ ಕಾಯುವಂತೆ `wait`{:class = "block3control"} ಮಾಡಲು ನಿಮ್ಮ ghost sprite ಗೆ ಕೋಡ್ ಸೇರಿಸಬಹುದೇ?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-ನಿಮ್ಮ ಭೂತವು ಅದು ಪ್ರತೀಬಾರಿ ಕಾಣಿಸಿಕೊಂಡಾಗ random ಆಗಿ ದೊಡ್ಡದು ಅಥವಾ ಚಿಕ್ಕದಾಗಿ ಮಾಡಲು `set size`{:class="block3looks"} ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಬಹುದೆ?
+\--- task \---
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![screenshot](images/ghost-fullscreen-annotated.png)
