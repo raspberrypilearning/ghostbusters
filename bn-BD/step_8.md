@@ -1,88 +1,24 @@
-## একটি টাইমার যোগ করুন
+## What can you do now?
 
-এখন আপনি একটি টাইমার যুক্ত করতে যাচ্ছেন যাতে দশ সেকেন্ডে প্লেয়ারটি যতটা সম্ভব ভূতগুলি ধরতে থাকতে পারে।
+সাবাশ! ঘোস্টবাস্টারস প্রকল্পটি সম্পূর্ণ করার জন্যে! আপনি কি আরও কিছু চ্যালেঞ্জিং তৈরি করতে চান?
 
-\--- task \---
+চ্যাটবোট প্রকল্পটি চেষ্টা করে দেখুন [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) ।.
 
-'সময়' নামে একটি নতুন ভেরিয়েবল তৈরি করুন।
+\--- প্রিন্ট করতে লাগবে না \---
 
-\--- task \---
+কথোপকথন শুরু করতে সবুজ পতাকাটিতে ক্লিক করুন এবং তারপরে চ্যাটবোট চরিত্রটিতে ক্লিক করুন।. চ্যাটবোট কোনও প্রশ্ন জিজ্ঞাসা করলে, আপনার উত্তরটি স্টেজের নীচে বাক্সে টাইপ করুন, এবং তারপরে ডানদিকে নীল চিহ্নটিতে (অথবা `Enter`) ক্লিক করুন চ্যাটবটের উত্তর দেখতে |
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-ভূত ধরতে আপনার প্লেয়ার যাতে শুধুমাত্র 10 সেকেন্ড পায় তার জন্য আপনার স্টেজে আপনি কি একটি টাইমার যোগ করতে পারেন?
+\--- /no-print \---
 
-আপনার টাইমার করা উচিত:
+\--- print-only \---
 
-+ 10 সেকেন্ডে শুরু করুন
-+ প্রতি সেকেন্ডে গণনা করুন
+![সমাপ্ত প্রকল্প](images/chatbot-preview.png)
 
-টাইমার 0 এ গেলে খেলা থামানো উচিত।
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-যাখুন সবুজ পতাকাটি ক্লিক করা হবে তখন থেকে টাইম নামক ভেরিয়েবল এক সেকেন্ড করে কমতে থাকবে যতক্ষুন শুন্য না হয়ে যায় | 
-
-\--- /hint \--- \--- hint \---
-
-আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
-
-![ghost-sprite](images/ghost-backdrop.png)
-
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time v] to [10]
-
-change [time v] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
-
-\--- /hint \--- \--- hint \---
-
-টাইমার তৈরি করতে আপনার কোডটি যুক্ত করা উচিত:
-
-![ব্যাকড্রপ আইকন](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- /task \---
-
-আপনার গেমটি পরীক্ষা করতে কোনও বন্ধুকে জিজ্ঞাসা করুন। তারা কত পয়েন্ট স্কোর করতে পারে?
-
-\--- /task \---
-
-যদি আপনার খেলাটি খুব সহজ হয় তবে আপনি এটি করতে পারেন:
-
-+ প্লেয়ারকে কম সময় দিন
-+ ভূতগুলিকে কম দেখাতে দিন
-+ ভূতকে ছোট করুন
-
-\--- /task \---
-
-আপনার গেমটির অসুবিধার মাত্রা নিয়ে আপনি খুশি না হওয়া পর্যন্ত কয়েকবার আপনার গেমটি পরিবর্তন করুন এবং পরীক্ষা করুন।
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
