@@ -2,9 +2,13 @@
 
 \--- task \---
 
-Abra um novo projeto Scratch vazio.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@ Abra um novo projeto Scratch vazio.
 
 Adiciona um novo ator fantasma e um cenário de palco adequado.
 
-![captura de ecrã](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@ Adiciona um novo ator fantasma e um cenário de palco adequado.
 
 Adiciona código ao teu ator fantasma para que ele apareça e desapareça sempre, quando a bandeira verde for clicada.
 
-\--- hints \--- \--- hint \---
-
-Quando a ` bandeira verde for clicada ` {: class = "block3events"}, o teu fantasma deve ` ocultar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"} e, depois, ` mostrar-se ` {: class = "block3looks"} por ` um segundo ` {: class = "block3control"}. É necessário que o fantasma faço isto ` para sempre ` {: class = "block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Estes são os blocos de que necessitas:
-
-![ator fantasma](images/ghost-sprite.png)
-
-```blocks3
-esconde-te
-
-mostra-te
-
-repete para sempre
-end
-
-espera (1) s
-
-espera (1) s
-
-Quando alguém clicar na bandeira verde
-```
-
-\--- /hint \--- \--- hint \---
-
-Este é o aspeto que o teu código deve ter:
-
-![ator fantasma](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -65,13 +40,11 @@ espera (1) s
 end
 ```
 
-\--- /hint \--- \--- /hints \---
-
 \--- /task \---
 
 \--- task \---
 
-Testa e salva o teu código.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
