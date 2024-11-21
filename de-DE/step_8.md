@@ -1,88 +1,24 @@
-## Eine Stoppuhr hinzufügen
+## What can you do now?
 
-Jetzt wirst du eine Stoppuhr hinzufügen, sodass die Spieler nur zehn Sekunden haben, um so viele Geister wie möglich zu fangen.
+Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
-\--- task \---
+Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
-Erstelle eine neue Variable und nenne sie "Zeit".
+\--- no-print \---
 
-\--- /task \---
+Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Kannst du deiner Bühne eine Stoppuhr hinzufügen, um deinem Spieler nur 10 Sekunden Zeit zu geben, um so viele Geister wie möglich zu fangen?
+\--- /no-print \---
 
-Dein Timer sollte:
+\--- print-only \---
 
-+ Bei 10 Sekunden beginnen
-+ Jede Sekunde herunterzählen
+![complete project](images/chatbot-preview.png)
 
-Das Spiel soll aufhören, wenn der Timer auf 0 steht.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need to use:
-
-![Geist-Figur](images/ghost-backdrop.png)
-
-```blocks3
-stoppe [alles]
-
-<[ ] = [ ]>
-
-setze [Zeit v] auf [10]
-
-ändere [Zeit v] um (-1)
-
-(Zeit)
-
-warte (1) Sekunden
-
-wiederhole bis < >
-ende
-
-Wenn die Flagge angeklickt wird
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Here is the code you should add to create a timer:
-
-![Hintergrund-Symbol](images/ghost-backdrop.png)
-
-```blocks3
-Wenn die Flagge angeklickt wird
-setze [Zeit v] auf [10]
-wiederhole bis < (Zeit) = [0] >
-warte (1) Sekunden
-ändere [Zeit v] um (-1)
-ende
-stoppe [alles]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Ask a friend to test your game. How many points can they score?
-
-\--- /task \---
-
-If your game is too easy, you can:
-
-+ Dem Spieler weniger Zeit geben
-+ die Gespenster weniger oft erscheinen lassen
-+ die Gespenster kleiner machen
-
-\--- task \---
-
-Change and test your game a few times until you're happy with its level of difficulty.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
