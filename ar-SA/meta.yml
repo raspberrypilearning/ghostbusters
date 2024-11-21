@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'التحدي: أكثر عشوائية'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: اصطياد الأشباح
+    title: Add a score
   - 
-    title: 'تحدي: إضافة صوت'
-    challenge: true
-  - 
-    title: إضافة نتيجة
-  - 
-    title: اضافة مؤقت
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'تحدي: كائنات اخرى'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: ماهو التالي؟
+    title: What can you do now?
