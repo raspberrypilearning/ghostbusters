@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Meydan okuma: Daha fazla rastgelelik'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Hayaletleri yakalamak için kodlama
+    title: Add a score
   - 
-    title: 'Meydan okuma: Ses ekleme'
-    challenge: true
-  - 
-    title: Bir puan ekle
-  - 
-    title: Bir zamanlayıcı ekle
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Meydan Okuma: Daha fazla kukla'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: Sırada ne var?
+    title: What can you do now?
