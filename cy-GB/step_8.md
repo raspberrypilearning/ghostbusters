@@ -1,88 +1,24 @@
-## Ychwanegu Amserydd
+## What can you do now?
 
-Rwyt ti nawr am ychwanegu amserydd fel mai dim ond deg eiliad sydd gan y chwareuwr i ddal cymaint o ysbrydion ag sy'n bosib.
+Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
-\--- task \---
+Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
-Creu newidyn newydd o'r enw 'amser'.
+\--- no-print \---
 
-\--- /task \---
+Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Alli di ychwanegu amserydd i'r Llwyfan sydd dim ond yn rhoi 10 eiliad i'r chwareuwr ddal ysbrydion?
+\--- /no-print \---
 
-Fe ddylai dy amserydd:
+\--- print-only \---
 
-+ Gychwyn ar 10 eiliad
-+ Gyfrif i lawr bob eiliad
+![complete project](images/chatbot-preview.png)
 
-Fe ddylai’r gêm ddod i ben pan mae’r amserydd yn cyrraedd 0.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need to use:
-
-![corlun-ysbryd](images/ghost-backdrop.png)
-
-```blocks3
-aros [all]
-
-< [ ] = [ ] >
-
-gosod [amser v] i [10]
-
-newid [amser v] gan (-1)
-
-(amser)
-
-aros (1) eiliad
-
-ailadrodd hyd at < >
-end
-
-pan fo'r flag werdd yn cael ei glicio
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Here is the code you should add to create a timer:
-
-![eicon cefnlen](images/ghost-backdrop.png)
-
-```blocks3
-pan fo'r flag werdd yn cael ei glicio
-gosod [amser v] i [10]
-ailadrodd hyd at < (amser) = [0] >
- aros (1) eiliad
- newid [amser v] gan (-1)
-end
-aros [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Ask a friend to test your game. How many points can they score?
-
-\--- /task \---
-
-If your game is too easy, you can:
-
-+ Rhoi llai o amser i’r chwareuwr
-+ Gwneud i’r ysbrydion ymddangos yn llai aml
-+ Gwneud yr ysbrydion yn llai
-
-\--- task \---
-
-Change and test your game a few times until you're happy with its level of difficulty.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
