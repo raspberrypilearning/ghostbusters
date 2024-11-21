@@ -1,30 +1,55 @@
-## A szellemek elfogásának kódja
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Tedd érdekesebbé a játékot az elkapott szellemek számolásával!
 
 \--- task \---
 
-El tudnád tűnteni a szellemed miután elkapták? A játékosnak tudnia kell kattintania a szellemeken, hogy elkaphassa őket.
+Hozz létre egy új változót, amelynek a neve legyen `eredmény`{:class="block3variables"}.
 
-Amikor a játékod teszteled, nehéznek tűnhet elkapni a szellemeket, ilyenkor teljes képernyős nézetre válthatsz erre a gombra kattintva:
+[[[generic-scratch3-add-variable]]]
 
-![képernyőkép](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-A szellem szereplőre `kattintáskor`{:class="block3events"}, a szellemnek el kell `tűnnie`{:class="block3looks"}.
+![Az eredmény növelése](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![szellem-szereplő](images/ghost-sprite.png)
 
 ```blocks3
-ezen szereplőre kattintáskor
-tűnj el
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![szellem-szereplő](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
