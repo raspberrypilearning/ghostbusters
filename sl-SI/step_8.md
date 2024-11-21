@@ -1,88 +1,24 @@
-## Dodaj časovnik
+## What can you do now?
 
-Sedaj boš dodal-a štoparico, tako da bo igralec imel samo deset sekund, v katerih mora ujeti čim več duhov.
+Čestitamo za uspešno zaključen projekt Lovci duhov! Ali bi rad-a ustvaril še kaj malo bolj zahtevnega?
 
-\--- task \---
+Preizkusi projekt [Čvekobot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
-Ustvari novo spremenljivko, imenovano »čas«.
+\--- no-print \---
 
-\--- /task \---
+Klikni na zeleno zastavico in nato klikini na lik Čvekobota, da začneš pogovor. Ko te bo Čvekobot nekaj vprašal, vtipkaj svoj odgovor v polje na dnu odra in nato klikni na modri znak na desni (ali pritisni tipko `enter`), da se bo pojavil Čvekobotov odgovor.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Ali lahko dodaš tvojemu odru časovnik, ki bo igralcu omogočil le 10 sekund, za lovljenje duhov?
+\--- /no-print \---
 
-Tvoj časovnik mora:
+\--- print-only \---
 
-+ Začeti pri 10 sekund
-+ Odštevati po eno skundo
+![dokončan projekt](images/chatbot-preview.png)
 
-Igra se mora ustaviti, ko časovnik doseže 0.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`Ko kliknemo na zastavico`{:class="block3events"}, spremenljivko `čas`{:class="block3variables"} `nastavi na 10`{:class="block3variables"}. Nato `spremeni čas za -1`{:class="block3variables"}, dokler `ne doseže 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-To so bloki kode, ki jih potrebuješ:
-
-![figura-duhca](images/ghost-backdrop.png)
-
-```blocks3
-ustavi [vse]
-
-< [] = [] >
-
-nastavi [čas v] na [10]
-
-spremeni [čas v] za(-1)
-
-(čas)
-
-počakaj (1) sekund
-
-ponavljaj dokler < >
-konec
-
-ko kliknemo na zastavico
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Takšna je koda za dodajanje časovnika:
-
-![ikona ozadja](images/ghost-backdrop.png)
-
-```blocks3
-ko kliknemo na zastavico
-nastavi [čas V] na [10]
-ponavljaj do < (čas) = [0] >
-počakaj (1) sekund
-spremeni [čas V] za (-1)
-konec
-ustavi [vse]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Prosi prijatelja, da preizkusi tvojo igro. Koliko točk lahko doseže?
-
-\--- /task \---
-
-Če je tvoja igra preveč enostavna, lahko:
-
-+ Daš igralcu manj časa
-+ Narediš, da se duhovi pojavljajo manj pogosto
-+ Zmanjšaš figure duhcev
-
-\--- task \---
-
-Spreminjaj in preizkušaj svojo igro, dokler nisi zadovoljen z njeno težavnosto stopnjo.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
