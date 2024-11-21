@@ -1,65 +1,58 @@
-## التحدي: كائنات أخرى
+## Challenge
 
-والان سنجعل من لعبتك أكثر تشويقاً بتسجيل نقاط!
+Improve your project with these challenges!
 
 \--- task \---
 
-إنشاء متغير جديد يدعى`نتيجة` {:class="block3variables"}.
+إذا كانت اللعبة سهلة للغاية، فيمكنك:
 
-[[[generic-scratch3-add-variable]]]
++ منح اللاعب وقتًا أقل
++ اجعل ظهور الأشباح أقل
++ تصغير أحجام الأشباح
 
 \---/task--
 
 \--- task \---
 
-هل تستطيع تتبع نقاط الاعب؟ يجب أن يتمكن اللاعبين من إحراز النقاط عند النقر فوق الاشباح لاصطيادها.
+هل تستطيع إضافة كائنات أخرى الى اللعبة؟
 
-في كل مرة ينقر فيها اللاعب على الشبح، يجب ان تزيد عدد النقاط.
+![لقطة شاشة](images/ghost-final.png)
 
-![زيادة النقاط](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`عند نقر العلم الاخضر`{:class="block3events"} فإن متغير `نتيجة`{:class="block3variables"} يجب أن `يساوي 0`{:class="block3variables"}. المنصة هي أفضل مكان لإضافة هذه التعليمة البرمجية.
+title: Extra Sprites
 
-`عند نقر كائن الشبح`{:class="block3events"} فان متغير `نتيجة`{:class="block3variables"} يجب أن `تتغير بمقدار 1`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+تحتاج أن تفكر في بعض الاشياء عند اضافة كل كائن:
 
-هنا التعليمات البرمجية التي ستحتاج اليها:
++ كم يجب ان يكون حجم الكائن ؟
++ هل ستكون مرّات ظهوره أكثر أم أقل من مرّات ظهور الأشباح؟
++ كيف سيكون مظهره/صوته إذا تم اصطياده؟
++ كم عدد النقاط التي سيحرزها اللاعب (أو يخسرها) عندما يحاول اصطياده؟
 
-![backdrop icon](images/ghost-backdrop.png)
+إذا كنتَ تحتاج إلى مساعدة عند إضافة كائن آخر، فيمكنك استخدام الخطوات السابقة، أو اسأل صديقك!
 
-```blocks3
-اجعل [نتيجة v] مساوياً (0)
+\--- /collapse \---
 
-عند نقر العلم
-```
+\---/task\---
 
-![كائن الشبح](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-غيِّر [score v] بمقدار (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\---/task\---
 
-![أيقونة الخلفية](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-عند نقر العلم
-اجعل [نتيجة v] مساوياً (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![كائن الشبح](images/ghost-sprite.png)
+\---/task\---
 
-```blocks3
-عند نقر هذا الكائن
-اختف
+\--- task \---
 
-+غيّر [نتيجة v] بمقدار (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \---/task\---
