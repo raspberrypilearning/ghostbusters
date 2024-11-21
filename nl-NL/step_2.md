@@ -2,17 +2,21 @@
 
 \--- task \----
 
-Open een nieuw leeg Scratch-project.
-
-[[[generic-scratch3-new-project]]]
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
 \--- /task \---
 
 \--- task \----
 
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
+
+\--- /task \---
+
+\--- task \---
+
 Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
-![schermafdruk](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -20,40 +24,11 @@ Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
 
 \--- /task \---
 
-\--- task \---
+\--- task \----
 
 Voeg code toe aan je spook sprite zodat het spook steeds verschijnt en verdwijnt als op de groene vlag wordt geklikt.
 
-\--- hints \--- \--- hint \---
-
-`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, `verdwijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"} en vervolgens `verschijn`{:class="block3looks"}t je spook gedurende `één seconde`{:class="block3control"}. Het moet in een `herhaal`{:class="block3control"} blok.
-
-\--- /hint \--- \--- hint \---
-
-Dit zijn de codeblokken die je nodig hebt:
-
-![spook-sprite](images/ghost-sprite.png)
-
-```blocks3
-verdwijn
-
-verschijn
-
-herhaal
-end
-
-wacht (1) sec.
-
-wacht (1) sec.
-
-wanneer groene vlag wordt aangeklikt
-```
-
-\--- /hint \--- \--- hint \---
-
-Dit is hoe je code eruit zou moeten zien:
-
-![spook-sprite](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -64,14 +39,12 @@ verschijn
 wacht (1) sec.
 end
 ```
-
-\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \----
 
-Test en sla je project op.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
