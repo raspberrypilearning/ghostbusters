@@ -1,5 +1,18 @@
-## Défi : plus aléatoire
+## Code for catching ghosts
 
-Peux-tu ajouter du code à ton sprite fantôme pour faire `attendre`{:class="block3control"} le fantôme pendant un temps aléatoire pendant qu'il est caché?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Peux-tu utiliser le bloc `mettre à la taille`{:class="block3looks"} pour rendre ton fantôme plus grand ou plus petit au hasard à chaque apparition?
+\--- task \---
+
+![sprite-fantôme](images/ghost-sprite.png)
+
+```blocks3
+lorsque ce sprite est cliqué
+cacher
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![capture d'écran](images/ghost-fullscreen-annotated.png)
