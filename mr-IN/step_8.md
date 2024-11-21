@@ -1,88 +1,24 @@
-## एक टाइमर जोडा
+## What can you do now?
 
-आता आपण एक टाइमर जोडणार आहात जेणेकरून शक्य तितक्या भूतांना पकडण्यासाठी प्लेअरला दहा सेकंद लागतील.
+घोस्टबस्टर प्रकल्प पूर्ण केल्याबद्दल अभिनंद! आपण काहीतरी अधिक आव्हानात्मक तयार करू इच्छिता?
 
-\--- task \---
+[चॅटबॉट](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) प्रकल्प करून पहा.
 
-'time' (वेळ) नामक नवीन व्हेरिएबल तयार करा.
+\--- no-print \---
 
-\--- /task \---
+संभाषण सुरू करण्यासाठी ग्रीन ध्वज क्लिक करा आणि नंतर चॅटबॉट वर्ण वर क्लिक करा. जेव्हा चॅटबॉट एक प्रश्न विचारतो, तेव्हा आपले उत्तर स्टेजच्या तळाशी असलेल्या बॉक्समध्ये टाइप करा आणि नंतर चॅटबॉटचे उत्तर पाहण्यासाठी उजवीकडे निळ्या चिन्हावर क्लिक करा (किंवा `Enter`दाबा).
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-भूत पकडण्यासाठी आपल्या प्लेअरला केवळ 10 सेकंद देण्यासाठी आपण आपल्या स्टेजमध्ये टाइमर जोडू शकता?
+\--- /no-print \---
 
-आपला टाइमर असावा:
+\--- print-only \---
 
-+ 10 सेकंदात प्रारंभ करा
-+ प्रत्येक सेकंदाला मोजा
+![पूर्ण प्रकल्प](images/chatbot-preview.png)
 
-जेव्हा टाइमर 0 वर जाईल तेव्हा खेळ थांबला पाहिजे.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`जेव्हा हिरवा ध्वज वर क्लिक केला जातो (when the green flag is clicked)`{:class="block3events"}, तेव्हा आपला `time (वेळ)`{:class="block3variables"} </code>10 वर सेट केला जावा (set to 10)</0>{:class="block3variables"}. नंतर तो `-1 ने बदलला पाहिजे (change by -1)`{:class="block3variables"} प्रत्येक सेकंड ` जेंव्हापारायणात ते 0 पर्यन्त पोहोचते (until it reaches 0)`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-आपल्याला वापरण्यासाठी आवश्यक असलेले कोड ब्लॉक येथे आहेत:
-
-![भूत-स्प्राइट](images/ghost-backdrop.png)
-
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time v] to [10]
-
-change [time v] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
-
-\--- /hint \--- \--- hint \---
-
-टाइमर तयार करण्यासाठी आपण जोडू कोड येथे आहे:
-
-![पार्श्वभूमी चिन्ह](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-काही मित्रांना आपला खेळ तपासायला सांगा. ते किती गुण मिळवू शकतात?
-
-\--- /task \---
-
-आपला खेळ खूप सोपा असल्यास आपण हे करू शकता:
-
-+ खेळाडू कमी वेळ द्या
-+ भूत कमी वारंवार प्रकट करा
-+ भूत लहान करा
-
-\--- task \---
-
-आपला गेम त्याच्या अडचणीच्या पातळीवर आनंदी होईपर्यंत काही वेळा आपला गेम बदला आणि चाचणी घ्या.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
