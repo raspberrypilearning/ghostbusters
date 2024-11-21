@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Sfida: più casualità'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Codice per catturare fantasmi
+    title: Add a score
   - 
-    title: 'Sfida: Aggiungere un suono'
-    challenge: true
-  - 
-    title: Aggiungere un punteggio
-  - 
-    title: Aggiungere un timer
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Sfida: più sprite'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: E poi?
+    title: What can you do now?
