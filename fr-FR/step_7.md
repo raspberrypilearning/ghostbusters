@@ -1,65 +1,58 @@
-## Ajouter un score
+## Challenge
 
-Maintenant, tu vas rendre ton jeu plus intéressant en gardant le score!
+Improve your project with these challenges!
 
 \--- task \---
 
-Crée une nouvelle variable appelée `score`{:class="block3variables"}.
+Si ton jeu est trop facile, tu peux :
 
-[[[generic-scratch3-add-variable]]]
++ Donner au joueur moins de temps
++ Faire apparaître les fantômes moins souvent
++ Rendre les fantômes plus petits
 
 \--- /task \---
 
 \--- task \---
 
-Peux-tu suivre le score du joueur? Les joueurs doivent marquer des points lorsqu'ils cliquent sur des fantômes pour les attraper.
+Peux-tu ajouter d'autres sprites à ton jeu?
 
-Chaque fois qu'un joueur clique sur un fantôme, son score doit augmenter.
+![capture d'écran](images/ghost-final.png)
 
-![Augmenter le score](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Lorsque le drapeau vert est cliqué`{:class="block3events"}, ta variable `score`{:class="block3variables"} doit être `définit sur 0`{:class="block3variables"}. La scène est le meilleur endroit pour ajouter ce code.
+title: Extra Sprites
 
-`Lorsque le sprite fantôme est cliqué`{:class="block3events"}, la variable `score`{:class="block3variables"} devrait être `incrémentée de 1`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Tu dois penser à certaines choses pour chaque sprite que tu souhaites ajouter:
 
-Voici les blocs dont tu as besoin :
++ Quelle doit être la taille du sprite?
++ Devrait-il apparaître plus ou moins souvent que le sprite fantôme?
++ De quoi a-t-il l'air quand il est attrapé?
++ Combien de points le joueur gagne-t-il (ou perd-il) pour avoir attrapé le sprite?
 
-![icône de l'arrière-plan](images/ghost-backdrop.png)
+Si tu as besoin d'aide, tu peux revenir aux instructions des étapes précédentes ou demander à un ami!
 
-```blocks3
-mettre [score v] à (0)
+\--- /collapse \---
 
-lorsque le drapeau est cliqué
-```
+\--- /task \---
 
-![sprite-fantôme](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-ajouter (1) à [score v]
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![icône de l'arrière-plan](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-lorsque le drapeau est cliqué
-mettre [score v] à (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![sprite-fantôme](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Lorsque ce sprite est cliqué
-cacher
+\--- task \---
 
-+ ajouter (1) à [score v]
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
