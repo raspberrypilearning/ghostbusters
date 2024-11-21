@@ -2,9 +2,13 @@
 
 \--- task \---
 
-ಹೊಸ ಖಾಲಿ Scratch ಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@
 
 ಹೊಸ ghost sprite ಮತ್ತು ಸೂಕ್ತ ಹಂತದ ಹಿನ್ನೆಲೆಯನ್ನು ಸೇರಿಸಿ.
 
-![screenshot](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@
 
 ನಿಮ್ಮ ghost sprite ಗೆ ಕೋಡ್‌ ಸೇರಿಸಿ ಇದರಿಂದ ಹಸಿರು ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಭೂತ ಶಾಶ್ವತವಾಗಿ ಕಾಣಿಸಿಕೊಂಡು ಕಣ್ಮರೆಯಾಗುತ್ತದೆ.
 
-\--- hints \--- \--- hint \---
-
-`ಹಸಿರು ಧ್ವಜವನ್ನು`{:class="block3events"} ಕ್ಲಿಕ್ ಮಾಡಿದ ನಂತರ, ನಿಮ್ಮ ಭೂತವನ್ನು, `ಒಂದು ಸೆಕೆಂಡಿಗೆ`{:class="block3looks"} </code>hide</code>{:class="block3control"} ಮಾಡಿ ತದನಂತರ `ಒಂದು ಸೆಕೆಂಡಿಗೆ`{:class="block3looks"} `ಗೋಚರಿಸಬೇಕು</0>{:class="block3looks"}. ಇದನ್ನು <code>forever`{:class="block3control"} ಮಾಡಬೇಕಾಗಿದೆ.
-
-\--- /hint \--- \--- hint \---
-
-ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
-
-![ghost-sprite](images/ghost-sprite.png)
-
-```blocks3
-hide
-
-show
-
-forever
-end
-
-wait (1) seconds
-
-wait (1) seconds
-
-when flag clicked
-```
-
-\--- /hint \--- \--- hint \---
-
-ನಿಮ್ಮ ಕೋಡ್ ಹೀಗಿರಬೇಕು:
-
-![ghost-sprite](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -64,14 +39,12 @@ show
 wait (1) seconds
 end
 ```
-
-\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು save ಮಾಡಿ.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
