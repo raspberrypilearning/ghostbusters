@@ -1,30 +1,55 @@
-## إضافة نتيجة
+## Add a score
 
-والان ستقوم باضافة تعليمات برمجية الى لعبتك حتى يتمكن اللاعب من اصطياد الاشباح!
+والان سنجعل من لعبتك أكثر تشويقاً بتسجيل نقاط!
 
 \--- task \---
 
-هل تستطيع أن تجعل الشبح يختفي اذا تم اصطياده؟ يجب على اللاعب أن يكون قادراً على النقر على الاشباح ليصطادها.
+إنشاء متغير جديد يدعى`نتيجة` {:class="block3variables"}.
 
-اذا قمت باختبار اللعبة خاصتك ووجدت أن اصطياد الاشباح صعباً، يمكنك أن تلعب اللعبة في وضع الشاشة الكاملة بالنقر فوق هذا الزر:
+[[[generic-scratch3-add-variable]]]
 
-![لقطة الشاشة](images/ghost-fullscreen-annotated.png)
+\---/task\---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`عند نقر الكائن` {:class="block3events"} يجب على كائن الشبح ان `يختفي`{:class="block3looks"}.
+![زيادة النقاط](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي:
+Add this code to your ghost sprite:
 
 ![كائن الشبح](images/ghost-sprite.png)
 
 ```blocks3
-عند نقر هذا الكائن
-اختف
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\---/task\---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\---/task\---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![كائن الشبح](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \---/task\---
