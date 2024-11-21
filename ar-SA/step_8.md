@@ -1,88 +1,24 @@
-## أضف مؤقت
+## What can you do now?
 
-والان ستقوم باضافة مؤقت بحيث لا يتوفر للاعب سوى 10 ثواني لاصطياد أكبر عدد ممكن من الاشباح.
+احسنت صنعاً باكمالك لمشروع صائد الاشباح! هل ترغب في انشاء شيء ما اكثر تحدياً؟
 
-\--- task \---
+جرّب مشروع [روبوت الدردشة](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
-أنشئ متغيرًا جديدًا يُسمى 'الوقت'.
+\--- no-print \---
 
-\--- /task \---
+انقر على العلم الاخضر، ثم انقر على شخصية روبوت الدردشة لبدء المحادثة. عندما يسألك روبوت المحادثة سؤالاً، اكتب اجابتك في المربع الموجود اسفل المنصة، ثم انقر على العلامة الزرقاء في اليمين (او اضغط `Enter`) لترى جواب الروبوت.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-هل تستطيع إضافة مؤقت الى المنصة لتمنح اللاعب 10 ثواني لاصطياد الاشباح؟
+\--- /no-print \---
 
-يجب برمجة الموقِت على النحو التالي:
+\--- print-only \---
 
-+ يبدأ العد من 10 ثوان
-+ يبدأ في العد التنازلي بمقدار ثانية واحدة
+![المشروع كامل](images/chatbot-preview.png)
 
-ستنتهي اللعبة عندما يصل الموقِت إلى 0.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`عند نقر العلم الاخضر`{:class="block3events"} فإن متغير `الوقت`{:class="block3variables"} يجب أن `يساوي 10`{:class="block3variables"}. ثم `يتغير بمقدار -1` {:class="block3variables"} كل ثانية `حتى يصل الى 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-هنا التعليمات البرمجية التي ستحتاج اليها:
-
-![كائن الشبح](images/ghost-backdrop.png)
-
-```blocks3
-أوقف [all]
-
-< [ ] = [ ] >
-
-اجعل [الوقت v] مساوياً [10]
-
-غيّر [الوقت v] بمقدار (-1)
-
-(الوقت)
-
-انتظر (1) ثانية
-
-كرر حتى < >
-انتهاء
-
-عند نقر العلم
-
-```
-
-\--- /hint \--- \--- hint \---
-
-إليك التعليمات البرمجية التي عليك إضافتها لإنشاء مؤقت:
-
-![backdrop icon](images/ghost-backdrop.png)
-
-```blocks3
-عند نقر العلم
-اجعل [الوقت v] مساوياً [10]
-كرر حتى < (الوقت) = [0] >
-انتظر (1) ثانية
-غيّر [الوقت v] بمقدار (-1)
-انتهاء
-أوقف [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\---/task\---
-
-\--- task \---
-
-إسال صديقك لاختبار لعبتك. كم نقطة ممكن أن يسجلوا؟
-
-\---/task\---
-
-إذا كانت اللعبة سهلة للغاية، فيمكنك:
-
-+ منح اللاعب وقتًا أقل
-+ اجعل ظهور الأشباح أقل
-+ تصغير أحجام الأشباح
-
-\--- task \---
-
-غيِّر واختبر لعبتك عدد من المرات حتى تصل إلى مستوى الصعوبة الذي تريده.
-
-\---/task\---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
