@@ -16,13 +16,7 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Challenge: more randomness'
-    challenge: true
-  - 
     title: Code for catching ghosts
-  - 
-    title: 'Challenge: add a sound'
-    challenge: true
   - 
     title: Add a score
   - 
@@ -30,7 +24,9 @@ steps:
     completion:
       - internal
   - 
-    title: 'Challenge: more sprites'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: What next?
+    title: What can you do now?
