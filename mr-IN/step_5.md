@@ -1,30 +1,55 @@
-## भूत पकडण्यासाठी कोड
+## Add a score
 
-आता आपण आपल्या गेममध्ये कोड जोडत आहात जेणेकरून खेळाडू भुते पकडू शकेल!
+आता आपण स्कोर राखून आपला गेम अधिक मनोरंजक बनविणार आहात!
 
 \--- task \---
 
-पकडल्यावर आपण आपला भूत गायब करू शकता का? खेळाडू त्यांना पकडण्यासाठी भूत क्लिक करण्यास सक्षम असावा.
+`score (स्कोर)`{: class= "block3variables"}नावाचे एक नवीन व्हेरिएबल तयार करा.
 
-आपण आपला गेम तपासता आणि भूत पकडणे अवघड असल्यास, आपण या बटणावर क्लिक करून गेमला पूर्ण-स्क्रीन मोडमध्ये प्ले करू शकता:
+[[[generic-scratch3-add-variable]]]
 
-![स्क्रीनशॉट](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`जेव्हा (when this sprite clicked)`{: class = "block3events"} क्लिक केले, तेव्हा आपल्या भूत स्प्राइट `लपवावे (hide)`{: class = "block3looks"}.
+![वाढणारा गुण](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-आपला कोड यासारखा दिसला पाहिजे:
+Add this code to your ghost sprite:
 
 ![भूत-स्प्राइट](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
+When this sprite clicked
 hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![भूत-स्प्राइट](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
