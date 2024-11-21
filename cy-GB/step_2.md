@@ -2,9 +2,13 @@
 
 \--- task \---
 
-Agora brosiect Scratch gwag newydd.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@ Agora brosiect Scratch gwag newydd.
 
 Ychwanega gorlun ysbryd newydd a chefnlen addas i'r Llwyfan.
 
-![sgrinlun](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@ Ychwanega gorlun ysbryd newydd a chefnlen addas i'r Llwyfan.
 
 Ychwanega gôd at dy gorlun ysbryd fel bod yr ysbryd yn ymddangos ac yn diflannu am byth pan fydd y faner werdd yn cael ei glicio.
 
-\--- hints \--- \--- hint \---
-
-Unwaith mae'r `faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy ysbryd `guddio`{:class="block3looks"} am `un eiliad`{:class="block3control"} yna `dangos`{:class="block3looks"} am `un eiliad`{:class="block3control"}. Mae angen iddo wneud hyn `am byth`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need:
-
-![corlun-ysbryd](images/ghost-sprite.png)
-
-```blocks3
-cuddio
-
-dangos
-
-am byth
-end
-
-aros (1) eiliad
-
-aros (1) eiliad
-
-pan fo'r flag werdd yn cael ei glicio
-```
-
-\--- /hint \--- \--- hint \---
-
-This is what your code should look like:
-
-![corlun-ysbryd](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -65,13 +40,11 @@ am byth
 end
 ```
 
-\--- /hint \--- \--- /hints \---
-
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
