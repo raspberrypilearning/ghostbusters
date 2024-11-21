@@ -1,65 +1,58 @@
-## Bir puan ekle
+## Challenge
 
-Şimdi puanınızı kaydederek oyununuzu daha ilginç hale getireceksiniz!
+Improve your project with these challenges!
 
 \--- task \---
 
-`puan` adlı yeni bir değişken oluşturun.
+Eğer oyunun çok kolaysa, bunları yapabilirsin:
 
-[[[generic-scratch3-add-variable]]]
++ Oyuncuya daha az zaman ver
++ Hayaletleri daha seyrek görünür yap
++ Hayaletleri daha küçük yap
 
 \--- /task \---
 
 \--- task \---
 
-Oyuncunuzun puanını takip edebiliyor musunuz? Oyuncular, yakalamak için hayaletlere tıkladıklarında puan kazanmalıdır.
+Oyuna başka kuklalar ekleyebilir misin?
 
-Oyuncu hayalete her tıkladığında, puanları artmalı.
+![ekran görüntüsü](images/ghost-final.png)
 
-![Artan puan](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Yeşil bayrak tıklandığında`{:class="block3events"}, `puan`{:class="block3variables"} değişkeninizin `0 'a ayarlanması`{:class="block3variables"} gerekir. Sahne Alanı bu kodu eklemek için en uygun yer.
+title: Extra Sprites
 
-`Hayalet kuklası tıklandığında`{:class="block3events"} `puan`{:class="block3variables"} değişkeni `1 ile değişmeli`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Eklemek istediğiniz her kukla için şunları düşünmeniz gerekir:
 
-İhtiyacınız olan kod blokları:
++ Kukla ne kadar büyük olmalı?
++ Hayalet kuklasından daha az mı yoksa daha çok mu görünmeli?
++ Yakalandığında nasıl görünüp / ses çıkarmalı?
++ Kuklayı yakaladığında oyuncu kaç puan kazanır (veya kaybeder)?
 
-![arkaplan simgesi](images/ghost-backdrop.png)
+Yardıma ihtiyacınız olursa, önceki adımlardaki talimatlara geri dönebilir veya bir arkadaşınıza sorabilirsiniz!
 
-```blocks3
-[puan] i (0) yap
+\--- /collapse \---
 
-yeşil bayrak tıklandığında
-```
+\--- /task \---
 
-![hayalet-kuklası](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-[puan] i (1) kadar değiştir
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![zemin simgesi](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-yeşil bayrak tıklandığında
-[puan] i (0) yap
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![hayalet-kuklası](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Bu kukla tıklandığında
-gizle
+\--- task \---
 
-[puan] i (1) kadar değiştir
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
