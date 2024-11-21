@@ -1,5 +1,18 @@
-## Πρόκληση: περισσότερη τυχαιότητα
+## Code for catching ghosts
 
-Μπορείς να προσθέσεις κώδικα στο χαρακτήρα φαντάσματος για να κάνεις το φάντασμα `να περιμένει`{:class="block3control"} ένα τυχαίο χρονικό διάστημα ενώ είναι κρυμμένο;
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Μπορείς να χρησιμοποιήσεις το μπλοκ `όρισε το μέγεθος του αντικειμένου`{:class=”blocklooks”} για να έχει το φάντασμα τυχαίο μέγεθος κάθε φορά που εμφανίζεται;
+\--- task \---
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+όταν γίνει κλικ σε αυτό το αντικείμενο,
+εξαφανίσου
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![screenshot](images/ghost-fullscreen-annotated.png)
