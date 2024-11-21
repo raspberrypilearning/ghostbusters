@@ -1,88 +1,24 @@
-## Додай таймер
+## What can you do now?
 
-Тепер ти додаси таймер, щоб гравець мав лише десять секунд для того, щоб зловити якомога більше привидів.
+Молодець, проєкт «Мисливці за привидами» завершено! Хочеш спробувати створити щось трохи складніше?
 
-\--- task \---
+Спробуй проєкт [Чат-бот](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
-Створи нову змінну з назвою "час".
+\--- no-print \---
 
-\--- /task \---
+Натисни на зелений прапорець, а потім на персонажа чат-бота, щоб розпочати розмову. Коли чат-бот ставить запитання, введи свою відповідь у поле в нижній частині Сцени та натисни на синю позначку праворуч (або клавішу `Enter`), щоб побачити його відповідь.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Чи можеш ти додати таймер до своєї сцени, щоб дати гравцеві лише 10 секунд для ловлі привидів?
+\--- /no-print \---
 
-Твій таймер має:
+\--- print-only \---
 
-+ Починатися з 10 секунд
-+ Зменшуватися кожну секунду
+![завершений проєкт](images/chatbot-preview.png)
 
-Гра має зупинитись, коли таймер дійде до 0.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`Коли зелений прапор натиснуто`{:class="block3events"}, твоя змінна `час`{:class="block3variables"} має бути `встановлена в 10`{:class="block3variables"}. Далі її треба `змінювати на -1`{:class="block3variables"} кожну секунду, `доки вона не досягне 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Тобі будуть потрібні наступні блоки коду:
-
-![спрайт привида](images/ghost-backdrop.png)
-
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time v] to [10]
-
-change [time v] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Ось код, який тобі потрібно буде додати для створення таймера:
-
-![значок тла](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Попроси друга протестувати твою гру. Скільки очок він (вона) змогли набрати?
-
-\--- /task \---
-
-Якщо гра занадто проста, ти можеш:
-
-+ Дати гравцю менше часу
-+ Зробити, щоб привиди з’являлися рідше
-+ Зменшити розмір привидів
-
-\--- task \---
-
-Зміни та протестуй свою гру декілька разів, поки не будеш задоволений її рівнем складності.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
