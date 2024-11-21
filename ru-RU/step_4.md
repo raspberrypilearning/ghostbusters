@@ -1,5 +1,18 @@
-## Задача: больше случайностей
+## Code for catching ghosts
 
-Можешь ли ты добавить код к своему спрайту приведение, чтобы приведение `ждало`{:class="block3control"} случайное количество времени, пока оно скрыто?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Можешь ли ты использовать блок `установить размер`{:class="blocklooks"}, чтобы твоё приведение при каждом появлении имело случайный размер?
+\--- task \---
+
+![спрайт-приведение](images/ghost-sprite.png)
+
+```blocks3
+когда спрайт нажат
+спрятаться
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![снимок экрана](images/ghost-fullscreen-annotated.png)
