@@ -1,65 +1,58 @@
-## 점수 추가하기
+## Challenge
 
-이제 점수 기능을 추가하여 게임을 더욱 재미있게 만들 것입니다!
+Improve your project with these challenges!
 
 \--- task \---
 
-먼저, `score`{:class="block3variables"}라는 이름의 새 변수를 추가 해 보세요.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ 플레이 시간을 줄여 보세요.
++ 유령이 나타나는 회수를 줄여 보세요.
++ 유령의 크기를 줄여 보세요.
 
 \--- /task \---
 
 \--- task \---
 
-플레이어의 점수를 기록할 수 있나요? 플레이어는 유령을 잡을 때마다 점수를 얻어야 합니다.
+게임에 다른 스프라이트를 추가할 수 있나요?
 
-플레이어가 유령을 클릭할 때마다 점수가 올라가야 합니다.
+![스크린샷](images/ghost-final.png)
 
-![점수 올리기](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`녹색 깃발이 클릭되면`{:class=”block3events”}, `점수`{:class=”block3variables”} 변수는 `0으로 정하기`{:class=”block3variables"}로 초기화 되어야 합니다.. 무대가 위의 코드를 추가하기 가장 합당한 곳이겠죠.
+title: Extra Sprites
 
--`유령 스프라이트가 클릭되면`{:class=”block3events”}, `점수`{:class=”block3variables”} 변수는 `1만큼 변화하기`{:class=”block3variables"}를 사용하여 값이 변해야 합니다..
+* * *
 
-\--- /hint \--- \--- hint \---
+스프라이트를 추가하려고 할 때 다음과 같은 사항을 고려해야 합니다.
 
-Here are the code blocks you need:
++ 스프라이트는 얼마나 커야합니까?
++ 유령보다 더 자주 나와야 할까요? 덜 나와야 할까요?
++ 잡힐때 어떤 모양이어야 할까요? 어떤 소리를 낼까요?
++ 잡으면 몇 점을 얻거나 (혹은 잃게) 할까요?
 
-![백드롭 아이콘](images/ghost-backdrop.png)
+도움이 필요하면 이전 단계의 지침으로 돌아가 다시 살펴보거나 친구에게 물어보십시오!
 
-```blocks3
-[score v] 를 (0) 로 정하기
+\--- /collapse \---
 
-flag 클릭했을 때
-```
+\--- /task \---
 
-![유령 스프라이트](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-[score v] 를 (1) 만큼 바꾸기
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![백드롭 아이콘](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-flag 클릭했을 때
-[score v] 를 (0) 으로 설정하기
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![유령 스프라이트](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-이 스프라이트를 클릭했을 때
-숨기기
+\--- task \---
 
-+ [score v] 를 (1) 만큼 바꾸기
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
