@@ -1,4 +1,4 @@
-## Giriş
+## What you will make
 
 You are going to make a ghost-catching game!
 
@@ -17,40 +17,6 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: Nelere ihtiyacınız var
-
-### Donanım
-
-- Bir bilgisayar
-
-### Yazılım
-
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Neler öğreneceksiniz
-
-- Döngüler içindeki eylemler arasındaki duraklama gereksinimini anlayın
-- Scratch'te rastgele sayılar üretmek için bu kodu kullanın
-- Scratch'e, oyun puanı saklamak için, bir değişken ekleyin
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Eğitimciler için ek notlar
-
-\--- no-print \---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-\--- /no-print \---
-
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
-\--- /collapse \---
+- Scratch 3
