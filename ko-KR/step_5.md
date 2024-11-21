@@ -1,30 +1,55 @@
-## 유령을 잡아볼까요
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+이제 점수 기능을 추가하여 게임을 더욱 재미있게 만들 것입니다!
 
 \--- task \---
 
-유령이 붙잡 혔을 때 사라지게 할 수 있습니까? 플레이어는 유령을 클릭하여 잡을 수 있어야 합니다.
+먼저, `score`{:class="block3variables"}라는 이름의 새 변수를 추가 해 보세요.
 
-게임을 테스트해보고 유령을 잡는 것이 어렵다면 이 버튼을 클릭하여 전체 화면 모드로 게임을 즐길 수 있습니다:
+[[[generic-scratch3-add-variable]]]
 
-![스크린샷](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`클릭`{:class=”blockevents”}하면, 유령 스프라이트는 `숨기기`{:class=”blocklooks"} 상태가 되어야 합니다..
+![점수 올리기](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![유령 스프라이트](images/ghost-sprite.png)
 
 ```blocks3
-이 스프라이트를 클릭했을 때
-숨기기
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![유령 스프라이트](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
