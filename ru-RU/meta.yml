@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Задача: больше случайности'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Код для ловли приведений
+    title: Add a score
   - 
-    title: 'Задача: добавь звук'
-    challenge: true
-  - 
-    title: Добавление счёта
-  - 
-    title: Добавление таймера
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Задача: больше спрайтов'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: Что дальше?
+    title: What can you do now?
