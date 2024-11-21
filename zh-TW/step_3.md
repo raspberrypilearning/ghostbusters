@@ -4,70 +4,25 @@
 
 \--- task \---
 
-你能不能加些程式，讓幽靈出現在舞台的隨機位置，而不是停在同個地方。
-
-\--- hints \---
-
-\--- hint \---
-
-每次你的幽靈出現前，它會`定位`{:class="block3motion"}到舞台上一個隨機的位置。
-
-\--- /hint \--- \--- hint \---
-
-這裡提供兩種方式，選一個你要用的。
-
-![幽靈角色](images/ghost-sprite.png)
-
-你可以在幽靈角色上使用這個積木：
-
-```blocks3
-定位到 (隨機 v) 位置
-```
-
-或是改成用底下這些積木：
-
-```blocks3
-定位到 x:(0) y:(0)
-
-隨機取數 (1) 到 (10)
-
-隨機取數 (1) 到 (10)
-```
-
-\--- /hint \---
-
-\--- hint \---
-
-你的程式看起來應該會像這樣：
+Add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage:
 
 ![幽靈角色](images/ghost-sprite.png)
 
 ```blocks3
-當 @greenflag 被點擊
-重複無限次
-隱藏
-等待 (1) 秒
-定位到 (隨機 v) 位置
-顯示
-等待 (1) 秒
+when flag clicked
+forever
+hide
+wait (1) seconds
++go to (random position v)
+show
+wait (1) seconds
 end
 ```
 
-或者，程式會像這樣：
+\--- /task \---
 
-![幽靈角色](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-當 @greenflag 被點擊
-重複無限次
-隱藏
-等待 (1) 秒
-定位到 x:(隨機取數 (-150) 到 (150)) y:(隨機取數 (-150) 到 (150))
-顯示
-等待 (1) 秒
-end
-```
-
-\--- /hint \--- \--- /hints \---
+Test your code. Click the green flag. Your ghost should appear in random places.
 
 \--- /task \---
