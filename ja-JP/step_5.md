@@ -1,30 +1,55 @@
-## おばけをつかまえるコード
+## Add a score
 
-ゲームにコードを追加してプレイヤーがおばけをつかまえられるようにしましょう！
+スコアをつけてゲームをもっと面白くしましょう！
 
 \--- task \---
 
-おばけがつかまったらきえるようにできますか？プレイヤーはおばけをクリックしてつかまえることができます。
+`スコア`{:class="block3variables"}という名前の新しい変数 (へんすう) を作りましょう。
 
-ゲームをテストしておばけをつかまえるのがむずかしければ、このボタンをクリックして全画面モードでゲームをプレイできます。
+[[[generic-scratch3-add-variable]]]
 
-![スクリーンショット](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`クリックされたとき`{:class="block3events"}、おばけのスプライトは`隠れる`{:class="block3looks"}必要があります。
+![スコアをふやす](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-コードは次のようになります:
+Add this code to your ghost sprite:
 
 ![おばけのスプライト](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
+When this sprite clicked
 hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
