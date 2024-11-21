@@ -1,65 +1,58 @@
-## スコアを追加する
+## Challenge
 
-スコアをつけてゲームをもっと面白くしましょう！
+Improve your project with these challenges!
 
 \--- task \---
 
-`スコア`{:class="block3variables"}という名前の新しい変数 (へんすう) を作りましょう。
+ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう。
 
-[[[generic-scratch3-add-variable]]]
++ 時間を短くする
++ おばけをあらわれにくくする
++ おばけを小さくする
 
 \--- /task \---
 
 \--- task \---
 
-プレイヤーのスコアをつけることができますか？おばけをクリックしてつかまえると、とくてんできます。
+ゲームに他のスプライトを追加できますか？
 
-プレイヤーがおばけをクリックすると、スコアがふえます。
+![スクリーンショット](images/ghost-final.png)
 
-![スコアをふやす](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`緑の旗が押されたとき`{:class="block3events"}、`スコア`{:class="block3variables"}変数が`0になる`{:class="block3variables"}必要があります。 ステージはこのコードを追加するのに一番いい場所です。
+title: Extra Sprites
 
-`おばけのスプライトが押されたとき`{:class=”block3events”}、`スコア`{:class=”block3variables”}変数が`1ずつ変わる`{:class=”block3variables”}必要があります。
+* * *
 
-\--- /hint \--- \--- hint \---
+追加したいスプライトごとに、考えるべきことがいくつかあります。
 
-必要なコードブロックは次のとおりです。
++ スプライトの大きさはどれくらいですか？
++ おばけのスプライトよりも、よく出てきますか？それともあまり出てきませんか？
++ つかまった時に、見た目はどのように変わりますか？どんな音が鳴りますか？
++ プレイヤーがスプライトをつかまえた時に何点とれますか？または何点うしないますか？
 
-![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
+どうすればいいか分からない場合は、前のステップにもどって説明を見るか、友だちに聞いてみましょう！
 
-```blocks3
-set [score v] to (0)
+\--- /collapse \---
 
-when flag clicked
-```
+\--- /task \---
 
-![おばけのスプライト](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-change [score v] by (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![おばけのスプライト](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-When this sprite clicked
-hide
+\--- task \---
 
-+ change [score v] by (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
