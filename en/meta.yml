@@ -12,15 +12,13 @@ steps:
 - title: Random ghosts
   completion:
   - engaged
-- title: 'Challenge: more randomness'
-  challenge: true
 - title: Code for catching ghosts
-- title: 'Challenge: add a sound'
-  challenge: true
 - title: Add a score
 - title: Add a timer
   completion:
   - internal
-- title: 'Challenge: more sprites'
+- title: Challenge
   challenge: true
-- title: What next?
+  completion:
+  - external
+- title: What can you do now?

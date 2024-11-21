@@ -13,11 +13,13 @@
 --- hints ---
  --- hint ---
 
-`Όταν στο αντικείμενο γίνει κλικ`{:class="block3events"}, το φάντασμά σου πρέπει να `εξαφανίζεται`{:class="block3looks"}.
+`Όταν στο αντικείμενο γίνει κλικ`{:class=”blockevents”}, το φάντασμά σου πρέπει να `εξαφανίζεται`{:class=”blocklooks"}.
 
 --- /hint --- --- hint ---
 
-Ο κώδικας θα πρέπει να μοιάζει κάπως έτσι:![ghost-sprite](images/ghost-sprite.png)
+Ο κώδικάς σου θα πρέπει να μοιάζει κάπως έτσι:
+
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 when this sprite clicked

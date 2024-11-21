@@ -25,7 +25,11 @@
 
 `Όταν πατηθεί η πράσινη σημαία`{:class="blockevents"}, η μεταβλητή σου `σκορ`{:class="block3variables"} πρέπει να `αλλάξει κατά 1`{:class="block3variables"}.
 
---- /hint --- --- hint --- Εδώ είναι τα μπλοκ που θα χρειαστείς:![backdrop icon](images/ghost-backdrop.png)
+--- /hint --- --- hint --- 
+
+Εδώ είναι τα μπλοκ κώδικα που χρειάζεσαι:
+
+![εικονίδιο φόντου](images/ghost-backdrop.png)
 
 ```blocks3
 set [σκορ v] to (0)
@@ -33,20 +37,22 @@ set [σκορ v] to (0)
 when flag clicked
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 change [σκορ v] by (1)
 ```
 
---- /hint --- --- hint --- ![backdrop icon](images/ghost-backdrop.png)
+--- /hint --- --- hint ---
+
+![εικονίδιο φόντου](images/ghost-backdrop.png)
 
 ```blocks3
 when flag clicked
 set [σκορ v] to (0)
 ```
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 When this sprite clicked

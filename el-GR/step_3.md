@@ -17,7 +17,7 @@
 
 Υπάρχουν δύο ομάδες μπλοκ κώδικα που θα μπορούσες να χρησιμοποιήσεις εδώ. Επέλεξε το σετ που προτιμάς.
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 Είτε πρόσθεσε αυτό το σετ των μπλοκ στον χαρακτήρα του φαντάσματός σου:
 
@@ -41,14 +41,14 @@ pick random (1) to (10)
 
 Ο κώδικάς σου θα πρέπει να μοιάζει είτε κάπως έτσι:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
 forever
 hide
 wait (1) seconds
-go to (random position v)
+go to (τυχαία θέση v)
 show
 wait (1) seconds
 end
@@ -56,7 +56,7 @@ end
 
 Είτε θα μπορούσε να μοιάζει κάπως έτσι:
 
-![ghost-sprite](images/ghost-sprite.png)
+![αντικείμενο-φάντασμα](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
