@@ -1,5 +1,18 @@
-## চ্যালেঞ্জ: আরও এলোমেলো
+## Code for catching ghosts
 
-ভুতকে অপেক্ষা করার জন্য আপনি কি নিজের ভুত স্প্রিটে কোড যুক্ত করতে পারেন? ` wait` {: class = "block3control"} এটি লুকিয়ে থাকার সময় একটি এলোমেলো পরিমাণ?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-আপনি কি `set size`{:class = "block3looks"} ব্লকটি ব্যবহার করতে পারেন যাতে আপনার ভূতকে এলোমেলোভাবে বড় বা ছোট করে প্রতিটি সময় প্রদর্শিত হয়?
+\--- /task \---
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+যখন এই স্প্রাইট ক্লিক করুন
+লুকান 
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![স্ক্রিনশট](images/ghost-fullscreen-annotated.png)
