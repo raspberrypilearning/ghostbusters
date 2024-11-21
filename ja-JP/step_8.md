@@ -1,88 +1,24 @@
-## タイマーを追加する
+## What can you do now?
 
-次にタイマーを追加して、プレイヤーが10秒間で出来るだけ多くのおばけをつかまえなければならないようにします。
+ゴーストバスターのプロジェクトの完成 (かんせい) おめでとうございます！ もう少しむずかしいものをやってみませんか？
 
-\--- task \---
+[「チャットボット」](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)プロジェクトをやってみましょう。
 
-'時間'という変数を新しく作成します。
+\--- no-print \---
 
-\--- /task \---
+緑の旗をクリックし、チャットボットのキャラクターをクリックして会話を始めましょう。 チャットボットが質問 (しつもん) をしたら、ステージの下部にあるボックスに答えを入力します。右にある青いマークをクリックすると（または `Enter` をおすと) チャットボットが返事をします。
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-ステージにタイマーを追加して、プレイヤーが10秒間のみおばけをつかまえられるようにできますか？
+\--- /no-print \---
 
-タイマーはこのようにします。
+\--- print-only \---
 
-+ 10秒から開始
-+ 1秒ずつへっていく
+![完成したプロジェクト](images/chatbot-preview.png)
 
-タイマーが0になると、ゲームは終わります。
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`緑の旗が押されたとき`{:class=”block3events”}、`タイム`{:class=”block3variables”}変数が`10になる`{:class=”block3variables”}必要があります。 それが毎秒`-1ずつ変わり`{:class=”block3variables”}、`0になるまで繰(く)り返される`{:class=”block3control"} 必要があります。
-
-\--- /hint \--- \--- hint \---
-
-必要なコードブロックは次のとおりです。
-
-![おばけのスプライト](images/ghost-backdrop.png)
-
-```blocks3
-stop [all]
-
-< [ ] = [ ] >
-
-set [time v] to [10]
-
-change [time v] by (-1)
-
-(time)
-
-wait (1) seconds
-
-repeat until < >
-end
-
-when flag clicked
-
-```
-
-\--- /hint \--- \--- hint \---
-
-タイマーを作るのに必要コードは次のとおりです。
-
-![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
-
-```blocks3
-when flag clicked
-set [time v] to [10]
-repeat until < (time) = [0] >
-wait (1) seconds
-change [time v] by (-1)
-end
-stop [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-友だちにゲームを遊んでもらいましょう。 何点取れましたか？
-
-\--- /task \---
-
-ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう。
-
-+ 時間を短くする
-+ おばけをあらわれにくくする
-+ おばけを小さくする
-
-\--- task \---
-
-まんぞくできるむずかしさになるまで、ゲームを変えてテストしましょう。
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
