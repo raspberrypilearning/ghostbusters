@@ -12,7 +12,7 @@ The game should stop when the timer gets to 0.
 
 --- task ---
 
-Create a new variable called 'time'.
+Create a new variable called `time`{:class="block3variables"}.
 
 --- /task ---
 

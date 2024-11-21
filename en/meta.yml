@@ -17,6 +17,8 @@ steps:
 - title: Add a timer
   completion:
   - internal
-- title: Challenges
+- title: Challenge
   challenge: true
-- title: What next?
+  completion:
+  - external
+- title: What can you do now?

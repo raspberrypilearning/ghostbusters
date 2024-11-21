@@ -1,4 +1,4 @@
-## What next?
+## What can you do now?
 
 Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
@@ -20,3 +20,5 @@ Click on the green flag, and then click on the chatbot character to start a conv
 ![complete project](images/chatbot-preview.png)
 
 --- /print-only ---
+
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!

@@ -1,8 +1,6 @@
-## Introduction
+## What you will make
 
 You are going to make a ghost-catching game!
-
-### What you will make
 
 --- no-print ---
 
@@ -19,20 +17,6 @@ You are going to make a ghost-catching game!
 
 --- /print-only ---
 
-## What you will need
+## You will need
 
-Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-### Downloads
-+ [Offline starter project](https://rpf.io/p/en/ghostbusters-go){:target="_blank"}
-
---- collapse ---
----
-title: Additional notes for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
---- /collapse ---
+- Scratch 3 

@@ -23,13 +23,33 @@ Add this code to your ghost sprite:
 ```blocks3
 When this sprite clicked
 hide
-change [score v] by (1)
++change [score v] by (1)
 ```
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+--- /task ---
+
+--- task ---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 --- /task ---

@@ -1,7 +1,7 @@
-## Challenges
+## Challenge
 Improve your project with these challenges!
 
----- task ---
+--- task ---
 
 If your game is too easy, you can:
 
@@ -11,13 +11,13 @@ If your game is too easy, you can:
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Can you add other sprites to your game?
 
 ![screenshot](images/ghost-final.png)
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -38,19 +38,19 @@ If you need help, you can back through to the instructions in the previous steps
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?  
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
