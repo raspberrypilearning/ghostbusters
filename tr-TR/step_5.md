@@ -1,30 +1,55 @@
-## Hayaletleri yakalamak için kod
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Şimdi puanınızı kaydederek oyununuzu daha ilginç hale getireceksiniz!
 
 \--- task \---
 
-Yakalandığında hayaletini ortadan kaybolacak şekilde ayarlayabilir misin? Oyuncu, onları yakalamak için hayaletleri tıklayabilmelidir.
+`puan` adlı yeni bir değişken oluşturun.
 
-Oyununuzu sınarken hayaletleri yakalamakta zorlanıyorsanız, bu düğmeye tıklayarak oyunu tam ekran modunda oynayabilirsiniz:
+[[[generic-scratch3-add-variable]]]
 
-![ekran görüntüsü](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Tıklandığında`{:class="block3events"} hayalet kuklanız `kaybolmalıdır`{:class="block3looks"}.
+![Artan puan](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Kodunuz şöyle görünmeli:
+Add this code to your ghost sprite:
 
 ![hayalet-kuklası](images/ghost-sprite.png)
 
 ```blocks3
-bu kukla tıklandığında
-gizle
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![hayalet-kuklası](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
