@@ -1,5 +1,18 @@
-## Kihívás: több véletlenszerűség
+## Code for catching ghosts
 
-Tudnál olyan kódot hozzáadni a szellem szereplőhöz, hogy a szellem `várjon`{:class="block3control"} véletlen mennyiségű időt, amíg rejtve van?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Tudnád használni a `méret változzon`{:class="block3looks"} blokkot annak érdekében, hogy a szellemed véletlenszerűen nagyobb vagy kisebb legyen minden alkalommal, amikor megjelenik?
+\--- task \---
+
+![szellem-szereplő](images/ghost-sprite.png)
+
+```blocks3
+ezen szereplőre kattintáskor
+tűnj el
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![képernyőkép](images/ghost-fullscreen-annotated.png)
