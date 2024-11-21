@@ -1,30 +1,55 @@
-## ಭೂತಗಳನ್ನು ಹಿಡಿಯುವ ಕೋಡ್
+## Add a score
 
-ಈಗ ನೀವು ನಿಮ್ಮ ಆಟಕ್ಕೆ ಕೋಡ್ ಸೇರಿಸಲು ಹೊರಟಿದ್ದೀರಿ ಆದ್ದರಿಂದ ಆಟಗಾರನು ಭೂತಗಳನ್ನು ಹಿಡಿಯಬಹುದು!
+ಈಗ ನೀವು ಅಂಕ ಇಟ್ಟುಕೊಂಡು ನಿಮ್ಮ ಆಟವನ್ನು ಹೆಚ್ಚು ಆಸಕ್ತಿಕರಗೊಳಿಸಲಿದ್ದೀರಿ!
 
 \--- task \---
 
-ನಿಮ್ಮ ಭೂತ ಸಿಕ್ಕಿಬಿದ್ದಾಗ ಅದನ್ನು ಕಣ್ಮರೆಯಾಗಿಸಬಹುದೇ? ಆಟಗಾರನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಭೂತವನ್ನು ಹಿಡಿಯಲು ಸಾಧ್ಯವಾಗಬೇಕು.
+`score`{:class = "block3variables"} ಎಂಬ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಚಿಸಿ.
 
-ನಿಮ್ಮ ಆಟವನ್ನು ನೀವು ಪರೀಕ್ಷಿಸಿದಾಗ ಭೂತಗಳನ್ನು ಹಿಡಿಯುವುದು ಕಷ್ಟಕರವೆಂದು ಅನಿಸಿದರೆ, ಈ ಬಟನ್ನನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವುದರ ಮೂಲಕ ನೀವು ಪೂರ್ಣ-ಪರದೆ ಮೋಡ್‌ನಲ್ಲಿ ಆಟವನ್ನು ಆಡಬಹುದು:
+[[[generic-scratch3-add-variable]]]
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`When clicked`{:class="block3events"}, ನಿಮ್ಮ ghost sprite `hide`{:class="block3looks"} ಆಗಬೇಕು.
+![Increasing score](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-ನಿಮ್ಮ ಕೋಡ್ ಈ ರೀತಿ ಕಾಣಿಸಬೇಕು:
+Add this code to your ghost sprite:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
+When this sprite clicked
 hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
