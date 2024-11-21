@@ -4,41 +4,7 @@ Al momento, è facilissimo acchiappare il tuo fantasma, perché non si muove!
 
 \--- task \---
 
-Puoi aggiungere del codice per fare in modo che il tuo fantasma, invece di stare fermo nello stesso punto, compaia sullo schermo in punti a caso?
-
-\--- hints \---
-
-\--- hint \---
-
-Ogni volta prima che il tuo fantasma appare, dovrebbe `andare`{:class="block3motion"} in una posizione casuale sullo schermo.
-
-\--- /hint \--- \--- hint \---
-
-Ci sono due serie di blocchi di codice che puoi usare. Scegli quello che preferisci.
-
-![sprite del fantasma](images/ghost-sprite.png)
-
-Aggiungi questo set di blocchi allo sprite del fantasma:
-
-```blocks3
-raggiungi (random position v)
-```
-
-Oppure aggiungi questo allo sprite:
-
-```blocks3
-go to x: (14) y: (50)
-
-pick random (1) to (10)
-
-pick random (1) to (10)
-```
-
-\--- /hint \---
-
-\--- hint \---
-
-Il tuo codice ora dovrebbe apparire così:
+Add code to your ghost so that, instead of staying in the same position, the ghost appears at random positions on the Stage:
 
 ![sprite del fantasma](images/ghost-sprite.png)
 
@@ -47,27 +13,16 @@ when flag clicked
 forever
 hide
 wait (1) seconds
-go to (random position v)
++go to (random position v)
 show
 wait (1) seconds
 end
 ```
 
-Oppure potrebbe apparire così:
+\--- /task \---
 
-![sprite del fantasma](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-when flag clicked
-forever
-hide
-wait (1) seconds
-go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-show
-wait (1) seconds
-end
-```
-
-\--- /hint \--- \--- /hints \---
+Test your code. Click the green flag. Your ghost should appear in random places.
 
 \--- /task \---
