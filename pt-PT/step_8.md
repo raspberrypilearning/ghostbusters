@@ -1,88 +1,24 @@
-## Adiciona um cronómetro
+## What can you do now?
 
-Agora vais adicionar um cronómetro de formam a que o jogador tenha apenas dez segundos para capturar o maior número possível de fantasmas.
+Parabéns por concluires o projeto Ghostbusters! Queres criar uma coisa um pouco mais desafiante?
 
-\--- task \---
+Experimenta o nosso projeto [ChatBot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects).
 
-Cria uma nova variável chamada 'tempo'.
+\--- no-print \---
 
-\--- /task \---
+Clica na bandeira verde e depois, clica no robot para iniciar uma conversa. Quando o robot fizer uma pergunta, escreve a tua resposta na caixa na parte inferior do Palco e clica no marcador azul à direita (ou pressiona ` Enter `), para veres a resposta do robot.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Consegues adicionar um cronómetro ao teu Palco para dar ao teu jogador apenas 10 segundos para capturar fantasmas?
+\--- /no-print \---
 
-O teu cronómetro deve:
+\--- print-only \---
 
-+ Iniciar com 10 segundos
-+ Contar de forma regressiva todos os segundos
+![projeto concluído](images/chatbot-preview.png)
 
-O jogo deve parar quando o cronómetro chegar a 0.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-` Quando a bandeira verde é clicada ` {: class = "block3events"}, a tua variável ` tempo ` {: class = "block3variables"} deve ser ` alterada para 10 ` {: class = "block3variables"}. Deve então ` mudar em -1 ` {: class = "block3variables"} a cada segundo ` até chegar a 0 ` {: class = "block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need to use:
-
-![ator fantasma](images/ghost-backdrop.png)
-
-```blocks3
-pára [all]
-
-<[ ] = [ ]>
-
-altera [time v] para [10]
-
-adiciona a [time v] o valor (-1)
-
-(time)
-
-espera (1) s
-
-até que < > , repete
-end
-
-Quando alguém clicar na bandeira verde
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Here is the code you should add to create a timer:
-
-![ícone de fundo](images/ghost-backdrop.png)
-
-```blocks3
-quando alguém clicar na bandeira verde
-altera [time v] para [10]
-até que <(time) = [0]>, repete 
- espera (1) s
- adiciona a [time v] o valor (-1)
-end
-pára [all]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Pede a um amigo para testar o teu jogo. Quantos pontos conseguem eles fazer?
-
-\--- /task \---
-
-Se o teu jogo é muito fácil, podes:
-
-+ Dá menos tempo ao jogador
-+ Faz com que os fantasmas apareçam com menos frequência
-+ Faz os fantasmas mais pequenos
-
-\--- task \---
-
-Muda e testa o teu jogo algumas vezes até ficares satisfeito com o nível de dificuldade.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
