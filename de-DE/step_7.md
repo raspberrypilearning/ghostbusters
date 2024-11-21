@@ -1,65 +1,58 @@
-## Eine Punktzahl hinzufügen
+## Challenge
 
-Jetzt wirst du dein Spiel interessanter machen, indem du Punkte sammelst!
+Improve your project with these challenges!
 
 \--- task \---
 
-Erstelle eine neue Variable namens `Punkte`{:class='block3variable'}.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ Dem Spieler weniger Zeit geben
++ die Gespenster weniger oft erscheinen lassen
++ die Gespenster kleiner machen
 
 \--- /task \---
 
 \--- task \---
 
-Kannst du die Punktzahl des Spielers verfolgen? Die Spieler sollten Punkte bekommen, wenn sie auf Geister klicken und sie fangen.
+Kannst du deinem Spiel andere Figuren hinzufügen?
 
-Jedes Mal, wenn ein Spieler auf ein Gespenst klickt, sollte sein Punktestand erhöht werden.
+![Screenshot](images/ghost-final.png)
 
-![Punktestand erhöhen](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Wenn die grüne Flagge angeklickt wird`{:class=”block3events”}, sollte deine `Punkte`{:class=”block3variables”} Variable `auf 0 gesetzt`{:class=”block3variables”} werden. Am Besten fügst Du diesen Code der Bühne hinzu.
+title: Extra Sprites
 
-`Wenn die Geist-Figur angeklickt wird`{:class=”block3events”}, sollte sich der Wert der Variable `Punkte`{:class=”block3variables"} um `1 ändern`{:class=”block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Für jede Figur die du hinzufügen möchtest, musst du über einige Dinge nachdenken:
 
-Here are the code blocks you need:
++ Wie groß soll die Figur sein?
++ Soll sie öfter oder weniger oft erscheinen als der Geist?
++ Wie sieht es aus/hört es sich an wenn sie Gefangen wird?
++ Wie viele Punkte erhält (oder verliert) der Spieler, wenn er sie fängt?
 
-![Hintergrund-Symbol](images/ghost-backdrop.png)
+Falls du Hilfe brauchst, kannst du zurück zu den Anleitungen in den vorherigen Schritten gehen oder einen Freund fragen!
 
-```blocks3
-setze [Punkte v] auf (0)
+\--- /collapse \---
 
-Wenn die Flagge angeklickt wird
-```
+\--- /task \---
 
-![Geist-Figur](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-ändere [Punkte v] um (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![Hintergrund-Symbol](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-Wenn die Flagge angeklickt wird
-setze [Punkte v] auf (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![Geist-Figur](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Wenn diese Figur angeklickt wird
-verstecke dich
+\--- task \---
 
-+ändere [Punkte v] um (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
