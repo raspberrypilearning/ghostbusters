@@ -1,4 +1,4 @@
-## はじめに
+## What you will make
 
 You are going to make a ghost-catching game!
 
@@ -17,40 +17,6 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: 必要なもの
-
-### ハードウェア
-
-- コンピューター
-
-### ソフトウェア
-
-- Scratch 3 ([オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: 学習すること
-
-- ループ内のアクション間の一時停止の必要性を理解する
-- Scratch で乱数 (らんすう) を生成 (せいせい) するコードを使用する
-- Scratch にゲームスコアを保存する変数 (へんすう) を追加する
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: 教育者向けの追加メモ
-
-\--- no-print \---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-\--- /no-print \---
-
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
-\--- /collapse \---
+- Scratch 3
