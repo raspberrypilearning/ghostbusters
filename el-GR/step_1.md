@@ -1,4 +1,4 @@
-## Εισαγωγή
+## What you will make
 
 Πρόκειται να φτιάξεις ένα παιχνίδι για κυνήγι φαντασμάτων!
 
@@ -17,40 +17,6 @@
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: Τι θα χρειαστείς
-
-### Υλικό
-
-- Υπολογιστής
-
-### Λογισμικό
-
-- Scratch 3 (είτε [online](https://rpf.io/scratchon){:target="_blank"} είτε [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Τι θα μάθεις
-
-- Κατανόησε την ανάγκη για παύσεις μεταξύ των ενεργειών εντός των βρόχων
-- Χρησιμοποίησε τον κώδικα για δημιουργήσεις τυχαίους αριθμούς στο Scratch
-- Πρόσθεσε μια μεταβλητή για να αποθηκεύσεις ένα σκορ παιχνιδιού στο Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Πρόσθετες σημειώσεις για εκπαιδευτικούς
-
-\--- no-print \---
-
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/ghostbusters/print)"{:target="_blank"}.
-
-\--- /no-print \---
-
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
-\--- /collapse \---
+- Scratch 3
