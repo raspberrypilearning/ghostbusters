@@ -2,9 +2,13 @@
 
 \--- task \---
 
-Abre un nuevo proyecto vacío de Scratch.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@ Abre un nuevo proyecto vacío de Scratch.
 
 Añade una nueva figura de un fantasma y un fondo de escenario adecuado.
 
-![captura de pantalla](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,35 +28,7 @@ Añade una nueva figura de un fantasma y un fondo de escenario adecuado.
 
 Agrega código a tu fantasma para que siempre aparezca y desaparezca cuando se haga clic en la bandera verde.
 
-\--- hints \--- \--- hint \---
-
-`al hacer clic en la bandera verde`{:class=”blockevents”}, tendrás que hacer `esconder`{:class=”blocklooks”} a tu fantasma, `esperar un segundo`{:class=”blockcontrol”} y después ` mostrar`{:class=”blocklooks”} y `esperar un segundo`{:class=”blockcontrol"}. Tendrá que hacer esto `por siempre`{:class=”blockcontrol"}.
-
-\--- /hint \--- \--- hint \---
-
-Aquí están los bloques de código que necesitas:
-
-![objeto fantasma](images/ghost-sprite.png)
-
-```blocks3
-esconder
-
-mostrar
-
-por siempre
-
-esperar (1) segundos
-
-esperar (1) segundos
-
-al hacer clic en la bandera
-```
-
-\--- /hint \--- \--- hint \---
-
-Así es como debería verse tu código:
-
-![objeto fantasma](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 al hacer clic en la bandera
@@ -62,14 +38,12 @@ esperar (1) segundos
 mostrar
 esperar (1) segundos
 ```
-
-\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Prueba y guarda tu proyecto.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
