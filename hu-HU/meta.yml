@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Kihívás: több véletlenszerűség'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: A szellemek elfogásának kódja
+    title: Add a score
   - 
-    title: 'Kihívás: hang hozzáadása'
-    challenge: true
-  - 
-    title: Adj hozzá egy pontszámot
-  - 
-    title: Időzítő hozzáadása
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Kihívás: többféle szereplő'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: What next?
+    title: What can you do now?
