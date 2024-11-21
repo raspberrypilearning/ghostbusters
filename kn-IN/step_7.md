@@ -1,65 +1,58 @@
-## ಅಂಕ ಸೇರಿಸಿ
+## Challenge
 
-ಈಗ ನೀವು ಅಂಕ ಇಟ್ಟುಕೊಂಡು ನಿಮ್ಮ ಆಟವನ್ನು ಹೆಚ್ಚು ಆಸಕ್ತಿಕರಗೊಳಿಸಲಿದ್ದೀರಿ!
+Improve your project with these challenges!
 
 \--- task \---
 
-`score`{:class = "block3variables"} ಎಂಬ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಚಿಸಿ.
+ನಿಮ್ಮ ಆಟವು ತುಂಬಾ ಸುಲಭವಾಗಿದ್ದರೆ, ನೀವು ಹೀಗೆ ಮಾಡಬಹುದು:
 
-[[[generic-scratch3-add-variable]]]
++ ಆಟಗಾರನಿಗೆ ಕಡಿಮೆ ಸಮಯ ನೀಡಿ
++ ಭೂತಗಳು ಇನ್ನೂ ಕಡಿಮೆ ಬಾರಿ ಕಾಣುವಂತೆ ಮಾಡಿ
++ ಭೂತಗಳನ್ನ ಚಿಕ್ಕದಾಗಿಸಿ
 
 \--- /task \---
 
 \--- task \---
 
-ಆಟಗಾರನ ಅಂಕವನ್ನು ನೀವು ಗಮನಿಸಬಹುದೇ? ಆಟಗಾರರು ಭೂತಗಳನ್ನು ಹಿಡಿಯಲು ಅವುಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಅಂಕಗಳನ್ನು ಗಳಿಸಬೇಕು.
+ನಿಮ್ಮ ಆಟಕ್ಕೆ ಇತರ sprite ಗಳನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವೇ?
 
-ಪ್ರತಿ ಬಾರಿ ಆಟಗಾರನು ಭೂತದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ, ಅವರ ಅಂಕ ಹೆಚ್ಚಾಗಬೇಕು.
+![screenshot](images/ghost-final.png)
 
-![Increasing score](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`When the green flag is clicked<code>{:class="block3events"}, ನಿಮ್ಮ <code>score`{:class="block3variables"} ವೇರಿಯೇಬಲ್ ಅನ್ನು <0>set to 0</code>{:class="block3variables"} ಗೆ ಹೊಂದಿಸಬೇಕು. ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಲು ಸ್ಟೇಜ್ ಉತ್ತಮ ಸ್ಥಳ.
+title: Extra Sprites
 
-`When the ghost sprite is clicked`{:class="block3events"}, `score`{:class="block3variables"} ವೇರಿಯೇಬಲ್ ಅನ್ನು `changed by 1`{:class="block3variables"} ರ ಪಟ್ಟು ಬದಲಾಯಿಸಬೇಕು.
+* * *
 
-\--- /hint \--- \--- hint \---
+ನೀವು ಸೇರಿಸಲು ಬಯಸುವ ಪ್ರತಿ sprite ಗಳಿಗೆ ನೀವು ಈ ಕೆಲವು ವಿಷಯಗಳ ಬಗ್ಗೆ ಯೋಚಿಸಬೇಕು:
 
-ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
++ sprite ಎಷ್ಟು ದೊಡ್ಡದಾಗಿರಬೇಕು?
++ ಇದು ghost sprite ಗಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ ಬಾರಿ ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕೇ?
++ ಸಿಕ್ಕಿಬಿದ್ದಾಗ ಅದು ಹೇಗೆ ಕಾಣುತ್ತದೆ/ಕೇಳಿಸುತ್ತದೆ?
++ sprite ಹಿಡಿಯಲು ಆಟಗಾರನು ಎಷ್ಟು ಅಂಕಗಳನ್ನು ಗೆಲ್ಲುತ್ತಾನೆ (ಅಥವಾ ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ)?
 
-![backdrop icon](images/ghost-backdrop.png)
+ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದಲ್ಲಿ, ಹಿಂದಿನ ಸ್ಟೇಜ್ ಗಳಲ್ಲಿನ ಸೂಚನೆಗಳಿಗೆ ನೀವು ಹಿಂತಿರುಗಿಸಬಹುದು, ಅಥವಾ ಸ್ನೇಹಿತನನ್ನು ಕೇಳಿ!
 
-```blocks3
-set [score v] to (0)
+\--- /collapse \---
 
-when flag clicked
-```
+\--- /task \---
 
-![ghost-sprite](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-change [score v] by (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![backdrop icon](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![ghost-sprite](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-When this sprite clicked
-hide
+\--- task \---
 
-+ change [score v] by (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
