@@ -1,30 +1,55 @@
-## ভূতদের ধরার জন্য কোড
+## Add a score
 
-এখন আপনি আপনার গেমটিতে কোড যুক্ত করতে যাচ্ছেন যাতে প্লেয়ারটি ভূত ধরতে পারে!
+এখন আপনি স্কোর রেখে আপনার খেলাটিকে আরও আকর্ষণীয় করে তুলছেন!
 
 \--- task \---
 
-আপনার ভূত যখন ধরা পড়েছে তখন আপনি কি তাকে অদৃশ্য করতে পারবেন? প্লেয়ারগুলি তাদের দেখার জন্য ভূতকে ক্লিক করতে সক্ষম হওয়া উচিত।
+স্কোর নামে একটি নতুন ভেরিয়েবল তৈরি করুন `score`{:class="block3variables"}
 
-আপনি যদি আপনার গেমটি পরীক্ষা করে দেখেন এবং ভূতদের ধরা খুব অসুবিধে হয় তবে আপনি এই বোতামটি ক্লিক করে ফুল-স্ক্রিন মোডে গেমটি খেলতে পারেন:
+[[[generic-scratch3-add-variable]]]
 
-![স্ক্রিনশট](images/ghost-fullscreen-annotated.png)
+\--- task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`ক্লিক করা হলে`{:class="block3events"}, আপনার ভূতের উচিত `লুকান`:class="block3events"}।.
+![ক্রমবর্ধমান স্কোর](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-আপনার কোডটি দেখতে এমন হওয়া উচিত:
+Add this code to your ghost sprite:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-যখন এই স্প্রাইট ক্লিক করুন
-লুকান 
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
 
-\--- task \---
+\--- /task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- /task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+\--- /task \---
