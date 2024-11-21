@@ -1,88 +1,24 @@
-## Időzítő hozzáadása
+## What can you do now?
 
-Most adj hozzá egy időzítőt, hogy a játékosnak csak 10 másodperce legyen a lehető legtöbb szellem összegyűjtésére.
+Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
-\--- task \---
+Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
 
-Hozz létre egy "idő" nevű változót.
+\--- no-print \---
 
-\--- /task \---
+Click on the green flag, and then click on the chatbot character to start a conversation. When the chatbot asks a question, type your answer into the box at the bottom of the Stage, and then click on the blue mark on the right (or press `Enter`) to see the chatbot's reply.
 
-\--- task \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/248864190/?autostart=false" 
+  frameborder="0" scrolling="no"></iframe>
+</div>
 
-Hozzá tudsz adni egy olyan időzítőt a Játéktérhez, hogy a játékosnak csak 10 másodpercet adjon a szellemek elkapására?
+\--- /no-print \---
 
-Az időzítődnek:
+\--- print-only \---
 
-+ 10 másodpercről kell indulnia
-+ minden másodpercben vissza kell számolnia
+![complete project](images/chatbot-preview.png)
 
-A játéknak le kell állnia, ha az időzítő 0-hoz ér.
+\--- /print-only \---
 
-\--- hints \--- \--- hint \---
-
-`When the green flag is clicked`{:class="block3events"}, your `time`{:class="block3variables"} variable should be `set to 10`{:class="block3variables"}. It should then `change by -1`{:class="block3variables"} every second `until it reaches 0`{:class="block3control"}.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need to use:
-
-![szellem-szereplő](images/ghost-backdrop.png)
-
-```blocks3
-álljon le [minden feladat]
-
-< [ ] = [ ] >
-
-[idő v] legyen [10]
-
-[idő v] változzon (-1)
-
-(idő)
-
-várj (1) mp-et
-
-ismételd eddig: < >
-end
-
-⚑ -ra kattintáskor
-
-```
-
-\--- /hint \--- \--- hint \---
-
-Here is the code you should add to create a timer:
-
-![háttér ikon](images/ghost-backdrop.png)
-
-```blocks3
-⚑ -ra kattintáskor
-[idő v] legyen [10]
-ismételd eddig: < (time) = [0] >
-várj (1) mp-et
-[idő v] változzon (-1)
-end
-álljon le [minden feladat]
-```
-
-\--- /hint \--- \--- /hints \---
-
-\--- /task \---
-
-\--- task \---
-
-Ask a friend to test your game. How many points can they score?
-
-\--- /task \---
-
-If your game is too easy, you can:
-
-+ adj kevesebb időt a játékosnak
-+ ritkábban jelenjenek meg a szellemek
-+ legyenek kisebbek a szellemek
-
-\--- task \---
-
-Change and test your game a few times until you're happy with its level of difficulty.
-
-\--- /task \---
+Try our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) project pathway where you will move beyond the basics introduced in Introduction to Scratch. You will make awesome apps, games and simulations!
