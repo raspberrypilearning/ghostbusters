@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: '挑戰：更多隨機性'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: 抓鬼的程式
+    title: Add a score
   - 
-    title: '挑戰：加些音效'
-    challenge: true
-  - 
-    title: 記錄得分
-  - 
-    title: 計時開始
+    title: Add a timer
     completion:
       - internal
   - 
-    title: '挑戰：更多的角色'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: 然後呢？
+    title: What can you do now?
