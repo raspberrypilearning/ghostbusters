@@ -1,4 +1,4 @@
-## Bevezetés
+## What you will make
 
 You are going to make a ghost-catching game!
 
@@ -17,40 +17,6 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: What you will need
-
-### Hardver
-
-- Egy számítógép
-
-### Szoftver
-
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- megérted hogyan használj szüneteket a műveleti ciklusokon belül
-- a véletlen számok használatát a Scratch-ban
-- hogyan használj változót a játék pontszámának tárolásához a Scratch-ban
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Additional notes for educators
-
-\--- no-print \---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-\--- /no-print \---
-
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
-\--- /collapse \---
+- Scratch 3
