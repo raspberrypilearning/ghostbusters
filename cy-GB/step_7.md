@@ -1,65 +1,58 @@
-## Ychwanegu sgôr
+## Challenge
 
-Rwyt ti am wneud y gêm yn fwy diddorol trwy gadw sgôr!
+Improve your project with these challenges!
 
 \--- task \---
 
-Creu newidyn newydd o'r enw `sgôr`{:class="block3variables"}.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ Rhoi llai o amser i’r chwareuwr
++ Gwneud i’r ysbrydion ymddangos yn llai aml
++ Gwneud yr ysbrydion yn llai
 
 \--- /task \---
 
 \--- task \---
 
-Alli di gadw sgôr y chwareuwr? Fe ddylai chwareuwyr sgorio pwyntio pan maent yn clicio ar ysbryd i'w dal nhw.
+Alli di ychwanegu corluniau eraill i dy gêm?
 
-Bob tro mae chwareuwr yn clicio ar ysbryd, fe ddylai'r sgôr fynd fyny.
+![sgrinlun](images/ghost-final.png)
 
-![Sgôr cynyddol](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Pan fo'r faner werdd wedi ei glicio`{:class="block3events"}, fe ddylai dy newidyn `sgôr`{:class="block3variables"} `fod wedi ei osod i `{:class="block3variables"}. Y Llwyfan yw'r lle gorau i ychwanegu'r côd yma.
+title: Extra Sprites
 
-`Pan fo'r corlun ysbryd wedi ei glicio`{:class="block3events"}, fe ddylai'r newidyn `sgôr`{:class="block3variables"} `newid gan 1`{:class="block3variables"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Fe fydd angen iti feddwl am bethau penodol ar gyfer pob corlun rwyt ei eisiau eu ychwanegu:
 
-Here are the code blocks you need:
++ Pa mor fawr yw'r corlun?
++ A fydd e’n ymddangos mwy neu llai aml na’r ysbrydion?
++ Beth fydd e’n edrych/swnio fel pan fydd yn cael ei ddal?
++ Faint o bwyntiau byddi di’n ennill (neu golli) am ei ddal?
 
-![eicon cefnlen](images/ghost-backdrop.png)
+Os wyt ti angen cymorth, cer yn ôl trwy'r cyfarwyddiadau yn y camau diwethaf, neu gofyn i ffrind!
 
-```blocks3
-gosod [sgôr v] i (0)
+\--- /collapse \---
 
-pan fo'r flag werdd yn cael ei glicio
-```
+\--- /task \---
 
-![corlun-ysbryd](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-newid [sgôr v] gan (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![eicon cefnlen](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-pan fo'r flag werdd yn cael ei glicio
-set [sgôr v] to (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![corlun-ysbryd](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-pan gaiff y ciplun yma ei glicio
-cuddio
+\--- task \---
 
-+ newid [sgôr v] gan (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
