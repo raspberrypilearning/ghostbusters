@@ -2,9 +2,13 @@
 
 \--- task \---
 
-새 스크래치 프로젝트 만들기
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@
 
 새로운 유령 스프라이트를 추가하고 어울리는 배경을 넣으세요.
 
-![스크린샷](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@
 
 유령이 나타났다 사라졌다는 반복하도록 코드를 추가해 보세요.
 
-\--- hints \--- \--- hint \---
-
-\--- hints \---\--- hint \---`녹색 깃발이 클릭되면`{:class=”blockevents”}, 유령을 `1초 동안`{:class=”blockcontrol”} `숨기기`{:class=”blocklooks”} 로 숨겼다가 `1초 동안`{:class=”blockcontrol”} `보이기`{:class=”blocklooks”} 로 보여줘야 합니다. 위의 작업을 `무한 반복하기`{:class=”blockcontrol”} 로 반복해 봅시다.
-
-\--- /hint \--- \--- hint \---
-
-Here are the code blocks you need:
-
-![유령 스프라이트](images/ghost-sprite.png)
-
-```blocks3
-숨기기
-
-보이기
-
-무한 반복
-끝
-
-(1) 초 기다리기
-
-(1) 초 기다리기
-
-flag 클릭했을 때
-```
-
-\--- /hint \--- \--- hint \---
-
-This is what your code should look like:
-
-![유령 스프라이트](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 flag 클릭했을 때
@@ -64,14 +39,12 @@ flag 클릭했을 때
 (1) 초 기다리기
 끝
 ```
-
-\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-Test and save your project.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
