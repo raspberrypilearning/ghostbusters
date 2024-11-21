@@ -1,30 +1,55 @@
-## Kod do łapania duchów
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Teraz sprawisz, że twoja gra będzie bardziej interesująca dzięki zbieraniu punktów!
 
 \--- task \---
 
-Czy możesz sprawić, by twój duch zniknął, gdy zostanie złapany? Gracz powinien móc kliknąć duchy, aby je złapać.
+Utwórz nową zmienną o nazwie `wynik`{: class = "block3variables"}.
 
-Jeśli przetestujesz grę i uznasz, że łapanie upiorów będzie za trudne, możesz zagrać w trybie pełnoekranowym, klikając ten przycisk:
+[[[generic-scratch3-add-variable]]]
 
-![zrzut ekranu](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Po kliknięciu`{: class = "block3events"} twój duszek powinien się `ukryć`{: class = "block3looks"}.
+![Zwiększenie wyniku](images/ghost-score-test.png)
 
--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![duszek ducha](images/ghost-sprite.png)
 
 ```blocks3
-kiedy ten duszek kliknięty
-ukryj
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![duszek ducha](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
