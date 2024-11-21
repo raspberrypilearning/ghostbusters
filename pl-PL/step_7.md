@@ -1,65 +1,58 @@
-## Dodaj wynik
+## Challenge
 
-Teraz sprawisz, że twoja gra będzie bardziej interesująca dzięki zbieraniu punktów!
+Improve your project with these challenges!
 
 \--- task \---
 
-Utwórz nową zmienną o nazwie `wynik`{: class = "block3variables"}.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ Dać graczowi mniej czasu
++ Sprawić, aby duchy pojawiały się rzadziej
++ Zmniejszyć duchy
 
 \--- /task \---
 
 \--- task \---
 
-Czy możesz śledzić wynik gracza? Gracze powinni zdobywać punkty, łapiąc duchy poprzez kliknięcie na nie.
+Czy możesz dodać inne duszki do swojej gry?
 
-Za każdym razem, gdy gracz kliknie na ducha, jego wynik powinien wzrosnąć.
+![zrzut ekranu](images/ghost-final.png)
 
-![Zwiększenie wyniku](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Po kliknięciu zielonej flagi`{: class = "block3events"} twoja zmienna `wynik`{: class = "block3variables"} powinna być `ustawiona na 0`{: class = "block3variables"}. Scena jest najlepszym miejscem do dodania tego kodu.
+title: Extra Sprites
 
-`Po kliknięciu duszka ducha`{: class = "block3events"}, zmienna `wynik`{: class = "block3variables"} powinna być `zmieniona o 1`{: class = "block3variables"}.
+* * *
 
--- /hint \--- \--- hint \---
+Musisz pomyśleć o kilku rzeczach dla każdego duszka, które chcesz dodać:
 
-Here are the code blocks you need:
++ Jak duży powinien być duszek?
++ Czy powinien pojawiać się częściej czy rzadziej niż duszek ducha?
++ Jak wygląda / brzmi, kiedy zostanie złapany?
++ Ile punktów zdobywa (lub traci) gracz za złapanie duszka?
 
-![ikona tła](images/ghost-backdrop.png)
+Jeśli potrzebujesz pomocy, możesz wrócić do instrukcji z poprzednich kroków lub poprosić znajomego!
 
-```blocks3
-ustaw [wynik v] na (0)
+\--- /collapse \---
 
-po kliknięciu flagi
-```
+\--- /task \---
 
-![duszek ducha](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-zmienić [wynik v] o (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
--- /hint \--- \--- hint \---
+\--- /task \---
 
-![ikona tła](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-kiedy kliknięto zieloną flagę
-ustaw [wynik v] na (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![duszek ducha](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Kiedy duszek kliknięty
-ukryj
+\--- task \---
 
-+ zmień [wynik v] o (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
