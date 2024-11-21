@@ -1,4 +1,4 @@
-## परिचय
+## What you will make
 
 आप एक भूत-पकड़ने वाला गेम बनाने जा रहे हैं!
 
@@ -17,40 +17,6 @@
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: आपको किन चीज़ों की आवश्यकता होगी
-
-### हार्डवेयर
-
-- एक कंप्यूटर
-
-### सॉफ्टवेयर
-
-- Scratch 3 (या तो [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: आप क्या सीखेंगे
-
-- लूप्स के अंदर कार्यों के बीच रुकने की आवश्यकता को समझें
-- Scratch में यादृच्छिक संख्या उत्पन्न करने के लिए कोड का प्रयोग करें
-- Scratch में गेम स्कोर स्टोर करने के लिए एक वैरिएबल जोड़ें
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: शिक्षकों के लिए अतिरिक्त टिप्पणियाँ
-
-\--- no-print \---
-
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"} का उपयोग करें।
-
-\--- /no-print \---
-
-आप यहाँ [पूरे किये गए प्रोजेक्ट](https://rpf.io/p/en/ghostbusters-get){:target="_blank"} को देख सकते हैं|
-
-\--- /collapse \---
+- Scratch 3
