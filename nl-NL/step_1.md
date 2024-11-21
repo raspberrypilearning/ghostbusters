@@ -1,4 +1,4 @@
-## Inleiding
+## What you will make
 
 You are going to make a ghost-catching game!
 
@@ -17,40 +17,6 @@ You are going to make a ghost-catching game!
 
 \--- /print-only \---
 
-## \--- collapse \---
+## You will need
 
-## title: Wat heb je nodig
-
-### Hardware
-
-- Een computer
-
-### Software
-
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Wat ga je leren
-
-- Begrijp de noodzaak van pauzes tussen acties binnen lussen
-- Gebruik code om willekeurige nummers te genereren in Scratch
-- Voeg een variabele toe om een spelscore op te slaan in Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Aanvullende informatie voor docenten
-
-\--- no-print \---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print){:target="_blank"}.
-
-\--- /no-print \---
-
-You can find the [completed project here](https://rpf.io/p/en/ghostbusters-get){:target="_blank"}.
-
-\--- /collapse \---
+- Scratch 3
