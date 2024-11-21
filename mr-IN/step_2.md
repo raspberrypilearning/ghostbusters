@@ -2,9 +2,13 @@
 
 \--- task \---
 
-एक नवीन रिक्त स्क्रॅच प्रोजेक्ट उघडा.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@
 
 नवीन घोस्ट स्प्राइट आणि योग्य स्टेज पार्श्वभूमीवर जोडा.
 
-![स्क्रीनशॉट](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@
 
 आपल्या भुताच्या स्प्राइटमध्ये कोड जोडा जेणेकरून हिरवा ध्वज क्लिक केला की भूत दिसून येईल आणि कायमचे अदृश्य होईल.
 
-\--- hints \--- \--- hint \---
-
-एकदा `हिरवा झेंडा क्लिक केले आहे (green flag clicked)`{वर्ग = "block3events"}, आपल्या भूत पाहिजे `लपवा (hide)`{वर्ग = "block3looks"} साठी `एक सेकंद (one second)`{वर्ग = "block3control"} आणि नंतर `शो (show)`{: class = "block3looks"} `एक सेकंद (one second`{: class = "block3control"} साठी. हे `कायमचे (forever)`{:class="block3control"} करणे आवश्यक आहे.
-
-\--- /hint \--- \--- hint \---
-
-आपल्याला आवश्यक असलेले कोड ब्लॉक येथे आहेत:
-
-![भूत-स्प्राइट](images/ghost-sprite.png)
-
-```blocks3
-hide
-
-show
-
-forever
-end
-
-wait (1) seconds
-
-wait (1) seconds
-
-when flag clicked
-```
-
-\--- /hint \--- \--- hint \---
-
-आपला कोड यासारखा दिसला पाहिजे:
-
-![भूत-स्प्राइट](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -64,14 +39,12 @@ show
 wait (1) seconds
 end
 ```
-
-\--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
 \--- task \---
 
-आपला प्रकल्पाची चाचणी घ्या आणि जतन करा.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
