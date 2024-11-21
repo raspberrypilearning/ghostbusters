@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Herausforderung: Mehr Zufälligkeit'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Code für eine Geisterjagd
+    title: Add a score
   - 
-    title: 'Herausforderung: Ein Geräusch hinzufügen'
-    challenge: true
-  - 
-    title: Eine Punktzahl hinzufügen
-  - 
-    title: Eine Stoppuhr hinzufügen
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Herausforderung: Mehr Figuren'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: What next?
+    title: What can you do now?
