@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Izziv: več naključja'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Koda za lov na duhove
+    title: Add a score
   - 
-    title: 'Izziv: dodaj zvok'
-    challenge: true
-  - 
-    title: Dodaj točkovanje
-  - 
-    title: Dodaj časovnik
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Izziv: več figur'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: Kaj sledi?
+    title: What can you do now?
