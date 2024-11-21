@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'आव्हान: अधिक यादृच्छिकता'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: भूत पकडण्यासाठी कोड
+    title: Add a score
   - 
-    title: 'आव्हानः आवाज जोडा'
-    challenge: true
-  - 
-    title: एक अंक जोडा
-  - 
-    title: एक टाइमर जोडा
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'आव्हान: अधिक स्प्राइट्स'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: पुढे काय?
+    title: What can you do now?
