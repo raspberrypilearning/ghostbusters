@@ -1,30 +1,55 @@
-## பேய்களைப் பிடிப்பதற்கான குறியீடு
+## Add a score
 
-இப்போது நீங்கள் உங்கள் விளையாட்டுக்கு குறியீட்டைச் சேர்க்கப் போகிறீர்கள், இதனால் விளையாடுபவர் பேய்களைப் பிடிக்க முடியும்!
+இப்போது நீங்கள் மதிப்பெண்ணை வைத்து உங்கள் விளையாட்டை மிகவும் சுவாரஸ்யமாக்கப் போகிறீர்கள்!
 
 \--- task \---
 
-உங்கள் பேயை, பிடிபட்டதும் மறைந்து போக வைக்க முடியுமா? விளையாடுபவரால் பேய்களைப் பிடிக்க, அவற்றைக் கிளிக் செய்ய முடிய வேண்டும்.
+`Score`{:class="block3variables"}(மதிப்பெண்) எனப்படும் ஒரு புதிய மாறியை (variable) உருவாக்கவும்.
 
-உங்கள் விளையாட்டை சோதிக்கும்போது, பேய்களைப் பிடிப்பது கடினமாக இருந்தால், இந்த பொத்தானைக் கிளிக் செய்வதன் மூலம் முழுத்திரை பயன்முறையில்(full-screen mode) விளையாட்டை விளையாடலாம்:
+[[[generic-scratch3-add-variable]]]
 
-![திரைப்பிடிப்பு](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-கிளிக் செய்யும்போது(`When clicked`{:class="block3events"}), உங்கள் பேய் sprite மறைய(`hide`{:class="block3looks"}) வேண்டும்.
+![அதிகரிக்கும் மதிப்பெண்](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-உங்கள் குறியீடு இதுபோன்றதாக இருக்கலாம்:
+Add this code to your ghost sprite:
 
 ![பேய்-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
+When this sprite clicked
 hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![பேய்-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
