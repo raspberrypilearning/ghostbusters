@@ -2,9 +2,13 @@
 
 \--- task \---
 
-Yeni bir boş Scratch projesi açın.
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
 
-[[[generic-scratch3-new-project]]]
+\--- /task \---
+
+\--- task \---
+
+Delete the cat sprite by clicking on the bin icon over the sprite thumbnail. ![The image depicts a thumbnail in the Scratch programming interface. It shows the orange Scratch Cat mascot, which is the default sprite for Scratch projects, displayed in a purple-bordered square labeled "Sprite1." There is also a trash can icon with a white "X" in the top-right corner of the thumbnail, indicating the option to delete the sprite.](images/scratch-thumbnail.png)
 
 \--- /task \---
 
@@ -12,7 +16,7 @@ Yeni bir boş Scratch projesi açın.
 
 Projenize, uygun yeni bir hayalet kuklası ile Sahne arkaplan resmi ekleyin.
 
-![ekran görüntüsü](images/ghost-ghost.png)
+![The image depicts a stylized blue ghost-like character with spots, standing in a dark, eerie forest. The forest features leafless trees with slender, bare branches and a purple and black background, suggesting a nighttime setting. The moon is partially visible in the top-left corner, adding to the spooky atmosphere.](images/ghost-ghost.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,36 +28,7 @@ Projenize, uygun yeni bir hayalet kuklası ile Sahne arkaplan resmi ekleyin.
 
 Yeşil bayrağa tıklatıldığında, hayaletinizin sonsuza dek görüneceği ve kaybolacağı kodu ekleyin.
 
-\--- hints \--- \--- hint \---
-
-Bir kez `yeşil bayrak tıklandığında`{:class="block3events"}, hayaletiniz `bir saniye`{:class="block3control"} boyunca `gizlenecek`{:class="block3looks"} ve sonrasında `bir saniye`{:class="block3control"} boyunca `gözükecektir`{:class="block3looks"}. Bunu da `sonsuz`{: class = "block3control"} bir döngüde yapması gerekir.
-
-\--- /hint \--- \--- hint \---
-
-İhtiyacınız olan kod blokları:
-
-![hayalet-kuklası](images/ghost-sprite.png)
-
-```blocks3
-gizle
-
-göster
-
-sürekli tekrarla
-end
-
-(1) saniye bekle
-
-(1) saniye bekle
-
-yeşil bayrak tıklandığında
-```
-
-\--- /hint \--- \--- hint \---
-
-Kodunuz şöyle görünmelidir:
-
-![hayalet-kuklası](images/ghost-sprite.png)
+![The image shows a small, cartoonish blue ghost-like figure with rounded edges and a translucent appearance. It has a single, large, black mouth on its left side, a few darker blue spots scattered across its body, and a dripping effect at the bottom, giving it a liquid-like texture.](images/ghost-sprite.png)
 
 ```blocks3
 yeşil bayrak tıklandığında
@@ -65,13 +40,11 @@ sürekli tekrarla
 end
 ```
 
-\--- /hint \--- \--- /hints \---
-
 \--- /task \---
 
 \--- task \---
 
-Projenizi test edin ve kayıt edin.
+Test and save your project. You should see the ghost appear and disappear when you click the green flag.
 
 [[[generic-scratch3-saving]]]
 
