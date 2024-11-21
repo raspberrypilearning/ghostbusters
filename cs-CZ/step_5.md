@@ -1,30 +1,55 @@
-## Code for catching ghosts
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Now you're going to make your game more interesting by keeping score!
 
 \--- task \---
 
-Can you make your ghost disappear when it's been caught? The player should be able to click ghosts to catch them.
+Create a new variable called `score`{:class="block3variables"}.
 
-If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+[[[generic-scratch3-add-variable]]]
 
-![screenshot](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`When clicked`{:class="block3events"}, your ghost sprite should `hide`{:class="block3looks"}.
+![Zvýšení skóre](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Your code should look like this:
+Add this code to your ghost sprite:
 
 ![ghost-sprite](images/ghost-sprite.png)
 
 ```blocks3
-when this sprite clicked
+When this sprite clicked
 hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
