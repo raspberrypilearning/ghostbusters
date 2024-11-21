@@ -1,65 +1,58 @@
-## Een score toevoegen
+## Challenge
 
-Nu ga je je spel interessanter maken door de score bij te houden!
+Improve your project with these challenges!
 
 \--- task \----
 
-Maak een nieuwe variabele met de naam `score`{:class="block3variables"}.
+Als je spel te gemakkelijk is, kun je:
 
-[[[generic-scratch3-add-variable]]]
++ De speler minder tijd geven
++ De spoken minder vaak laten verschijnen
++ De spoken kleiner maken
 
 \--- /task \---
 
 \--- task \----
 
-Kun je de score van de spelers bijhouden? Spelers zouden punten moeten scoren als ze spoken vangen door er op te klikken.
+Kun je andere sprites aan je spel toevoegen?
 
-Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
+![screenshot](images/ghost-final.png)
 
-![Score ophogen](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, moet de `score`{:class="block3variables"} variabele op `0`{:class="block3variables"} gezet worden. Het speelveld is de beste plaats om deze code neer te zetten.
+title: Extra Sprites
 
-`Wanneer op de Spook Sprite wordt geklikt`{:class="block3events"}, moet de `score `{:class="block3variables"} `met 1 worden opgehoogd`{:class=”block3data"}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Je moet aan een aantal dingen denken voor elke sprite die je wilt toevoegen:
 
-Dit zijn de codeblokken die je nodig hebt:
++ Hoe groot moet de sprite zijn?
++ Zal het meer of minder vaak verschijnen dan het spook?
++ Hoe ziet het eruit/klinkt het als het is gepakt?
++ Hoeveel punten scoort (of verliest) de speler om het te vangen?
 
-![achtergrond pictogram](images/ghost-backdrop.png)
+Als je hulp nodig hebt, kun je teruggaan naar de instructies in de vorige stappen of een vriend vragen!
 
-```blocks3
-maak [score v] (0)
+\--- /collapse \---
 
-wanneer groene vlag wordt aangeklikt
-```
+\--- /task \---
 
-![spook-sprite](images/ghost-sprite.png)
+\--- task \----
 
-```blocks3
-verander [score v] met (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![achtergrond pictogram](images/ghost-backdrop.png)
+\--- task \----
 
-```blocks3
-wanneer groene vlag wordt aangeklikt
-maak [score v] (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![spook-sprite](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Wanneer op deze sprite wordt geklikt
-verdwijn
+\--- task \----
 
-+ verander [score v] met (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
