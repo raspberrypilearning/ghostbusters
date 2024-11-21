@@ -1,30 +1,55 @@
-## Koda za lov na duhove
+## Add a score
 
-Now you're going to add code to your game so that the player can catch ghosts!
+Svojo igro boš naredil-a bolj zanimivo s štetjem točk!
 
 \--- task \---
 
-Ali lahko narediš, da tvoj duh, potem ko ga ujamejo, izgine? Igralec mora imeti možnost, da klikne na duhove in jih s tem ujame.
+Ustvari novo spremenljivko z imenom `točke`{: class = "block3variables"}.
 
-Če preizkuš svojo igro in ugotoviš, da je lovljenje duhov težko, lahko preklopiš na celozaslonski način s klikom na ta gumb:
+[[[generic-scratch3-add-variable]]]
 
-![posnetek zaslona](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Ko kliknemo figuro`{: class = "block3events"}, se naj duhec `skrije`{: class = "block3looks"}.
+![večanje rezultata](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Tvoja koda bi morala izgledati tako:
+Add this code to your ghost sprite:
 
 ![figura-duhca](images/ghost-sprite.png)
 
 ```blocks3
-ko kliknemo na to figuro
-skrij
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![figura-duhca](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
