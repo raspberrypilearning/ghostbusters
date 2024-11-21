@@ -1,30 +1,55 @@
-## Code pour capturer les fantômes
+## Add a score
 
-Maintenant, tu vas ajouter du code à ton jeu pour que le joueur puisse attraper des fantômes!
+Maintenant, tu vas rendre ton jeu plus intéressant en gardant le score!
 
 \--- task \---
 
-Peux-tu faire disparaître ton fantôme quand il a été attrapé? Le joueur devrait pouvoir cliquer sur les fantômes pour les attraper.
+Crée une nouvelle variable appelée `score`{:class="block3variables"}.
 
-Si tu testes ton jeu et trouve difficile de capturer des fantômes, tu peux jouer au jeu en mode plein écran en cliquant sur ce bouton:
+[[[generic-scratch3-add-variable]]]
 
-![capture d'écran](images/ghost-fullscreen-annotated.png)
+\--- /task \---
 
-\--- hint \--- \--- /hints \---
+Keep track of the player's score. Each time a player clicks on a ghost, their score should increase.
 
-`Lorsque tu cliques dessus`{:class="block3events"}, ton sprite fantôme doit `masquer`{:class="block3looks"}.
+![Augmenter le score](images/ghost-score-test.png)
 
-\--- /hint \--- \--- hint \---
+\--- task \---
 
-Ton code devrait ressembler à ceci :
+Add this code to your ghost sprite:
 
 ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-lorsque ce sprite est cliqué
-cacher
+When this sprite clicked
+hide
++change [score v] by (1)
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \---
+
+Test your code. When you click the ghost, it should disappear and the score should change by 1.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to your ghost so that the score resets when a new game starts:
+
+![sprite-fantôme](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
++set [score v] to (0)
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
 
 \--- /task \---
