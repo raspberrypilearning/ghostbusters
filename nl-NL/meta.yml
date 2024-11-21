@@ -16,21 +16,17 @@ steps:
     completion:
       - engaged
   - 
-    title: 'Uitdaging: meer willekeur'
-    challenge: true
+    title: Code for catching ghosts
   - 
-    title: Code voor het vangen van spoken
+    title: Add a score
   - 
-    title: 'Uitdaging: geluid toevoegen'
-    challenge: true
-  - 
-    title: Een score toevoegen
-  - 
-    title: Een timer toevoegen
+    title: Add a timer
     completion:
       - internal
   - 
-    title: 'Uitdaging: meer sprites'
+    title: Challenge
     challenge: true
+    completion:
+      - external
   - 
-    title: Wat kun je verder nog doen?
+    title: What can you do now?
