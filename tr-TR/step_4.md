@@ -1,5 +1,18 @@
-## Meydan Okuma: Daha fazla rastgelelik
+## Code for catching ghosts
 
-Hayalet kuklanıza, gizlenirken rastgele bir süre `beklemesini`{:class="block3control"} sağlayan bir kodu ekleyebilir misiniz?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Hayaletize, `set size`{:class="block3looks"} komutunu kullanarak her ortaya çıkışında rastgele bir şekilde daha büyük veya daha küçük gözükmesini sağlayabilir misiniz?
+\--- task \---
+
+![hayalet-kuklası](images/ghost-sprite.png)
+
+```blocks3
+bu kukla tıklandığında
+gizle
+```
+
+\--- /task \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![ekran görüntüsü](images/ghost-fullscreen-annotated.png)
