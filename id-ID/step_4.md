@@ -1,5 +1,18 @@
-## Tantangan: perilaku acak tambahan
+## Code for catching ghosts
 
-Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
+Make your ghost disappear when it's been caught! The player should be able to click ghosts to catch them.
 
-Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+\--- task \---
+
+![ghost-sprite](images/ghost-sprite.png)
+
+```blocks3
+when this sprite clicked
+hide
+```
+
+\--- /tugas \---
+
+**Tip:** If you test your game and find catching ghosts difficult, you can play the game in full-screen mode by clicking on this button:
+
+![screenshot](images/ghost-fullscreen-annotated.png)
