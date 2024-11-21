@@ -1,65 +1,58 @@
-## Añade una puntuación
+## Challenge
 
-¡Ahora vas a hacer que tu juego sea más interesante añadiendo un sistema de puntuación!
+Improve your project with these challenges!
 
 \--- task \---
 
-Crea una nueva variable llamada `puntaje` {: class = "block3variables"}.
+Si tu juego es demasiado fácil, puedes:
 
-[[[generic-scratch3-add-variable]]]
++ Darle menos tiempo al jugador
++ Hacer que los fantasmas aparezcan con menos frecuencia
++ Hacer los fantasmas más pequeños
 
 \--- /task \---
 
 \--- /task \---
 
-¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
+¿Puedes añadir otros sprites a tu juego?
 
-Cada vez que un jugador hace clic en un fantasma, su puntuación debe aumentar.
+![captura de pantalla](images/ghost-final.png)
 
-![Incrementar la puntuación](images/ghost-score-test.png)
+\--- collapse \---
 
-\--- hints \--- \--- hint \---
+* * *
 
-`Al hacer clic en la bandera verde`{:class=”blockevents”}, debes dar a tu variable `puntaje`{:class=”blockdata”} `el valor 0`{:class=”blockdata"}. El escenario es el mejor lugar para añadir este código.
+title: Extra Sprites
 
-`Al hacer clic en el fantasma`{:class=”blockevents”}, deberías `sumar 1`{:class=”blockdata"} a la variable `puntaje`{:class=”blockdata”}.
+* * *
 
-\--- /hint \--- \--- hint \---
+Debes pensar en algunas cosas para cada sprites que desee agregar:
 
-Aquí están los bloques de código que necesitas:
++ ¿Qué tan grande debe ser el sprite?
++ ¿Aparecerá con más o menos frecuencia que el fantasma?
++ ¿Qué aspecto tendrá y qué sonido hará cuando lo atrapen?
++ ¿Cuántos puntos ganará (o perderá) el jugador por atraparlo?
 
-![icono de fondo](images/ghost-backdrop.png)
+Si necesitas ayuda, puede volver a las instrucciones de los pasos anteriores o preguntar a un amigo!
 
-```blocks3
-dar a [puntaje v] el valor (0)
+\--- /collapse \---
 
-al hacer clic en la bandera
-```
+\--- /task \---
 
-![sprite fantasma](images/ghost-sprite.png)
+\--- task \---
 
-```blocks3
-sumar a [puntaje v] (1)
-```
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?
 
-\--- /hint \--- \--- hint \---
+\--- /task \---
 
-![icono de fondo](images/ghost-backdrop.png)
+\--- task \---
 
-```blocks3
-al hacer clic en bandera verde
-dar a [puntaje v] el valor (0)
-```
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
 
-![objeto fantasma](images/ghost-sprite.png)
+\--- /task \---
 
-```blocks3
-Al hacer clic en este objeto
-esconder
+\--- task \---
 
-+ sumar a [puntaje v] (1)
-```
-
-\--- /hint \--- \--- /hints \---
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 \--- /task \---
