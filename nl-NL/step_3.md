@@ -22,17 +22,17 @@ Er zijn twee sets codeblokken die je hier kunt gebruiken. Kies zelf de set die j
 Voeg deze set blokken toe aan je Ghost Sprite:
 
 ```blocks3
-ga naar (willekeurige positie v)
+go to (willekeurige positie v)
 ```
 
 Of voeg anders deze toe aan je sprite:
 
 ```blocks3
-ga naar x: (14) y: (50)
+go to x: (14) y: (50)
 
-willekeurig getal tussen (1) en (10)
+pick random (1) to (10)
 
-willekeurig getal tussen (1) en (10)
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -44,13 +44,13 @@ Je code zou er als volgt uit kunnen zien:
 ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal
-verdwijn
-wacht (1) sec.
-ga naar (willekeurige positie v)
-verschijn
-wacht (1) sec.
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
 end
 ```
 
@@ -59,13 +59,13 @@ Of het zou er als volgt uit kunnen zien:
 ![spook-sprite](images/ghost-sprite.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal
-verdwijn
-wacht (1) sec.
-ga naar x: (willekeurig getal tussen (-150) en (150)) y: (willekeurig getal tussen (-150) en (150))
-verschijn
-wacht (1) sec.
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
 end
 ```
 

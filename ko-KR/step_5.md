@@ -1,23 +1,29 @@
-## 점수 추가하기
+## 유령을 잡아볼까요
 
-점수를 기록하게 해서 좀 더 재밌게 만들어 봐요!
-
---- task ---
-
-'점수'라는 새 변수를 만드세요.
-
-[[[generic-scratch-add-variable]]]
-
---- /task ---
+이제 플레이어가 유령을 잡을 수 있도록 게임에 코드를 추가 할 것입니다!
 
 --- task ---
 
-플레이어의 점수를 기록할 수 있나요? 플레이어는 유령을 잡을 때마다 점수를 얻어야 합니다.
+유령이 붙잡 혔을 때 사라지게 할 수 있습니까? 플레이어는 유령을 클릭하여 잡을 수 있어야 합니다.
 
-플레이어가 유령을 클릭할 때마다 점수가 올라가야 합니다.
+게임을 테스트해보고 유령을 잡는 것이 어렵다면 이 버튼을 클릭하여 전체 화면 모드로 게임을 즐길 수 있습니다:
 
-![점수 올리기](images/ghost-score-test.png)
+![스크린샷](images/ghost-fullscreen-annotated.png)
 
---- hints --- --- hint --- `녹색 깃발이 클릭되면`{:class="blockevents"}, `점수`{:class="blockdata"} 변수는 `0으로 정하기`{:class="blockdata"}로 초기화 되어야 합니다. 무대는 이 코드를 추가하는 가장 좋은 곳입니다. `유령 스프라이트가 클릭되면`{:class="blockevents"}, `점수`{:class="blockdata"} 변수는 `1만큼 바꾸기`{:class="blockdata"}되어야 합니다. --- /hint --- --- hint --- 다음 코드 블럭들이 필요할 겁니다. ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- 유령을 클릭해서 점수를 얻으려면 이렇게 합니다. ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+`클릭`{:class="block3events"}하면, 유령 스프라이트는 `숨기기`{:class="block3looks"} 상태가 되어야 합니다.
+
+--- /hint --- --- hint ---
+
+다음과 같은 코드가 될 것입니다.:![유령 스프라이트](images/ghost-sprite.png)
+
+```blocks3
+이 스프라이트를 클릭했을 때
+숨기기
+```
+
+--- /hint --- --- /hints ---
 
 --- /task ---

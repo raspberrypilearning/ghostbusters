@@ -1,59 +1,57 @@
-## Add a score
-
-Now you're going to make your game more interesting by keeping score!
+## Challenge
+Improve your project with these challenges!
 
 --- task ---
 
-Create a new variable called `score`{:class="block3variables"}.
+If your game is too easy, you can:
 
-[[[generic-scratch3-add-variable]]]
++ Give the player less time
++ Make the ghosts appear less often
++ Make the ghosts smaller
 
 --- /task ---
 
 --- task ---
 
-Can you keep track of the player's score? Players should score points when they click on ghosts to catch them.
+Can you add other sprites to your game?
 
-Each time a player clicks on a ghost, their score should increase.
+![screenshot](images/ghost-final.png)
 
-![Increasing score](images/ghost-score-test.png)
+--- collapse ---
 
---- hints ---
---- hint ---
+---
 
-`When the green flag is clicked`{:class="block3events"}, your `score`{:class="block3variables"} variable should be `set to 0`{:class="block3variables"}. The Stage is the best place to add this code.
+title: Extra Sprites
 
-`When the ghost sprite is clicked`{:class="block3events"}, the `score`{:class="block3variables"} variable should be `changed by 1`{:class="block3variables"}.
+---
 
---- /hint ---
---- hint ---
-Here are the code blocks you need:
-![backdrop icon](images/ghost-backdrop.png)
-```blocks3
-set [score v] to (0)
+You need to think about some things for each sprites you want to add:
 
-when flag clicked
-```
++ How big should the sprite be?
++ Should it appear more or less often than the ghost sprite?
++ What does it look/sound like when it gets caught?
++ How many points does the player win (or lose) for catching the sprite?
 
-![ghost-sprite](images/ghost-sprite.png)
-```blocks3
-change [score v] by (1)
-```
---- /hint ---
---- hint ---
-![backdrop icon](images/ghost-backdrop.png)
+If you need help, you can back through to the instructions in the previous steps, or ask a friend!
 
-```blocks3
-when flag clicked
-set [score v] to (0)
-```
-![ghost-sprite](images/ghost-sprite.png)
-```blocks3
-When this sprite clicked
-hide
-+ change [score v] by (1)
-```
---- /hint ---
---- /hints ---
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+Can you add code to your ghost sprite to make the ghost `wait`{:class="block3control"} a random amount of time while it is hidden?  
+
+--- /task ---
+
+--- task ---
+
+Can you use the `set size`{:class="block3looks"} block to make your ghost a randomly larger or smaller each time it appears?
+
+--- /task ---
+
+--- task ---
+
+Can you add code to your ghost so that the ghost makes a sound when it's caught?
 
 --- /task ---

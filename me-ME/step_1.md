@@ -26,7 +26,7 @@ title: Šta će ti biti potrebno
 
 ### Softver
 
-+ Scratch 2.0 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 ([online](https://rpf.io/scratchon){:target="_blank"} ili [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -34,7 +34,7 @@ title: Šta će ti biti potrebno
 ---
 title: Šta ćeš naučiti
 ---
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
 

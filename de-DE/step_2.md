@@ -34,30 +34,30 @@ Sobald die `grüne Flagge angeklickt wird`{:class="block3events"}, sollte sich d
 Hier sind die Codeblöcke die du brauchst: ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-verstecke dich
+hide
 
-zeige dich
+show
 
-wiederhole fortlaufend
-ende
+forever
+end
 
-warte (1) Sekunden
+wait (1) seconds
 
-warte (1) Sekunden
+wait (1) seconds
 
-Wenn die grüne Flagge angeklickt
+when flag clicked
 ```
 
 --- /hint --- --- hint --- So sollte dein Code aussehen: ![Geist-Figur](images/ghost-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-wiederhole fortlaufend
-verstecke dich
-warte (1) Sekunden
-zeige dich
-warte (1) Sekunden
-ende
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

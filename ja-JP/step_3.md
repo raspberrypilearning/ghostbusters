@@ -6,12 +6,69 @@
 
 同じ場所にいるのではなく、画面上でランダムにあらわれるよう、おばけにコードを入れてみましょう。
 
---- hints --- --- hint --- あらわれる前に、おばけをステージのランダムな位置に`動かす`{:class=”blockmotion”}必要があります。 --- /hint --- --- hint --- 使用できるコードブロックは2種類あります。 1つはこれです。 ![screenshot](images/ghost-random-blocks-1.png) もう1つはこれです。 ![screenshot](images/ghost-random-blocks-2.png) --- /hint --- --- hint --- コードの見本はこちらです。 ![screenshot](images/ghost-random-code-1.png) またはこちらです。 ![screenshot](images/ghost-random-code-2.png) --- /hint --- --- /hints ---
+--- hints ---
+
+
+--- hint ---
+
+おばけは出てくるたびに、 ステージ上のランダムな場所へ`行く`{:class="block3motion"}必要があります。
+
+--- /hint --- --- hint ---
+
+ここで使用できるコードブロックは2通りあります。好きな方をえらんでください。
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+おばけのスプライトにこのブロックを追加します。
+
+```blocks3
+(どこかの場所 v) へ行く
+```
+
+もしくはこのコードをスプライトに追加します。
+
+```blocks3
+go to x: (14) y: (50)
+
+pick random (1) to (10)
+
+pick random (1) to (10)
+```
+
+--- /hint ---
+
+--- hint ---
+
+コードは次のようになります：
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (random position v)
+show
+wait (1) seconds
+end
+```
+
+もしくはこのようになります：
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
+```
+
+--- /hint ------ /hints ---
 
 --- /task ---
-
---- challenge ---
-
-## チャレンジ: もっとランダムに
-
-おばけがあらわれる前の`待つ`{:class=”blockcontrol”}時間をランダムにできますか？ `大きさを　%にする`{:class=”blocklooks”}ブロックを使って、おばけがあらわれるたびに大きさをランダムにできますか？ --- /challenge ---

@@ -22,17 +22,17 @@ Mae dau set o flociau côd mae modd eu defnyddio yma. Dewisa'r rhai sydd well gy
 Unai ychwanega'r blociau yma i gorlun dy ysbryd:
 
 ```blocks3
-mynd i (safle ar hap v)
+go to (safle ar hap v)
 ```
 
 Neu yr un yma:
 
 ```blocks3
-mynd i x: (14) y: (50)
+go to x: (14) y: (50)
 
-(dewis ar hap (1) i (10))
+pick random (1) to (10)
 
-(dewis ar hap (1) i (10))
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -44,13 +44,13 @@ Fe allai dy gôd edrych fel hyn:
 ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-am byth 
- cuddio
- aros (1) eiliad
- mynd i (safle ar hap v)
- dangos
- aros (1) eiliad
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (safle ar hap v)
+show
+wait (1) seconds
 end
 ```
 
@@ -59,13 +59,13 @@ Neu fe allai edrych fel hyn:
 ![corlun-ysbryd](images/ghost-sprite.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-am byth 
- cuddio
- aros (1) eiliad
- mynd i x: (dewis ar hap (-150) i (150)) y: (dewis ar hap (-150) i (150))
- dangos
- aros (1) eiliad
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
 end
 ```
 

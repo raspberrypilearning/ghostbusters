@@ -1,19 +1,65 @@
-## チャレンジ：オブジェクトをふやす
+## スコアを追加する
 
-ゲームに他のオブジェクトを追加できますか？
+スコアをつけてゲームをもっと面白くしましょう！
 
-![screenshot](images/ghost-final.png)
+--- task ---
 
-オブジェクトを追加するときは、次のことについて考えましょう。
+`スコア`{:class="block3variables"}という名前の新しい変数 (へんすう) を作りましょう。
 
-+ 大きさはどの位ですか？
-+ おばけよりも、たくさんまたは少なめに、あらわれますか？
-+ つかまった時に、どのような見た目になりますか？　音はどうなりますか？
-+ プレイヤーがつかまえた時に、何点とれますか？　または何点うしないますか？
+[[[generic-scratch3-add-variable]]]
 
-別のオブジェクトを追加するには、上のやり方を使ってみましょう。
+--- /task ---
 
-***
-### コミュニティによる翻訳 
+--- task ---
 
-すばらしい翻訳ボランティアは、世界中の子供たちにコーディングを学ぶチャンスを与えるのに役立っています。私たちのプロジェクトを翻訳することにより、より多くの子供たちにプログラミングを学んでもらう事ができます。詳しくは[rpf.io/translators](https://rpf.io/translators)をご覧ください。
+プレイヤーのスコアをつけることができますか？おばけをクリックしてつかまえると、とくてんできます。
+
+プレイヤーがおばけをクリックすると、スコアがふえます。
+
+![スコアをふやす](images/ghost-score-test.png)
+
+--- hints ---
+ --- hint ---
+
+`緑の旗が押されたとき`{:class="block3events"}、`スコア`{:class="block3variables"}変数が`0になる`{:class="block3variables"}必要があります。 ステージはこのコードを追加するのに一番いい場所です。
+
+`おばけのスプライトが押されたとき`{:class="block3events"}、`スコア`{:class="block3variables"}変数が`1ずつ変わる`{:class="block3variables"}必要があります。
+
+--- /hint --- --- hint ---
+
+必要なコードブロックは次のとおりです。
+
+![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
+
+```blocks3
+set [スコア v] to (0)
+
+when flag clicked
+```
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+change [スコア v] by (1)
+```
+
+--- /hint --- --- hint ---
+
+![背景 (はいけい) のアイコン](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [スコア v] to (0)
+```
+
+![おばけのスプライト](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
++ change [スコア v] by (1)
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---

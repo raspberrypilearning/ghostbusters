@@ -34,30 +34,30 @@ Une fois que le `drapeau vert est cliqué`{:class="block3events"}, ton fantôme 
 Voici les blocs de code dont tu as besoin: ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-cacher
+hide
 
-montrer
+show
 
-répéter indéfiniment
-fin
+forever
+end
 
-attendre (1) secondes
+wait (1) seconds
 
-attendre (1) secondes
+wait (1) seconds
 
-quand le drapeau vert pressé
+when flag clicked
 ```
 
 --- /hint --- --- hint --- Voici a quoi devrait ressembler ton code: ![sprite-fantôme](images/ghost-sprite.png)
 
 ```blocks3
-quand le drapeau vert pressé
-répéter indéfiniment
-cacher
-attendre (1) secondes
-montrer
-attendre (1) secondes
-fin
+when flag clicked
+forever
+hide
+wait (1) seconds
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

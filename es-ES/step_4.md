@@ -1,21 +1,5 @@
-## Atrapando fantasmas
+## Desafío: más aleatoriedad
 
-¡Permitamos que el jugador atrape fantasmas!
+¿Puedes agregar código a tu objeto fantasma para hacer que el fantasma `espere`{:class="block3control"} una cantidad aleatoria de tiempo mientras está oculto?
 
---- task ---
-
-¿Puedes hacer que tu fantasma desaparezca cuando es atrapado?
-
-Deberías poder hacer clic en los fantasmas para atraparlos. Si capturarlos te resulta difícil, puedes jugar al juego en modo de pantalla completa haciendo clic en este botón:
-
-![captura de pantalla](images/ghost-fullscreen.png)
-
---- hints --- --- hint --- `Al hacer clic sobre él`{:class=”blockevents”}, tu fantasma se debería `esconder`{:class=”blocklooks”}. --- /hint --- --- hint --- Tu código debería quedar así: ![screenshot](images/ghost-catch-code.png) --- /hint --- --- /hints ---
-
---- /task ---
-
---- challenge ---
-
-## Desafío: añadir un sonido
-
-¿Puedes conseguir que tu fantasma haga un sonido cada vez que es atrapado? --- /challenge ---
+¿Puedes utilizar el bloque `fijar tamaño`{:class="blocklooks"} para hacer que tu fantasma tenga un tamaño aleatorio cada vez que aparezca?

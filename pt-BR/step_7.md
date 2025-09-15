@@ -1,20 +1,61 @@
-## Desafio: Mais objetos
+## Adicionar uma pontuação
 
-Você pode adicionar outros objetos ao seu jogo?
+Agora você vai tornar seu jogo mais interessante marcando a pontuação!
 
-![screenshot](images/ghost-final.png)
+--- task ---
 
-Ao adicionar um objeto, você precisa considerar as seguintes coisas.
+Crie uma nova variável chamada de `pontuação`{:class="block3variables"}.
 
-+ Quão grande é o objeto?
-+ Ele vai aparecer mais ou menos vezes que o fantasma?
-+ Qual vai ser a aparência ou o som emitido quando ele for capturado?
-+ Quantos pontos o jogador vai marcar (ou perder) por pegá-lo?
+[[[generic-scratch3-add-variable]]]
 
-Se você precisar de ajuda para adicionar outro objeto, você pode reutilizar as etapas acima!
-***
-### Tradução Contribuída pela Comunidade 
+--- /task ---
 
-Este projeto foi traduzido por **Luciana Bezerra / Elton Marques** e revisado por **Laura Fuciarelli**. 
+--- task ---
 
-Nossos incríveis voluntários de tradução nos ajudam a dar as crianças em todo o mundo a oportunidade de aprender a programar. Você pode nos ajudar a alcançar mais crianças traduzindo nossos projetos - leia mais em [rpf.io/translators](https://rpf.io/translators).
+Você consegue acompanhar a pontuação do jogador? Os jogadores marcam pontos ao clicar nos fantasmas para capturá-los.
+
+Cada vez que um jogador clicar em um fantasma, sua pontuação deve aumentar.
+
+![Aumentando a pontuação](images/ghost-score-test.png)
+
+--- hints ---
+ --- hint ---
+
+`Quando bandeira verde for clicada`{:class="block3events"}, sua variável da `pontuação`{:class="block3variables"} deve `mudar para 0`{:class="block3variables"}. O Palco é o melhor lugar para adicionar esse código.
+
+`Quando o fantasma for clicado`{:class="block3events"}, a variável da `pontuação`{:class="block3variables"} `deverá ser somada em 1`{:class="block3variables"}.
+
+--- /hint --- --- hint --- Aqui estão os blocos de código que você precisa: ![backdrop icon](images/ghost-backdrop.png)
+
+```blocks3
+set [pontuação v] to (0)
+
+when flag clicked
+```
+
+![Objeto gráfico fantasma](images/ghost-sprite.png)
+
+```blocks3
+change [pontuação v] by (1)
+```
+
+--- /hint --- --- hint ---
+
+![Ícone de fundo](images/ghost-backdrop.png)
+
+```blocks3
+when flag clicked
+set [pontuação v] to (0)
+```
+
+![Objeto gráfico fantasma](images/ghost-sprite.png)
+
+```blocks3
+When this sprite clicked
+hide
++ change [pontuação v] by (1)
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---

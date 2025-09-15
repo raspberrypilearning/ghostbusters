@@ -1,54 +1,65 @@
-## भूमिका
+--- no-print ---
 
-आप भूत पकड़ने वाली गेम बनाएँगे!
+यह इस प्रोजेक्ट का **Scratch 3** संस्करण हैं। इस प्रोजेक्ट को आप [Scratch 2 में भी देख सकते हैं](https://projects.raspberrypi.org/hi-IN/projects/ghostbusters-scratch2)।
+
+--- /no-print ---
+
+## परिचय
+
+आप एक भूत-पकड़ने वाला गेम बनाने जा रहे हैं!
+
+--- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-  <img src="images/ghost-final.png">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/showcase-static.png">
 </div>
 
-### क्लब लीडर्स के लिए अतिरिक्त जानकारी
+--- /no-print ---
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर के लिए अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/ghostbusters/print) का उपयोग करें।
+--- print-only ---
 
+![शोकेस](images/showcase-static.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
-title: क्लब लीडर के नोट्स
+title: आपको किन चीज़ों की आवश्यकता होगी
 ---
 
+### हार्डवेयर
 
-## भूमिका:
-इस प्रोजेक्ट में, बच्चे यह सीखेंगे कि अपने प्रोग्राम में डेटा स्टोर करने के लिए वेरिएबल का उपयोग कैसे करना है।
+- एक कंप्यूटर
 
-## संसाधन
-इस प्रोजेक्ट के लिए, Scratch 2 का उपयोग किया जाना चाहिए। Scratch 2 का [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) पर ऑनलाइन उपयोग किया जा सकता है या इसे [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) से डाउनलोड करके ऑफ़लाइन उपयोग किया जा सकता है।
+### सॉफ्टवेयर
 
-आप <a href="http://scratch.mit.edu/projects/60787262/#editor">online</a> इस प्रोजेक्ट का पूर्ण संस्करण खोज सकते हैं, या इसे इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके डाउनलोड किया जा सकता है, जिसमे ये शामिल है:
-
-+ Ghostbusters.sb2
-
-## अधिगम उद्देश्य
-+ वेरिएबल्स;
-+ बेतरतीब संख्याएँ।
-
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यचर्या](http://rpf.io/curriculum) के निम्नलिखित गुणों के तत्व शामिल हैं:
-
-+ [सरल प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग रचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
-
-
-### क्लब लीडर्स के लिए अतिरिक्त जानकारी
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर के लिए अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/ghostbusters/print) का उपयोग करें।
+- Scratch 3 (या तो [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: प्रोजेक्ट सामग्री
+title: आप क्या सीखेंगे
 ---
 
-## क्लब लीडर के संसाधन
-* [डाउनलोड योग्य सम्पूर्ण Scratch 2 प्रोजेक्ट](resources/Ghostbusters.sb2)
-* [ऑनलाइन सम्पूर्ण Scratch 2 प्रोजेक्ट](http://scratch.mit.edu/projects/60787262/#editor)
+- समझिये लूप के अंदर कार्य के बिच क्यों रूकना ज़रूरी हैं
+- Scratch के साथ कोड का इस्तेमाल करके कैसे यादृच्छिक संख्या आप उत्पन्न कर सकते हैं
+- Scratch में गेम स्कोर स्टोर करने के लिए एक वैरिएबल जोड़ें
+
 --- /collapse ---
 
+--- collapse ---
+---
+title: शिक्षकों के लिए अतिरिक्त टिप्पणियाँ
+---
+
+--- no-print ---
+
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/hi-IN/projects/ghostbusters/print){:target="_blank"} का उपयोग करें।
+
+--- /no-print ---
+
+आप इधर [पूरा प्रोजेक्ट](https://rpf.io/p/hi-IN/ghostbusters-get){:target="_blank"} देख सकते हैं।
+
+--- /collapse ---

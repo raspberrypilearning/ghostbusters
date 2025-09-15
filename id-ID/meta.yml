@@ -17,11 +17,12 @@ software: scratch
 version: 4.2.1
 last_tested: 2018-01-01
 steps:
-  - title: Pengantar
-  - title: Menganimasikan satu hantu
-  - title: Hantu acak
-  - title: Menangkap hantu
-  - title: Menambahkan skor
-  - title: Menambahkan pengatur waktu
-  - title: 'Tantangan: benda tambahan'
-    challenge: true
+- title: Pengantar
+- title: Menganimasikan satu hantu
+- title: Hantu acak
+  completion:
+  - engaged
+- title: Menangkap hantu
+- title: Menambahkan skor
+- title: Menambahkan pengatur waktu
+  challenge: true

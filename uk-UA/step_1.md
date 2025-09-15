@@ -1,3 +1,59 @@
-Це стара версія **Мисливці за привидами**. На даний час, останні матеріали та функції користувача сайту не входять до нього. Він буде тимчасово доступний в [цьому форматі](images/Ghostbusters.pdf) перед архівуванням. 
+## Вступ
 
-Нам потрібна ваша домомога, щою оновити та перекласти такі проекти! Якщо ви згодні допомогти, будьласка [повідомте нам](https://rpf.io/translators).
+Ти зробиш гру, де потрібно ловити привидів!
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/951081508/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/showcase-static.png">
+</div>
+
+--- /no-print ---
+
+--- print-only ---
+
+![демонстрація](images/showcase-static.png)
+
+--- /print-only ---
+
+--- collapse ---
+---
+title: Що тобі знадобиться
+---
+
+### Обладнання
+
+- Комп'ютер
+
+### Програмне забезпечення
+
+- Скретч 3 ([онлайн](https://rpf.io/scratchon){:target="_blank"} або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Чого ти навчишся
+---
+
+- Розуміти необхідність пауз між діями в циклах
+- Генерувати випадкові числа в коді на Скретч
+- Додавати змінну для збереження ігрового рахунку в Скретч
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Додаткові примітки для викладачів
+---
+
+--- no-print ---
+
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/ghostbusters/print){:target="_blank"}.
+
+--- /no-print ---
+
+Ви можете знайти [завершений проєкт тут](https://rpf.io/p/uk-UA/ghostbusters-get){:target="_blank"}.
+
+--- /collapse ---

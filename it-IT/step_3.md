@@ -22,17 +22,17 @@ Ci sono due serie di blocchi di codice che puoi usare. Scegli quello che preferi
 Aggiungi questo set di blocchi allo sprite del fantasma:
 
 ```blocks3
-raggiungi (posizione a caso v)
+go to (posizione a caso v)
 ```
 
 Oppure aggiungi questo allo sprite:
 
 ```blocks3
-vai a x: (14) y: (50)
+go to x: (14) y: (50)
 
-(numero a caso tra (1) e (10))
+pick random (1) to (10)
 
-(numero a caso tra (1) e (10))
+pick random (1) to (10)
 ```
 
 --- /hint ---
@@ -44,13 +44,14 @@ Il tuo codice ora dovrebbe apparire così:
 ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-per sempre 
-nascondi
-attendi (1) secondi
-raggiungi (posizione a caso v)
-mostra
-attendi (1) secondi
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to (posizione a caso v)
+show
+wait (1) seconds
+end
 ```
 
 Oppure potrebbe apparire così:
@@ -58,13 +59,14 @@ Oppure potrebbe apparire così:
 ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-per sempre 
-nascondi
-attendi (1) secondi
-vai a x: (numero a caso tra (-150) e (150)) y: (numero a caso tra (-150) e (150))
-mostra
-attendi (1) secondi
+when flag clicked
+forever
+hide
+wait (1) seconds
+go to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+show
+wait (1) seconds
+end
 ```
 
 --- /hint --- --- /hints ---

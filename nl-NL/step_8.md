@@ -20,7 +20,7 @@ Je timer zou moeten:
 Het spel zou moeten stoppen als de timer op 0 komt.
 
 --- hints ---
- --- hint --- `Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, zou de `tijd`{:class="block3variables"} variabele op `10`{:class =”block3data”} moeten worden gezet. Het zou dan elke seconde moeten `veranderen met -1`{:class="block3variables"} totdat deze `0 bereikt`{:class=”block3control"}.
+ --- hint --- `Wanneer op de groene vlag wordt geklikt`{:class="block3events"}, zou de `tijd`{:class="block3variables"} variabele op `10`{:class="block3variables"} moeten worden gezet. Het zou dan elke seconde moeten `veranderen met -1`{:class="block3variables"} totdat deze `0 bereikt`{:class="block3control"}.
 --- /hint ---
  --- hint --- Dit zijn de codeblokken die je nodig hebt: ![spook-sprite](images/ghost-backdrop.png)
 
@@ -29,29 +29,29 @@ stop [alle]
 
 < [ ] = [ ] >
 
-maak [tijd v] [10]
+set [tijd v] to [10]
 
-verander [tijd v] met (-1)
+change [tijd v] by (-1)
 
 (tijd)
 
-wacht (1) sec.
+wait (1) seconds
 
-herhaal tot < >
+repeat until < >
 end
 
-wanneer groene vlag wordt aangeklikt
+when flag clicked
 
 ```
 
 --- /hint --- --- hint --- Hier is de code die je moet toevoegen om een tijdklok te maken: ![achtergrond pictogram](images/ghost-backdrop.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-maak [tijd v] [10]
-herhaal tot < (tijd) = [0] >
-wacht (1) sec.
-verander [tijd v] met (-1)
+when flag clicked
+set [tijd v] to [10]
+repeat until < (rijd) = [0] >
+wait (1) seconds
+change [tijd v] by (-1)
 end
 stop [alle]
 ```

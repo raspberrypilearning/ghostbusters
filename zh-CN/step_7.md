@@ -1,39 +1,59 @@
-## 添加计时器
+## 添加计分功能
 
-+ 创建一个名为“时间”的新变量。
+现在你将通过计分功能来使你的游戏更加有趣！
 
-+ 你能否向你的工作区添加一个计时器，仅给你的玩家 10 秒时间来捕捉尽可能多的鬼怪？
+--- task ---
 
-	 你的计时器应该：
+创建一个新的名为`分数`{:class="block3variables"}的变量
 
-	+ 从 10 秒开始
-	+ 倒数每秒
-	
-	游戏应在计时器数到 0 时结束。
+[[[generic-scratch3-add-variable]]]
+
+--- /task ---
+
+--- task ---
+
+你能记录玩家的得分吧？当玩家点击幽灵并抓住它们时，应该获得一定的分数。
+
+玩家每次点到幽灵时，他们的分数应当增加。
+
+![增加分数](images/ghost-score-test.png)
 
 --- hints ---
---- hint ---
-`当绿色旗帜被点击`，你的 `时间` 变量就会 `设定为 10`。它随后应每秒 `增加 -1`，`直到为 0`。
---- /hint ---
---- hint ---
-以下是你将需要使用的代码块：
-![screenshot](images/ghost-timer-blocks.png)
---- /hint ---
---- hint ---
-下面显示了如何向你的游戏添加计时器：
-![screenshot](images/ghost-timer-code.png)
+ --- hint ---
 
-下面显示了如何创建 `时间 = 0` 代码块：
-![screenshot](images/ghost-timer-help.png)
---- /hint ---
---- /hints ---
+`当点击绿旗时`{:class="block3events"}，你的分数变量`分数`{:class="block3variables"}变量应当被`置为0`{:class="block3variables"}。 舞台是添加此代码的最佳位置。
 
-+ 请一个朋友来测试你的游戏。他们能得多少分？
-	
-	如果你的游戏太过简单，你可以：
+`当幽灵角色被点击到时`{:class="block3events"}，分数变量`分数`{:class="block3variables"}的值应当`增加1`{:class="block3variables"}。
 
-	+ 给玩家更少时间
-	+ 使鬼怪出现的频率降低
-	+ 使鬼怪变得更小
+--- /hint --- --- hint --- 以下是您需要的代码块：![背景图标](images/ghost-backdrop.png)
 
-	更改你的游戏并测试几次，直至你对其难度感到满意。
+```blocks3
+将[分数 v]设为(0)
+
+当 ⚑ 被点击
+```
+
+![幽灵角色](images/ghost-sprite.png)
+
+```blocks3
+将 [分数 v] 增加 (1)
+```
+
+--- /hint --- --- hint --- ![背景图标](images/ghost-backdrop.png)
+
+```blocks3
+当 ⚑ 被点击
+将 [分数 v] 设为 (0)
+```
+
+![幽灵角色](images/ghost-sprite.png)
+
+```blocks3
+当角色被点击
+隐藏
++ 将[分数 v]增加(1)
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---

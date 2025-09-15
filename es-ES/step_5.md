@@ -1,23 +1,29 @@
-## Añadir una puntuación
+## Código para atrapar fantasmas
 
-¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
-
---- task ---
-
-Crea una nueva variable llamada 'puntuación'.
-
-[[[generic-scratch-add-variable]]]
-
---- /task ---
+¡Ahora vas a agregar código a tu juego para que el jugador pueda capturar fantasmas!
 
 --- task ---
 
-¿Puedes llevar la cuenta de la puntuación del jugador? Los jugadores deberían ganar puntos haciendo clic en los fantasmas para atraparlos.
+¿Puedes hacer que tu fantasma desaparezca cuando ha sido capturado? El jugador debería ser capaz de hacer clic en fantasmas para capturarlos.
 
-Cada vez que un jugador hace clic en un fantasma, su puntuación debería aumentar.
+Si pruebas tu juego y encuentras que los fantasmas son difíciles de capturar, puedes jugar el juego en modo pantalla completa haciendo clic en este botón:
 
-![Incrementar la puntuación](images/ghost-score-test.png)
+![screenshot](images/ghost-fullscreen-annotated.png)
 
---- hints --- --- hint --- `Cuando hagas click en la bandera verde`{:class=”blockevents”}, tu variable `puntuación`{:class=”blockdata”} debería `ponerse a 0`{:class=”blockdata”}. El escenario es el mejor lugar para añadir este código. `Cuando hagas click en la figura del fantasma`{:class=”blockevents”}, la `puntuación`{:class=”blockdata”} debería `incrementarse en 1`{:class=”blockdata”}. --- /hint --- --- hint --- Estos son los bloques de código que tendrás que usar: ![screenshot](images/ghost-score-blocks.png) --- /hint --- --- hint --- Aquí ves cómo se suman puntos haciendo clic en los fantasmas: ![screenshot](images/ghost-score-code.png) --- /hint --- --- /hints ---
+--- hints ---
+ --- hint ---
+
+`Al hacer clic en este objeto`{:class="block3events"}, tu objeto fantasma debería `esconderse`{:class="block3looks"}.
+
+--- /hint --- --- hint ---
+
+Tu código debería verse así: ![objeto fantasma](images/ghost-sprite.png)
+
+```blocks3
+al hacer clic en este objeto
+esconder
+```
+
+--- /hint ------ /hints ---
 
 --- /task ---

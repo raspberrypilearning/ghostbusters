@@ -20,8 +20,8 @@ Se mentre provi il gioco trovi difficile catturare i fantasmi, puoi giocare in m
 Il tuo codice dovrebbe assomigliare a questo: ![sprite del fantasma](images/ghost-sprite.png)
 
 ```blocks3
-quando si clicca questo sprite
-nascondi
+when this sprite clicked
+hide
 ```
 
 --- /hint --- --- /hints ---

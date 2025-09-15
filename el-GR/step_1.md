@@ -1,9 +1,3 @@
---- no-print ---
-
-Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/el-GR/projects/ghostbusters-scratch2) του έργου.
-
---- /no-print ---
-
 ## Εισαγωγή
 
 Πρόκειται να φτιάξεις ένα παιχνίδι για κυνήγι φαντασμάτων!
@@ -11,7 +5,7 @@
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/334999165/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/615948530/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/showcase-static.png">
 </div>
 
@@ -19,7 +13,7 @@
 
 --- print-only ---
 
-![showcase](images/showcase-static.png)
+![παρουσίαση](images/showcase-static.png)
 
 --- /print-only ---
 
@@ -34,7 +28,7 @@ title: Τι θα χρειαστείς
 
 ### Λογισμικό
 
-- Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (είτε [online](https://rpf.io/scratchon){:target="_blank"} είτε [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +54,6 @@ title: Πρόσθετες σημειώσεις για εκπαιδευτικού
 
 --- /no-print ---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/el-GR/ghostbusters-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](https://rpf.io/p/el-GR/ghostbusters-get){:target="_blank"}.
 
 --- /collapse ---

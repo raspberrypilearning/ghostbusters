@@ -14,8 +14,11 @@ Kada dodaješ objekt, moraš razmisliti o sljedećem.
 Trebaš li pomoć oko dodavanja drugih objekata, ponovi korake iznad!
 
 ***
-### Prijevod članova zajednice 
 
-Ovaj je projekt preveo/la **Maja Manojlović** i pregledao/la **Erik Braun**. 
+Ovaj su projekt preveli volonteri:
 
-Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translators](https://rpf.io/translators).
+Maja Manojlović
+
+Erik Braun
+
+Zahvaljujući volonterima, možemo pružiti ljudima širom svijeta priliku da uče na svom jeziku. Možete nam pomoći da dođemo do većeg broja ljudi tako da postanete volonter prevoditelj. Više informacija možete pronaći na [rpf.io/translate](https://rpf.io/translate).

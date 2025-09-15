@@ -1,31 +1,69 @@
-## 制作鬼怪动画
+## 随机幽灵
 
-+ 打开一个新的空白 Scratch 项目。
+目前你的幽灵实在是太容易被抓住了，因为它不会移动！
 
-[[[generic-scratch-new-project]]]
+--- task ---
 
-+ 添加一个新的鬼怪子图和一个合适的工作区背景。
-
-	![screenshot](images/ghost-ghost.png)
-
-[[[generic-scratch-sprite-from-library]]]
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ 向你的鬼怪添加代码，使其在你点击旗帜时永远出现和消失。测试并保存你的项目。
+你能为你的幽灵添加代码，使它出现时会在舞台上的任一随机位置出现，而不老是待在同一个位置上吗？
 
 --- hints ---
---- hint ---
-一旦 `绿色旗帜被点击`，你将需要使你的鬼怪 `隐藏` `1 秒`，然后 `显示` `1 秒`。它将需要 `重复执行` 此动作。
---- /hint ---
---- hint ---
-以下是你将需要的代码块：
-![screenshot](images/ghost-appear-blocks.png)
---- /hint ---
---- hint ---
-你的代码应如下所示：
-![screenshot](images/ghost-appear-code.png)
---- /hint ---
---- /hints ---
 
-[[[generic-scratch-saving]]]
+--- hint ---
+
+每次你的幽灵出现前，它应该`移到`{:class="block3motion"}舞台上的一个随机位置处。
+
+--- /hint --- --- hint ---
+
+你可以在此处使用两组代码块。你可以选择自己喜欢的一组。
+
+![幽灵角色](images/ghost-sprite.png)
+
+将这组代码块添加到你的幽灵角色上：
+
+```blocks3
+移到 (随机位置 v)
+```
+
+或者使用这一组：
+
+```blocks3
+移到 x: (14) y: (15)
+在 (1) 和 (10) 之间取随机数
+在 (1) 和 (10) 之间取随机数
+```
+
+--- /hint ---
+
+--- hint ---
+
+现在你的代码应该像这样：
+
+![幽灵角色](images/ghost-sprite.png)
+
+```blocks3
+当 ⚑ 被点击
+重复执行
+隐藏
+等待 (1) 秒
+移到 (随机位置）
+显示
+等待 (1) 秒
+```
+
+或者像这样：
+
+![幽灵角色](images/ghost-sprite.png)
+
+```blocks3
+当 ⚑ 被点击
+重复执行
+隐藏
+等待 (1) 秒
+移到 x: (在 (-150) 和 (150) 之间取随机数) y: (在 (-150) 和 (150) 之间取随机数)
+显示
+等待 (1) 秒
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
