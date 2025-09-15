@@ -1,6 +1,7 @@
 title: Ghostbusters
 hero_image: images/ghostbusters.png
 description: Make a game about catching ghosts!
+pdf: resources/rpfi-ghostbuster.pdf
 listed: true
 copyedit: true
 version: 4.1.0
