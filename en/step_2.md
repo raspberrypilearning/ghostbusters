@@ -2,7 +2,7 @@
 
 --- task ---
 
-Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/).
+Open a new empty Scratch project by [clicking here](https://scratch.mit.edu/projects/editor/){target="_blank"}.
 
 --- /task ---
 
